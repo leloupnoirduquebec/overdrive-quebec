@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="fr-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Overdrive Qu&#233;bec — télécharger le lanceur</title>
+<!-- Filled in by scripts/release.ps1. One static file, no script, no outside resource: any host serves it. -->
+<style>
+  :root { --deep: #060B16; --night: #0B1526; --lift: #14233D; --sodium: #FFB23F; --tail: #FF4B3A; --head: #F4EDE0; --muted: #A9B6CC; --ok: #5BD68C; }
+  * { box-sizing: border-box; }
+  body { margin: 0; min-height: 100vh; background: linear-gradient(#060B16 0%, #0B1526 55%, #2B2233 88%, #3A2A36 100%); color: var(--head);
+         font-family: "Barlow", "Segoe UI", system-ui, sans-serif; font-size: 17px; line-height: 1.5; }
+  main { max-width: 780px; margin: 0 auto; padding: 56px 22px 80px; }
+  .kicker { font-family: "Barlow Condensed", "Arial Narrow", sans-serif; font-weight: 600; color: var(--sodium); text-transform: uppercase; letter-spacing: .03em; }
+  h1 { font-family: "Barlow Condensed", "Arial Narrow", sans-serif; font-weight: 800; text-transform: uppercase; font-size: clamp(44px, 9vw, 84px); line-height: .95; margin: 4px 0 18px; }
+  h2 { font-family: "Barlow Condensed", "Arial Narrow", sans-serif; font-weight: 800; text-transform: uppercase; font-size: 26px; margin: 0 0 6px; }
+  .card { background: rgba(11, 21, 38, .86); border-top: 3px solid var(--sodium); padding: 18px 22px 20px; margin-top: 18px; }
+  .get { display: inline-block; background: var(--sodium); color: var(--deep); font-family: "Barlow Condensed", "Arial Narrow", sans-serif; font-weight: 800;
+         font-size: 34px; text-transform: uppercase; text-decoration: none; padding: 8px 34px 10px; transform: skewX(-12deg); box-shadow: 9px 7px 0 var(--tail); margin: 6px 0 16px; }
+  .get span { display: inline-block; transform: skewX(12deg); }
+  .get:hover, .get:focus-visible { background: #FFC766; outline: none; }
+  .muted { color: var(--muted); font-size: 15px; }
+  code { font-family: Consolas, "Courier New", monospace; font-size: 14px; background: var(--deep); padding: 2px 6px; overflow-wrap: anywhere; }
+  pre { background: var(--deep); padding: 12px 14px; overflow-x: auto; font-size: 14px; }
+  ul, ol { padding-left: 22px; margin: 6px 0; }
+  a { color: var(--sodium); }
+</style>
+</head>
+<body>
+<main>
+  <div class="kicker">Lanceur communautaire · American Truck Simulator</div>
+  <h1>Overdrive Qu&#233;bec</h1>
+  <a class="get" href="ConvoiQuebec-0.4.1.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.4.1 · 62,0 Mo · Windows 10 ou 11, 64 bits · 2026-10-02 · gratuit, rien à installer : un seul fichier.</div>
+
+  <section class="card">
+    <h2>Quoi de neuf</h2>
+    <ul>
+      <li>Premi&#232;re version publique du lanceur : un seul fichier, qui se met ensuite &#224; jour tout seul.</li>
+      <li>Journal de bord : tes trajets, tes heures de conduite, ton permis &#224; points et ton compte en banque, rang&#233;s sous ton compte Steam.</li>
+      <li>Connexion avec Steam : le lanceur n&#39;affiche aucun compte tant que tu ne t&#39;es pas connect&#233;.</li>
+      <li>Musique du lanceur, avec un bouton pour couper le son et un r&#233;glage du volume.</li>
+      <li>Le serveur du convoi arrive bient&#244;t : il appara&#238;tra dans le lanceur d&#232;s que son adresse sera annonc&#233;e.</li>
+    </ul>
+  </section>
+
+  <section class="card">
+    <h2>Windows affiche « Windows a protégé votre ordinateur »?</h2>
+    <p>C'est SmartScreen. Il avertit pour tout programme qu'il n'a pas encore vu souvent, et ce lanceur est fait par des joueurs, pas par une entreprise qui paie un certificat. Clique sur <b>Informations complémentaires</b>, puis sur <b>Exécuter quand même</b>.</p>
+    <p class="muted">Avant de le faire, tu peux vérifier que le fichier est bien celui-ci : c'est l'étape suivante.</p>
+  </section>
+
+  <section class="card">
+    <h2>Comment vérifier le fichier</h2>
+    <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
+    <p><code>d70f51e06e7b41400d3d5a2e21d32f470c5e921c7a4a1860720b1feb6d70ed7e</code></p>
+    <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
+    <pre>Get-FileHash .\ConvoiQuebec-0.4.1.exe -Algorithm SHA256</pre>
+    <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>
+  </section>
+
+  <section class="card">
+    <h2>Ce que c'est, et ce que ce n'est pas</h2>
+    <p>Un outil gratuit, fait par des joueurs pour des joueurs. Il faut une copie du jeu achetée sur Steam.</p>
+    <p class="muted">Non affilié : ce lanceur n'est ni produit, ni approuvé, ni soutenu par SCS Software, et n'a aucun lien avec TruckersMP. American Truck Simulator est une marque de SCS Software; Steam est une marque de Valve.</p>
+  </section>
+</main>
+</body>
+</html>

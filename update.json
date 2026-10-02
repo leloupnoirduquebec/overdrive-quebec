@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "version": "0.4.1",
+  "mandatory": false,
+  "notes": "- Premi\u00E8re version publique du lanceur : un seul fichier, qui se met ensuite \u00E0 jour tout seul.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.4.1.exe",
+  "sizeBytes": 64959683,
+  "sha256": "d70f51e06e7b41400d3d5a2e21d32f470c5e921c7a4a1860720b1feb6d70ed7e",
+  "published": "2026-10-02"
+}

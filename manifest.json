@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "community": {
+    "name": "Overdrive Québec"
+  },
+  "game": {
+    "requiredVersion": "1.61",
+    "maxConvoySize": 128
+  },
+  "news": [
+    {
+      "date": "2026-10-02",
+      "title": "Bienvenue chez Overdrive Québec",
+      "text": "Le lanceur est prêt. L'adresse du serveur du convoi arrive bientôt : dès qu'elle sera annoncée, le serveur apparaîtra ici tout seul, sans rien retélécharger."
+    }
+  ],
+  "servers": [],
+  "mods": [],
+  "audio": {
+    "music": {
+      "file": "overdrive-quebec.mp3",
+      "title": "Overdrive Québec",
+      "credit": "Overdrive Québec — généré avec Suno",
+      "licence": "© la communauté, droits selon le forfait Suno du propriétaire",
+      "titleHitSeconds": 8.65,
+      "loopStartSeconds": 0.13,
+      "loopEndSeconds": 201.0,
+      "gainDb": -3,
+      "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/music/overdrive-quebec.mp3",
+      "sha256": "a768aaf155eccdb6e3d536c030dc0b4ba32151af7000d2b28f3a6ad1f8aa0fbe",
+      "sizeBytes": 4503503
+    }
+  }
+}
