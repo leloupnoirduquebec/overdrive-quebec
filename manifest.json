@@ -10,12 +10,83 @@
   "news": [
     {
       "date": "2026-10-02",
-      "title": "Bienvenue chez Overdrive Québec",
-      "text": "Le lanceur est prêt. L'adresse du serveur du convoi arrive bientôt : dès qu'elle sera annoncée, le serveur apparaîtra ici tout seul, sans rien retélécharger."
+      "title": "Le serveur est ouvert",
+      "text": "Le serveur Overdrive Québec roule. Abonne-toi à la collection de mods, connecte-toi avec Steam pour voir le mot de passe, et rendez-vous samedi 10 octobre à 20 h pour la première soirée en ligne."
     }
   ],
-  "servers": [],
-  "mods": [],
+  "events": [
+    {
+      "title": "Première soirée en ligne",
+      "start": "2026-10-10T20:00",
+      "timeZone": "America/Montreal",
+      "durationMinutes": 180,
+      "server": "Overdrive Québec",
+      "description": "Avant de partir : connecte-toi avec Steam, abonne-toi à la collection de mods et attends que toutes les lignes du lanceur soient vertes. Ensuite, on roule ensemble!"
+    }
+  ],
+  "servers": [
+    {
+      "name": "Overdrive Québec",
+      "host": "192.168.1.133",
+      "queryPort": 27016,
+      "queryVirtualPort": 101,
+      "searchId": "90293945566998546/101",
+      "maxPlayers": 128,
+      "password": "OverQC"
+    }
+  ],
+  "workshopCollectionId": "3812203906",
+  "mods": [
+    {
+      "name": "Realistic Fuel Economy for ALL 176 engines",
+      "source": "workshop",
+      "workshopId": "3809306984",
+      "required": true,
+      "loadOrder": 10
+    },
+    {
+      "name": "Slav Jerry's Engine Sound Collection",
+      "source": "workshop",
+      "workshopId": "3272227864",
+      "required": true,
+      "loadOrder": 20
+    },
+    {
+      "name": "More realistic traffic",
+      "source": "workshop",
+      "workshopId": "3423331725",
+      "required": true,
+      "loadOrder": 30
+    },
+    {
+      "name": "True Mirror FOV",
+      "source": "workshop",
+      "workshopId": "1823739259",
+      "required": false,
+      "loadOrder": 40
+    },
+    {
+      "name": "Realistic Rain And Water And Thunder Sounds",
+      "source": "workshop",
+      "workshopId": "3103012397",
+      "required": false,
+      "loadOrder": 50
+    },
+    {
+      "name": "Ultra Realistic Truck Physics & Cabin Motion",
+      "source": "workshop",
+      "workshopId": "3617213048",
+      "required": false,
+      "loadOrder": 60
+    },
+    {
+      "name": "Realistic Brutal Graphics And Weather",
+      "source": "workshop",
+      "workshopId": "3103055868",
+      "required": false,
+      "loadOrder": 70
+    }
+  ],
   "audio": {
     "music": {
       "file": "overdrive-quebec.mp3",
@@ -30,5 +101,6 @@
       "sha256": "a768aaf155eccdb6e3d536c030dc0b4ba32151af7000d2b28f3a6ad1f8aa0fbe",
       "sizeBytes": 4503503
     }
-  }
+  },
+  "serial": 20261002232038
 }
