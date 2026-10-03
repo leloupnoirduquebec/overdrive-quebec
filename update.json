@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.4",
+  "version": "0.4.5",
   "mandatory": false,
-  "notes": "Connexion Steam réparée pour les comptes Windows ordinaires (sans droits d'administrateur).",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.4.4.exe",
-  "sizeBytes": 64978247,
-  "sha256": "8870424f04b8a06c04f19f862132acce635b7fad1dc72e2a10df358ebc53ee86",
+  "notes": "Le journal de bord s'appelle maintenant **Logbook**. Une seule porte d'entrée : le gros bouton « LOGBOOK » à côté de JOUER.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.4.5.exe",
+  "sizeBytes": 64990755,
+  "sha256": "eb5907dba98557096c44b5886a1ac8394582b9968c452a89f591355d4192f8ba",
   "published": "2026-10-03"
 }

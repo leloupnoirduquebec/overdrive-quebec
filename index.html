@@ -33,18 +33,20 @@
 <main>
   <div class="kicker">Lanceur communautaire · American Truck Simulator</div>
   <h1>Overdrive Qu&#233;bec</h1>
-  <a class="get" href="ConvoiQuebec-0.4.4.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.4.4 · 62,0 Mo · Windows 10 ou 11, 64 bits · 2026-10-03 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="ConvoiQuebec-0.4.5.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.4.5 · 62,0 Mo · Windows 10 ou 11, 64 bits · 2026-10-03 · gratuit, rien à installer : un seul fichier.</div>
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>Connexion Steam r&#233;par&#233;e pour les comptes Windows ordinaires (sans droits d&#39;administrateur).</li>
-      <li>L&#39;heure de ton PC n&#39;emp&#234;che plus la connexion, m&#234;me si elle est mal r&#233;gl&#233;e.</li>
-      <li>Tu as maintenant 10 minutes pour te connecter sur la page de Steam.</li>
-      <li>Nouveau bouton &#171; Copier le lien &#187; : si ton navigateur ne s&#39;ouvre pas, colle le lien toi-m&#234;me.</li>
-      <li>Nouveau bouton &#171; Copier le diagnostic &#187; &#224; coller sur Discord si la connexion ne fonctionne pas.</li>
-      <li>Le lanceur revient devant toi apr&#232;s la connexion.</li>
+      <li>Le journal de bord s&#39;appelle maintenant **Logbook**. Une seule porte d&#39;entr&#233;e : le gros bouton &#171; LOGBOOK &#187; &#224; c&#244;t&#233; de JOUER.</li>
+      <li>Ton Logbook a six onglets : MODS, PERMIS, CONDUITE, ARGENT, ROUTE et COMPAGNIE (bient&#244;t : cr&#233;e une compagnie de 3 camionneurs).</li>
+      <li>Plus aucun texte coup&#233;, de la petite fen&#234;tre jusqu&#39;aux &#233;crans 2560x1440, avec la mise &#224; l&#39;&#233;chelle de Windows de 100 &#224; 175 %.</li>
+      <li>Param&#232;tres et &#192; propos sont de vrais boutons, avec leur ic&#244;ne.</li>
+      <li>Animations plus douces : les pages du Logbook se tournent, JOUER r&#233;agit sous ta souris, et le premier chargement montre o&#249; les lignes vont appara&#238;tre. &#171; R&#233;duire les animations &#187; les coupe toutes.</li>
+      <li>L&#39;identifiant de recherche du serveur s&#39;affiche et se copie sans &#171; /101 &#187; : colle-le tel quel dans le jeu.</li>
+      <li>L&#39;&#233;tat des serveurs est demand&#233; toutes les 90 secondes. Le bouton &#171; Actualiser &#187;, sur la carte du serveur, le demande tout de suite.</li>
+      <li>Le lanceur laiss&#233; ouvert travaille moins : il ne redessine que ce qui a chang&#233;, et la route s&#39;arr&#234;te derri&#232;re ton Logbook ouvert.</li>
     </ul>
   </section>
 
@@ -57,9 +59,9 @@
   <section class="card">
     <h2>Comment vérifier le fichier</h2>
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>8870424f04b8a06c04f19f862132acce635b7fad1dc72e2a10df358ebc53ee86</code></p>
+    <p><code>eb5907dba98557096c44b5886a1ac8394582b9968c452a89f591355d4192f8ba</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
-    <pre>Get-FileHash .\ConvoiQuebec-0.4.4.exe -Algorithm SHA256</pre>
+    <pre>Get-FileHash .\ConvoiQuebec-0.4.5.exe -Algorithm SHA256</pre>
     <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>
   </section>
 
