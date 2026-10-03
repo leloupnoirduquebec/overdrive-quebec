@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.3",
+  "version": "0.4.4",
   "mandatory": false,
-  "notes": "Heures de conduite en temps réel : 3 h de vraie conduite, puis une pause de 15 minutes moteur coupé (ou le jeu fermé).",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.4.3.exe",
-  "sizeBytes": 64973280,
-  "sha256": "f67b0bb3ac8aa70a1cef6aef773eef7e5b9922f14daa1695c5012b5903bb749d",
+  "notes": "Connexion Steam réparée pour les comptes Windows ordinaires (sans droits d'administrateur).",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.4.4.exe",
+  "sizeBytes": 64978247,
+  "sha256": "8870424f04b8a06c04f19f862132acce635b7fad1dc72e2a10df358ebc53ee86",
   "published": "2026-10-03"
 }
