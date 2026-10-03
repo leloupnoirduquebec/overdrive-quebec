@@ -30,7 +30,7 @@
       "host": "192.168.1.133",
       "queryPort": 27016,
       "queryVirtualPort": 101,
-      "searchId": "90293945566998546/101",
+      "searchId": "90293955455663122/101",
       "maxPlayers": 128,
       "password": "OverQC"
     }
@@ -102,5 +102,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261003020823
+  "serial": 20261003044238
 }
