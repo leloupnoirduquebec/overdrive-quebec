@@ -10,6 +10,11 @@
   },
   "news": [
     {
+      "date": "2026-10-03",
+      "title": "Nouvelle liste de mods",
+      "text": "La collection « overdrive 0.1 » remplace l'ancienne : 6 mods, tous obligatoires, dont un gros mod graphique (environ 27 Go). Abonne-toi à la nouvelle collection depuis le lanceur et laisse Steam tout télécharger avant la soirée du 10 octobre."
+    },
+    {
       "date": "2026-10-02",
       "title": "Le serveur est ouvert",
       "text": "Le serveur Overdrive Québec roule. Abonne-toi à la collection de mods, connecte-toi avec Steam pour voir le mot de passe, et rendez-vous samedi 10 octobre à 20 h pour la première soirée en ligne."
@@ -31,11 +36,11 @@
       "host": "192.168.1.133",
       "queryPort": 27016,
       "queryVirtualPort": 101,
-      "searchId": "90293955455663122/101",
+      "searchId": "90294015711333394/101",
       "maxPlayers": 128
     }
   ],
-  "workshopCollectionId": "3812203906",
+  "workshopCollectionId": "3812858671",
   "mods": [
     {
       "name": "Realistic Fuel Economy for ALL 176 engines",
@@ -45,46 +50,39 @@
       "loadOrder": 10
     },
     {
-      "name": "Slav Jerry's Engine Sound Collection",
+      "name": "True Mirror FOV",
       "source": "workshop",
-      "workshopId": "3272227864",
+      "workshopId": "1823739259",
       "required": true,
       "loadOrder": 20
     },
     {
-      "name": "More realistic traffic",
+      "name": "Slav Jerry's Engine Sound Collection",
       "source": "workshop",
-      "workshopId": "3423331725",
+      "workshopId": "3272227864",
       "required": true,
       "loadOrder": 30
-    },
-    {
-      "name": "True Mirror FOV",
-      "source": "workshop",
-      "workshopId": "1823739259",
-      "required": false,
-      "loadOrder": 40
-    },
-    {
-      "name": "Realistic Rain And Water And Thunder Sounds",
-      "source": "workshop",
-      "workshopId": "3103012397",
-      "required": false,
-      "loadOrder": 50
     },
     {
       "name": "Ultra Realistic Truck Physics & Cabin Motion",
       "source": "workshop",
       "workshopId": "3617213048",
-      "required": false,
-      "loadOrder": 60
+      "required": true,
+      "loadOrder": 40
     },
     {
-      "name": "Realistic Brutal Graphics And Weather",
+      "name": "Real life traffic density",
       "source": "workshop",
-      "workshopId": "3103055868",
-      "required": false,
-      "loadOrder": 70
+      "workshopId": "3614048850",
+      "required": true,
+      "loadOrder": 50
+    },
+    {
+      "name": "Ultimate Graphics Mod ATS",
+      "source": "workshop",
+      "workshopId": "3491882019",
+      "required": true,
+      "loadOrder": 60
     }
   ],
   "audio": {
@@ -102,5 +100,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261003194752
+  "serial": 20261003201251
 }
