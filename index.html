@@ -33,20 +33,21 @@
 <main>
   <div class="kicker">Lanceur communautaire · American Truck Simulator</div>
   <h1>Overdrive Qu&#233;bec</h1>
-  <a class="get" href="ConvoiQuebec-0.4.5.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.4.5 · 62,0 Mo · Windows 10 ou 11, 64 bits · 2026-10-03 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="ConvoiQuebec-0.5.0.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.5.0 · 62,0 Mo · Windows 10 ou 11, 64 bits · 2026-10-03 · gratuit, rien à installer : un seul fichier.</div>
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>Le journal de bord s&#39;appelle maintenant **Logbook**. Une seule porte d&#39;entr&#233;e : le gros bouton &#171; LOGBOOK &#187; &#224; c&#244;t&#233; de JOUER.</li>
-      <li>Ton Logbook a six onglets : MODS, PERMIS, CONDUITE, ARGENT, ROUTE et COMPAGNIE (bient&#244;t : cr&#233;e une compagnie de 3 camionneurs).</li>
-      <li>Plus aucun texte coup&#233;, de la petite fen&#234;tre jusqu&#39;aux &#233;crans 2560x1440, avec la mise &#224; l&#39;&#233;chelle de Windows de 100 &#224; 175 %.</li>
-      <li>Param&#232;tres et &#192; propos sont de vrais boutons, avec leur ic&#244;ne.</li>
-      <li>Animations plus douces : les pages du Logbook se tournent, JOUER r&#233;agit sous ta souris, et le premier chargement montre o&#249; les lignes vont appara&#238;tre. &#171; R&#233;duire les animations &#187; les coupe toutes.</li>
-      <li>L&#39;identifiant de recherche du serveur s&#39;affiche et se copie sans &#171; /101 &#187; : colle-le tel quel dans le jeu.</li>
-      <li>L&#39;&#233;tat des serveurs est demand&#233; toutes les 90 secondes. Le bouton &#171; Actualiser &#187;, sur la carte du serveur, le demande tout de suite.</li>
-      <li>Le lanceur laiss&#233; ouvert travaille moins : il ne redessine que ce qui a chang&#233;, et la route s&#39;arr&#234;te derri&#232;re ton Logbook ouvert.</li>
+      <li>Le lanceur est pr&#234;t pour le serveur de la communaut&#233;. Il s&#39;allumera d&#232;s que la communaut&#233; l&#39;ouvrira : d&#39;ici l&#224;, tout marche comme avant.</li>
+      <li>Nouveau d&#233;part : ton permis repart &#224; 12 points avec le serveur de la communaut&#233;. Tes infractions pass&#233;es et ton horloge d&#39;heures de conduite sont remises &#224; z&#233;ro une seule fois; tes trajets et ton argent restent dans ton Logbook.</li>
+      <li>Ta connexion avec Steam est confirm&#233;e par le serveur de la communaut&#233; lui-m&#234;me. Le lanceur ne voit jamais ton mot de passe Steam.</li>
+      <li>Onglet COMPAGNIE : cr&#233;e ta compagnie (un nom et un sigle), invite tes camionneurs par leur nom, accepte ou refuse une invitation, quitte ou dissous ta compagnie. Trois camionneurs au plus, toi compris.</li>
+      <li>Le classement de la semaine et celui des compagnies viennent du serveur de la communaut&#233;.</li>
+      <li>L&#39;&#233;tat du serveur de jeu vient du serveur de la communaut&#233;, toutes les 90 secondes. S&#39;il ne r&#233;pond pas, le lanceur demande au serveur de jeu lui-m&#234;me, comme avant.</li>
+      <li>Une fois connect&#233; avec Steam, c&#39;est le serveur de la communaut&#233; qui te donne le mot de passe du serveur de jeu.</li>
+      <li>Nouveau bouton &#171; Effacer mes donn&#233;es du serveur &#187;, dans ton Logbook.</li>
+      <li>Le lanceur cherche ses mises &#224; jour et le contenu de la communaut&#233; sur lameuteqc.com, puis sur GitHub si lameuteqc.com ne r&#233;pond pas.</li>
     </ul>
   </section>
 
@@ -59,9 +60,9 @@
   <section class="card">
     <h2>Comment vérifier le fichier</h2>
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>eb5907dba98557096c44b5886a1ac8394582b9968c452a89f591355d4192f8ba</code></p>
+    <p><code>849afc722e32f7671b96bb499ae82f4ec50ffc421cbd5c91f65fd760940988ab</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
-    <pre>Get-FileHash .\ConvoiQuebec-0.4.5.exe -Algorithm SHA256</pre>
+    <pre>Get-FileHash .\ConvoiQuebec-0.5.0.exe -Algorithm SHA256</pre>
     <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>
   </section>
 

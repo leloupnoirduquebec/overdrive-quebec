@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.5",
+  "version": "0.5.0",
   "mandatory": false,
-  "notes": "Le journal de bord s'appelle maintenant **Logbook**. Une seule porte d'entrée : le gros bouton « LOGBOOK » à côté de JOUER.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.4.5.exe",
-  "sizeBytes": 64990755,
-  "sha256": "eb5907dba98557096c44b5886a1ac8394582b9968c452a89f591355d4192f8ba",
+  "notes": "Le lanceur est prêt pour le serveur de la communauté. Il s'allumera dès que la communauté l'ouvrira : d'ici là, tout marche comme avant.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.0.exe",
+  "sizeBytes": 65037462,
+  "sha256": "849afc722e32f7671b96bb499ae82f4ec50ffc421cbd5c91f65fd760940988ab",
   "published": "2026-10-03"
 }
