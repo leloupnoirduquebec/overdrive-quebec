@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.4.2",
+  "version": "0.4.3",
   "mandatory": false,
-  "notes": "Le serveur Overdrive Québec est dans le lanceur, avec son identifiant de recherche et sa collection de mods du Workshop.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.4.2.exe",
-  "sizeBytes": 64971150,
-  "sha256": "f35cd8f5257bb104b5f38ce0fab1cd94f4ebcee78931deb4c4e4402915997163",
-  "published": "2026-10-02"
+  "notes": "Heures de conduite en temps réel : 3 h de vraie conduite, puis une pause de 15 minutes moteur coupé (ou le jeu fermé).",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.4.3.exe",
+  "sizeBytes": 64973280,
+  "sha256": "f67b0bb3ac8aa70a1cef6aef773eef7e5b9922f14daa1695c5012b5903bb749d",
+  "published": "2026-10-03"
 }
