@@ -10,6 +10,11 @@
   },
   "news": [
     {
+      "date": "2026-10-04",
+      "title": "Mods optionnels permis",
+      "text": "Le gros pack graphique (environ 27 Go), True Mirror FOV et la physique du camion deviennent optionnels : à toi de choisir. Le gaz, la circulation et les sons de moteur restent obligatoires. Tu peux aussi venir avec tes propres mods, s'ils sont marqués optionnels par leur auteur : toi seul les verras. La pluie et l'heure restent synchronisées pour tout le monde."
+    },
+    {
       "date": "2026-10-03",
       "title": "Nouvelle liste de mods",
       "text": "La collection « overdrive 0.1 » remplace l'ancienne : 6 mods, tous obligatoires, dont un gros mod graphique (environ 27 Go). Abonne-toi à la nouvelle collection depuis le lanceur et laisse Steam tout télécharger avant la soirée du 10 octobre."
@@ -53,7 +58,7 @@
       "name": "True Mirror FOV",
       "source": "workshop",
       "workshopId": "1823739259",
-      "required": true,
+      "required": false,
       "loadOrder": 20
     },
     {
@@ -67,7 +72,7 @@
       "name": "Ultra Realistic Truck Physics & Cabin Motion",
       "source": "workshop",
       "workshopId": "3617213048",
-      "required": true,
+      "required": false,
       "loadOrder": 40
     },
     {
@@ -81,7 +86,7 @@
       "name": "Ultimate Graphics Mod ATS",
       "source": "workshop",
       "workshopId": "3491882019",
-      "required": true,
+      "required": false,
       "loadOrder": 60
     }
   ],
@@ -100,5 +105,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261004144719
+  "serial": 20261004152411
 }
