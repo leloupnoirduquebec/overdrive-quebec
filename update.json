@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.2",
+  "version": "0.5.3",
   "mandatory": false,
-  "notes": "Les annonces importantes de la communauté s'affichent maintenant dans une fenêtre à l'ouverture du lanceur, une seule fois : clique « Compris » et elle reste sur le babillard.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.2.exe",
-  "sizeBytes": 65039523,
-  "sha256": "979766f47f26cdcc71bf2954624180bc9c288ef0533a89334c21b4b6283cf44d",
+  "notes": "Nouveau bouton « Expérience de conduite » : choisis Arcade, Normal, Semi-réaliste ou Réaliste pour ton profil. Seules les aides et la physique de conduite changent, jamais tes touches, ta caméra ou ton affichage. Si le jeu est ouvert, ton choix s'applique au prochain départ par « Jouer ». « Restaurer mes réglages » remet les tiens.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.3.exe",
+  "sizeBytes": 65061082,
+  "sha256": "8da178ea34035251fceb54e647929b4e343fb0b8dc932417d8a8fdd7cd9cc6dd",
   "published": "2026-10-04"
 }
