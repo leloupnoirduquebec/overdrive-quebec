@@ -11,6 +11,12 @@
   "news": [
     {
       "date": "2026-10-04",
+      "title": "Nouveau : le mod Overdrive Québec",
+      "text": "Notre propre mod arrive, et le lanceur l'installe et le met à jour tout seul : plus de voitures qui surgissent sur la route devant toi, une IA plus prudente, de vraies heures de pointe (7 h à 9 h et 16 h à 19 h) et beaucoup plus de police sur les routes. Il remplace « Real life traffic density », que tu peux désactiver. Fais ta ronde de sécurité : quand la ligne Overdrive Québec est au vert, active-le dans le gestionnaire de mods.",
+      "popup": true
+    },
+    {
+      "date": "2026-10-04",
       "title": "Mods optionnels permis",
       "text": "Le gros pack graphique (environ 27 Go), True Mirror FOV et la physique du camion deviennent optionnels : à toi de choisir. Le gaz, la circulation et les sons de moteur restent obligatoires. Tu peux aussi venir avec tes propres mods, s'ils sont marqués optionnels par leur auteur : toi seul les verras. La pluie et l'heure restent synchronisées pour tout le monde."
     },
@@ -48,6 +54,17 @@
   "workshopCollectionId": "3812858671",
   "mods": [
     {
+      "name": "Overdrive Québec",
+      "version": "1.2",
+      "source": "direct",
+      "fileName": "overdrive.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive.scs",
+      "sha256": "55f9df824aa20489ce59eed03b7854198a48015e6c6224a40fb547d357a25760",
+      "sizeBytes": 15167,
+      "required": true,
+      "loadOrder": 70
+    },
+    {
       "name": "Realistic Fuel Economy for ALL 176 engines",
       "source": "workshop",
       "workshopId": "3809306984",
@@ -76,13 +93,6 @@
       "loadOrder": 40
     },
     {
-      "name": "Real life traffic density",
-      "source": "workshop",
-      "workshopId": "3614048850",
-      "required": true,
-      "loadOrder": 50
-    },
-    {
       "name": "Ultimate Graphics Mod ATS",
       "source": "workshop",
       "workshopId": "3491882019",
@@ -105,5 +115,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261004152411
+  "serial": 20261004170223
 }

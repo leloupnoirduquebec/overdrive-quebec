@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.1",
+  "version": "0.5.2",
   "mandatory": false,
-  "notes": "Le lanceur rejoint enfin le serveur de la communauté : la 0.5.0 était refusée par le pare-feu de lameuteqc.com. La connexion avec Steam, le mot de passe du serveur, le classement et les compagnies fonctionnent maintenant.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.1.exe",
-  "sizeBytes": 65037907,
-  "sha256": "94556c1c5603d5ae25da89d2780754e37ec7ba6ec83beb6d6f3e82ac5bd0a2e7",
-  "published": "2026-10-03"
+  "notes": "Les annonces importantes de la communauté s'affichent maintenant dans une fenêtre à l'ouverture du lanceur, une seule fois : clique « Compris » et elle reste sur le babillard.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.2.exe",
+  "sizeBytes": 65039523,
+  "sha256": "979766f47f26cdcc71bf2954624180bc9c288ef0533a89334c21b4b6283cf44d",
+  "published": "2026-10-04"
 }
