@@ -1,0 +1,41 @@
+OVERDRIVE QUÉBEC 2.2 — NOTES DE MISE À JOUR
+
+Le lanceur installe la mise à jour tout seul : redémarre ton lanceur pour la recevoir.
+
+━━━━━━━━━━━━━━━━━━━━
+À FAIRE AVANT DE TE CONNECTER
+━━━━━━━━━━━━━━━━━━━━
+- Rien de nouveau : garde Overdrive Québec TOUT EN HAUT de ta liste de mods, au-dessus de Slav Jerry et du M11.
+- La liste du serveur ne change pas : 4 mods Workshop, plus Overdrive Québec que le lanceur installe.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU : NOS AFFICHES SUR LA ROUTE
+━━━━━━━━━━━━━━━━━━━━
+- Tous les panneaux publicitaires universels du jeu, le long des routes, affichent maintenant Overdrive Québec.
+- 3 affiches en alternance : la nuit à Québec, nos soirées convoi chaque semaine, et notre site overdrivequebec.ca qui arrive bientôt.
+- L'affiche reste la même de loin comme de près.
+- D'autres affiches de la communauté viendront dans les prochaines mises à jour.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU : LES TRAINS DOUBLES PARTOUT
+━━━━━━━━━━━━━━━━━━━━
+- Les B-trains, les doubles « turnpike » (deux longues remorques) et les doubles « Rocky Mountain » (une longue, une courte) du jeu sont maintenant permis dans tous les États, comme les trains doubles au Québec.
+- Avant, le jeu les limitait à quelques États de l'Ouest. Maintenant, tu les trouves dans les offres de livraison partout sur la carte.
+- La police et les balances ne donnent plus d'amende pour « remorque illégale » à ces trains.
+- Nouveau : le « Turnpike double 53' », deux remorques fourgon de 53 pieds reliées par un dolly (1 ou 2 essieux), en fourgon sec, isolé ou réfrigéré. Il est fait avec les pièces du jeu : tu le trouves dans les offres de livraison et chez le vendeur de remorques (niveau 19).
+- Environ un client sur cinq a une cour trop courte pour un turnpike : ces livraisons-là ne les offrent pas, comme dans le jeu. Tous les autres, partout sur la carte, peuvent les offrir.
+- Les triples gardent les règles du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+FORD F-150
+━━━━━━━━━━━━━━━━━━━━
+- Le F-150 freine environ 1,7 fois plus fort, comme un vrai pick-up.
+- Seul le F-150 change : les camions et les autres voitures gardent leur freinage.
+
+━━━━━━━━━━━━━━━━━━━━
+À SAVOIR
+━━━━━━━━━━━━━━━━━━━━
+- Rien d'autre ne change : moteurs 2.0, physique 2.1, phares, circulation, police et heures de pointe restent pareils.
+- Ton avis compte : dis-nous sur Discord ce que tu penses des affiches et des trains doubles.
+
+Bonne route!

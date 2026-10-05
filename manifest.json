@@ -11,15 +11,36 @@
   "news": [
     {
       "date": "2026-10-05",
+      "title": "Overdrive Québec 2.2 : trains doubles partout et nos affiches",
+      "text": "Ouvre l'œil : tous les panneaux publicitaires du jeu affichent maintenant Overdrive Québec le long des routes, avec 3 affiches de la communauté. Les B-trains et les trains doubles du jeu (turnpike, Rocky Mountain) sont maintenant permis dans tous les États : tu les trouves dans les offres de livraison partout, sans amende. Nouveau : le « Turnpike double 53' », deux fourgons de 53 pieds avec un dolly. Et le Ford F-150 freine environ 1,7 fois plus fort ; seul le F-150 change, les camions et les autres voitures gardent leur freinage. Le lanceur installe la mise à jour tout seul.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.2.txt",
+        "sha256": "cf6fff04d8842c2473b995382a34792e56b173a687dd780ce92a513a86db07f7",
+        "sizeBytes": 2826
+      }
+    },
+    {
+      "date": "2026-10-05",
       "title": "Overdrive Québec 2.1 : notre propre physique",
       "text": "Overdrive a maintenant sa propre physique, la même pour tous les joueurs du serveur : résistance de l'air réaliste de tout l'attelage (la remorque n'est plus comptée en double), roulis mieux tenu, freins qui chauffent et faiblissent dans les longues descentes si tu n'utilises pas le frein moteur, moins de « pince » juste avant l'arrêt, cabine plus lourde aux mouvements plus réalistes, et le vrai poids du Ford F-150. Realistic Fuel Economy et Ultra Realistic Truck Physics ne font plus partie du serveur : tu peux te désabonner des deux. Il reste 4 mods Workshop dans la collection, plus Overdrive que le lanceur installe tout seul.",
-      "popup": true
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.1.txt",
+        "sha256": "100c719641f4dad6041640d3583b84322cfae74dc91a9eb1fa070f0a1c2e864a",
+        "sizeBytes": 3083
+      }
     },
     {
       "date": "2026-10-05",
       "title": "Overdrive Québec 2.0 : tous les moteurs revus",
       "text": "Tous les moteurs des camions du jeu sont maintenant logiques : chaque moteur sort vraiment la puissance affichée, avec les vraies cotes du fabricant, une consommation réaliste selon sa puissance et son époque, un frein moteur selon sa cylindrée (la boîte automatique rétrograde quand tu l'actives) et les prix du jeu. Au-delà de 600 hp, ou au-delà de la cote d'usine de sa famille, un moteur est « Tuned » : pièces forgées, plus gros turbo, et 5 fois le prix. Aucun moteur au-dessus de 650 hp. Les variantes de son (straight pipe, Lope…) l'indiquent dans leur nom. Les moteurs qu'un camion n'a jamais eus dans la réalité et les doublons ne sont plus en vente, mais si ton camion en a un, tu le gardes. Nouveaux moteurs : D13 540 et D17 600 sur le VNL 2025, D16 600 et X15 605 sur le VNL 2018, DD16 560 et 600 sur le Cascadia 2024, MP10 565 et 605 sur les Mack. Le lanceur installe la mise à jour tout seul.",
-      "popup": true
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.0.txt",
+        "sha256": "9433198f6f57a8087893686af7330ce1a626eed22c49e70ab1e5e18100c38cd8",
+        "sizeBytes": 224949
+      }
     },
     {
       "date": "2026-10-04",
@@ -67,16 +88,16 @@
       "maxPlayers": 128
     }
   ],
-  "workshopCollectionId": "3813512096",
+  "workshopCollectionId": "3814284763",
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.1",
+      "version": "2.2",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.1.scs",
-      "sha256": "07f6f77d1da8227e0a67276d9789e7f5d17d508e95e7f82c947009be0eb2c406",
-      "sizeBytes": 1330151,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.2.scs",
+      "sha256": "4640bc5555a992f3b03aeeed3eae4791bfe10da6a58c2bdb1eb0c91841d5d6d3",
+      "sizeBytes": 19732845,
       "required": true,
       "loadOrder": 70
     },
@@ -124,5 +145,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261005191619
+  "serial": 20261005231505
 }

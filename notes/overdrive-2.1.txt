@@ -1,0 +1,46 @@
+OVERDRIVE QUÉBEC 2.1 — NOTES DE MISE À JOUR
+
+Le lanceur installe la mise à jour tout seul : redémarre ton lanceur pour la recevoir.
+
+━━━━━━━━━━━━━━━━━━━━
+À FAIRE AVANT DE TE CONNECTER
+━━━━━━━━━━━━━━━━━━━━
+- Dans le gestionnaire de mods du jeu, DÉSACTIVE « Realistic Fuel Economy » et « ATS – Ultra Realistic Truck Physics & Cabin Motion ». Overdrive fait maintenant leur travail. Tu peux aussi te désabonner des deux sur Steam.
+- Garde Overdrive Québec TOUT EN HAUT de ta liste de mods, au-dessus de Slav Jerry et du M11.
+- La liste du serveur passe à 5 mods : Slav Jerry's Engine Sound Collection et MORTAL & CASH Cummins M11 (obligatoires), True Mirror FOV et Ultimate Graphics (optionnels), et Overdrive Québec, que le lanceur installe.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU : LA PHYSIQUE OVERDRIVE
+━━━━━━━━━━━━━━━━━━━━
+Overdrive a maintenant sa propre physique, la même pour tous les joueurs du serveur. En convoi, tout le monde roule enfin avec les mêmes règles.
+
+RÉSISTANCE DE L'AIR
+- Toute la traînée de l'attelage est maintenant comptée sur le camion, comme un vrai semi-remorque (coefficient 0,6 × 10 m²).
+- Avant, le jeu comptait la remorque une deuxième fois. C'est corrigé sur toutes les remorques de compagnie, celles du jeu et des extensions, et sur les remorques personnelles du jeu de base.
+- Résultat : une consommation réaliste sur l'autoroute, et une vitesse en côte qui dépend vraiment de ton moteur et de ta charge.
+
+TENUE DE ROUTE
+- Le roulis est mieux tenu à l'arrière du camion et sur la remorque. Un camion chargé penche dans un virage, puis se replace, sans flotter.
+- La barre stabilisatrice avant est un peu plus ferme, comme sur un tracteur routier.
+
+FREINS
+- Les freins chauffent plus vite et refroidissent plus lentement. Dans une longue descente sans frein moteur, ils faiblissent, comme dans la réalité. Utilise ton Jake !
+- Il y a moins de « pince » juste avant l'arrêt : les freins à air retiennent presque pareil à basse vitesse.
+
+CABINE
+- Une cabine couchette plus lourde (environ 900 kg), avec une suspension pneumatique plus douce : elle bouge de façon plus naturelle sur les bosses et au freinage.
+
+TRANSMISSION
+- De petites pertes réalistes entre le moteur et les roues : environ 4 % dans la boîte et les ponts, et un peu dans les roulements.
+
+FORD F-150
+- Le F-150 a son vrai poids : environ 2 200 kg (4 850 lb) au lieu de 3 762 kg.
+
+━━━━━━━━━━━━━━━━━━━━
+À SAVOIR
+━━━━━━━━━━━━━━━━━━━━
+- Les remorques personnelles Lodeking gardent pour l'instant le réglage du jeu, pour ne jamais rien envoyer à un joueur qui n'a pas cette extension.
+- Rien d'autre ne change : moteurs 2.0, phares, circulation, police et heures de pointe restent pareils.
+- Ton avis compte : freinage, virages, descentes, consommation… Dis-nous ce que tu ressens sur la route.
+
+Bonne route!
