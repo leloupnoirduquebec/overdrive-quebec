@@ -11,14 +11,14 @@
   "news": [
     {
       "date": "2026-10-05",
-      "title": "Overdrive Québec 1.8 : frein moteur des M11",
-      "text": "Avec le frein moteur (Jake) des M11 500 HP et 595 HP, la boîte automatique rétrograde maintenant pour garder 1 600 à 2 100 rpm, là où un frein à compression retient vraiment. En boîte manuelle, fais pareil : descends un rapport avant la côte. La fiche des moteurs affiche aussi la plage de couple maximal (1 000-1 400 et 1 000-1 500 rpm). Le lanceur installe la mise à jour tout seul."
+      "title": "Overdrive Québec 2.0 : tous les moteurs revus",
+      "text": "Tous les moteurs des camions du jeu sont maintenant logiques : chaque moteur sort vraiment la puissance affichée, avec les vraies cotes du fabricant, une consommation réaliste selon sa puissance et son époque, un frein moteur selon sa cylindrée (la boîte automatique rétrograde quand tu l'actives) et les prix du jeu. Au-delà de 600 hp, ou au-delà de la cote d'usine de sa famille, un moteur est « Tuned » : pièces forgées, plus gros turbo, et 5 fois le prix. Aucun moteur au-dessus de 650 hp. Les variantes de son (straight pipe, Lope…) l'indiquent dans leur nom. Les moteurs qu'un camion n'a jamais eus dans la réalité et les doublons ne sont plus en vente, mais si ton camion en a un, tu le gardes. Nouveaux moteurs : D13 540 et D17 600 sur le VNL 2025, D16 600 et X15 605 sur le VNL 2018, DD16 560 et 600 sur le Cascadia 2024, MP10 565 et 605 sur les Mack. Le lanceur installe la mise à jour tout seul.",
+      "popup": true
     },
     {
       "date": "2026-10-04",
       "title": "Overdrive Québec 1.7 et le son du Cummins M11",
-      "text": "Le mod de son « MORTAL & CASH Cummins M11 » devient obligatoire : abonne-toi à la collection depuis le lanceur et laisse Steam le télécharger. Overdrive Québec passe en 1.7 : les moteurs M11 500 HP et 595 HP sont refaits sur les plus fortes cotes des vrais moteurs (1 850 et 2 050 lb-ft dès 1 000 rpm, pleine puissance jusqu'à 2 000 rpm), avec un prix et une consommation dans la ligne des moteurs du jeu, et les phares de tous les camions éclairent plus fort (codes +10 %, phares de route +30 %), les halogènes à lumière jaune encore plus, avec la même portée que les DEL. Fais ta ronde de sécurité : quand toutes les lignes sont au vert, active les mods dans l'ordre du lanceur.",
-      "popup": true
+      "text": "Le mod de son « MORTAL & CASH Cummins M11 » devient obligatoire : abonne-toi à la collection depuis le lanceur et laisse Steam le télécharger. Overdrive Québec passe en 1.7 : les moteurs M11 500 HP et 595 HP sont refaits sur les plus fortes cotes des vrais moteurs (1 850 et 2 050 lb-ft dès 1 000 rpm, pleine puissance jusqu'à 2 000 rpm), avec un prix et une consommation dans la ligne des moteurs du jeu, et les phares de tous les camions éclairent plus fort (codes +10 %, phares de route +30 %), les halogènes à lumière jaune encore plus, avec la même portée que les DEL. Fais ta ronde de sécurité : quand toutes les lignes sont au vert, active les mods dans l'ordre du lanceur."
     },
     {
       "date": "2026-10-04",
@@ -65,12 +65,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "1.8",
+      "version": "2.0",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-1.8.scs",
-      "sha256": "b1c62d9ba4f679ad666808c2fdeedede070a3faae30adb7d2477102dbf991615",
-      "sizeBytes": 630445,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.0.scs",
+      "sha256": "2e1bf80e09d750c0de244f8b2e57a01704087f1ddf123f6f9019f38461a3fba7",
+      "sizeBytes": 1107835,
       "required": true,
       "loadOrder": 70
     },
@@ -132,5 +132,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261005140323
+  "serial": 20261005155428
 }
