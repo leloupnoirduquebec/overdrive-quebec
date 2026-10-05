@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.4",
+  "version": "0.5.5",
   "mandatory": false,
-  "notes": "Nouveau Logbook : il s'ouvre sur la page de ta journée de jeu, comme un vrai carnet de route. Tu y vois la grille de tes heures sur 24 heures (repos, couchette, conduite, en service) avec les totaux, les remarques de la journée (chargements, livraisons, accidents, pesées, péages), tes chiffres du jour et une fiche pour chaque voyage. Une bande en haut te fait passer d'un jour à l'autre de la semaine.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.4.exe",
-  "sizeBytes": 65096338,
-  "sha256": "749082b755e2ff28d11f59b4bc241e3a83108f28aef3a21be621188383f6bd22",
+  "notes": "Compagnies : tu peux maintenant demander à rejoindre une compagnie de la liste, avec un petit message pour le patron. Tu vois tes demandes et tu peux les retirer.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.5.exe",
+  "sizeBytes": 65138115,
+  "sha256": "bf63e58aef35009fcb07e1bc65bde15a39c7c0edfe83a1943153fdd01b10a372",
   "published": "2026-10-05"
 }
