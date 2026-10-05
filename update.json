@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.3",
+  "version": "0.5.4",
   "mandatory": false,
-  "notes": "Nouveau bouton « Expérience de conduite » : choisis Arcade, Normal, Semi-réaliste ou Réaliste pour ton profil. Seules les aides et la physique de conduite changent, jamais tes touches, ta caméra ou ton affichage. Si le jeu est ouvert, ton choix s'applique au prochain départ par « Jouer ». « Restaurer mes réglages » remet les tiens.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.3.exe",
-  "sizeBytes": 65061082,
-  "sha256": "8da178ea34035251fceb54e647929b4e343fb0b8dc932417d8a8fdd7cd9cc6dd",
-  "published": "2026-10-04"
+  "notes": "Nouveau Logbook : il s'ouvre sur la page de ta journée de jeu, comme un vrai carnet de route. Tu y vois la grille de tes heures sur 24 heures (repos, couchette, conduite, en service) avec les totaux, les remarques de la journée (chargements, livraisons, accidents, pesées, péages), tes chiffres du jour et une fiche pour chaque voyage. Une bande en haut te fait passer d'un jour à l'autre de la semaine.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.4.exe",
+  "sizeBytes": 65096338,
+  "sha256": "749082b755e2ff28d11f59b4bc241e3a83108f28aef3a21be621188383f6bd22",
+  "published": "2026-10-05"
 }
