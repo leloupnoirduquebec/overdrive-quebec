@@ -11,8 +11,8 @@
   "news": [
     {
       "date": "2026-10-04",
-      "title": "Overdrive Québec 1.5 et le son du Cummins M11",
-      "text": "Le mod de son « MORTAL & CASH Cummins M11 » devient obligatoire : abonne-toi à la collection depuis le lanceur et laisse Steam le télécharger. Overdrive Québec passe en 1.5 : il ajuste la puissance et le prix des moteurs M11 pour qu'ils restent dans la ligne des moteurs du jeu, et il rend les phares blancs de tous les camions un peu plus forts (codes +10 %, phares de route +30 %). Fais ta ronde de sécurité : quand toutes les lignes sont au vert, active les mods dans l'ordre du lanceur.",
+      "title": "Overdrive Québec 1.6 et le son du Cummins M11",
+      "text": "Le mod de son « MORTAL & CASH Cummins M11 » devient obligatoire : abonne-toi à la collection depuis le lanceur et laisse Steam le télécharger. Overdrive Québec passe en 1.6 : les moteurs M11 500 HP et 595 HP gagnent du couple, avec un prix et une consommation dans la ligne des moteurs du jeu, et les phares de tous les camions éclairent plus fort (codes +10 %, phares de route +30 %), les halogènes à lumière jaune encore plus, avec la même portée que les DEL. Fais ta ronde de sécurité : quand toutes les lignes sont au vert, active les mods dans l'ordre du lanceur.",
       "popup": true
     },
     {
@@ -60,12 +60,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "1.5",
+      "version": "1.6",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-1.5.scs",
-      "sha256": "8aae259691f1128935016c655ab9e6cde048df4b4965ab67f51439fa354db135",
-      "sizeBytes": 526135,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-1.6.scs",
+      "sha256": "4311e433bd1f63056b60d5a67ab5ccf2dc8b090ba96d6f8c47f92552595f252f",
+      "sizeBytes": 557341,
       "required": true,
       "loadOrder": 70
     },
@@ -127,5 +127,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261005024510
+  "serial": 20261005035140
 }
