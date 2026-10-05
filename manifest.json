@@ -11,6 +11,12 @@
   "news": [
     {
       "date": "2026-10-05",
+      "title": "Overdrive Québec 2.1 : notre propre physique",
+      "text": "Overdrive a maintenant sa propre physique, la même pour tous les joueurs du serveur : résistance de l'air réaliste de tout l'attelage (la remorque n'est plus comptée en double), roulis mieux tenu, freins qui chauffent et faiblissent dans les longues descentes si tu n'utilises pas le frein moteur, moins de « pince » juste avant l'arrêt, cabine plus lourde aux mouvements plus réalistes, et le vrai poids du Ford F-150. Realistic Fuel Economy et Ultra Realistic Truck Physics ne font plus partie du serveur : tu peux te désabonner des deux. Il reste 4 mods Workshop dans la collection, plus Overdrive que le lanceur installe tout seul.",
+      "popup": true
+    },
+    {
+      "date": "2026-10-05",
       "title": "Overdrive Québec 2.0 : tous les moteurs revus",
       "text": "Tous les moteurs des camions du jeu sont maintenant logiques : chaque moteur sort vraiment la puissance affichée, avec les vraies cotes du fabricant, une consommation réaliste selon sa puissance et son époque, un frein moteur selon sa cylindrée (la boîte automatique rétrograde quand tu l'actives) et les prix du jeu. Au-delà de 600 hp, ou au-delà de la cote d'usine de sa famille, un moteur est « Tuned » : pièces forgées, plus gros turbo, et 5 fois le prix. Aucun moteur au-dessus de 650 hp. Les variantes de son (straight pipe, Lope…) l'indiquent dans leur nom. Les moteurs qu'un camion n'a jamais eus dans la réalité et les doublons ne sont plus en vente, mais si ton camion en a un, tu le gardes. Nouveaux moteurs : D13 540 et D17 600 sur le VNL 2025, D16 600 et X15 605 sur le VNL 2018, DD16 560 et 600 sur le Cascadia 2024, MP10 565 et 605 sur les Mack. Le lanceur installe la mise à jour tout seul.",
       "popup": true
@@ -65,21 +71,14 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.0",
+      "version": "2.1",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.0.scs",
-      "sha256": "2e1bf80e09d750c0de244f8b2e57a01704087f1ddf123f6f9019f38461a3fba7",
-      "sizeBytes": 1107835,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.1.scs",
+      "sha256": "07f6f77d1da8227e0a67276d9789e7f5d17d508e95e7f82c947009be0eb2c406",
+      "sizeBytes": 1330151,
       "required": true,
       "loadOrder": 70
-    },
-    {
-      "name": "Realistic Fuel Economy for ALL 176 engines",
-      "source": "workshop",
-      "workshopId": "3809306984",
-      "required": true,
-      "loadOrder": 10
     },
     {
       "name": "True Mirror FOV",
@@ -94,13 +93,6 @@
       "workshopId": "3272227864",
       "required": true,
       "loadOrder": 30
-    },
-    {
-      "name": "Ultra Realistic Truck Physics & Cabin Motion",
-      "source": "workshop",
-      "workshopId": "3617213048",
-      "required": false,
-      "loadOrder": 40
     },
     {
       "name": "Ultimate Graphics Mod ATS",
@@ -132,5 +124,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261005155601
+  "serial": 20261005163450
 }
