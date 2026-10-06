@@ -11,6 +11,12 @@
   "news": [
     {
       "date": "2026-10-06",
+      "title": "Overdrive Québec 2.3.1 : une paie de livraison plus réaliste",
+      "text": "Les livraisons payaient beaucoup trop : un seul long voyage de gaz pouvait rapporter plus de 600 000 $. Chaque cargaison rapporte maintenant la moitié de ce que le jeu paie pour la même remorque. Les remorques gardent leur vraie capacité, seule la paie baisse, et les trains paient selon ce qu'ils transportent vraiment. Les offres déjà affichées gardent leur prix jusqu'à leur expiration. On ajustera encore selon vos commentaires sur Discord. Le lanceur installe la mise à jour tout seul.",
+      "popup": true
+    },
+    {
+      "date": "2026-10-06",
       "title": "Overdrive Québec 2.3 : les gros trains partout, les vrais poids",
       "text": "Légalité Overdrive : tous les trains sont permis dans tous les États, sans amende, et 18 nouveaux trains arrivent : turnpikes 53'+53' et 48'+48', B-trains, doubles bétaillère, fourgon à copeaux et citernes, triples bennes. Les remorques à 4 essieux ont leur essieu autovireur devant, les essieux relevables sont à la bonne place, et les camions, remorques et dollies ont leur vrai poids, avec la vraie charge utile de chaque remorque. Pack camion ajouté au garage. Si tu as un 53'+53' à dolly 1 essieu de la 2.2, vends-le. Le lanceur installe la mise à jour tout seul.",
       "popup": true,
@@ -108,12 +114,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.3",
+      "version": "2.3.1",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.3.scs",
-      "sha256": "099c8b9c75b17f6ca2f412eb98dc2dfd575034709beeac3c102e79f5538626b7",
-      "sizeBytes": 52129931,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.3.1.scs",
+      "sha256": "3821db33aa44d5c09124cdd3bdd7be6f0f7ea090db71e6944ba8d024132c8292",
+      "sizeBytes": 52216683,
       "required": true,
       "loadOrder": 70
     },
@@ -161,5 +167,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261006201441
+  "serial": 20261006205709
 }
