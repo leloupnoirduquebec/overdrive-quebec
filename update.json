@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.6",
+  "version": "0.5.7",
   "mandatory": false,
-  "notes": "Logbook : sous « Plus de détails » d'un voyage, les chiffres étaient noirs sur fond sombre, donc invisibles. Ils s'affichent maintenant en clair, comme le reste de la fiche.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.6.exe",
-  "sizeBytes": 65149964,
-  "sha256": "a81d61c18af0d50b0befff01bdfa73a117947d891258ab0cbf022e1e93302ce1",
+  "notes": "La route du bas de la fenêtre a de la vie : de temps en temps (rarement, une scène à la fois), il s'y passe quelque chose. Un accrochage avec un chauffeur qui pète sa coche, une remorqueuse qui vient chercher le perdant, un orignal qui prend son temps pour traverser, une remorque qui se met à danser, un petit char trop pressé que la police rattrape. Rien ne joue quand la fenêtre est réduite, et « Réduire les animations » coupe tout ça.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/Overdrive-0.5.7.exe",
+  "sizeBytes": 65201540,
+  "sha256": "7cd2cc5ef35be247781f1a515c7195001c0467fdc8313a54b4ec9143f06b2f21",
   "published": "2026-10-06"
 }

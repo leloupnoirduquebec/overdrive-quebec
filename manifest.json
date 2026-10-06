@@ -10,6 +10,17 @@
   },
   "news": [
     {
+      "date": "2026-10-06",
+      "title": "Overdrive Québec 2.3 : les gros trains partout, les vrais poids",
+      "text": "Légalité Overdrive : tous les trains sont permis dans tous les États, sans amende, et 18 nouveaux trains arrivent : turnpikes 53'+53' et 48'+48', B-trains, doubles bétaillère, fourgon à copeaux et citernes, triples bennes. Les remorques à 4 essieux ont leur essieu autovireur devant, les essieux relevables sont à la bonne place, et les camions, remorques et dollies ont leur vrai poids, avec la vraie charge utile de chaque remorque. Pack camion ajouté au garage. Si tu as un 53'+53' à dolly 1 essieu de la 2.2, vends-le. Le lanceur installe la mise à jour tout seul.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.3.txt",
+        "sha256": "9ad1d9de55b8621a40aabef661e410335345b13d782f467e42fa26c1d1271f7a",
+        "sizeBytes": 5062
+      }
+    },
+    {
       "date": "2026-10-05",
       "title": "Overdrive Québec 2.2.1 : une 4e affiche sur la route",
       "text": "Ouvre l'œil : un camionneur est recherché pour excès de poutine! Une 4e affiche de la communauté rejoint les 3 autres sur les panneaux publicitaires du jeu. Si tu vois encore les publicités de SCS à leur place, c'est que les publicités en ligne du jeu sont activées : dans la ronde de sécurité du lanceur, la ligne « Affiches de la communauté » les désactive d'un clic sur « Corriger », jeu fermé. Le lanceur installe la mise à jour tout seul."
@@ -97,12 +108,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.2.1",
+      "version": "2.3",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.2.1.scs",
-      "sha256": "821a53eb88ce0d8cd796261e413af8ff8074c0e871d0f42328d4843def40db38",
-      "sizeBytes": 19732890,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.3.scs",
+      "sha256": "099c8b9c75b17f6ca2f412eb98dc2dfd575034709beeac3c102e79f5538626b7",
+      "sizeBytes": 52129931,
       "required": true,
       "loadOrder": 70
     },
@@ -150,5 +161,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261006010026
+  "serial": 20261006201441
 }

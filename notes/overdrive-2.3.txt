@@ -1,0 +1,71 @@
+OVERDRIVE QUÉBEC 2.3 — NOTES DE MISE À JOUR
+
+Le lanceur installe la mise à jour tout seul : redémarre ton lanceur pour la recevoir.
+
+━━━━━━━━━━━━━━━━━━━━
+À FAIRE AVANT DE TE CONNECTER
+━━━━━━━━━━━━━━━━━━━━
+- Garde Overdrive Québec TOUT EN HAUT de ta liste de mods, au-dessus de Slav Jerry et du M11.
+- Si tu as un 53'+53' à dolly 1 essieu acheté avec la 2.2 : vends-le. Cette version n'est plus offerte (le 53'+53' roule maintenant sur un dolly à 2 essieux).
+- Termine ou annule tes livraisons en cours avec un train double avant la mise à jour : les poids des remorques changent.
+
+━━━━━━━━━━━━━━━━━━━━
+LÉGALITÉ OVERDRIVE : LES GROS TRAINS PARTOUT
+━━━━━━━━━━━━━━━━━━━━
+- Chez nous, tous les trains sont permis dans tous les États, sans amende, même ceux qu'aucun État ne permet en vrai.
+- Les B-trains, turnpikes, Rocky Mountain et triples du jeu sont offerts partout.
+- Les longs trains se chargent chez les clients qui ont une grande cour (environ 160 des 210 clients du jeu).
+
+18 NOUVEAUX TRAINS, faits avec les pièces du jeu :
+- Turnpike double 53'+53' et 48'+48' : fourgon sec, isolé ou réfrigéré, dolly à 2 essieux.
+- Rocky Mountain 53'+28' et 48'+28' : fourgon.
+- Double fourgon à copeaux 48'+48'.
+- Double bétaillère 48'+48' (fond droit ou à ventre).
+- Double citerne à carburant 48'+48' et 53'+53'.
+- Double citerne chimique 43', 48' et 53'.
+- B-trains 28'+53' et 28'+48' : fourgon, plateau ou rideau.
+- B-train 32'+48' vrac sec, 32'+53' citerne à carburant, 32'+53' citerne de gaz, 30'+53' conteneur, 32'+50' céréalière.
+- Triple benne 30' et triple benne à fond ouvrant 28'.
+
+Chaque attache est placée exactement : crochet, anneau du dolly, sellette et pivot à la même hauteur, feux et câbles sur chaque remorque.
+
+━━━━━━━━━━━━━━━━━━━━
+DES ESSIEUX COMME EN VRAI
+━━━━━━━━━━━━━━━━━━━━
+- Remorques de 53 pieds à 4 essieux (fourgon, plateau, rideau, plateau surbaissé) : l'essieu autovireur est maintenant DEVANT le tridem, comme les remorques SPIF de l'Ontario. Les jupes latérales sont ajustées.
+- Essieu relevable devant sur le fourgon (sec, isolé, réfrigéré) à 3 essieux, les plateaux à 3 essieux, les bennes à fond ouvrant, la bétaillère et le fourgon à copeaux.
+- Les remorques de compagnie (livraisons, circulation) suivent les mêmes corrections : une seule version de chaque remorque.
+
+━━━━━━━━━━━━━━━━━━━━
+LES VRAIS POIDS
+━━━━━━━━━━━━━━━━━━━━
+- Camions : le vrai poids à vide de chaque modèle, selon la cabine et les essieux (244 configurations revues).
+- Remorques et dollies : leur vrai poids à vide (par exemple la céréalière de 40 pieds passe de 12 800 à 9 350 lb).
+- Charge utile : la vraie capacité de chaque remorque, additionnée sur le train. Une 53' fourgon prend environ 50 600 lb.
+- Les dollies ne portent plus de cargaison : chaque remorque est chargée selon sa capacité. Fini les triples citernes avec deux remorques vides.
+
+━━━━━━━━━━━━━━━━━━━━
+LA PHYSIQUE DES TRAINS
+━━━━━━━━━━━━━━━━━━━━
+- Un train long a maintenant sa vraie résistance de l'air : environ 13 % de plus qu'une remorque simple pour un double.
+- Les trains lourds montent plus lentement et chauffent leurs freins : utilise ton frein moteur dans les longues descentes.
+- Pluie : environ 25 % moins d'adhérence sur route mouillée, pour tous les pneus du jeu (sec inchangé). Freine plus tôt et en douceur, avec le frein moteur.
+- Pour le réalisme du freinage : désactive l'ABS et l'antipatinage dans les options du jeu, et mets la stabilité de la remorque basse. Un coup de frein à fond bloque alors les roues, comme en vrai.
+
+━━━━━━━━━━━━━━━━━━━━
+CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Les voitures d'IA apparaissent un peu plus près (160 m au lieu de 250 m) : les zones des joueurs se chevauchent moins, donc moins de voitures fantômes et de collisions bizarres en convoi.
+
+━━━━━━━━━━━━━━━━━━━━
+PACK CAMION AJOUTÉ
+━━━━━━━━━━━━━━━━━━━━
+- Nouveau au garage : cheminées droites 11 po chrome (W900, 389) et klaxon de train Overdrive.
+
+━━━━━━━━━━━━━━━━━━━━
+NOS AFFICHES PARTOUT
+━━━━━━━━━━━━━━━━━━━━
+- Tous les panneaux publicitaires du jeu, dans tous les États (278 faces), affichent nos 6 affiches en alternance, dont deux nouvelles : les gros trains et les cheminées 11 po.
+- Pour les voir, désactive les publicités en ligne du jeu : ligne « Affiches de la communauté » de la ronde de sécurité du lanceur, bouton « Corriger » (jeu fermé).
+
+Bonne route!
