@@ -42,6 +42,7 @@
       <li>Logbook : sous &#171; Plus de d&#233;tails &#187; d&#39;un voyage, les chiffres &#233;taient noirs sur fond sombre, donc invisibles. Ils s&#39;affichent maintenant en clair, comme le reste de la fiche.</li>
       <li>Logbook : nouvel onglet &#171; Classement &#187;. Tous les tableaux de la semaine y sont r&#233;unis : les meilleures et les pires habitudes, les plus gros revenus (qui ne s&#39;affichaient nulle part avant), les plus longs trajets, et les classements des compagnies. Clique sur un nom pour ouvrir la fiche du camionneur.</li>
       <li>Fiche du camionneur plus d&#233;taill&#233;e : son permis cette semaine (infractions, points perdus) et ses semaines sans infraction ; ses rangs dans les classements de la semaine ; un graphique de ses 4 derni&#232;res semaines ; et &#171; Sur la route &#187; : kilom&#232;tres moyens par livraison, livraisons &#224; temps, dommages moyens, tonnes transport&#233;es, plus grosse charge, plus long trajet, cargaison, trajet et destination favoris.</li>
+      <li>Ronde de s&#233;curit&#233; : nouvelle ligne &#171; Affiches de la communaut&#233; &#187;. Les publicit&#233;s en ligne de SCS se mettent par-dessus nos affiches sur les panneaux du jeu ; le bouton &#171; Corriger &#187; les d&#233;sactive (jeu ferm&#233;) pour que tu voies les affiches de la communaut&#233;. Cette ligne ne bloque jamais &#171; Jouer &#187;.</li>
     </ul>
   </section>
 
@@ -54,7 +55,7 @@
   <section class="card">
     <h2>Comment vérifier le fichier</h2>
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>3f6aecfae5014df23778be25d35d9c99395ffa8ac6fdbbd0b081625229e9bf33</code></p>
+    <p><code>02c89b4a117bed1d360df292b29e7bf7e9063fea8cc9d76d184eb090feb761ee</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\ConvoiQuebec-0.5.6.exe -Algorithm SHA256</pre>
     <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>

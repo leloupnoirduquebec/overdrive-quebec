@@ -11,6 +11,11 @@
   "news": [
     {
       "date": "2026-10-05",
+      "title": "Overdrive Québec 2.2.1 : une 4e affiche sur la route",
+      "text": "Ouvre l'œil : un camionneur est recherché pour excès de poutine! Une 4e affiche de la communauté rejoint les 3 autres sur les panneaux publicitaires du jeu. Si tu vois encore les publicités de SCS à leur place, c'est que les publicités en ligne du jeu sont activées : dans la ronde de sécurité du lanceur, la ligne « Affiches de la communauté » les désactive d'un clic sur « Corriger », jeu fermé. Le lanceur installe la mise à jour tout seul."
+    },
+    {
+      "date": "2026-10-05",
       "title": "Overdrive Québec 2.2 : trains doubles partout et nos affiches",
       "text": "Ouvre l'œil : tous les panneaux publicitaires du jeu affichent maintenant Overdrive Québec le long des routes, avec 3 affiches de la communauté. Les B-trains et les trains doubles du jeu (turnpike, Rocky Mountain) sont maintenant permis dans tous les États : tu les trouves dans les offres de livraison partout, sans amende. Nouveau : le « Turnpike double 53' », deux fourgons de 53 pieds avec un dolly. Et le Ford F-150 freine environ 1,7 fois plus fort ; seul le F-150 change, les camions et les autres voitures gardent leur freinage. Le lanceur installe la mise à jour tout seul.",
       "popup": true,
@@ -92,12 +97,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.2",
+      "version": "2.2.1",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.2.scs",
-      "sha256": "4640bc5555a992f3b03aeeed3eae4791bfe10da6a58c2bdb1eb0c91841d5d6d3",
-      "sizeBytes": 19732845,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.2.1.scs",
+      "sha256": "821a53eb88ce0d8cd796261e413af8ff8074c0e871d0f42328d4843def40db38",
+      "sizeBytes": 19732890,
       "required": true,
       "loadOrder": 70
     },
@@ -145,5 +150,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261006000859
+  "serial": 20261006004454
 }

@@ -4,7 +4,7 @@
   "mandatory": false,
   "notes": "Logbook : sous « Plus de détails » d'un voyage, les chiffres étaient noirs sur fond sombre, donc invisibles. Ils s'affichent maintenant en clair, comme le reste de la fiche.",
   "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.6.exe",
-  "sizeBytes": 65148943,
-  "sha256": "3f6aecfae5014df23778be25d35d9c99395ffa8ac6fdbbd0b081625229e9bf33",
+  "sizeBytes": 65149966,
+  "sha256": "02c89b4a117bed1d360df292b29e7bf7e9063fea8cc9d76d184eb090feb761ee",
   "published": "2026-10-06"
 }
