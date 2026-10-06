@@ -33,17 +33,15 @@
 <main>
   <div class="kicker">Lanceur communautaire · American Truck Simulator</div>
   <h1>Overdrive Qu&#233;bec</h1>
-  <a class="get" href="ConvoiQuebec-0.5.5.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.5.5 · 62,1 Mo · Windows 10 ou 11, 64 bits · 2026-10-05 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="ConvoiQuebec-0.5.6.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.5.6 · 62,1 Mo · Windows 10 ou 11, 64 bits · 2026-10-06 · gratuit, rien à installer : un seul fichier.</div>
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>Compagnies : tu peux maintenant demander &#224; rejoindre une compagnie de la liste, avec un petit message pour le patron. Tu vois tes demandes et tu peux les retirer.</li>
-      <li>Le patron d&#39;une compagnie a son panneau &#171; Gestion de la compagnie &#187; : il accepte ou refuse les demandes, retire un camionneur, invite, et peut c&#233;der la direction &#224; un de ses camionneurs. L&#39;onglet COMPAGNIE montre combien de demandes attendent.</li>
-      <li>Fiches des camionneurs : dans le Logbook, un clic sur un nom des classements (ou &#171; Voir sa fiche &#187; dans une compagnie) ouvre sa fiche : son nom Steam, son arriv&#233;e sur le serveur, sa compagnie, ses points de permis, ses livraisons, kilom&#232;tres et revenus de la semaine et depuis le d&#233;but, et ses &#233;tats de service (top 3 de la semaine, patron, s&#233;rie sans infraction, paliers de livraisons et de kilom&#232;tres). Seuls les camionneurs qui partagent avec la communaut&#233; ont une fiche ; les autres restent priv&#233;s.</li>
-      <li>Babillard : sous chaque grosse mise &#224; jour, &#171; Lire les notes compl&#232;tes &#187; ouvre les notes au long dans le lanceur, avec une recherche.</li>
-      <li>Exp&#233;rience de conduite : deux nouvelles cases, &#171; Afficher le volant dans la cabine &#187; et &#171; Bo&#238;te non synchronis&#233;e &#187; (comme un vrai camion : double d&#233;brayage avec un levier en H et un embrayage). Si le jeu est ouvert, le changement attend ton prochain &#171; Jouer &#187;.</li>
+      <li>Logbook : sous &#171; Plus de d&#233;tails &#187; d&#39;un voyage, les chiffres &#233;taient noirs sur fond sombre, donc invisibles. Ils s&#39;affichent maintenant en clair, comme le reste de la fiche.</li>
+      <li>Logbook : nouvel onglet &#171; Classement &#187;. Tous les tableaux de la semaine y sont r&#233;unis : les meilleures et les pires habitudes, les plus gros revenus (qui ne s&#39;affichaient nulle part avant), les plus longs trajets, et les classements des compagnies. Clique sur un nom pour ouvrir la fiche du camionneur.</li>
+      <li>Fiche du camionneur plus d&#233;taill&#233;e : son permis cette semaine (infractions, points perdus) et ses semaines sans infraction ; ses rangs dans les classements de la semaine ; un graphique de ses 4 derni&#232;res semaines ; et &#171; Sur la route &#187; : kilom&#232;tres moyens par livraison, livraisons &#224; temps, dommages moyens, tonnes transport&#233;es, plus grosse charge, plus long trajet, cargaison, trajet et destination favoris.</li>
     </ul>
   </section>
 
@@ -56,9 +54,9 @@
   <section class="card">
     <h2>Comment vérifier le fichier</h2>
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>bf63e58aef35009fcb07e1bc65bde15a39c7c0edfe83a1943153fdd01b10a372</code></p>
+    <p><code>3f6aecfae5014df23778be25d35d9c99395ffa8ac6fdbbd0b081625229e9bf33</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
-    <pre>Get-FileHash .\ConvoiQuebec-0.5.5.exe -Algorithm SHA256</pre>
+    <pre>Get-FileHash .\ConvoiQuebec-0.5.6.exe -Algorithm SHA256</pre>
     <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>
   </section>
 

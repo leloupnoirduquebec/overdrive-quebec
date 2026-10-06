@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.5",
+  "version": "0.5.6",
   "mandatory": false,
-  "notes": "Compagnies : tu peux maintenant demander à rejoindre une compagnie de la liste, avec un petit message pour le patron. Tu vois tes demandes et tu peux les retirer.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.5.exe",
-  "sizeBytes": 65138115,
-  "sha256": "bf63e58aef35009fcb07e1bc65bde15a39c7c0edfe83a1943153fdd01b10a372",
-  "published": "2026-10-05"
+  "notes": "Logbook : sous « Plus de détails » d'un voyage, les chiffres étaient noirs sur fond sombre, donc invisibles. Ils s'affichent maintenant en clair, comme le reste de la fiche.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/ConvoiQuebec-0.5.6.exe",
+  "sizeBytes": 65148943,
+  "sha256": "3f6aecfae5014df23778be25d35d9c99395ffa8ac6fdbbd0b081625229e9bf33",
+  "published": "2026-10-06"
 }

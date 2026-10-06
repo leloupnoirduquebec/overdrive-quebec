@@ -1,0 +1,5 @@
+# Overdrive Québec 0.5.6
+
+- Logbook : sous « Plus de détails » d'un voyage, les chiffres étaient noirs sur fond sombre, donc invisibles. Ils s'affichent maintenant en clair, comme le reste de la fiche.
+- Logbook : nouvel onglet « Classement ». Tous les tableaux de la semaine y sont réunis : les meilleures et les pires habitudes, les plus gros revenus (qui ne s'affichaient nulle part avant), les plus longs trajets, et les classements des compagnies. Clique sur un nom pour ouvrir la fiche du camionneur.
+- Fiche du camionneur plus détaillée : son permis cette semaine (infractions, points perdus) et ses semaines sans infraction ; ses rangs dans les classements de la semaine ; un graphique de ses 4 dernières semaines ; et « Sur la route » : kilomètres moyens par livraison, livraisons à temps, dommages moyens, tonnes transportées, plus grosse charge, plus long trajet, cargaison, trajet et destination favoris.
