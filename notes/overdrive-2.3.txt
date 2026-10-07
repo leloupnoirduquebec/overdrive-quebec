@@ -1,6 +1,6 @@
 OVERDRIVE QUÉBEC 2.3 — NOTES DE MISE À JOUR
 
-Le lanceur installe la mise à jour tout seul : redémarre ton lanceur pour la recevoir.
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible » dans ton Logbook, ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
 
 ━━━━━━━━━━━━━━━━━━━━
 À FAIRE AVANT DE TE CONNECTER

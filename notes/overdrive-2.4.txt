@@ -1,0 +1,32 @@
+OVERDRIVE QUÉBEC 2.4 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible » dans ton Logbook, ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
+
+━━━━━━━━━━━━━━━━━━━━
+À FAIRE AVANT DE TE CONNECTER
+━━━━━━━━━━━━━━━━━━━━
+- Garde Overdrive Québec TOUT EN HAUT de ta liste de mods, au-dessus de Slav Jerry et du M11.
+- Choisis ta boîte selon ta façon de conduire : si tu joues en mode manuel (embrayage ou séquentiel), prends une boîte manuelle ; si tu joues en mode automatique, prends une boîte automatisée ou automatique. Le type est écrit entre parenthèses dans le nom de chaque boîte, au garage.
+- Ton camion garde sa boîte actuelle : seuls son nom, son prix et, sur certaines, le rapport de pont (ou les rapports, sur 3 boîtes) changent.
+
+━━━━━━━━━━━━━━━━━━━━
+TRANSMISSIONS
+━━━━━━━━━━━━━━━━━━━━
+- Toutes les boîtes des 18 camions diesel du jeu et du VNR Electric ont leur vrai nom, avec leur type entre parenthèses : manuelle, automatisée, automatique ou électrique, et « + ralentisseur » quand elles en ont un. Par exemple : « Eaton Fuller RTLO-20913A · 13 vitesses (manuelle) ».
+- 56 vraies boîtes ajoutées : 41 manuelles Eaton Fuller (10, 13 et 18 vitesses, dont des 18 vitesses lourdes), 14 automatisées (PACCAR TX-12 et TX-18, Eaton Endurant, Detroit DT12) et 1 automatique (Allison 4000 RDS sur le 49X).
+- Les manuelles sont offertes sur 14 camions. Le Cascadia 2024, le T680 Next Gen et les VNL 2018 et 2025 n'en ont pas.
+- Vrais rapports de vitesse, et un rapport de pont dans la plage réelle du camion (corrigé sur 44 boîtes du jeu).
+- 16 boîtes que le vrai camion n'a jamais eues ne sont plus en vente. Si ton camion en a une, il la garde.
+- Un seul barème de prix pour toutes les boîtes : une manuelle coûte moins cher qu'une automatisée, qui coûte moins cher qu'une automatique. Une boîte coûte de 7 440 $ à 16 570 $.
+- Une boîte ajoutée ne peut pas être achetée avec un moteur plus fort que sa vraie limite de couple : choisis le moteur d'abord.
+
+━━━━━━━━━━━━━━━━━━━━
+PAIE DES LIVRAISONS
+━━━━━━━━━━━━━━━━━━━━
+- Chaque cargaison rapporte maintenant 37,5 % de ce que le jeu paie pour la même remorque, calculé avant les vraies capacités d'Overdrive (25 % de moins qu'avec la 2.3.1).
+- Les cargaisons des DLC suivent la même règle : machinerie lourde, surdimensionnée, forestière, agricole, Bobcat, JCB, Krone, Volvo construction et camions transportés.
+- Les remorques gardent leur vraie capacité, seule la paie baisse. Les trains paient selon ce qu'ils transportent vraiment.
+- Les offres déjà affichées gardent leur prix jusqu'à leur expiration.
+- On ajustera encore selon vos commentaires sur Discord.
+
+Bonne route!

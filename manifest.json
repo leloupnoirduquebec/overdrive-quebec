@@ -11,19 +11,30 @@
   "news": [
     {
       "date": "2026-10-06",
+      "title": "Overdrive Québec 2.4 : les vraies boîtes de vitesses",
+      "text": "Chaque boîte de vitesses porte maintenant son vrai nom avec son type entre parenthèses (manuelle, automatisée, automatique), ses vrais rapports et un pont réaliste. 56 vraies boîtes arrivent, dont 41 manuelles Eaton Fuller. Tu joues en manuel? Prends une boîte manuelle. En automatique? Une automatisée ou une automatique. Les 16 boîtes qu'un vrai camion n'a jamais eues ne sont plus en vente, mais si ton camion en a une, il la garde. La paie baisse encore : chaque cargaison rapporte 37,5 % de ce que le jeu paie pour la même remorque, cargaisons des DLC comprises. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible » (Logbook), ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.4.txt",
+        "sha256": "de6b5ad7335d1a1e6853b62a909bfaff8354f38bdb2d34a26ed70f46d5e61ebe",
+        "sizeBytes": 3015
+      }
+    },
+    {
+      "date": "2026-10-06",
       "title": "Overdrive Québec 2.3.1 : une paie de livraison plus réaliste",
-      "text": "Les livraisons payaient beaucoup trop : un seul long voyage de gaz pouvait rapporter plus de 600 000 $. Chaque cargaison rapporte maintenant la moitié de ce que le jeu paie pour la même remorque. Les remorques gardent leur vraie capacité, seule la paie baisse, et les trains paient selon ce qu'ils transportent vraiment. Les offres déjà affichées gardent leur prix jusqu'à leur expiration. On ajustera encore selon vos commentaires sur Discord. Le lanceur installe la mise à jour tout seul.",
+      "text": "Les livraisons payaient beaucoup trop : un seul long voyage de gaz pouvait rapporter plus de 600 000 $. Chaque cargaison rapporte maintenant la moitié de ce que le jeu paie pour la même remorque. Les remorques gardent leur vraie capacité, seule la paie baisse, et les trains paient selon ce qu'ils transportent vraiment. Les offres déjà affichées gardent leur prix jusqu'à leur expiration. On ajustera encore selon vos commentaires sur Discord. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible » dans ton Logbook, ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
       "popup": true
     },
     {
       "date": "2026-10-06",
       "title": "Overdrive Québec 2.3 : les gros trains partout, les vrais poids",
-      "text": "Légalité Overdrive : tous les trains sont permis dans tous les États, sans amende, et 18 nouveaux trains arrivent : turnpikes 53'+53' et 48'+48', B-trains, doubles bétaillère, fourgon à copeaux et citernes, triples bennes. Les remorques à 4 essieux ont leur essieu autovireur devant, les essieux relevables sont à la bonne place, et les camions, remorques et dollies ont leur vrai poids, avec la vraie charge utile de chaque remorque. Pack camion ajouté au garage. Si tu as un 53'+53' à dolly 1 essieu de la 2.2, vends-le. Le lanceur installe la mise à jour tout seul.",
+      "text": "Légalité Overdrive : tous les trains sont permis dans tous les États, sans amende, et 18 nouveaux trains arrivent : turnpikes 53'+53' et 48'+48', B-trains, doubles bétaillère, fourgon à copeaux et citernes, triples bennes. Les remorques à 4 essieux ont leur essieu autovireur devant, les essieux relevables sont à la bonne place, et les camions, remorques et dollies ont leur vrai poids, avec la vraie charge utile de chaque remorque. Pack camion ajouté au garage. Si tu as un 53'+53' à dolly 1 essieu de la 2.2, vends-le. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible » dans ton Logbook, ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
       "popup": true,
       "notes": {
         "file": "notes/overdrive-2.3.txt",
-        "sha256": "9ad1d9de55b8621a40aabef661e410335345b13d782f467e42fa26c1d1271f7a",
-        "sizeBytes": 5062
+        "sha256": "04ff04ac28972c94fce26008f3c4b4b517330306507b7bc2241e50f65a8ac390",
+        "sizeBytes": 5159
       }
     },
     {
@@ -114,12 +125,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.3.1",
+      "version": "2.4",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.3.1.scs",
-      "sha256": "3821db33aa44d5c09124cdd3bdd7be6f0f7ea090db71e6944ba8d024132c8292",
-      "sizeBytes": 52216683,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.4.scs",
+      "sha256": "5a3197c090cf405cdc950a31c1f07629986a6c1ae9d31c5c1bae972a326de40b",
+      "sizeBytes": 52405067,
       "required": true,
       "loadOrder": 70
     },
@@ -167,5 +178,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261006205709
+  "serial": 20261007011533
 }

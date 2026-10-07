@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.7",
+  "version": "0.5.8",
   "mandatory": false,
-  "notes": "La route du bas de la fenêtre a de la vie : de temps en temps (rarement, une scène à la fois), il s'y passe quelque chose. Un accrochage avec un chauffeur qui pète sa coche, une remorqueuse qui vient chercher le perdant, un orignal qui prend son temps pour traverser, une remorque qui se met à danser, un petit char trop pressé que la police rattrape. Rien ne joue quand la fenêtre est réduite, et « Réduire les animations » coupe tout ça.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/Overdrive-0.5.7.exe",
-  "sizeBytes": 65201540,
-  "sha256": "7cd2cc5ef35be247781f1a515c7195001c0467fdc8313a54b4ec9143f06b2f21",
-  "published": "2026-10-06"
+  "notes": "Mise à jour du mod Overdrive : tu ne peux plus la manquer. Quand une nouvelle version du mod est sortie, une affiche « Mise à jour du mod Overdrive disponible » apparaît dans la fenêtre principale, juste au-dessus du bouton LOGBOOK, avec une flèche qui pointe vers lui. Le bouton LOGBOOK s'allume et porte une petite flèche vers le bas. Clique sur l'affiche ou sur le LOGBOOK : ton Logbook s'ouvre directement sur la mise à jour, un clic sur « Installer » et le petit camion roule sur la barre jusqu'à « À jour ». Avant, la mise à jour n'était visible que si tu ouvrais ton Logbook toi-même.",
+  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/Overdrive-0.5.8.exe",
+  "sizeBytes": 65204305,
+  "sha256": "61181a8549188cfd130cdb8de825b846c07e8d6da39dcbae89178a46abf74436",
+  "published": "2026-10-07"
 }
