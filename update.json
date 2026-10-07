@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.6.0",
+  "version": "0.6.1",
   "mandatory": false,
-  "notes": "**Nouveau : « Options graphiques ».** Une colonne à gauche de la fenêtre ouvre un panneau en cinq onglets. Rien n'est injecté dans le jeu, et le lanceur ne touche jamais aux réglages de ton pilote.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.0.exe",
-  "sizeBytes": 65754378,
-  "sha256": "86312ddb9520f9dbe04d2568a8e7e0c7f4e1a8194f63b869dde1cbda7f43e520",
+  "notes": "**DirectX 12 : plus de retour automatique.** Si le jeu refuse DirectX 12 ou se ferme dans les deux premières minutes, le lanceur te le dit et te propose « Revenir à DirectX 11 » ou « Garder DirectX 12 ». Rien ne change sans ton clic (en 0.6.0, il remettait DirectX 11 tout seul, même si tu avais simplement quitté le jeu vite).",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.1.exe",
+  "sizeBytes": 65756330,
+  "sha256": "48d3d6d1280a56c03eaf175cded425b7caa4072be6ee5111295bb47e36912fa3",
   "published": "2026-10-07"
 }

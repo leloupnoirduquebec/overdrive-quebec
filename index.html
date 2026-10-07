@@ -33,32 +33,18 @@
 <main>
   <div class="kicker">Lanceur communautaire · American Truck Simulator</div>
   <h1>Overdrive Qu&#233;bec</h1>
-  <a class="get" href="Overdrive-0.6.0.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.6.0 · 62,7 Mo · Windows 10 ou 11, 64 bits · 2026-10-07 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.6.1.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.6.1 · 62,7 Mo · Windows 10 ou 11, 64 bits · 2026-10-07 · gratuit, rien à installer : un seul fichier.</div>
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>**Nouveau : &#171; Options graphiques &#187;.** Une colonne &#224; gauche de la fen&#234;tre ouvre un panneau en cinq onglets. Rien n&#39;est inject&#233; dans le jeu, et le lanceur ne touche jamais aux r&#233;glages de ton pilote.</li>
-      <li>**Ta carte graphique.** Le lanceur lit ta carte (marque, mod&#232;le, version du pilote) et te montre ce que son pilote offre gratuitement, avec les &#233;tapes exactes et un lien vers la page du fabricant :</li>
-      <li>AMD : la g&#233;n&#233;ration d&#39;images AFMF 2 et Radeon Super Resolution. Notre conseil : dans le pilote AMD, r&#232;gle FSR (la mise &#224; l&#39;&#233;chelle) sur &#171; Qualit&#233; &#187;.</li>
-      <li>NVIDIA : Smooth Motion (RTX 40 et 50) et NVIDIA Image Scaling.</li>
-      <li>Intel : il n&#39;y a pas d&#39;&#233;quivalent dans le pilote, et le lanceur te le dit franchement.</li>
-      <li>**DirectX 11 / DirectX 12 (exp&#233;rimental).** Le jeu contient un rendu DirectX 12 cach&#233;. Tu peux l&#39;essayer d&#39;un clic, jeu ferm&#233; ; ton r&#233;glage d&#39;avant est gard&#233; et revient avec &#171; DirectX 11 &#187;. SCS ne le supporte pas encore officiellement, et il peut briser les ajouts faits pour DirectX 11 (Snowy Moon, ReShade) : reviens &#224; DirectX 11 si quelque chose cloche.</li>
-      <li>**Retour automatique.** Si, apr&#232;s un d&#233;part par Jouer, le jeu refuse DirectX 12 ou se ferme dans les deux premi&#232;res minutes, le lanceur remet DirectX 11 tout seul et te l&#39;explique au prochain d&#233;marrage. Si tu choisis &#171; Launch with DirectX11 &#187; dans le menu de Steam, ce choix passe avant : le lanceur te le signale.</li>
-      <li>**Mesurer mes images par seconde.** Un test avant / apr&#232;s : une minute de route en DirectX 11, puis la m&#234;me en DirectX 12 (ou avec AFMF, Smooth Motion…). Tu vois la moyenne, le &#171; 1 % bas &#187; (les saccades que tu sens) et le temps d&#39;image p99, c&#244;te &#224; c&#244;te, avec un verdict. La mesure utilise PresentMon (Intel, gratuit, licence MIT), un programme s&#233;par&#233; qui ne touche pas au jeu. Les r&#233;sultats restent sur ton PC.</li>
-      <li>Si Windows ne donne pas &#224; ton compte le droit de mesurer, le lanceur te l&#39;explique et t&#39;offre deux choix : mesurer en administrateur (Windows te le demande), ou t&#39;ajouter une fois pour toutes au groupe &#171; Utilisateurs du journal de performances &#187;.</li>
-      <li>**Mise &#224; l&#39;&#233;chelle (FSR / DLSS / XeSS) : un guide pas &#224; pas pour ta marque.** AMD, NVIDIA ou Intel : le guide de ta carte s&#39;ouvre en premier, et chaque &#233;tape te dit ce qu&#39;elle change pour toi.</li>
-      <li>**NVIDIA GeForce RTX (20 &#224; 50) :** le vrai DLSS avec Snowy Moon seul, sans OptiScaler. Comment choisir le mode DLSS, comment avoir un DLSS plus r&#233;cent par les voies officielles de NVIDIA (et franchement ce que l&#39;app NVIDIA peut ou ne peut pas faire pour ATS), et Smooth Motion sur RTX 40 et 50, puisque la g&#233;n&#233;ration d&#39;images DLSS est impossible dans ATS.</li>
-      <li>**NVIDIA GeForce GTX 10 et 16 :** FSR 3.1 avec OptiScaler, ou NVIDIA Image Scaling si tu pr&#233;f&#232;res ne rien installer.</li>
-      <li>**AMD Radeon :** FSR 3.1, ou FSR 4 sur une RX 9000, avec OptiScaler, et AFMF du pilote pour la g&#233;n&#233;ration d&#39;images.</li>
-      <li>**Intel Arc :** XeSS avec OptiScaler.</li>
-      <li>Ce que font Snowy Moon, OptiScaler et fakenvapi, ce que ta carte peut avoir dans ATS (ta carte est surlign&#233;e), o&#249; prendre chaque pi&#232;ce chez son auteur, comment l&#39;installer toi-m&#234;me, et la liste exacte des fichiers &#224; enlever pour revenir au jeu d&#39;origine. Outils tiers, non support&#233;s par SCS, &#224; tes risques : Overdrive n&#39;installe rien et ne t&#233;l&#233;charge rien.</li>
-      <li>**Le pi&#232;ge de l&#39;&#233;chelle, expliqu&#233;.** L&#39;&#171; &#201;chelle &#187; d&#39;ATS et le mode de Snowy Moon se multiplient : &#224; 125 % sur un &#233;cran 4K, l&#39;upscaler fabriquait une image de 8163x4598, FSR 4 refusait de d&#233;marrer et OptiScaler retombait sans rien dire sur FSR 2.2.1. Un tableau te donne la bonne &#201;chelle pour chaque mode (Qualit&#233; : 67 %, ou 75 % dans le menu ; &#201;quilibr&#233; : 59 %, ou 50 % ; Performance : 50 %). Ne d&#233;passe jamais 100 % avec un upscaler.</li>
-      <li>**R&#233;gler OptiScaler et v&#233;rifier que &#231;a marche :** les noms exacts de son menu (&#171; FSR 3.X/4 w/Dx12 &#187;, &#171; Change Upscaler &#187;, &#171; No Frame Generation &#187;, &#171; Save Settings &#187;), ce qu&#39;il faut lire en haut de son affichage (&#171; FSR3 w/Dx12 4.x &#187;, &#171; FSR 4.1.1 &#187; sur une RX 9000), et quoi faire si tu lis &#171; FSR 2.2.1 &#187;. Nos pr&#233;r&#233;glages OptiScaler.ini, un par famille de cartes, s&#39;enregistrent o&#249; tu veux.</li>
-      <li>**Processeur ou carte graphique ?** Un test simple (l&#39;&#201;chelle &#224; 50 % sur l&#39;autoroute) pour savoir ce qui te limite, et quoi faire si c&#39;est ton processeur : la g&#233;n&#233;ration d&#39;images du pilote, moins de trafic, une distance d&#39;affichage plus courte. Mesure avant et apr&#232;s.</li>
-      <li>**Nouveau : l&#39;onglet Diagnostic.** Il lit config.cfg, et le r&#233;glage et le journal d&#39;OptiScaler s&#39;il est l&#224;, et te dit en clair ce qui se passe, par exemple : &#171; Ton jeu dessine en 4800x2704 et l&#39;agrandit en 8163x4598 : c&#39;est trop grand pour ton &#233;cran, FSR 4 ne d&#233;marre pas. Mets l&#39;&#233;chelle &#224; 50 %. &#187; Sur une GeForce RTX, tu choisis ton mode DLSS et il fait le calcul. Le bouton &#171; R&#233;gler l&#39;&#233;chelle exacte &#187; &#233;crit la valeur que le menu d&#39;ATS ne propose pas (67 %, 59 %), jeu ferm&#233;, avec une copie et &#171; Remettre mon &#233;chelle d&#39;avant &#187;. Il ne touche jamais aux fichiers d&#39;OptiScaler ni de Snowy Moon.</li>
-      <li>La ronde de s&#233;curit&#233; te signale Snowy Moon ou OptiScaler dans ton jeu, et t&#39;avertit si le jeu est r&#233;gl&#233; en DirectX 12 alors que Snowy Moon, lui, ne marche qu&#39;en DirectX 11.</li>
+      <li>**DirectX 12 : plus de retour automatique.** Si le jeu refuse DirectX 12 ou se ferme dans les deux premi&#232;res minutes, le lanceur te le dit et te propose &#171; Revenir &#224; DirectX 11 &#187; ou &#171; Garder DirectX 12 &#187;. Rien ne change sans ton clic (en 0.6.0, il remettait DirectX 11 tout seul, m&#234;me si tu avais simplement quitt&#233; le jeu vite).</li>
+      <li>**Un choix fait pendant que le jeu tournait ne passe plus par-dessus tes r&#233;glages.** Un mode de conduite ou une option choisis jeu ouvert attendent le prochain &#171; Jouer &#187;. Si, entre-temps, tu as chang&#233; ces r&#233;glages dans le jeu, c&#39;est ton choix dans le jeu qui gagne : le lanceur laisse tomber le sien et te le dit. Un choix en attente gard&#233; par une ancienne version du lanceur n&#39;est plus appliqu&#233; (il ne peut pas &#234;tre v&#233;rifi&#233;) : refais-le si tu le veux encore.</li>
+      <li>**R&#233;glages personnalis&#233;s : aucun mode n&#39;est pr&#233;s&#233;lectionn&#233;.** Si tes r&#233;glages ne correspondent &#224; aucun mode, la fen&#234;tre de conduite affiche &#171; Personnalis&#233; &#187;, aucune carte n&#39;est coch&#233;e et &#171; Appliquer &#187; reste gris&#233; tant que tu n&#39;as pas choisi un mode.</li>
+      <li>**&#171; Restaurer mes r&#233;glages &#187; ne recr&#233;e plus jamais un fichier.** Si tu as effac&#233; un config.cfg (pour remettre le jeu &#224; z&#233;ro), le lanceur ne le remplace plus par ton ancienne copie compl&#232;te : il te le signale et garde la copie.</li>
+      <li>Le lanceur lit maintenant tes fichiers de r&#233;glages en laissant le jeu les &#233;crire en m&#234;me temps : une lecture au moment o&#249; le jeu se ferme ne peut plus l&#39;emp&#234;cher d&#39;enregistrer.</li>
+      <li>La correction des fuseaux horaires nomme le profil qu&#39;elle va modifier.</li>
     </ul>
   </section>
 
@@ -71,7 +57,7 @@
   <section class="card">
     <h2>Comment vérifier le fichier</h2>
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>86312ddb9520f9dbe04d2568a8e7e0c7f4e1a8194f63b869dde1cbda7f43e520</code></p>
+    <p><code>48d3d6d1280a56c03eaf175cded425b7caa4072be6ee5111295bb47e36912fa3</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
     <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>
