@@ -11,6 +11,12 @@
   "news": [
     {
       "date": "2026-10-06",
+      "title": "Overdrive Québec 2.4.1 : des noms de boîtes lisibles",
+      "text": "Les noms des boîtes de vitesses étaient trop longs et coupés au garage. Ils sont maintenant courts, avec le type entre parenthèses : (AUT) automatique, (MAN) manuelle, (SYNC) automatisée. Un « R » veut dire avec ralentisseur. Et seules les boîtes qui vont avec ton moteur sont offertes. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
+      "popup": true
+    },
+    {
+      "date": "2026-10-06",
       "title": "Overdrive Québec 2.4 : les vraies boîtes de vitesses",
       "text": "Chaque boîte de vitesses porte maintenant son vrai nom avec son type entre parenthèses (manuelle, automatisée, automatique), ses vrais rapports et un pont réaliste. 56 vraies boîtes arrivent, dont 41 manuelles Eaton Fuller. Tu joues en manuel? Prends une boîte manuelle. En automatique? Une automatisée ou une automatique. Les 16 boîtes qu'un vrai camion n'a jamais eues ne sont plus en vente, mais si ton camion en a une, il la garde. La paie baisse encore : chaque cargaison rapporte 37,5 % de ce que le jeu paie pour la même remorque, cargaisons des DLC comprises. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible » (Logbook), ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
       "popup": true,
@@ -125,12 +131,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.4",
+      "version": "2.4.1",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.4.scs",
-      "sha256": "5a3197c090cf405cdc950a31c1f07629986a6c1ae9d31c5c1bae972a326de40b",
-      "sizeBytes": 52405067,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.4.1.scs",
+      "sha256": "59bacf61d39bcbc8543189b42237dec8b7c5f2285efb4950a31b17f104551fef",
+      "sizeBytes": 52415886,
       "required": true,
       "loadOrder": 70
     },
@@ -178,5 +184,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261007011533
+  "serial": 20261007015801
 }
