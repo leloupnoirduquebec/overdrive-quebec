@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.8",
+  "version": "0.5.9",
   "mandatory": false,
-  "notes": "Mise à jour du mod Overdrive : tu ne peux plus la manquer. Quand une nouvelle version du mod est sortie, une affiche « Mise à jour du mod Overdrive disponible » apparaît dans la fenêtre principale, juste au-dessus du bouton LOGBOOK, avec une flèche qui pointe vers lui. Le bouton LOGBOOK s'allume et porte une petite flèche vers le bas. Clique sur l'affiche ou sur le LOGBOOK : ton Logbook s'ouvre directement sur la mise à jour, un clic sur « Installer » et le petit camion roule sur la barre jusqu'à « À jour ». Avant, la mise à jour n'était visible que si tu ouvrais ton Logbook toi-même.",
-  "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/Overdrive-0.5.8.exe",
-  "sizeBytes": 65204305,
-  "sha256": "61181a8549188cfd130cdb8de825b846c07e8d6da39dcbae89178a46abf74436",
+  "notes": "Sécurité renforcée : les mises à jour du lanceur et le contenu de la communauté sont maintenant signés par deux clés séparées, et la clé des mises à jour ne quitte plus jamais l'ordinateur de l'administrateur. Un fichier « manifest.json » déposé à côté du lanceur (par exemple dans ton dossier Téléchargements) n'est plus lu, et ta connexion Steam n'est envoyée qu'au serveur de la communauté. Tu n'as rien à faire.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.5.9.exe",
+  "sizeBytes": 65224798,
+  "sha256": "7e19a30def980adf0088c156400ed6c203a83cd73668c48e47d17fe48ddf9ea9",
   "published": "2026-10-07"
 }
