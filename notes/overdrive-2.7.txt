@@ -1,0 +1,77 @@
+OVERDRIVE QUÉBEC 2.7 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
+
+Cette version regroupe tout ce qui a été fait depuis la 2.4.1 : les versions 2.4.2, 2.5 et 2.6 n'ont jamais été publiées seules.
+
+━━━━━━━━━━━━━━━━━━━━
+À FAIRE AVANT DE TE CONNECTER
+━━━━━━━━━━━━━━━━━━━━
+- Garde Overdrive Québec TOUT EN HAUT de ta liste de mods, au-dessus de Slav Jerry et du M11.
+- Termine ou annule tes livraisons en cours avec un train double ou un train B avant la mise à jour : la répartition de la charge entre les remorques change.
+- Tes camions, tes remorques et leurs pièces restent à toi. Ta tête 53' de turnpike garde son nom ; son tandem est maintenant à la bonne place.
+- Si tu as un train B à tête courte (d'Overdrive : 28'+48', 28'+53', 32'+48', 32'+53', 30'+53', 32'+50' ; du jeu : fourgon ou plateau 28'+32', benne latérale 30'+36'), il n'est plus vendu et n'a plus de livraisons : vends-le et prends un train B à longueurs égales ou un double à diabolo.
+- La valeur de revente suit maintenant les vrais prix : un camion vaut plus ou moins cher qu'hier selon son vrai prix.
+
+━━━━━━━━━━━━━━━━━━━━
+LES VRAIS PRIX
+━━━━━━━━━━━━━━━━━━━━
+Tous les camions, les pièces, les moteurs, les boîtes de vitesses et les remorques coûtent maintenant leur vrai prix de 2025-2026, chacun avec sa source. Les DLC sont compris : camions, peintures, remorques Lode King et Prestige, pneus Michelin et Goodyear, jantes, jouets de cabine et W900 Tuning.
+- Kenworth W900L de référence (cabine couchette 86 po, X15, 18 vitesses) : environ 233 200 $.
+- Peterbilt 389 couchette : environ 215 000 $.
+- Volvo VNR Electric : 400 000 $, son vrai prix avant subventions.
+- Cummins X15 Performance 605 : environ 25 210 $.
+- Une remorque fourgon sec de 53 pi : environ 39 800 $ ; une Lode King Renown à plateau : environ 56 200 $.
+- Moteurs « Tuned » : seulement au-delà de la vraie cote d'usine maximale de la famille. Les M11 Custom 500 et 595 deviennent Tuned ; les X15 605, C15 625 et MP10 605 sont de vraies cotes d'usine et ne le sont plus.
+- Ce qui n'a aucune vraie source de prix garde le prix du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+RÉPARATIONS ET USURE
+━━━━━━━━━━━━━━━━━━━━
+- Une réparation ne coûte jamais plus que la pièce neuve.
+- Le moteur dure environ 1 000 000 de milles, la boîte de vitesses environ 750 000 milles.
+- Les pneus du camion durent environ 124 000 milles, ceux des remorques environ 174 000 milles.
+- Le châssis s'use aussi (freins, suspension, direction).
+
+━━━━━━━━━━━━━━━━━━━━
+LE VRAI PRIX DU DIESEL
+━━━━━━━━━━━━━━━━━━━━
+- Le diesel coûte son vrai prix moyen dans chaque État (moyennes AAA, semaine du 6 octobre 2026) : de 5,74 $ le gallon au Texas à 8,36 $ en Californie.
+
+━━━━━━━━━━━━━━━━━━━━
+CONVOI : MOINS DE VOITURES FANTÔMES
+━━━━━━━━━━━━━━━━━━━━
+- Les voitures d'IA apparaissent à au moins 400 m des joueurs et disparaissent au-delà de 500 m. Elles ont le temps d'exister chez tous les joueurs du convoi avant qu'on les croise : moins de voitures fantômes et de collisions bizarres.
+
+━━━━━━━━━━━━━━━━━━━━
+TRAINS ET ATTELAGES AUX VRAIES NORMES
+━━━━━━━━━━━━━━━━━━━━
+Toutes les remorques et tous les trains du jeu, des DLC et d'Overdrive ont été mesurés et comparés aux vraies règles (Ontario, Québec, Ouest canadien, États-Unis) et aux fiches des fabricants. Ce qui était faux est corrigé :
+- Tête 53' des turnpikes et des Rocky Mountain (fourgon sec, isolé, réfrigéré) : son tandem était collé à l'arrière ; il est maintenant à 12,5 m du pivot, comme une vraie tête de train.
+- Nouvelle tête 53' à 3 essieux, avec son tridem à 12,5 m.
+- Turnpike 53'+53' en deux versions (fourgon sec, isolé, réfrigéré) : 2 essieux + 2 essieux, et 3 essieux + 3 essieux, où la 2e remorque a un tridem fixe comme sa tête. Rocky Mountain 53'+28' avec une tête à 2 ou à 3 essieux.
+- Têtes de trains doubles : un tandem ou un tridem fixe. Le relevable ne se lève plus sur une tête.
+- Tête citerne 53' (carburant, chimique) du turnpike : un tridem fixe à 12,5 m au lieu de 4 essieux trop loin du crochet.
+- Bétaillère 48' de tête : son crochet est abaissé à la hauteur de l'œil du diabolo (il était 144 mm trop haut).
+- 2e remorque des doubles et des trains B (fourgon 53' et 48', plateau 53' et 48', fourgon à copeaux 48') : les essieux sont à leur vraie place, plus de porte-à-faux arrière trop long.
+- La remorque la plus longue est toujours devant : chaque remorque qui suit est aussi longue ou plus courte, trains B compris. Les trains B à tête courte d'Overdrive (fourgon et plateau 28'+48' et 28'+53', vrac 32'+48', carburant et gaz 32'+53', conteneur 30'+53', céréalière 32'+50') et du jeu (fourgon et plateau 28'+32', benne latérale 30'+36') ne sont plus vendus. Restent les trains B du jeu à longueurs égales (vrac, carburant et gaz 32'+32', conteneur 30'+30', céréalière 32'+28') et les doubles à diabolo de remorques égales. Les trains B Lode King Prestige 28'+30' (DLC) restent comme SCS les a faits.
+- Nouveaux trains B à longueurs égales : fourgon et plateau (ou rideau) 28'+28', avec une tête à 2 ou à 3 essieux, et benne latérale 30'+30'.
+- Nouveau train B 53'+53' pour le bois : une tête plateau 53' avec sa sellette et un tridem fixe, et une 2e remorque 53' au vrai empattement ; plateau en bois ou en aluminium, ou rideau. C'est un train fictif (les vrais trains B à bois sont plus courts) : prends les virages serrés avec soin.
+- Attelages à la vraie hauteur, à 20 mm près sur tous les trains : la plaque d'attelage de la céréalière était 49 mm trop basse, celle de la bétaillère 30 mm trop basse (elle s'enfonçait dans le diabolo) et celle de la benne à fond ouvrant 45' 26 mm trop haute ; la sellette du diabolo de vrac sec, le disque du diabolo de benne des remorques de compagnie et de l'IA, et le point d'attelage de la tête du train B gaz (40 mm trop haut) sont aussi corrigés.
+- La remorque la plus lourde est toujours devant : la charge se répartit pour que l'arrière ne soit jamais plus lourd.
+
+━━━━━━━━━━━━━━━━━━━━
+DES ESSIEUX COMME EN VRAI
+━━━━━━━━━━━━━━━━━━━━
+- Citernes de 53 pi à 4 essieux (chimique, alimentaire, carburant, gaz) : les essieux relevable et autovireur sont devant le tridem. Sur les citernes carburant, chimique (en D et en V) et alimentaire, l'essieu à pneus simples, qui était derrière, est maintenant le premier : c'est lui qui se relève, sur la remorque seule comme dans les doubles 53'+53'. La tête citerne du double a aussi ses pneus simples devant.
+- Citernes et vracs secs à 3 essieux : le relevable est devant.
+- Lode King et Prestige (DLC) : le relevable est devant sur les plateaux et les surbaissées à 3 essieux, et sur l'essieu avant de la remorque arrière du train B Prestige. Leurs vraies charges suivent la même règle que les remorques du jeu (un plateau 53 pi à 3 essieux prend 72 732 lb au lieu de 57 961). Si tu n'as pas ce DLC, rien ne change pour toi.
+- Les remorques de compagnie et de l'IA ont le même relevable que leur version achetable.
+
+━━━━━━━━━━━━━━━━━━━━
+PLUS DE TRAINS DANS LA CIRCULATION
+━━━━━━━━━━━━━━━━━━━━
+- L'IA tire des plateaux et des rideaux de 53 pi à 4 essieux, des citernes à carburant et à gaz de 53 pi à 4 essieux, des doubles Rocky Mountain et des triples, avec une cargaison au poids réel.
+- 13 nouveaux trains d'IA : Rocky Mountain 53'+28' et turnpikes 53'+53' (2 + 2 et 3 + 3 essieux), en fourgon sec, isolé et réfrigéré, avec les têtes et les 2es remorques corrigées, et le nouveau train B plateau 53'+53'. Les doubles et les triples d'IA du jeu roulent avec eux : la liste des longues remorques d'IA est chargée en entier.
+
+Bonne route!

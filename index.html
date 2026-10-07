@@ -33,23 +33,32 @@
 <main>
   <div class="kicker">Lanceur communautaire · American Truck Simulator</div>
   <h1>Overdrive Qu&#233;bec</h1>
-  <a class="get" href="Overdrive-0.5.9.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.5.9 · 62,2 Mo · Windows 10 ou 11, 64 bits · 2026-10-07 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.6.0.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.6.0 · 62,7 Mo · Windows 10 ou 11, 64 bits · 2026-10-07 · gratuit, rien à installer : un seul fichier.</div>
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>S&#233;curit&#233; renforc&#233;e : les mises &#224; jour du lanceur et le contenu de la communaut&#233; sont maintenant sign&#233;s par deux cl&#233;s s&#233;par&#233;es, et la cl&#233; des mises &#224; jour ne quitte plus jamais l&#39;ordinateur de l&#39;administrateur. Un fichier &#171; manifest.json &#187; d&#233;pos&#233; &#224; c&#244;t&#233; du lanceur (par exemple dans ton dossier T&#233;l&#233;chargements) n&#39;est plus lu, et ta connexion Steam n&#39;est envoy&#233;e qu&#39;au serveur de la communaut&#233;. Tu n&#39;as rien &#224; faire.</li>
-      <li>Si une version du lanceur plante au d&#233;marrage, l&#39;ancienne revient toute seule, et la v&#233;rification des mises &#224; jour se fait en premier : une version corrig&#233;e peut toujours t&#39;arriver sans tout ret&#233;l&#233;charger &#224; la main.</li>
-      <li>Le mod Overdrive peut maintenant &#234;tre t&#233;l&#233;charg&#233; d&#39;une deuxi&#232;me adresse si la premi&#232;re ne r&#233;pond pas, toujours v&#233;rifi&#233; par son empreinte. Un t&#233;l&#233;chargement qui ne re&#231;oit plus rien pendant une minute s&#39;arr&#234;te au lieu de tourner sans fin, puis l&#39;autre adresse est essay&#233;e.</li>
-      <li>Ta position en direct sur la carte n&#39;est plus jamais publique : sans connexion, la carte ne montre que des points anonymes (au kilom&#232;tre pr&#232;s), sans nom, sans vitesse ni livraison. Ton nom et ta livraison n&#39;apparaissent aux membres connect&#233;s que si tu actives le nouvel interrupteur &#171; Ma position en direct sur la carte des membres &#187; dans ton Logbook ; il est &#233;teint par d&#233;faut et tu peux l&#39;&#233;teindre en tout temps.</li>
-      <li>Si ton Logbook ou tes r&#233;glages ne peuvent pas &#234;tre lus (antivirus, OneDrive, version plus r&#233;cente du lanceur), le lanceur ne les &#233;crase plus jamais : il te dit o&#249; ton fichier est gard&#233;, et un fichier illisible est mis de c&#244;t&#233; au lieu d&#39;&#234;tre perdu.</li>
-      <li>Un fichier de Steam ab&#238;m&#233; (biblioth&#232;ques ou jeu) n&#39;emp&#234;che plus le lanceur de d&#233;marrer : le jeu est simplement indiqu&#233; comme introuvable.</li>
-      <li>Une r&#233;ponse bizarre d&#39;un serveur de jeu ne bloque plus le d&#233;marrage ni l&#39;actualisation : le serveur s&#39;affiche &#171; r&#233;ponse invalide &#187;.</li>
-      <li>Le plugin du Logbook garde tes &#233;v&#233;nements m&#234;me quand un antivirus bloque un instant son fichier, et conserve deux anciens journaux au lieu d&#39;un : tes trajets survivent &#224; de longues sessions sans ouvrir le lanceur.</li>
-      <li>Une image de profil ou de mod ab&#238;m&#233;e est ret&#233;l&#233;charg&#233;e au lieu de rester cass&#233;e.</li>
-      <li>Si tu ouvres le lanceur une deuxi&#232;me fois, la fen&#234;tre d&#233;j&#224; ouverte revient au premier plan au lieu d&#39;en ouvrir une autre.</li>
-      <li>Si un autre programme nomm&#233; &#171; Overdrive.exe &#187; (par exemple la liseuse OverDrive) se trouve dans le m&#234;me dossier, le lanceur ne le touche plus jamais.</li>
+      <li>**Nouveau : &#171; Options graphiques &#187;.** Une colonne &#224; gauche de la fen&#234;tre ouvre un panneau en cinq onglets. Rien n&#39;est inject&#233; dans le jeu, et le lanceur ne touche jamais aux r&#233;glages de ton pilote.</li>
+      <li>**Ta carte graphique.** Le lanceur lit ta carte (marque, mod&#232;le, version du pilote) et te montre ce que son pilote offre gratuitement, avec les &#233;tapes exactes et un lien vers la page du fabricant :</li>
+      <li>AMD : la g&#233;n&#233;ration d&#39;images AFMF 2 et Radeon Super Resolution. Notre conseil : dans le pilote AMD, r&#232;gle FSR (la mise &#224; l&#39;&#233;chelle) sur &#171; Qualit&#233; &#187;.</li>
+      <li>NVIDIA : Smooth Motion (RTX 40 et 50) et NVIDIA Image Scaling.</li>
+      <li>Intel : il n&#39;y a pas d&#39;&#233;quivalent dans le pilote, et le lanceur te le dit franchement.</li>
+      <li>**DirectX 11 / DirectX 12 (exp&#233;rimental).** Le jeu contient un rendu DirectX 12 cach&#233;. Tu peux l&#39;essayer d&#39;un clic, jeu ferm&#233; ; ton r&#233;glage d&#39;avant est gard&#233; et revient avec &#171; DirectX 11 &#187;. SCS ne le supporte pas encore officiellement, et il peut briser les ajouts faits pour DirectX 11 (Snowy Moon, ReShade) : reviens &#224; DirectX 11 si quelque chose cloche.</li>
+      <li>**Retour automatique.** Si, apr&#232;s un d&#233;part par Jouer, le jeu refuse DirectX 12 ou se ferme dans les deux premi&#232;res minutes, le lanceur remet DirectX 11 tout seul et te l&#39;explique au prochain d&#233;marrage. Si tu choisis &#171; Launch with DirectX11 &#187; dans le menu de Steam, ce choix passe avant : le lanceur te le signale.</li>
+      <li>**Mesurer mes images par seconde.** Un test avant / apr&#232;s : une minute de route en DirectX 11, puis la m&#234;me en DirectX 12 (ou avec AFMF, Smooth Motion…). Tu vois la moyenne, le &#171; 1 % bas &#187; (les saccades que tu sens) et le temps d&#39;image p99, c&#244;te &#224; c&#244;te, avec un verdict. La mesure utilise PresentMon (Intel, gratuit, licence MIT), un programme s&#233;par&#233; qui ne touche pas au jeu. Les r&#233;sultats restent sur ton PC.</li>
+      <li>Si Windows ne donne pas &#224; ton compte le droit de mesurer, le lanceur te l&#39;explique et t&#39;offre deux choix : mesurer en administrateur (Windows te le demande), ou t&#39;ajouter une fois pour toutes au groupe &#171; Utilisateurs du journal de performances &#187;.</li>
+      <li>**Mise &#224; l&#39;&#233;chelle (FSR / DLSS / XeSS) : un guide pas &#224; pas pour ta marque.** AMD, NVIDIA ou Intel : le guide de ta carte s&#39;ouvre en premier, et chaque &#233;tape te dit ce qu&#39;elle change pour toi.</li>
+      <li>**NVIDIA GeForce RTX (20 &#224; 50) :** le vrai DLSS avec Snowy Moon seul, sans OptiScaler. Comment choisir le mode DLSS, comment avoir un DLSS plus r&#233;cent par les voies officielles de NVIDIA (et franchement ce que l&#39;app NVIDIA peut ou ne peut pas faire pour ATS), et Smooth Motion sur RTX 40 et 50, puisque la g&#233;n&#233;ration d&#39;images DLSS est impossible dans ATS.</li>
+      <li>**NVIDIA GeForce GTX 10 et 16 :** FSR 3.1 avec OptiScaler, ou NVIDIA Image Scaling si tu pr&#233;f&#232;res ne rien installer.</li>
+      <li>**AMD Radeon :** FSR 3.1, ou FSR 4 sur une RX 9000, avec OptiScaler, et AFMF du pilote pour la g&#233;n&#233;ration d&#39;images.</li>
+      <li>**Intel Arc :** XeSS avec OptiScaler.</li>
+      <li>Ce que font Snowy Moon, OptiScaler et fakenvapi, ce que ta carte peut avoir dans ATS (ta carte est surlign&#233;e), o&#249; prendre chaque pi&#232;ce chez son auteur, comment l&#39;installer toi-m&#234;me, et la liste exacte des fichiers &#224; enlever pour revenir au jeu d&#39;origine. Outils tiers, non support&#233;s par SCS, &#224; tes risques : Overdrive n&#39;installe rien et ne t&#233;l&#233;charge rien.</li>
+      <li>**Le pi&#232;ge de l&#39;&#233;chelle, expliqu&#233;.** L&#39;&#171; &#201;chelle &#187; d&#39;ATS et le mode de Snowy Moon se multiplient : &#224; 125 % sur un &#233;cran 4K, l&#39;upscaler fabriquait une image de 8163x4598, FSR 4 refusait de d&#233;marrer et OptiScaler retombait sans rien dire sur FSR 2.2.1. Un tableau te donne la bonne &#201;chelle pour chaque mode (Qualit&#233; : 67 %, ou 75 % dans le menu ; &#201;quilibr&#233; : 59 %, ou 50 % ; Performance : 50 %). Ne d&#233;passe jamais 100 % avec un upscaler.</li>
+      <li>**R&#233;gler OptiScaler et v&#233;rifier que &#231;a marche :** les noms exacts de son menu (&#171; FSR 3.X/4 w/Dx12 &#187;, &#171; Change Upscaler &#187;, &#171; No Frame Generation &#187;, &#171; Save Settings &#187;), ce qu&#39;il faut lire en haut de son affichage (&#171; FSR3 w/Dx12 4.x &#187;, &#171; FSR 4.1.1 &#187; sur une RX 9000), et quoi faire si tu lis &#171; FSR 2.2.1 &#187;. Nos pr&#233;r&#233;glages OptiScaler.ini, un par famille de cartes, s&#39;enregistrent o&#249; tu veux.</li>
+      <li>**Processeur ou carte graphique ?** Un test simple (l&#39;&#201;chelle &#224; 50 % sur l&#39;autoroute) pour savoir ce qui te limite, et quoi faire si c&#39;est ton processeur : la g&#233;n&#233;ration d&#39;images du pilote, moins de trafic, une distance d&#39;affichage plus courte. Mesure avant et apr&#232;s.</li>
+      <li>**Nouveau : l&#39;onglet Diagnostic.** Il lit config.cfg, et le r&#233;glage et le journal d&#39;OptiScaler s&#39;il est l&#224;, et te dit en clair ce qui se passe, par exemple : &#171; Ton jeu dessine en 4800x2704 et l&#39;agrandit en 8163x4598 : c&#39;est trop grand pour ton &#233;cran, FSR 4 ne d&#233;marre pas. Mets l&#39;&#233;chelle &#224; 50 %. &#187; Sur une GeForce RTX, tu choisis ton mode DLSS et il fait le calcul. Le bouton &#171; R&#233;gler l&#39;&#233;chelle exacte &#187; &#233;crit la valeur que le menu d&#39;ATS ne propose pas (67 %, 59 %), jeu ferm&#233;, avec une copie et &#171; Remettre mon &#233;chelle d&#39;avant &#187;. Il ne touche jamais aux fichiers d&#39;OptiScaler ni de Snowy Moon.</li>
+      <li>La ronde de s&#233;curit&#233; te signale Snowy Moon ou OptiScaler dans ton jeu, et t&#39;avertit si le jeu est r&#233;gl&#233; en DirectX 12 alors que Snowy Moon, lui, ne marche qu&#39;en DirectX 11.</li>
     </ul>
   </section>
 
@@ -62,7 +71,7 @@
   <section class="card">
     <h2>Comment vérifier le fichier</h2>
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>7e19a30def980adf0088c156400ed6c203a83cd73668c48e47d17fe48ddf9ea9</code></p>
+    <p><code>86312ddb9520f9dbe04d2568a8e7e0c7f4e1a8194f63b869dde1cbda7f43e520</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
     <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>

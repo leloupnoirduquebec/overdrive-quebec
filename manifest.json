@@ -10,6 +10,17 @@
   },
   "news": [
     {
+      "date": "2026-10-07",
+      "title": "Overdrive Québec 2.7 : vrais prix, trains aux vraies normes",
+      "text": "Cette mise à jour regroupe tout depuis la 2.4.1. Tout coûte maintenant son vrai prix de 2025-2026, DLC compris (un W900 environ 233 000 $, un X15 605 environ 25 000 $), avec une vraie usure : les pneus du camion durent environ 124 000 milles, le moteur environ 1 000 000, et une réparation ne coûte jamais plus que la pièce neuve. Le diesel coûte son vrai prix dans chaque État, et les voitures d'IA apparaissent à au moins 400 m des joueurs : moins de voitures fantômes en convoi. Les essieux et les trains suivent maintenant les vraies normes : la tête 53' des fourgons a son tandem à 12,5 m du pivot (ou un tridem), le turnpike 53'+53' se prend en 2 essieux + 2 essieux ou en 3 essieux + 3 essieux, les 2es remorques ont leur vrai porte-à-faux, les attelages sont à la vraie hauteur, les Lode King et Prestige ont leur relevable devant, et la remorque la plus lourde roule toujours devant. La plus longue aussi : les trains B à tête courte font place à des trains B à longueurs égales (28'+28', 30'+30') et à un train B plateau 53'+53' pour le bois. Sur la route, l'IA tire de nouveaux trains : Rocky Mountain 53'+28', turnpikes 53'+53' et le train B 53'+53'. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.7.txt",
+        "sha256": "f2cb2ddddebdc528b6faf420a975d019883c1b3172d885d954c1c6b5fca5ca14",
+        "sizeBytes": 8452
+      }
+    },
+    {
       "date": "2026-10-06",
       "title": "Overdrive Québec 2.4.1 : des noms de boîtes lisibles",
       "text": "Les noms des boîtes de vitesses étaient trop longs et coupés au garage. Ils sont maintenant courts, avec le type entre parenthèses : (AUT) automatique, (MAN) manuelle, (SYNC) automatisée. Un « R » veut dire avec ralentisseur. Et seules les boîtes qui vont avec ton moteur sont offertes. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
@@ -131,12 +142,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.4.1",
+      "version": "2.7",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.4.1.scs",
-      "sha256": "59bacf61d39bcbc8543189b42237dec8b7c5f2285efb4950a31b17f104551fef",
-      "sizeBytes": 52415886,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.7.scs",
+      "sha256": "d389c1d511df364260de7322680afcbef752ca3f1956500cc17a171506da3299",
+      "sizeBytes": 92412580,
       "required": true,
       "loadOrder": 70
     },
@@ -184,5 +195,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261007151334
+  "serial": 20261007190211
 }

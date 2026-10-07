@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.5.9",
+  "version": "0.6.0",
   "mandatory": false,
-  "notes": "Sécurité renforcée : les mises à jour du lanceur et le contenu de la communauté sont maintenant signés par deux clés séparées, et la clé des mises à jour ne quitte plus jamais l'ordinateur de l'administrateur. Un fichier « manifest.json » déposé à côté du lanceur (par exemple dans ton dossier Téléchargements) n'est plus lu, et ta connexion Steam n'est envoyée qu'au serveur de la communauté. Tu n'as rien à faire.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.5.9.exe",
-  "sizeBytes": 65224798,
-  "sha256": "7e19a30def980adf0088c156400ed6c203a83cd73668c48e47d17fe48ddf9ea9",
+  "notes": "**Nouveau : « Options graphiques ».** Une colonne à gauche de la fenêtre ouvre un panneau en cinq onglets. Rien n'est injecté dans le jeu, et le lanceur ne touche jamais aux réglages de ton pilote.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.0.exe",
+  "sizeBytes": 65754378,
+  "sha256": "86312ddb9520f9dbe04d2568a8e7e0c7f4e1a8194f63b869dde1cbda7f43e520",
   "published": "2026-10-07"
 }
