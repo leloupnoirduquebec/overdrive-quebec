@@ -1,0 +1,32 @@
+OVERDRIVE QUÉBEC 2.7.3 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
+
+Cette version ajoute une seule chose : l'éclairage au sol DEL pour le Kenworth W900. Tout le reste de la 2.7.2 est inchangé.
+
+━━━━━━━━━━━━━━━━━━━━
+À FAIRE AVANT DE TE CONNECTER
+━━━━━━━━━━━━━━━━━━━━
+- Garde Overdrive Québec TOUT EN HAUT de ta liste de mods, au-dessus de Slav Jerry et du M11.
+- Tes camions, tes remorques et leurs pièces restent à toi. Rien ne s'installe tout seul : l'éclairage au sol s'achète au magasin.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU : ÉCLAIRAGE AU SOL DEL (KENWORTH W900)
+━━━━━━━━━━━━━━━━━━━━
+- Une nouvelle case au magasin du W900 : « Éclairage au sol ».
+- Un néon DEL le long des deux longerons et une bande de lumière égale au sol : sous tout le camion, d'un pare-chocs à l'autre, et environ 20 cm au-delà des pneus, avec des bords droits sur les côtés, à l'avant et à l'arrière.
+- 10 couleurs, une par article : orange-rouge (la couleur de base), orange, rouge, rose, violet, bleu, cyan, vert, jaune et blanc. Le néon prend la couleur.
+- Il s'allume avec les feux de position : touche L.
+- Prix : 1 600 $, le vrai prix de cinq ensembles de bandes DEL sous caisse (StreetGlow HD, 320 $ chacun), assez pour les deux longerons. Offert dès le niveau 0.
+- Sur 16 des 17 châssis du W900, toutes les cabines : tous sauf le 6x4 long 100e anniversaire, qui n'a pas le point d'attache.
+- Seulement le W900 pour l'instant.
+- La lumière pointe vers le bas : la remorque n'est pas éclairée, seulement le sol. Les lumières restent à 10 cm ou plus des pièces du camion (supports, ressorts, réservoirs, marches).
+- Si tu as les lumières de Noël décoratives du W900 (gyrophares x21/x24), elles prennent le même point d'attache : c'est l'un ou l'autre.
+
+━━━━━━━━━━━━━━━━━━━━
+LES IMAGES/SECONDE
+━━━━━━━━━━━━━━━━━━━━
+- Pour une bande égale et des bords droits, l'éclairage compte beaucoup de petites lumières : de 75 à 95 par camion selon le châssis.
+- Si tes images/seconde baissent la nuit, enlève l'éclairage au sol de ton camion au garage, et dis-le-nous : si ça nuit aux fps des joueurs, on le retirera ou on mettra moins de lumières.
+
+Bonne route!

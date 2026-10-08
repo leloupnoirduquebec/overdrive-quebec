@@ -10,6 +10,17 @@
   },
   "news": [
     {
+      "date": "2026-10-08",
+      "title": "Overdrive Québec 2.7.3 : éclairage au sol DEL pour le Kenworth W900",
+      "text": "Nouveau au magasin du Kenworth W900 : la case « Éclairage au sol ». Un néon DEL le long des longerons et une bande de lumière égale au sol, sous tout le camion et environ 20 cm au-delà des pneus, d'un pare-chocs à l'autre. 10 couleurs, orange-rouge en premier, à 1 600 $ (le vrai prix). Elle s'allume avec les feux de position (touche L). Seulement le W900 pour l'instant, sur 16 de ses 17 châssis. Elle compte beaucoup de petites lumières : si tes images/seconde baissent, enlève-la au garage et dis-le-nous, on pourra la retirer. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.7.3.txt",
+        "sha256": "7a4a7a5a70bd09811e43a18c46b355ab7f79c46bc1ef1ec3fca20eecb33c78bd",
+        "sizeBytes": 2564
+      }
+    },
+    {
       "date": "2026-10-07",
       "title": "Overdrive Québec 2.7.2 : double de citernes à gaz, trains B 28'+28' à 2 essieux arrière, essieux décollés de l'arrière",
       "text": "Deux nouvelles pièces modélisées. Le Turnpike double 53' gaz : deux citernes à gaz de 53 pi sur un diabolo à 2 essieux, la tête avec son propre crochet d'attelage. Et une remorque arrière de 28 pi à 2 essieux pour les trains B 28'+28', en fourgon et en plateau ou rideau : deux nouvelles options, « 3 essieux + 2 essieux » et « 2 essieux + 2 essieux ». Les trains B 28'+28' existants restent offerts et s'appellent maintenant « 3 essieux + 1 essieu » et « 2 essieux + 1 essieu ». Les essieux ne collent plus à l'arrière : à 41 pi du pivot sur les remorques de 53 pi du jeu (fourgon, porte-conteneur) et à 11,45 m sur celles de 48 pi, et les essieux coulissants s'arrêtent là. Tes remorques déjà achetées prennent la correction ; prix, tare et charge utile ne changent pas. Sur la route, l'IA tire aussi le double de citernes à gaz et le train B plateau 28'+28' à 2 essieux arrière. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
@@ -153,12 +164,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.7.2",
+      "version": "2.7.3",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.7.2.scs",
-      "sha256": "c70b7e5b124f3f743a9acb850efba67a3196771e805096dfef72057af0d511ab",
-      "sizeBytes": 108022182,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.7.3.scs",
+      "sha256": "957503ef8f5931f10ddb3c9b2ab5e08943c80f4d555be1a52ec1455f2d41e700",
+      "sizeBytes": 108587345,
       "required": true,
       "loadOrder": 70
     },
@@ -206,5 +217,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261008003505
+  "serial": 20261008165940
 }
