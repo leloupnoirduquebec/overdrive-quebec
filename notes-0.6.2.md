@@ -1,0 +1,9 @@
+# Overdrive Québec 0.6.2
+
+Cette version continue de protéger tes réglages, surtout si tu les as déjà refaits toi-même.
+
+- **« Restaurer mes réglages » ne défait plus ce que tu as changé toi-même.** Le lanceur note maintenant chaque valeur qu'il écrit. À la restauration, il ne remet un réglage que s'il dit encore exactement ce que le lanceur y a écrit. Si tu l'as changé dans le jeu depuis, il le garde et te le dit : « Gardé, tu l'as changé toi-même ». Même chose pour « Remettre mon échelle d'avant » dans l'onglet Diagnostic.
+- **Une copie faite par une ancienne version (0.5.9 à 0.6.1) ne remet rien à l'aveugle.** Ces versions ne notaient pas ce qu'elles écrivaient : le lanceur ne peut pas savoir si une valeur vient de lui ou de toi. Dans le doute, il ne touche à rien et te dit quels réglages il a laissés. Si tu veux les valeurs d'avant, change-les dans le jeu.
+- **Ta copie d'avant reste tant que quelque chose est gardé.** Le lanceur ne l'efface que quand tout est revenu comme avant. Le message te dit où elle est, pour que tu puisses y relire tes anciennes valeurs.
+- **Quatre réglages de conduite sont communs à tous tes profils.** Les secousses de la route, les essuie-glaces automatiques, l'ABS et l'antipatinage sont dans un fichier partagé par tous les profils de ton PC. La fenêtre de conduite le dit maintenant à côté d'« Appliquer », et le rappelle après « Appliquer » et « Restaurer mes réglages ».
+- **Plus rien du lanceur dans ton Steam Cloud.** Les copies de sécurité du lanceur ne sont plus à côté de tes fichiers du jeu. Elles vont dans le dossier du lanceur, `%LOCALAPPDATA%\ConvoiQuebec\sauvegardes-reglages`, un dossier par profil. Les copies laissées par les anciennes versions y sont déplacées au premier démarrage, jeu fermé, sans en perdre ni en écraser une seule. Dans un profil Steam Cloud, le lanceur ne change plus que la ligne de config.cfg que tu lui demandes.

@@ -33,18 +33,17 @@
 <main>
   <div class="kicker">Lanceur communautaire · American Truck Simulator</div>
   <h1>Overdrive Qu&#233;bec</h1>
-  <a class="get" href="Overdrive-0.6.1.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.6.1 · 62,7 Mo · Windows 10 ou 11, 64 bits · 2026-10-07 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.6.2.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.6.2 · 62,7 Mo · Windows 10 ou 11, 64 bits · 2026-10-08 · gratuit, rien à installer : un seul fichier.</div>
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>**DirectX 12 : plus de retour automatique.** Si le jeu refuse DirectX 12 ou se ferme dans les deux premi&#232;res minutes, le lanceur te le dit et te propose &#171; Revenir &#224; DirectX 11 &#187; ou &#171; Garder DirectX 12 &#187;. Rien ne change sans ton clic (en 0.6.0, il remettait DirectX 11 tout seul, m&#234;me si tu avais simplement quitt&#233; le jeu vite).</li>
-      <li>**Un choix fait pendant que le jeu tournait ne passe plus par-dessus tes r&#233;glages.** Un mode de conduite ou une option choisis jeu ouvert attendent le prochain &#171; Jouer &#187;. Si, entre-temps, tu as chang&#233; ces r&#233;glages dans le jeu, c&#39;est ton choix dans le jeu qui gagne : le lanceur laisse tomber le sien et te le dit. Un choix en attente gard&#233; par une ancienne version du lanceur n&#39;est plus appliqu&#233; (il ne peut pas &#234;tre v&#233;rifi&#233;) : refais-le si tu le veux encore.</li>
-      <li>**R&#233;glages personnalis&#233;s : aucun mode n&#39;est pr&#233;s&#233;lectionn&#233;.** Si tes r&#233;glages ne correspondent &#224; aucun mode, la fen&#234;tre de conduite affiche &#171; Personnalis&#233; &#187;, aucune carte n&#39;est coch&#233;e et &#171; Appliquer &#187; reste gris&#233; tant que tu n&#39;as pas choisi un mode.</li>
-      <li>**&#171; Restaurer mes r&#233;glages &#187; ne recr&#233;e plus jamais un fichier.** Si tu as effac&#233; un config.cfg (pour remettre le jeu &#224; z&#233;ro), le lanceur ne le remplace plus par ton ancienne copie compl&#232;te : il te le signale et garde la copie.</li>
-      <li>Le lanceur lit maintenant tes fichiers de r&#233;glages en laissant le jeu les &#233;crire en m&#234;me temps : une lecture au moment o&#249; le jeu se ferme ne peut plus l&#39;emp&#234;cher d&#39;enregistrer.</li>
-      <li>La correction des fuseaux horaires nomme le profil qu&#39;elle va modifier.</li>
+      <li>**&#171; Restaurer mes r&#233;glages &#187; ne d&#233;fait plus ce que tu as chang&#233; toi-m&#234;me.** Le lanceur note maintenant chaque valeur qu&#39;il &#233;crit. &#192; la restauration, il ne remet un r&#233;glage que s&#39;il dit encore exactement ce que le lanceur y a &#233;crit. Si tu l&#39;as chang&#233; dans le jeu depuis, il le garde et te le dit : &#171; Gard&#233;, tu l&#39;as chang&#233; toi-m&#234;me &#187;. M&#234;me chose pour &#171; Remettre mon &#233;chelle d&#39;avant &#187; dans l&#39;onglet Diagnostic.</li>
+      <li>**Une copie faite par une ancienne version (0.5.9 &#224; 0.6.1) ne remet rien &#224; l&#39;aveugle.** Ces versions ne notaient pas ce qu&#39;elles &#233;crivaient : le lanceur ne peut pas savoir si une valeur vient de lui ou de toi. Dans le doute, il ne touche &#224; rien et te dit quels r&#233;glages il a laiss&#233;s. Si tu veux les valeurs d&#39;avant, change-les dans le jeu.</li>
+      <li>**Ta copie d&#39;avant reste tant que quelque chose est gard&#233;.** Le lanceur ne l&#39;efface que quand tout est revenu comme avant. Le message te dit o&#249; elle est, pour que tu puisses y relire tes anciennes valeurs.</li>
+      <li>**Quatre r&#233;glages de conduite sont communs &#224; tous tes profils.** Les secousses de la route, les essuie-glaces automatiques, l&#39;ABS et l&#39;antipatinage sont dans un fichier partag&#233; par tous les profils de ton PC. La fen&#234;tre de conduite le dit maintenant &#224; c&#244;t&#233; d&#39;&#171; Appliquer &#187;, et le rappelle apr&#232;s &#171; Appliquer &#187; et &#171; Restaurer mes r&#233;glages &#187;.</li>
+      <li>**Plus rien du lanceur dans ton Steam Cloud.** Les copies de s&#233;curit&#233; du lanceur ne sont plus &#224; c&#244;t&#233; de tes fichiers du jeu. Elles vont dans le dossier du lanceur, `%LOCALAPPDATA%\ConvoiQuebec\sauvegardes-reglages`, un dossier par profil. Les copies laiss&#233;es par les anciennes versions y sont d&#233;plac&#233;es au premier d&#233;marrage, jeu ferm&#233;, sans en perdre ni en &#233;craser une seule. Dans un profil Steam Cloud, le lanceur ne change plus que la ligne de config.cfg que tu lui demandes.</li>
     </ul>
   </section>
 
@@ -57,7 +56,7 @@
   <section class="card">
     <h2>Comment vérifier le fichier</h2>
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>48d3d6d1280a56c03eaf175cded425b7caa4072be6ee5111295bb47e36912fa3</code></p>
+    <p><code>8410e67fbbdac4aa6e57c01a1a65461e199c6eaf1f2f688a288eaca43662d34d</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
     <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>

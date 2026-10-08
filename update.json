@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.6.1",
+  "version": "0.6.2",
   "mandatory": false,
-  "notes": "**DirectX 12 : plus de retour automatique.** Si le jeu refuse DirectX 12 ou se ferme dans les deux premières minutes, le lanceur te le dit et te propose « Revenir à DirectX 11 » ou « Garder DirectX 12 ». Rien ne change sans ton clic (en 0.6.0, il remettait DirectX 11 tout seul, même si tu avais simplement quitté le jeu vite).",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.1.exe",
-  "sizeBytes": 65756330,
-  "sha256": "48d3d6d1280a56c03eaf175cded425b7caa4072be6ee5111295bb47e36912fa3",
-  "published": "2026-10-07"
+  "notes": "**« Restaurer mes réglages » ne défait plus ce que tu as changé toi-même.** Le lanceur note maintenant chaque valeur qu'il écrit. À la restauration, il ne remet un réglage que s'il dit encore exactement ce que le lanceur y a écrit. Si tu l'as changé dans le jeu depuis, il le garde et te le dit : « Gardé, tu l'as changé toi-même ». Même chose pour « Remettre mon échelle d'avant » dans l'onglet Diagnostic.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.2.exe",
+  "sizeBytes": 65766196,
+  "sha256": "8410e67fbbdac4aa6e57c01a1a65461e199c6eaf1f2f688a288eaca43662d34d",
+  "published": "2026-10-08"
 }

@@ -1,0 +1,64 @@
+OVERDRIVE QUÉBEC 2.7.2 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
+
+Cette version regroupe tout ce qui a été fait depuis la 2.7 : la 2.7.1 n'a jamais été publiée seule. Elle apporte deux nouvelles pièces modélisées (un double de citernes à gaz et une remorque arrière de 28 pi à deux essieux pour les trains B) et des essieux décollés de l'arrière sur les semi-remorques de 48 et 53 pi.
+
+━━━━━━━━━━━━━━━━━━━━
+À FAIRE AVANT DE TE CONNECTER
+━━━━━━━━━━━━━━━━━━━━
+- Garde Overdrive Québec TOUT EN HAUT de ta liste de mods, au-dessus de Slav Jerry et du M11.
+- Tes camions, tes remorques et leurs pièces restent à toi. Ton train B 28'+28' reste le même : seul son nom change.
+- Tes remorques déjà achetées prennent les essieux à la nouvelle place, sans rien faire. Si tu as une remorque à essieux coulissants, regarde où sont ses essieux au premier chargement et règle-les à vide au besoin.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU : DOUBLE DE CITERNES À GAZ 53'+53'
+━━━━━━━━━━━━━━━━━━━━
+- Nouveau train « Turnpike double 53' gaz » (au garage : « Turnpike double 53' gas 4 axles + 4 axles ») : deux citernes à gaz de 53 pi sur un diabolo à 2 essieux.
+- La citerne à gaz du jeu n'avait pas de crochet à l'arrière : la tête en a maintenant un, avec la plaque, le crochet et les prises de la citerne à carburant du jeu. Le crochet est à 1,000 m du sol, comme tous les attelages du jeu, et la barre arrière reste sur la dernière citerne.
+- Le diabolo est le 2 essieux du jeu à sellette haute : la 2e citerne y pose à 7 mm près.
+- Les deux citernes gardent leurs 4 essieux (un simple écarté devant un tridem), avec les relevables devant.
+- C'est un train Overdrive : en vrai, les doubles de gaz roulent en train B. Il est permis partout, comme les autres.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU : TRAINS B 28'+28' AVEC UNE REMORQUE ARRIÈRE À 2 ESSIEUX
+━━━━━━━━━━━━━━━━━━━━
+- Nouvelle remorque arrière de 28 pi à tandem (2 essieux), en fourgon (sec, isolé, réfrigéré) et en plateau ou rideau, comme sur les vrais trains B de l'Ouest canadien.
+- Deux nouvelles options pour le train B 28'+28' : « 3 essieux + 2 essieux » et « 2 essieux + 2 essieux » (au garage : « 3 axles + 2 axles » et « 2 axles + 2 axles »).
+- Les deux trains B 28'+28' existants, avec la 28 pi à un essieu du jeu, sont toujours offerts. Ils s'appellent maintenant « 3 essieux + 1 essieu » et « 2 essieux + 1 essieu » (« 3 axles + 1 axle », « 2 axles + 1 axle »).
+- Le 2e essieu est placé à 1,245 m (49 po) devant le premier, l'écartement courant. Sur le plateau, l'essieu recule de 0,17 m pour atteindre le vrai minimum de 6,25 m entre le pivot et les essieux.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU : LES ESSIEUX DÉCOLLÉS DE L'ARRIÈRE (48 ET 53 PI)
+━━━━━━━━━━━━━━━━━━━━
+Sur plusieurs remorques du jeu, le dernier pneu touchait presque le bout de la remorque. Les essieux avancent maintenant à une place réelle. Les distances vont du pivot au centre des essieux.
+- 53 pi, à 41 pi (12,50 m) : fourgon (tandem arrière et coulissant) et porte-conteneur (tandem arrière, coulissant et 3 essieux). Sur le fourgon, le dernier pneu passe de 0,54 m à 1,68 m du bout.
+- 48 pi, à 11,45 m (37,6 pi), le bas de la vraie fenêtre d'une tête de train long : fourgon et fourgon à copeaux (tandem arrière et coulissant), plateau, vrac sec à 2 et à 3 essieux, citerne à gaz à 3 essieux et bétaillère à 2 essieux. Le dernier pneu est maintenant à environ 1 à 1,6 m du bout sur les tandems.
+- Surbaissée 48 pi : son tandem avance de 31 cm, à 11,76 m. Les traverses du plancher bas passent juste au-dessus de ses petits pneus : un pneu doit rester entre deux traverses, et 11,45 m tombe sur une traverse.
+- Les têtes de 48 pi de nos doubles (fourgon et fourgon à copeaux) suivent : essieux à 11,45 m, crochet et diabolo inchangés.
+- Essieux coulissants : la butée arrière est maintenant la nouvelle place (41 pi sur la 53 pi, 11,45 m sur la 48 pi). La butée avant ne change pas.
+- La suspension, les freins, les ailes, les garde-boue, l'ombre des roues et la collision avancent avec les essieux. Chaque remorque corrigée remplace celle du jeu sous le même nom : pas de doublon, et tes remorques déjà achetées et tes sauvegardes prennent la correction.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS, ET POURQUOI
+━━━━━━━━━━━━━━━━━━━━
+- Le prix, la tare et la charge utile de chaque remorque ne changent pas.
+- Bétaillère 48 pi à 3 essieux (et la tête de notre double bétaillère) : le ventre de la caisse arrête les pneus après 16 cm. Elle reste à 12,10 m (39,7 pi), sous les 41 pi.
+- Plateau et surbaissée 53 pi à tandem arrière : à 15 cm de la cible ou moins, ils restent comme ils sont.
+- Remorques des DLC (Lode King, Prestige) : leurs modèles ne sont pas touchés.
+- Essieux écartés, têtes de trains B, fardiers et porte-autos : leurs essieux restent à leur place.
+- Les citernes à carburant et chimique de 48 pi, les remorques à 3 essieux de 48 pi (plateau, surbaissée) et toutes les remorques de compagnie et de l'IA étaient déjà à la bonne place ou devant.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIONS
+━━━━━━━━━━━━━━━━━━━━
+- 2es remorques plateau des doubles (53 pi et 48 pi) : leur tandem emportait 3 à 5 traverses du cadre avec lui et laissait des trous. Les traverses restent maintenant en place.
+- Les ailes des citernes et de la bétaillère, et le garde-boue de la bétaillère, suivent maintenant leurs essieux.
+
+━━━━━━━━━━━━━━━━━━━━
+DANS LA CIRCULATION
+━━━━━━━━━━━━━━━━━━━━
+- L'IA tire aussi les nouveaux trains : le double de citernes à gaz 53'+53' et le train B plateau 28'+28' à 3 essieux + 2 essieux. Les remorques de compagnie ont aussi leur version de la tête à gaz avec crochet et de la 28 pi à tandem.
+- Les têtes à 3 essieux des doubles 53' de l'IA (fourgon sec, isolé, réfrigéré) n'ont plus d'essieu relevable : un tridem fixe, comme la tête achetable.
+
+Bonne route!

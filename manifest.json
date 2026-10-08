@@ -11,6 +11,17 @@
   "news": [
     {
       "date": "2026-10-07",
+      "title": "Overdrive Québec 2.7.2 : double de citernes à gaz, trains B 28'+28' à 2 essieux arrière, essieux décollés de l'arrière",
+      "text": "Deux nouvelles pièces modélisées. Le Turnpike double 53' gaz : deux citernes à gaz de 53 pi sur un diabolo à 2 essieux, la tête avec son propre crochet d'attelage. Et une remorque arrière de 28 pi à 2 essieux pour les trains B 28'+28', en fourgon et en plateau ou rideau : deux nouvelles options, « 3 essieux + 2 essieux » et « 2 essieux + 2 essieux ». Les trains B 28'+28' existants restent offerts et s'appellent maintenant « 3 essieux + 1 essieu » et « 2 essieux + 1 essieu ». Les essieux ne collent plus à l'arrière : à 41 pi du pivot sur les remorques de 53 pi du jeu (fourgon, porte-conteneur) et à 11,45 m sur celles de 48 pi, et les essieux coulissants s'arrêtent là. Tes remorques déjà achetées prennent la correction ; prix, tare et charge utile ne changent pas. Sur la route, l'IA tire aussi le double de citernes à gaz et le train B plateau 28'+28' à 2 essieux arrière. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.7.2.txt",
+        "sha256": "ff650f1e56a73d9f6220af8d0fe4eb5abacfaa359e975876b4a2d6465bba433b",
+        "sizeBytes": 6648
+      }
+    },
+    {
+      "date": "2026-10-07",
       "title": "Overdrive Québec 2.7 : vrais prix, trains aux vraies normes",
       "text": "Cette mise à jour regroupe tout depuis la 2.4.1. Tout coûte maintenant son vrai prix de 2025-2026, DLC compris (un W900 environ 233 000 $, un X15 605 environ 25 000 $), avec une vraie usure : les pneus du camion durent environ 124 000 milles, le moteur environ 1 000 000, et une réparation ne coûte jamais plus que la pièce neuve. Le diesel coûte son vrai prix dans chaque État, et les voitures d'IA apparaissent à au moins 400 m des joueurs : moins de voitures fantômes en convoi. Les essieux et les trains suivent maintenant les vraies normes : la tête 53' des fourgons a son tandem à 12,5 m du pivot (ou un tridem), le turnpike 53'+53' se prend en 2 essieux + 2 essieux ou en 3 essieux + 3 essieux, les 2es remorques ont leur vrai porte-à-faux, les attelages sont à la vraie hauteur, les Lode King et Prestige ont leur relevable devant, et la remorque la plus lourde roule toujours devant. La plus longue aussi : les trains B à tête courte font place à des trains B à longueurs égales (28'+28', 30'+30') et à un train B plateau 53'+53' pour le bois. Sur la route, l'IA tire de nouveaux trains : Rocky Mountain 53'+28', turnpikes 53'+53' et le train B 53'+53'. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
       "popup": true,
@@ -142,12 +153,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.7",
+      "version": "2.7.2",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.7.scs",
-      "sha256": "d389c1d511df364260de7322680afcbef752ca3f1956500cc17a171506da3299",
-      "sizeBytes": 92412580,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.7.2.scs",
+      "sha256": "c70b7e5b124f3f743a9acb850efba67a3196771e805096dfef72057af0d511ab",
+      "sizeBytes": 108022182,
       "required": true,
       "loadOrder": 70
     },
@@ -195,5 +206,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261007212612
+  "serial": 20261008003505
 }
