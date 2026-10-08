@@ -11,6 +11,12 @@
   "news": [
     {
       "date": "2026-10-08",
+      "title": "Ciel jour-nuit 0.1.0 : des journées plus longues",
+      "text": "Un nouveau petit mod, « Overdrive Québec — Ciel jour-nuit », corrige le cycle jour-nuit de l'Ultimate Graphics Mod : il remet le soleil du 21 juin au lieu d'une date d'automne. Sur une journée de jeu d'environ 1 h 30 réelle sur la route, ça donne environ 1 h de clarté, aube et crépuscule compris, et une demi-heure de nuit. Les orages tombent à 50 % des mauvais temps. Tout le reste de l'UGM reste (ciels, pluie, végétation, routes) ; l'heure, les livraisons et l'économie ne changent pas. IMPORTANT : dans le gestionnaire de mods, place-le TOUT EN HAUT, au-dessus de l'Ultimate Graphics Mod et d'Overdrive Québec ; plus bas, il ne fait rien. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Corriger » à sa ligne de la ronde de sécurité.",
+      "popup": true
+    },
+    {
+      "date": "2026-10-08",
       "title": "Overdrive Québec 2.7.3 : éclairage au sol DEL pour le Kenworth W900",
       "text": "Nouveau au magasin du Kenworth W900 : la case « Éclairage au sol ». Un néon DEL le long des longerons et une bande de lumière égale au sol, sous tout le camion et environ 20 cm au-delà des pneus, d'un pare-chocs à l'autre. 10 couleurs, orange-rouge en premier, à 1 600 $ (le vrai prix). Elle s'allume avec les feux de position (touche L). Seulement le W900 pour l'instant, sur 16 de ses 17 châssis. Elle compte beaucoup de petites lumières : si tes images/seconde baissent, enlève-la au garage et dis-le-nous, on pourra la retirer. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
       "popup": true,
@@ -174,6 +180,17 @@
       "loadOrder": 70
     },
     {
+      "name": "Overdrive Québec — Ciel jour-nuit",
+      "version": "0.1.0",
+      "source": "direct",
+      "fileName": "overdrive-ciel.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-ciel-0.1.0.scs",
+      "sha256": "7096e57829405206352a55f6a04710b79a42f4c39d332e7f1e97d6803839f9c9",
+      "sizeBytes": 2399,
+      "required": true,
+      "loadOrder": 80
+    },
+    {
       "name": "True Mirror FOV",
       "source": "workshop",
       "workshopId": "1823739259",
@@ -217,5 +234,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261008165940
+  "serial": 20261008200612
 }
