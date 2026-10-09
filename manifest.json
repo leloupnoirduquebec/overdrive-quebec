@@ -11,6 +11,17 @@
   "news": [
     {
       "date": "2026-10-09",
+      "title": "Overdrive Québec 2.7.5 : plus de plantage en achetant un moteur trop fort pour la boîte",
+      "text": "Le jeu plantait quand tu achetais un moteur plus fort que la limite de couple de ta boîte de vitesses, par exemple le Caterpillar C15 625 Tuned sur un W900 avec une 10 vitesses : la boîte était enlevée et le jeu ne trouvait aucune boîte à remettre. C'est corrigé. Maintenant, si ta boîte ne supporte pas le nouveau moteur, le garage pose une boîte qui le supporte (sur le W900, le C15 625 vient avec l'Eaton MHP 13 vitesses) ; si elle le supporte, elle reste. Tu n'as plus besoin de poser d'abord une boîte assez forte avant d'acheter le moteur. Les vraies limites de couple ne changent pas : au garage, tu ne vois toujours que les boîtes qui vont avec ton moteur. Quelques moteurs qui venaient au niveau 0 demandent maintenant le niveau de leur boîte (le C15 625 : niveau 4). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.7.5.txt",
+        "sha256": "d6576b35f7d3eff763832024f29f429b52ab759213028f8060cce5be2cc4cec1",
+        "sizeBytes": 2446
+      }
+    },
+    {
+      "date": "2026-10-09",
       "title": "Overdrive Québec 2.7.4 : paie +50 %, prêts deux fois plus longs, ciel jour-nuit inclus",
       "text": "La paie des livraisons monte de 50 % : chaque cargaison rapporte maintenant 56 % de ce que le jeu paie, au lieu de 37,5 %. Un contrat rapide de 231 milles qui payait environ 3 000 $ en paie maintenant environ 4 300 $. Les prêts de la banque durent deux fois plus longtemps (8, 12, 16 et 20 semaines), aux mêmes montants et aux mêmes taux : le versement de chaque jour est à peu près deux fois plus petit. Le ciel jour-nuit est maintenant dans Overdrive : le petit mod « Overdrive Québec — Ciel jour-nuit » n'est plus nécessaire, tu peux le désactiver et le supprimer. IMPORTANT : dans le gestionnaire de mods, garde Overdrive Québec TOUT EN HAUT, AU-DESSUS de l'Ultimate Graphics Mod ; plus bas, la date d'automne de l'UGM revient. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
       "popup": true,
@@ -175,12 +186,12 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.7.4",
+      "version": "2.7.5",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.7.4.scs",
-      "sha256": "0daef424e9b2eb4ed9493923bc973d5dd931d84be8ad621e82c86c5c33804ec4",
-      "sizeBytes": 108589232,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.7.5.scs",
+      "sha256": "ac19898e38b977739632a4dab652f2f8df782bc68e2d5dfe87997fb44a2d7c0f",
+      "sizeBytes": 108624876,
       "required": true,
       "loadOrder": 70
     },
@@ -228,5 +239,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261009170802
+  "serial": 20261009214156
 }

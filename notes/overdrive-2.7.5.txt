@@ -1,0 +1,32 @@
+OVERDRIVE QUÉBEC 2.7.5 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
+
+Cette version corrige un plantage au garage. Tout le reste de la 2.7.4 est inchangé.
+
+━━━━━━━━━━━━━━━━━━━━
+LE PLANTAGE CORRIGÉ
+━━━━━━━━━━━━━━━━━━━━
+- Le jeu plantait quand tu achetais un moteur plus fort que la limite de couple de ta boîte de vitesses. Exemple : un W900 avec une boîte 10 vitesses, et le Caterpillar C15 625 Tuned (2 050 lb-pi).
+- La cause : la boîte ne supportait pas le nouveau moteur, le jeu l'enlevait, et il ne trouvait aucune boîte à remettre. Le camion se retrouvait sans boîte, et le jeu plantait.
+- Ça pouvait arriver sur tous les camions, avec tous les moteurs plus forts que la boîte en place.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUE FAIT LE GARAGE MAINTENANT
+━━━━━━━━━━━━━━━━━━━━
+- Quand tu achètes un moteur que ta boîte ne supporte pas, le garage pose une boîte qui le supporte. Exemple : sur le W900, le C15 625 vient avec l'Eaton MHP (SYNC), une automatisée 13 vitesses.
+- La boîte choisie est en vente, d'un niveau pas plus haut que le moteur, du même type que la boîte de base du camion quand c'est possible, et la moins chère.
+- Si ta boîte supporte déjà le nouveau moteur, elle reste.
+- Les vraies limites de couple ne changent pas : au garage, tu ne vois toujours que les boîtes qui vont avec ton moteur. Tu peux ensuite changer pour une autre boîte de la liste.
+- Le jeu refuse une boîte par défaut d'un niveau plus haut que son moteur. Pour cette raison, quelques moteurs qui venaient au niveau 0 demandent maintenant le niveau de leur boîte :
+  - le C15 625 Tuned (W900 et 389), le Cummins M11 Custom 595 Tuned et sa version « son Lope », le MP10 565 et le D16 600 (VNL 2018) : niveau 4 ;
+  - le DD16 600 du Cascadia 2024 : niveau 8 ;
+  - le MP10 605 : niveau 9.
+- Si ton camion a déjà un de ces moteurs, il le garde.
+
+━━━━━━━━━━━━━━━━━━━━
+PLUS BESOIN DU TRUC
+━━━━━━━━━━━━━━━━━━━━
+- Tu n'as plus besoin de poser d'abord une boîte assez forte avant d'acheter un moteur plus fort. Achète le moteur directement.
+
+Bonne route!
