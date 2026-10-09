@@ -1,0 +1,42 @@
+OVERDRIVE QUÉBEC 2.7.4 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
+
+Cette version change trois choses : la paie des livraisons, la durée des prêts de la banque, et le ciel jour-nuit, maintenant inclus dans Overdrive. Tout le reste de la 2.7.3 est inchangé.
+
+━━━━━━━━━━━━━━━━━━━━
+À FAIRE AVANT DE TE CONNECTER
+━━━━━━━━━━━━━━━━━━━━
+- Garde Overdrive Québec TOUT EN HAUT de ta liste de mods : au-dessus de l'Ultimate Graphics Mod, de Slav Jerry et du M11. Sous l'Ultimate Graphics Mod, le ciel jour-nuit ne marche pas.
+- Le petit mod « Overdrive Québec — Ciel jour-nuit » n'est plus nécessaire : désactive-le dans le gestionnaire de mods. Tu peux aussi le supprimer : c'est le fichier overdrive-ciel.scs, dans Documents\American Truck Simulator\mod. Le lanceur ne le suit plus.
+- S'il reste actif, il ne nuit pas tant qu'il est au-dessus de l'Ultimate Graphics Mod : il fait exactement la même chose qu'Overdrive.
+
+━━━━━━━━━━━━━━━━━━━━
+LA PAIE : +50 %
+━━━━━━━━━━━━━━━━━━━━
+- Chaque cargaison rapporte maintenant 56 % de ce que le jeu paie pour la même remorque, au lieu de 37,5 %. C'est 50 % de plus sur la paie au mille.
+- Exemple : un contrat rapide de 231 milles qui payait environ 3 000 $ en paie maintenant environ 4 300 $. La partie fixe d'un contrat ne change pas, d'où un peu moins que +50 % sur le total.
+- Tous les marchés suivent : contrats rapides, marché du fret, marché des cargaisons, convoi, chauffeurs embauchés, et les cargaisons des DLC. Les trains paient toujours selon ce qu'ils transportent vraiment.
+- Le carburant, l'usure, les réparations, les amendes et les prix des camions ne changent pas.
+- Les offres déjà affichées gardent leur prix jusqu'à leur expiration (3 à 30 heures de jeu). Les nouvelles offres ont la nouvelle paie.
+- Pourquoi : à 37,5 %, un nouveau propriétaire qui prenait le gros prêt perdait de l'argent tous les jours. Avec la nouvelle paie et les prêts plus longs, il garde environ 2 000 $ par jour de jeu, même avec la fatigue.
+
+━━━━━━━━━━━━━━━━━━━━
+LES PRÊTS DE LA BANQUE : DEUX FOIS PLUS LONGS
+━━━━━━━━━━━━━━━━━━━━
+- Les quatre prêts durent deux fois plus longtemps : 8, 12, 16 et 20 semaines (avant : 4, 6, 8 et 10).
+- Mêmes montants et mêmes taux que le jeu.
+- Le versement de chaque jour est à peu près deux fois plus petit : environ 2 900 $ par jour de jeu pour le prêt de 400 000 $ (avant : environ 5 800 $), environ 900 $ pour celui de 100 000 $ (avant : environ 1 800 $).
+- C'est un choix de jeu, pas une valeur réelle : un vrai prêt de camion dure des années, ce que le jeu ne peut pas copier.
+- Un prêt déjà en cours garde peut-être ses versements d'avant : on le vérifiera en jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+LE CIEL JOUR-NUIT, MAINTENANT DANS OVERDRIVE
+━━━━━━━━━━━━━━━━━━━━
+- Le même ciel que le petit mod « Ciel jour-nuit » 0.1.0 : le soleil du 21 juin, le jour le plus long, au lieu de la date d'automne de l'Ultimate Graphics Mod.
+- Sur une journée de jeu d'environ 1 h 30 réelle sur la route : environ 1 h de clarté, aube et crépuscule compris, et une demi-heure de nuit.
+- Les orages tombent à 50 % des mauvais temps.
+- Tout le reste de l'Ultimate Graphics Mod reste : ciels, nuages, pluie, végétation, routes. L'heure, les livraisons, la fatigue et l'économie ne changent pas avec le ciel.
+- Overdrive doit être AU-DESSUS de l'Ultimate Graphics Mod. Plus bas, la date d'automne revient.
+
+Bonne route!
