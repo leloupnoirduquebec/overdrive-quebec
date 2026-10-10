@@ -1,0 +1,31 @@
+OVERDRIVE QUÉBEC 2.7.6 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
+
+Cette version corrige de petites erreurs trouvées par la vérification complète de la 2.7.5. Les moteurs et les boîtes de vitesses ne changent pas : leur grand ménage arrive avec la 2.7.7. Cette version ne change rien aux DLC payants.
+
+━━━━━━━━━━━━━━━━━━━━
+ÉQUIPEMENT DES CAMIONS
+━━━━━━━━━━━━━━━━━━━━
+- Kenworth W900 avec un Caterpillar C15 6NZ (435, 500, 550 ou 625 Tuned) : les réservoirs « sans DEF » (un seul réservoir, sans le petit réservoir bleu) en aluminium et en chrome sont enfin offerts au garage. Ils n'apparaissaient jamais : le nom de ces moteurs avait changé dans le mod de sons de Slav Jerry. Les versions peintes (W900 Tuning Pack, un DLC payant) ne changent pas.
+- Kenworth W900 Medium II : le marchepied aluminium de base, celui que ses réservoirs aluminium posent d'office, va maintenant avec eux (et avec les réservoirs chromés). Le réservoir chromé 300 gal sans DEF pose maintenant le marchepied chromé, comme les autres réservoirs chromés.
+- Mack Pinnacle : les réservoirs de 284 gal contiennent vraiment 284 gal (ils en contenaient 282).
+- International 9900i, châssis long : la fiche affiche 120/120 gal, la taille de son réservoir de base (elle affichait 150/150).
+
+━━━━━━━━━━━━━━━━━━━━
+NOS AFFICHES
+━━━━━━━━━━━━━━━━━━━━
+- L'écran DEL d'Albuquerque (Nouveau-Mexique) montrait encore une pub du jeu sur une de ses 3 diapositives : il montre maintenant une affiche Overdrive. Les écrans DEL de l'Iowa, de l'Illinois et du Nouveau-Mexique et le panneau tournant du Texas sont vérifiés en entier : 279 faces au total.
+
+━━━━━━━━━━━━━━━━━━━━
+KLAXON DE TRAIN
+━━━━━━━━━━━━━━━━━━━━
+- Si ton journal du jeu (game.log.txt) répète « Unable to find addon hookup (od_trainhorn.addon_hookup) » : ton camion a le klaxon de train et Overdrive n'était pas actif dans cette partie (par exemple pendant l'essai d'un autre mod). Avec Overdrive actif, le klaxon est bien trouvé. Rien à faire.
+
+━━━━━━━━━━━━━━━━━━━━
+EN COULISSES
+━━━━━━━━━━━━━━━━━━━━
+- Avant chaque version, nos contrôles suivent maintenant les fichiers de sons de Slav Jerry et du M11 dont nos moteurs ont besoin : si un de ces mods change un fichier, on le voit avant de publier.
+- Ordre des mods de référence, du haut vers le bas : Overdrive Québec, M11 (MORTAL & CASH), Ultimate Graphics Mod, Slav Jerry, True Mirror. Garde Overdrive Québec tout en haut.
+
+Bonne route!

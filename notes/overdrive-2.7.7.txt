@@ -1,0 +1,37 @@
+OVERDRIVE QUÉBEC 2.7.7 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.
+
+Cette version refait tout le catalogue des moteurs des 18 camions diesel du jeu. Tes camions gardent leur moteur : un moteur qui n'est plus en vente reste sur le camion qui l'a déjà. Cette version ne change rien aux DLC payants.
+
+━━━━━━━━━━━━━━━━━━━━
+MOTEURS
+━━━━━━━━━━━━━━━━━━━━
+- Chaque camion n'offre plus que les moteurs qu'il a vraiment eus, de 425 à 650 HP, une seule version par moteur et par puissance : 131 moteurs différents, de 4 (Mack) à 90 (Peterbilt 579, Cascadia 2019) par camion.
+- Moteurs haut de gamme, de 500 à 650 HP, avec les sons choisis à l'écoute : Cummins N14 Celect Plus, Signature Gen II Sport, ISX (sans VGT) et X15 en straight pipe, Detroit Series 60 12,7 L et 14,0 L en straight pipe, Caterpillar C15 6NZ en straight pipe, Volvo D13 (Slav Jerry), et les Cummins M11 Custom et Lope (MORTAL & CASH). Chacun a plusieurs variantes, pas toujours en chiffres ronds (ex. C15 6NZ 643 HP) : la ligne « fort couple » pour les charges lourdes, la ligne « efficacité » qui consomme un peu moins pour les charges normales. Chaque variante a son niveau de déblocage, comme dans le jeu (650 HP = niveau 20).
+- De 425 à 500 HP, et pour les vraies cotes de plus de 500 HP des autres moteurs (DD13, DD15, DD16, MX-13, S13, MP8, C15 ACERT, D16, ISX15) : le son d'origine de ton camion.
+- Les vraies cotes des fabricants ; entre deux cotes, la courbe et la consommation de la famille. « Tuned » seulement au-delà de la vraie cote d'usine maximale de la famille.
+- Ce que l'atelier affiche (HP et kW, couple en lb-pi et N·m, plage de régime) est toujours exactement ce que le moteur fait sur la route.
+- Plus en vente, mais gardés sur les camions qui les ont : les moteurs de moins de 425 HP, les doublons (même moteur, même puissance, autre son), les moteurs qu'un camion n'a jamais eus, et les M11 « 1420 HP ». Un M11 « 1420 HP » affiche maintenant ses vrais chiffres : environ 115 HP.
+- Un moteur plus fort ne demande jamais un niveau plus bas qu'un moteur plus faible de sa famille.
+- Si tu achètes un moteur fort avec une boîte qui ne le supporte pas, le garage pose une boîte qui le supporte, comme depuis la 2.7.5, pour tous les nouveaux moteurs aussi ; quelques moteurs demandent pour cela le niveau de leur boîte.
+- Volvo VNL 2025 : le D13 monte jusqu'à 565 HP (ses boîtes I-Shift ne supportent pas plus de couple).
+- Corrigés : le X15 450 du Western Star 49X (il portait le nom du moteur du 57X), le X15 605 du Volvo VNL 2018 (de retour en vente), le nom d'origine des Caterpillar C15 du W900, et l'écusson Cummins des X15, le grand radiateur du 49X et les châssis permis du X15 sur le T680 2022.
+
+━━━━━━━━━━━━━━━━━━━━
+ÉQUIPEMENT DES CAMIONS
+━━━━━━━━━━━━━━━━━━━━
+- Kenworth W900 : les réservoirs « sans DEF » en aluminium et en chrome sont offerts avec tous les moteurs d'avant 2010, qui n'avaient ni SCR ni DEF (Cummins N14, M11, Signature et ISX, Detroit Series 60, Caterpillar C15 6NZ et ACERT). Avec un X15, un ISX15, un ISX12 ou un MX, les réservoirs avec DEF restent.
+
+━━━━━━━━━━━━━━━━━━━━
+BOÎTES DE VITESSES
+━━━━━━━━━━━━━━━━━━━━
+- Kenworth T680 2022 : l'Endurant XD n'est plus en vente. C'était la même boîte que la PACCAR TX-18 (mêmes rapports, même prix) : garde la TX-18. Si ton camion l'a, il la garde.
+
+━━━━━━━━━━━━━━━━━━━━
+EN COULISSES
+━━━━━━━━━━━━━━━━━━━━
+- Les moteurs M11 de MORTAL & CASH sur les camions d'autres mods suivent les mêmes règles : Custom 500 et 595, Lope 520 et 620 ; le « 1420 HP » n'est plus en vente.
+- Garde Overdrive Québec tout en haut de ta liste de mods, au-dessus de Slav Jerry et du M11 : plus bas, leurs moteurs reviennent et l'achat d'un moteur fort peut faire planter le jeu.
+
+Bonne route!

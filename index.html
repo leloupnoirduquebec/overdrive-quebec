@@ -33,17 +33,18 @@
 <main>
   <div class="kicker">Lanceur communautaire · American Truck Simulator</div>
   <h1>Overdrive Qu&#233;bec</h1>
-  <a class="get" href="Overdrive-0.6.2.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.6.2 · 62,7 Mo · Windows 10 ou 11, 64 bits · 2026-10-08 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.6.3.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.6.3 · 62,7 Mo · Windows 10 ou 11, 64 bits · 2026-10-10 · gratuit, rien à installer : un seul fichier.</div>
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>**&#171; Restaurer mes r&#233;glages &#187; ne d&#233;fait plus ce que tu as chang&#233; toi-m&#234;me.** Le lanceur note maintenant chaque valeur qu&#39;il &#233;crit. &#192; la restauration, il ne remet un r&#233;glage que s&#39;il dit encore exactement ce que le lanceur y a &#233;crit. Si tu l&#39;as chang&#233; dans le jeu depuis, il le garde et te le dit : &#171; Gard&#233;, tu l&#39;as chang&#233; toi-m&#234;me &#187;. M&#234;me chose pour &#171; Remettre mon &#233;chelle d&#39;avant &#187; dans l&#39;onglet Diagnostic.</li>
-      <li>**Une copie faite par une ancienne version (0.5.9 &#224; 0.6.1) ne remet rien &#224; l&#39;aveugle.** Ces versions ne notaient pas ce qu&#39;elles &#233;crivaient : le lanceur ne peut pas savoir si une valeur vient de lui ou de toi. Dans le doute, il ne touche &#224; rien et te dit quels r&#233;glages il a laiss&#233;s. Si tu veux les valeurs d&#39;avant, change-les dans le jeu.</li>
-      <li>**Ta copie d&#39;avant reste tant que quelque chose est gard&#233;.** Le lanceur ne l&#39;efface que quand tout est revenu comme avant. Le message te dit o&#249; elle est, pour que tu puisses y relire tes anciennes valeurs.</li>
-      <li>**Quatre r&#233;glages de conduite sont communs &#224; tous tes profils.** Les secousses de la route, les essuie-glaces automatiques, l&#39;ABS et l&#39;antipatinage sont dans un fichier partag&#233; par tous les profils de ton PC. La fen&#234;tre de conduite le dit maintenant &#224; c&#244;t&#233; d&#39;&#171; Appliquer &#187;, et le rappelle apr&#232;s &#171; Appliquer &#187; et &#171; Restaurer mes r&#233;glages &#187;.</li>
-      <li>**Plus rien du lanceur dans ton Steam Cloud.** Les copies de s&#233;curit&#233; du lanceur ne sont plus &#224; c&#244;t&#233; de tes fichiers du jeu. Elles vont dans le dossier du lanceur, `%LOCALAPPDATA%\ConvoiQuebec\sauvegardes-reglages`, un dossier par profil. Les copies laiss&#233;es par les anciennes versions y sont d&#233;plac&#233;es au premier d&#233;marrage, jeu ferm&#233;, sans en perdre ni en &#233;craser une seule. Dans un profil Steam Cloud, le lanceur ne change plus que la ligne de config.cfg que tu lui demandes.</li>
+      <li>**Nouveau : la ligne &#171; Ordre des mods &#187;.** Apr&#232;s chaque partie, une fois le jeu ferm&#233;, le lanceur lit dans le journal du jeu (`game.log.txt`) les mods que ton profil a vraiment charg&#233;s, et dans quel ordre. Il ne lit ni n&#39;&#233;crit jamais ton profil ni tes sauvegardes : c&#39;est toi qui corriges, dans le gestionnaire de mods du jeu.</li>
+      <li>**Ce qu&#39;il te dit.** Slav Jerry ou le M11 au-dessus d&#39;Overdrive : en rouge, car le jeu peut planter quand tu ach&#232;tes un moteur. L&#39;Ultimate Graphics Mod au-dessus : en orange, le ciel d&#39;Overdrive est perdu. Aussi : un mod obligatoire pas activ&#233;, l&#39;ancien mod &#171; Ciel jour-nuit &#187; ou un mod d&#39;essai encore actif, une vieille version d&#39;Overdrive, deux copies d&#39;Overdrive, et (pour info) un autre mod au-dessus d&#39;Overdrive.</li>
+      <li>**Un panneau rouge au-dessus du LOGBOOK** quand il y a un risque de plantage. Un clic, ou &#171; Comment corriger &#187; sur la ligne, ouvre les &#233;tapes dans le gestionnaire de mods du jeu et l&#39;ordre voulu, du haut vers le bas.</li>
+      <li>**L&#39;avertissement reste** d&#39;un d&#233;marrage &#224; l&#39;autre, jusqu&#39;&#224; ce qu&#39;une partie montre le bon ordre. Avant ta premi&#232;re partie avec cette version, la ligne dit seulement qu&#39;elle v&#233;rifiera apr&#232;s.</li>
+      <li>**Mise &#224; jour d&#39;Overdrive en un seul clic, m&#234;me en plusieurs fichiers.** Quand une version change plusieurs fichiers du mod d&#39;un coup, le panneau &#171; Mise &#224; jour disponible &#187; du Logbook les installe tous ensemble, un apr&#232;s l&#39;autre, avec une seule barre et sa taille totale. Si un fichier ne passe pas, &#171; R&#233;essayer &#187; reprend seulement ceux qui restent.</li>
+      <li>**Logbook : plus de jauge de carburant trompeuse.** Le jeu donne la taille du r&#233;servoir du ch&#226;ssis, pas celle du r&#233;servoir que ton camion porte vraiment : un W900 avec 300 gallons paraissait plein trop t&#244;t. La carte Carburant montre maintenant les litres qui restent et l&#39;autonomie, sans jauge.</li>
     </ul>
   </section>
 
@@ -56,7 +57,7 @@
   <section class="card">
     <h2>Comment vérifier le fichier</h2>
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>8410e67fbbdac4aa6e57c01a1a65461e199c6eaf1f2f688a288eaca43662d34d</code></p>
+    <p><code>4d6a568cc36d812739f03b25ee442a5e2404057890104b564e0bed473e4e15b3</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
     <p class="muted">Si les deux empreintes sont identiques, le fichier n'a pas été modifié en chemin. Ensuite, le lanceur se met à jour tout seul : chaque mise à jour est signée, et il refuse tout ce qui n'est pas signé par la clé de la communauté.</p>

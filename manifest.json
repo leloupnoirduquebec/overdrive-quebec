@@ -10,6 +10,39 @@
   },
   "news": [
     {
+      "date": "2026-10-10",
+      "title": "Overdrive Québec 3.0.0 : le mod en 8 modules, et des journées plus longues sur le serveur",
+      "text": "Overdrive Québec est maintenant fait de 8 modules : Météo, Camions, Physique, Économie, Remorques, Remorques (modèles 3D), Base et Communauté. Le contenu est exactement celui de la 2.7.7 : rien ne change en jeu, et les prochaines mises à jour ne téléchargeront que les modules qui changent. Les 8 sont obligatoires sur le serveur ; en convoi, le jeu te propose de les activer dans le bon ordre. En solo, active-les tous, tout en haut du gestionnaire de mods, Météo en premier puis Camions. L'ancien Overdrive Québec est maintenant vide : tu peux le désactiver. Sur le serveur, une journée de jeu dure maintenant environ 1 h 48 au lieu de 1 h 29. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Télécharger » et « Corriger » aux lignes Overdrive Québec de la ronde de sécurité.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.0.txt",
+        "sha256": "135230592fc45c4b6ef83318bd8d72aff014c47b9c0d971622a612e3b7c7cfde",
+        "sizeBytes": 3044
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Overdrive Québec 2.7.7 : nouveau catalogue des moteurs, de 425 à 650 HP",
+      "text": "Tout le catalogue des moteurs des 18 camions diesel du jeu est refait. Chaque camion n'offre que les moteurs qu'il a vraiment eus, de 425 à 650 HP, une seule version par moteur et par puissance. De 500 à 650 HP, les moteurs haut de gamme avec les sons choisis (N14, Signature, ISX, X15, Series 60, C15 6NZ, D13 et les M11 Custom et Lope) ont plusieurs variantes : « fort couple » pour les charges lourdes ou « efficacité » qui consomme moins, chacune avec son niveau. De 425 à 500 HP : le son d'origine du camion. Ce que l'atelier affiche est exactement ce que le moteur fait. Les moteurs de moins de 425 HP et les M11 « 1420 HP » ne sont plus en vente, mais restent sur les camions qui les ont. W900 : les réservoirs sans DEF vont avec tous les moteurs d'avant 2010. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.7.7.txt",
+        "sha256": "2a88552db6569a079a0a05eead800d6cca711cfedf825ab1dca6dc02dd6a64f1",
+        "sizeBytes": 4246
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Overdrive Québec 2.7.6 : réservoirs sans DEF du W900, écran DEL du Nouveau-Mexique et petits correctifs",
+      "text": "Petits correctifs trouvés par la vérification complète de la 2.7.5, sans toucher aux moteurs ni aux DLC payants. Kenworth W900 avec un Caterpillar C15 6NZ : les réservoirs « sans DEF » en aluminium et en chrome sont enfin offerts au garage. W900 Medium II : le marchepied aluminium de base va avec ses réservoirs aluminium et chromés. Mack Pinnacle : les réservoirs de 284 gal contiennent vraiment 284 gal. International 9900i, châssis long : la fiche affiche 120/120 gal. L'écran DEL d'Albuquerque montre maintenant une affiche Overdrive sur ses 3 diapositives (279 faces en tout). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-2.7.6.txt",
+        "sha256": "b32aa07386b25b7b78bbf17c7ad73ddb9c52b66c9f4770c156957972fabe1ec2",
+        "sizeBytes": 2922
+      }
+    },
+    {
       "date": "2026-10-09",
       "title": "Overdrive Québec 2.7.5 : plus de plantage en achetant un moteur trop fort pour la boîte",
       "text": "Le jeu plantait quand tu achetais un moteur plus fort que la limite de couple de ta boîte de vitesses, par exemple le Caterpillar C15 625 Tuned sur un W900 avec une 10 vitesses : la boîte était enlevée et le jeu ne trouvait aucune boîte à remettre. C'est corrigé. Maintenant, si ta boîte ne supporte pas le nouveau moteur, le garage pose une boîte qui le supporte (sur le W900, le C15 625 vient avec l'Eaton MHP 13 vitesses) ; si elle le supporte, elle reste. Tu n'as plus besoin de poser d'abord une boîte assez forte avant d'acheter le moteur. Les vraies limites de couple ne changent pas : au garage, tu ne vois toujours que les boîtes qui vont avec ton moteur. Quelques moteurs qui venaient au niveau 0 demandent maintenant le niveau de leur boîte (le C15 625 : niveau 4). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Corriger » à la ligne Overdrive Québec de la ronde de sécurité.",
@@ -186,14 +219,102 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "2.7.5",
+      "version": "3.0.0",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-2.7.5.scs",
-      "sha256": "ac19898e38b977739632a4dab652f2f8df782bc68e2d5dfe87997fb44a2d7c0f",
-      "sizeBytes": 108624876,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-3.0.0.scs",
+      "sha256": "be2e824a8122fbe85e931a507ae4618131b0b46ce1da5ce6f9ea96fbca13f27b",
+      "sizeBytes": 1468,
+      "required": false,
+      "loadOrder": 10
+    },
+    {
+      "name": "Overdrive Québec — Communauté",
+      "version": "3.0.0",
+      "source": "direct",
+      "fileName": "overdrive-communaute.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.0.scs",
+      "sha256": "5a84c2ca3d29705331768b93cf91ff1fbf8ebe2c9aa7cafff7918bac4c846333",
+      "sizeBytes": 46058606,
       "required": true,
       "loadOrder": 70
+    },
+    {
+      "name": "Overdrive Québec — Base",
+      "version": "3.0.0",
+      "source": "direct",
+      "fileName": "overdrive-base.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.0.scs",
+      "sha256": "9eea2cb7fad36092147594dbcb650d8f636e751962db0e82d7dff8855f920f60",
+      "sizeBytes": 15487,
+      "required": true,
+      "loadOrder": 71
+    },
+    {
+      "name": "Overdrive Québec — Remorques (modèles 3D)",
+      "version": "3.0.0",
+      "source": "direct",
+      "fileName": "overdrive-remorques-modeles.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.0.scs",
+      "sha256": "c8fedc648e97e7198d4ef5ee8b0b5b4e44423e4dd38ff0978c14fe4c69622516",
+      "sizeBytes": 49556008,
+      "required": true,
+      "loadOrder": 72
+    },
+    {
+      "name": "Overdrive Québec — Remorques",
+      "version": "3.0.0",
+      "source": "direct",
+      "fileName": "overdrive-remorques.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.0.scs",
+      "sha256": "e11f4e13ff2bb31b54ba31bbffd3fc4283acecb740bd3ec2419b6b636b7c2b11",
+      "sizeBytes": 956844,
+      "required": true,
+      "loadOrder": 73
+    },
+    {
+      "name": "Overdrive Québec — Économie",
+      "version": "3.0.0",
+      "source": "direct",
+      "fileName": "overdrive-economie.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.0.scs",
+      "sha256": "a75e2cf0f1898fb6e7b00936fb1a0b092749384e3758871e1be70dba2628b6ae",
+      "sizeBytes": 9351174,
+      "required": true,
+      "loadOrder": 74
+    },
+    {
+      "name": "Overdrive Québec — Physique",
+      "version": "3.0.0",
+      "source": "direct",
+      "fileName": "overdrive-physique.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.0.scs",
+      "sha256": "b1650b3720b1a702651e4656a9f29c6ae6c438056eb061eff717f4be3de030f5",
+      "sizeBytes": 31931,
+      "required": true,
+      "loadOrder": 75
+    },
+    {
+      "name": "Overdrive Québec — Camions",
+      "version": "3.0.0",
+      "source": "direct",
+      "fileName": "overdrive-camions.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.0.scs",
+      "sha256": "73ab94f4caad218d1edcb66222721c92d37b4ad3b00df413b9b0bfe3f4bd4ead",
+      "sizeBytes": 3086308,
+      "required": true,
+      "loadOrder": 76
+    },
+    {
+      "name": "Overdrive Québec — Météo",
+      "version": "3.0.0",
+      "source": "direct",
+      "fileName": "overdrive-meteo.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-meteo-3.0.0.scs",
+      "sha256": "37d4788b098b7bbe135a70ac59907bbfbb213a74e37d36cc85e4a7a6f1ff46ae",
+      "sizeBytes": 12085,
+      "required": true,
+      "loadOrder": 77
     },
     {
       "name": "True Mirror FOV",
@@ -207,21 +328,44 @@
       "source": "workshop",
       "workshopId": "3272227864",
       "required": true,
-      "loadOrder": 30
+      "loadOrder": 30,
+      "orderRisk": "crash",
+      "orderNote": "ses moteurs perdent la boîte par défaut d'Overdrive, et le jeu peut planter quand tu achètes un moteur"
     },
     {
       "name": "Ultimate Graphics Mod ATS",
       "source": "workshop",
       "workshopId": "3491882019",
       "required": false,
-      "loadOrder": 60
+      "loadOrder": 60,
+      "orderRisk": "visual",
+      "orderNote": "le ciel d'Overdrive est perdu : la date du soleil revient à l'automne et les nuits sont trop longues"
     },
     {
       "name": "MORTAL & CASH Cummins M11 engine sound mod",
       "source": "workshop",
       "workshopId": "2595128788",
       "required": true,
-      "loadOrder": 65
+      "loadOrder": 65,
+      "orderRisk": "crash",
+      "orderNote": "ses moteurs perdent la boîte par défaut d'Overdrive, et le jeu peut planter quand tu achètes un moteur"
+    }
+  ],
+  "retiredMods": [
+    {
+      "package": "overdrive-ciel",
+      "name": "Overdrive Québec — Ciel jour-nuit",
+      "note": "il est inclus dans Overdrive depuis la 2.7.4 et, au-dessus d'Overdrive, il remet l'ancien ciel"
+    },
+    {
+      "package": "overdrive-sons-essai",
+      "name": "Overdrive ESSAI sons moteurs",
+      "kind": "test"
+    },
+    {
+      "package": "essai-dlc0-*",
+      "name": "ESSAI DLC 0",
+      "kind": "test"
     }
   ],
   "audio": {
@@ -239,5 +383,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261009214156
+  "serial": 20261010214017
 }

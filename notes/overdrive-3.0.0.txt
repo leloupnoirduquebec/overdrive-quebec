@@ -1,0 +1,37 @@
+OVERDRIVE QUÉBEC 3.0.0 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Télécharger » et « Corriger » aux lignes Overdrive Québec de la ronde de sécurité.
+
+Overdrive Québec est maintenant fait de 8 modules. Le contenu est exactement celui de la 2.7.7, octet pour octet : les mêmes camions, moteurs, remorques, prix et le même ciel. Tes sauvegardes se chargent comme avant, à condition que les 8 modules soient actifs. Ce qui change : les prochaines mises à jour ne téléchargeront que les modules qui changent (quelques Mo au lieu de 109 Mo).
+
+━━━━━━━━━━━━━━━━━━━━
+LES 8 MODULES
+━━━━━━━━━━━━━━━━━━━━
+Dans l'ordre du gestionnaire de mods, du haut vers le bas :
+- Overdrive Québec — Météo : le ciel jour-nuit. Toujours tout en haut, au-dessus de l'Ultimate Graphics Mod.
+- Overdrive Québec — Camions : les moteurs, les boîtes de vitesses, le poids des camions, les phares, les cheminées, l'éclairage au sol du W900 et le klaxon de train. Au-dessus de Slav Jerry et du M11.
+- Overdrive Québec — Physique : les freins, la suspension, l'adhérence des pneus sous la pluie.
+- Overdrive Québec — Économie : le vrai prix des pièces, la paie des livraisons, les prêts, le diesel, les réparations.
+- Overdrive Québec — Remorques : les remorques, les trains doubles et les B-trains, et les remorques du trafic.
+- Overdrive Québec — Remorques (modèles 3D) : les modèles des remorques de tête et des châssis à 4 essieux.
+- Overdrive Québec — Base : la circulation en convoi, l'IA, les heures de pointe et la police.
+- Overdrive Québec — Communauté : nos affiches sur les panneaux publicitaires.
+
+Les 8 sont obligatoires sur le serveur. Le lanceur les installe et les met à jour ensemble, en un seul clic.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUE TU DOIS FAIRE, UNE FOIS
+━━━━━━━━━━━━━━━━━━━━
+- En convoi : quand tu rejoins le serveur, le jeu te propose d'activer les mods de la séance, dans le bon ordre. Accepte.
+- En solo : ouvre le gestionnaire de mods, active les 8 modules et place-les tout en haut, dans l'ordre ci-dessus.
+- L'ancien « Overdrive Québec » est maintenant un fichier vide, « Overdrive Québec (ancien fichier, vide) » : tu peux le désactiver.
+- Le lanceur vérifie l'ordre après ta partie et te dit quoi corriger.
+
+━━━━━━━━━━━━━━━━━━━━
+SUR LE SERVEUR : UNE JOURNÉE PLUS LONGUE
+━━━━━━━━━━━━━━━━━━━━
+- En convoi, l'heure du jeu avance plus lentement : une journée de jeu dure environ 1 h 48 au lieu de 1 h 29, soit 22 % de plus. Les aubes, les journées et les nuits durent plus longtemps, et il faut dormir moins souvent.
+- Un trajet prend le même temps réel qu'avant. Le compteur et le carburant avancent un peu moins vite.
+- En solo, rien ne change.
+
+Bonne route!
