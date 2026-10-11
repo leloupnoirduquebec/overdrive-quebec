@@ -1,0 +1,25 @@
+OVERDRIVE QUÉBEC 3.0.7 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seul le module Économie change : les 7 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+LE FRET SELON LES VRAIES INDUSTRIES : UN PREMIER PAS
+━━━━━━━━━━━━━━━━━━━━
+- C'est le début d'un grand chantier : que chaque entreprise expédie ce que sa région produit vraiment. On commence par deux petits changements, pour voir comment le jeu réagit avant d'aller plus loin.
+- Les fermes Golden Meadows n'expédient plus d'amandes. Elles sont toutes dans le Centre-Sud (Arkansas, Iowa, Illinois, Kansas, Louisiane, Missouri, Nebraska, Oklahoma, Dakota du Sud, Texas), et la Californie produit 100 % des amandes américaines (USDA, 2024).
+- Les amandes partent toujours de la ferme d'amandes de Californie, des ports, des aéroports, des entrepôts et des usines alimentaires.
+- Le gravier ne voyage plus à plus de 400 km (environ 250 mi). Le jeu limitait déjà à 400 km la pierre concassée et la terre, deux cargaisons de la même famille. En vrai, un camion de gravier roule 133 km en moyenne (FAF, 2024).
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie : la même qu'en 3.0.6.
+- Les offres déjà affichées restent jusqu'à leur fin (3 à 30 heures de jeu), et une livraison en cours n'est pas touchée.
+- Aucune cargaison n'est retirée du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+
+Bonne route!

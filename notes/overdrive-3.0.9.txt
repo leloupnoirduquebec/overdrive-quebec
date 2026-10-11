@@ -1,0 +1,42 @@
+OVERDRIVE QUÉBEC 3.0.9 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Deux modules changent : Communauté et Base. Les 6 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+NOS AFFICHES SUR LES DERNIERS PANNEAUX DU JEU
+━━━━━━━━━━━━━━━━━━━━
+- Nos affiches étaient déjà sur les 279 faces des panneaux publicitaires « ordinaires » du jeu. Il restait des pubs ailleurs : elles montrent maintenant nos affiches, à tour de rôle.
+- Dans le jeu de base : la 2e face du grand panneau de l'Oklahoma (le logo du jeu y est remplacé par le nôtre), le panneau du relais routier de Davenport, les vieux panneaux de bord de route de la Californie, les spectacles de Las Vegas, le panneau de l'I-90 au Dakota du Sud, le lac des Ozarks, l'école d'arts martiaux de Boise, « Welcome to Montana » à West Yellowstone, les affiches du musée de Cody, les affiches des vitrines des stations-service, les panneaux des ateliers poids lourds, les affiches déchirées des poteaux de rue et la plaque du taxidermiste au cerf de Burns (Oregon).
+- Dans les DLC de cartes : le Superdome, Cedar Rapids, Waterloo, Chicago, Springfield (Illinois), le musée du sel de Hutchinson, Farmington, Gallup, le golf du Nouveau-Mexique, le relais Jack's en Oregon, les saloons de Sturgis, Rapid City, Galveston et le théâtre de Cedar City. Ces affiches sont dans les parties du module que le jeu lit seulement si tu as le DLC.
+- Les enseignes des commerces, les logos des entreprises de fret, les concessionnaires, l'école de conduite et les panneaux des villes restent ceux du jeu : ce ne sont pas des pubs.
+
+━━━━━━━━━━━━━━━━━━━━
+LES ÉCRANS DONNENT LES NOUVELLES D'OVERDRIVE
+━━━━━━━━━━━━━━━━━━━━
+- Les écrans publicitaires (totems de Springfield et de Galveston, aréna de Cedar Rapids, Gallup, Rapid City, Springfield en Illinois, la télé du saloon de Sturgis) montrent maintenant les nouveautés de la version : les titres de ces notes, puis overdrivequebec.ca.
+- Ils changent à chaque version d'Overdrive. Ils sont dans le petit module Base (environ 4 Mo) : le gros module des affiches, Communauté, ne se retélécharge pas pour eux.
+
+━━━━━━━━━━━━━━━━━━━━
+NOS AFFICHES AUSSI DE LOIN
+━━━━━━━━━━━━━━━━━━━━
+- De loin, le jeu dessine certains bâtiments et panneaux avec une image simplifiée, où l'ancienne pub était peinte. Là où on l'a trouvée, l'image de loin montre aussi notre affiche : plus de vieille pub qui réapparaît quand tu t'éloignes.
+
+━━━━━━━━━━━━━━━━━━━━
+LE TRAIT DU GPS PLUS MINCE
+━━━━━━━━━━━━━━━━━━━━
+- Le trait magenta de l'itinéraire est deux fois plus mince : le cœur blanc de la ligne passe de 8 à 4 pixels. Tu vois mieux la route et les sorties sous le trait.
+- Les couleurs restent celles de la 3.0.8 (magenta), et le GPS choisit les mêmes routes.
+- Si toutes les routes de la carte te semblent plus minces elles aussi, dis-le-nous : on corrigera ou on reviendra en arrière à la prochaine mise à jour.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La conduite, les camions, les remorques, la paie et les prix : les mêmes qu'en 3.0.8.
+- Le module Communauté grossit d'environ 20 Mo (les images des panneaux, aux tailles du jeu) : il passe de 46 à 66 Mo. Base passe de 20 Ko à environ 4 Mo (les écrans).
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+
+Bonne route!

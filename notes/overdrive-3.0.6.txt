@@ -1,0 +1,38 @@
+OVERDRIVE QUÉBEC 3.0.6 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules Base et Remorques changent (environ 1 Mo) : les 6 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+TRAFIC IA : 9 ENSEMBLES DE PLUS SUR LA ROUTE
+━━━━━━━━━━━━━━━━━━━━
+- 9 trains de compagnie du jeu roulent maintenant aussi dans le trafic :
+  - doubles 28 + 28 pi : rideaux, isolé et vrac sec ;
+  - Rocky Mountain 45 + 28 pi : rideaux, isolé et vrac sec ;
+  - triples 28 pi : rideaux, isolés et réfrigérés.
+- Le vrac sec roule sur le diabolo de compagnie du plateau, celui des doubles plateau du jeu : le diabolo de vrac sec du jeu n'a pas de niveaux de détail (il serait dessiné en entier même au loin).
+- Le train B plateau 28 + 28 pi (3 + 2 essieux) sort du trafic IA pour la même raison : sa tête de compagnie n'a pas de niveaux de détail. Il reste en vente pour toi, comme avant, et reviendra dans l'IA avec la partie 3D du plan.
+
+━━━━━━━━━━━━━━━━━━━━
+LES ENSEMBLES LONGS DE L'IA SUIVENT LES ROUTES RÉELLES
+━━━━━━━━━━━━━━━━━━━━
+- Rien ne change pour toi : tous les trains restent légaux partout, sans amende.
+- Pour l'IA seulement, les ensembles longs d'Overdrive roulent surtout dans les États qui les permettent en vrai (la loi fédérale et celle des États). Ailleurs, ils restent possibles, mais plus rares :
+  - Rocky Mountain : chez eux dans 13 États de l'Ouest et des Plaines ; ailleurs, 15 % de leur fréquence ;
+  - turnpikes 53 + 53 pi : chez eux au Colorado, en Idaho, au Kansas, au Montana, au Nevada, en Oklahoma, au Dakota du Sud et en Utah ; ailleurs, 10 % ;
+  - triples : chez eux dans 10 États ; ailleurs, 5 % ;
+  - trains B : chez eux en Idaho, au Montana, au Nevada, en Oregon, en Utah, dans l'État de Washington et au Wyoming ; ailleurs, 30 %.
+- Tu en croiseras donc moins au Texas et en Californie, et plus souvent au Nevada, en Utah ou au Montana.
+- Les doubles 28 + 28 pi roulent partout au même taux, comme ceux du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+DEUX ENSEMBLES LONGS À LA FOIS
+━━━━━━━━━━━━━━━━━━━━
+- Le jeu ne laissait naître qu'un seul ensemble long à la fois autour de toi, sur la voie de droite des autoroutes. C'est maintenant deux.
+- Ils naissent toujours loin de toi, à 400 m au moins.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+
+Bonne route!

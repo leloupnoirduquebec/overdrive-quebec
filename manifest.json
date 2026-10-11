@@ -2,13 +2,134 @@
   "schemaVersion": 1,
   "apiUrl": "https://lameuteqc.com/overdrive/",
   "community": {
-    "name": "Overdrive Québec"
+    "name": "Overdrive Québec",
+    "website": "https://overdrivequebec.ca/",
+    "websitePages": [
+      {
+        "title": "Entreprises",
+        "url": "https://overdrivequebec.ca/entreprises/"
+      },
+      {
+        "title": "Rejoindre",
+        "url": "https://overdrivequebec.ca/rejoindre/"
+      },
+      {
+        "title": "Télécharger",
+        "url": "https://overdrivequebec.ca/telecharger/"
+      },
+      {
+        "title": "Mods et serveur",
+        "url": "https://overdrivequebec.ca/mods-et-serveur/"
+      },
+      {
+        "title": "Streamers",
+        "url": "https://overdrivequebec.ca/streamers/"
+      }
+    ],
+    "content": "https://overdrivequebec.ca/communaute/contenu-communaute-v1.json",
+    "discord": "https://discord.gg/CAjuf5gvy9",
+    "discordText": "Le Discord de la communauté : annonces, soirées de convoi et entraide. C’est aussi là que tu te crées ton rôle American Truck Simulator.",
+    "radio": {
+      "name": "Radio Overdrive Québec",
+      "url": "https://overdrivequebec.ca/radio/stream",
+      "nowPlaying": "https://overdrivequebec.ca/radio/status-json.xsl",
+      "genre": "Country",
+      "language": "FR"
+    }
   },
   "game": {
     "requiredVersion": "1.61",
     "maxConvoySize": 128
   },
   "news": [
+    {
+      "date": "2026-10-11",
+      "title": "Overdrive Québec 3.0.12 : trajet du GPS en bleu",
+      "text": "Un ajustement : le trajet du GPS passe au bleu cyan, plus lisible sur les routes orange. Il remplace le magenta sur les écrans GPS des camions, dans le conseiller de route (F3) et sur la grande carte. Les flèches vertes et la largeur du trait ne changent pas. Si le cyan se confond avec quelque chose sur ta carte, dis-le-nous. Un seul module change : Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.12.txt",
+        "sha256": "a954a8034054a14b5bcf1639d186dfd60040bbb2b9c41ee4d9f82d8e8c05b7a0",
+        "sizeBytes": 1871
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Overdrive Québec 3.0.11 : GPS plus net et trait plus fin dans le camion",
+      "text": "Deux ajustements au GPS du camion : l'écran est plus net sur les camions qui le dessinaient en petite résolution (W900, 389, 579 et les autres), et le trait de l'itinéraire est plus fin sur les écrans des camions et dans le conseiller de route (F3). La grande carte ne change pas. Si les routes te semblent trop minces dans le GPS du camion, dis-le-nous. La 3.0.11 contient aussi tout ce que la 3.0.10 apportait. Trois modules changent : Communauté, Base et Économie. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.11.txt",
+        "sha256": "eea71e5cb12f83c38d895ab0feeccf4ead061fac4563ca7ac36e5dcda210ad28",
+        "sizeBytes": 9080
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Overdrive Québec 3.0.10 : de nouvelles affiches, des industries plus vivantes et des imprévus sur la route",
+      "text": "De nouvelles affiches, des industries plus vivantes et des imprévus sur la route : ouvre l'œil en roulant. Le trait du GPS est maintenant magenta aussi dans le conseiller de route (F3) et sur les écrans des camions, plus seulement sur la grande carte. Trois modules changent : Communauté, Base et Économie. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.10.txt",
+        "sha256": "f9687d586d915ed30d9705b78db2b6ff9432c80b2ec8ea18228d7aa1fd06bc06",
+        "sizeBytes": 8013
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Overdrive Québec 3.0.9 : du nouveau sur la route, et un trait de GPS plus mince",
+      "text": "Du nouveau sur les routes : certaines nouveautés ont été ajoutées, à toi de les découvrir en roulant. Le trait de l'itinéraire du GPS est maintenant deux fois plus mince : tu vois mieux la route et les sorties dessous. Si toutes les routes de la carte te semblent plus minces elles aussi, dis-le-nous : on corrigera ou on reviendra en arrière à la prochaine mise à jour. Deux modules changent : Communauté et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.9.txt",
+        "sha256": "b8d3a33e1ac6f3618f6fe3eb5cf1478c6243396e10d32524611d99ab692178bd",
+        "sizeBytes": 4019
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Overdrive Québec 3.0.8 : la paie au poids, de vrais freins, le diesel recalé et le GPS en magenta",
+      "text": "La paie suit maintenant le poids, la distance et la valeur de ce que tu transportes, comme chez les vrais transporteurs : le niveau général monte d'environ ×1,5, une remorque légère paie au moins une remorque pleine, et aucun contrat ne paie moins qu'avant (un fourgon de 53 pi sur 700 km : 9 019 $ → 15 351 $). 38 cargaisons ont leur vrai poids. Les freins chauffent comme de vrais tambours. Tous les moteurs brûlent 32 % de plus, plus près d'un vrai camion sans trop alourdir le diesel. Le trait du GPS passe au magenta, et six moteurs sans fiche d'usine portent « Tuned ». Cinq modules changent : Physique, Base, Remorques, Camions et Économie. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.8.txt",
+        "sha256": "f94e05f3ea732701a6473fc90771265a46ea771a64d63f9d6c75f2d81f12d06b",
+        "sizeBytes": 11181
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Overdrive Québec 3.0.7 : le fret selon les vraies industries, un premier pas",
+      "text": "Premier pas d'un grand chantier : que chaque entreprise expédie ce que sa région produit vraiment. Les fermes Golden Meadows, toutes dans le Centre-Sud, n'expédient plus d'amandes (la Californie fait 100 % des amandes américaines). Le gravier ne part plus à plus de 400 km (environ 250 mi), comme la pierre concassée et la terre, que le jeu limite déjà ainsi. La paie ne change pas. Seul le module Économie change. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.7.txt",
+        "sha256": "5f61c2230394c71ef8cf6ed266f47dbd9784f8d2a3c06bb8ddbde53858900d2b",
+        "sizeBytes": 1880
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Overdrive Québec 3.0.6 : 9 ensembles de plus dans le trafic, et les trains longs de l'IA suivent les routes réelles",
+      "text": "9 trains de compagnie du jeu roulent maintenant aussi dans le trafic : doubles 28 + 28 pi à rideaux, isolé et de vrac sec, Rocky Mountain 45 + 28 pi à rideaux, isolé et de vrac sec, et triples à rideaux, isolés et réfrigérés. Les ensembles longs de l'IA roulent surtout dans les États qui les permettent en vrai et plus rarement ailleurs (moins de turnpikes et de triples au Texas et en Californie). Deux ensembles longs peuvent maintenant naître à la fois au lieu d'un. Pour toi, rien ne change : tous les trains restent légaux partout. Seuls les modules Base et Remorques changent. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.6.txt",
+        "sha256": "0885625476a4d3d5c62bd58865540038bef0ba7ec9059b04731c2f8628385728",
+        "sizeBytes": 2843
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "title": "Overdrive Québec 3.0.5 : 7 charges du Transport spécial de plus au marché du fret, et l'icône des MX-11",
+      "text": "Le climatiseur industriel, le treillis, le tombereau articulé, la chargeuse souterraine, l'hélicoptère, le bateau-pilote et le silo du DLC Special Transport arrivent maintenant au marché du fret : leur seule remorque était la longue lowboy de SCS, que le jeu ne met pas au marché. Ils viennent sur une remorque plus courte que le jeu offre déjà : le tombereau sur la lowboy courte à 9 essieux, les 6 autres sur la plateforme à cadre des wagons, posés comme sur la longue lowboy. L'hélicoptère se livre aussi aux 15 aéroports. Les moteurs Paccar MX-11 ont enfin leur icône au garage. Seuls les modules Camions et Économie changent. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.5.txt",
+        "sha256": "4744eee358d1b88f46c5058ea7440f05b232fb32b85a64b87fc102c6755b7873",
+        "sizeBytes": 2937
+      }
+    },
     {
       "date": "2026-10-10",
       "title": "Overdrive Québec 3.0.4 : 10, 13 et 18 vitesses pour chaque moteur, et les boîtes Overdrive Shop",
@@ -274,23 +395,23 @@
     },
     {
       "name": "Overdrive Québec — Communauté",
-      "version": "3.0.0",
+      "version": "3.0.11",
       "source": "direct",
       "fileName": "overdrive-communaute.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.0.scs",
-      "sha256": "5a84c2ca3d29705331768b93cf91ff1fbf8ebe2c9aa7cafff7918bac4c846333",
-      "sizeBytes": 46058606,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.11.scs",
+      "sha256": "844e7e1a2d06a8eaf36dd12a8c95292b5a1e49c812e0e276f866a59f8b1dde27",
+      "sizeBytes": 71840167,
       "required": true,
       "loadOrder": 70
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.0",
+      "version": "3.0.12",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.0.scs",
-      "sha256": "9eea2cb7fad36092147594dbcb650d8f636e751962db0e82d7dff8855f920f60",
-      "sizeBytes": 15487,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.12.scs",
+      "sha256": "c1d8b6021e7c58d72aebad846ab264ba3575bafa90a77a513dc433e3f8d9db68",
+      "sizeBytes": 4054284,
       "required": true,
       "loadOrder": 71
     },
@@ -307,45 +428,45 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.2",
+      "version": "3.0.8",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.2.scs",
-      "sha256": "c739759a12b62814085e41b38d11cd4af48f0bb53cbcbbb27d4d36216a10d1ca",
-      "sizeBytes": 980810,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.8.scs",
+      "sha256": "d67ee20a4bdd55a356521a497de9ea5f7d22146d104a7033d7ce75145597d8a1",
+      "sizeBytes": 1006925,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.3",
+      "version": "3.0.11",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.3.scs",
-      "sha256": "9411a013ce6e0430eec0f92a7bd9ff4d7877ab2858eba059a89d59abb3158494",
-      "sizeBytes": 10434411,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.11.scs",
+      "sha256": "30f0d69a084ee30fb6d9cb1b3558963effcc2706fa8a17f7d0391f471b71d0f8",
+      "sizeBytes": 10694260,
       "required": true,
       "loadOrder": 74
     },
     {
       "name": "Overdrive Québec — Physique",
-      "version": "3.0.2",
+      "version": "3.0.8",
       "source": "direct",
       "fileName": "overdrive-physique.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.2.scs",
-      "sha256": "3985bd7197d55876128c8e0ca89be21b2d7c1c51d099b6b0a8f980bd7ba51f03",
-      "sizeBytes": 33055,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.8.scs",
+      "sha256": "84304fd310f67d8556ca138d525674c703d2d53e1666ec376aa81a4271f9d94a",
+      "sizeBytes": 33050,
       "required": true,
       "loadOrder": 75
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.4",
+      "version": "3.0.8",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.4.scs",
-      "sha256": "be479fa9de69bb8e2aac7e0c4ea64308aca71cad5201fb5826f63502b6304301",
-      "sizeBytes": 3311216,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.8.scs",
+      "sha256": "1f1add79bbeb89d61dbe08d66dedc38b4bdb79da914e1b94b50b0931f19658a2",
+      "sizeBytes": 3313213,
       "required": true,
       "loadOrder": 76
     },
@@ -373,6 +494,9 @@
       "workshopId": "3272227864",
       "required": true,
       "loadOrder": 30,
+      "orderAgainst": [
+        "overdrive-camions.scs"
+      ],
       "orderRisk": "crash",
       "orderNote": "ses moteurs perdent la boîte par défaut d'Overdrive, et le jeu peut planter quand tu achètes un moteur"
     },
@@ -382,6 +506,9 @@
       "workshopId": "3491882019",
       "required": false,
       "loadOrder": 60,
+      "orderAgainst": [
+        "overdrive-meteo.scs"
+      ],
       "orderRisk": "visual",
       "orderNote": "le ciel d'Overdrive est perdu : la date du soleil revient à l'automne et les nuits sont trop longues"
     },
@@ -391,6 +518,9 @@
       "workshopId": "2595128788",
       "required": true,
       "loadOrder": 65,
+      "orderAgainst": [
+        "overdrive-camions.scs"
+      ],
       "orderRisk": "crash",
       "orderNote": "ses moteurs perdent la boîte par défaut d'Overdrive, et le jeu peut planter quand tu achètes un moteur"
     }
@@ -427,5 +557,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261011012818
+  "serial": 20261011193517
 }

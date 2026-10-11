@@ -1,0 +1,66 @@
+OVERDRIVE QUÉBEC 3.0.11 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Trois modules changent : Communauté, Base et Économie. Les 5 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+La 3.0.11 contient tout ce que la 3.0.10 apportait (plus bas), avec deux ajustements au GPS du camion.
+
+━━━━━━━━━━━━━━━━━━━━
+LE GPS DU CAMION : PLUS NET, TRAIT PLUS FIN
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : le trait de l'itinéraire est plus fin sur les écrans GPS des camions et dans le conseiller de route (F3), à peu près 60 % de sa largeur de la 3.0.10. Sur la grande carte, il ne change pas : même largeur qu'en 3.0.9 (module Base).
+- Ajustement : l'écran GPS est plus net sur les camions qui le dessinaient en petite résolution : W900, 389, 579, T680 (l'ancien), LT, LoneStar, 9900i, Anthem, Pinnacle, VNL (l'ancien), 49X et le Cascadia sans écran numérique. Il est maintenant dessiné deux fois plus fin, en 512 × 512, comme sur les camions plus récents (module Communauté ; module Économie pour le 579). La Crown Victoria du DLC RT Ford en profite aussi, si tu as le DLC. Les autres camions avaient déjà un écran net : rien ne change pour eux.
+- Si les routes ou le trait te semblent trop minces dans le GPS du camion, dites-le-nous : on ajuste à la prochaine mise à jour.
+- Le trait de l'itinéraire est magenta partout : dans le conseiller de route (F3) et sur les écrans GPS des camions aussi, plus seulement sur la grande carte. En 3.0.9, le bout de trajet que tu roules restait rouge : le jeu le colore avec un réglage à part, qu'on règle maintenant (module Base).
+- Le GPS des camions a maintenant son écran Overdrive Québec (module Communauté). Contact mis, moteur arrêté, il couvre la carte : le logo, « OVERDRIVE QUÉBEC », une barre de chargement et overdrivequebec.ca en petit. Il s'efface dès que le moteur démarre et laisse la carte ; il revient quand tu coupes le moteur.
+- Quand tu fermes le GPS (touche « Infotainment Display Mode »), c'est l'écran Overdrive qui s'affiche au lieu de l'écran noir.
+- Ça vaut pour les 19 camions de SCS, et pour les camions de mods qui utilisent l'écran GPS ordinaire du jeu.
+- Quand tu rouvres le GPS, la carte revient d'un coup : le jeu n'a pas de minuteur pour une animation d'ouverture. La barre de chargement tourne en boucle.
+- Si l'écran Overdrive reste par-dessus la carte en roulant, dites-le-nous : on le retire à la prochaine mise à jour et on garde l'écran de veille.
+
+━━━━━━━━━━━━━━━━━━━━
+DE NOUVELLES AFFICHES SUR LA ROUTE
+━━━━━━━━━━━━━━━━━━━━
+- Les 6 anciennes affiches sont remplacées par 18 nouvelles : 12 en largeur pour les grands panneaux, 6 en hauteur pour les affiches de rue, les vitrines et le théâtre.
+- Au programme : l'Overdrive Shop, les néons du garage, notre entreprise, les convois (sous la pluie, sous l'orage, au coucher du soleil, avec une pale d'éolienne), le Discord, le programme des créateurs et Radio Overdrive Québec.
+- Chaque panneau prend l'affiche qui lui va le mieux : en largeur sur les panneaux larges, en hauteur sur les affiches hautes. Le texte, le logo et overdrivequebec.ca restent toujours entiers et jamais écrasés ; quand le panneau n'a pas la forme de l'affiche, le reste est un fond flou et sombre de la même affiche.
+- Les affiches de Radio Overdrive Québec reviennent deux fois plus souvent que les autres.
+- Ça vaut pour les 279 faces des panneaux « ordinaires », les autres pubs du jeu de base et des DLC de cartes (même endroits qu'en 3.0.9), et leurs images de loin.
+- La 2e face du grand panneau de l'Oklahoma montre maintenant « La route ne dort jamais ».
+
+━━━━━━━━━━━━━━━━━━━━
+DES INDUSTRIES PLUS VIVANTES
+━━━━━━━━━━━━━━━━━━━━
+- Quand SCS a fait les nouveaux États, il a repris les listes de cargaisons des industries de l'Ouest, avec des trous. On les comble : une entreprise expédie ou reçoit maintenant ce que la même industrie expédie ou reçoit ailleurs sur la carte, quand c'est cohérent. 574 liens de plus, dans les 21 États (module Économie).
+- Les ressources (54 liens) : les scieries Deepgrove expédient des palettes ; les entrepôts de matériaux Taylor (Centre-Sud) prennent et expédient le bois d'œuvre et le verre ; les deux aciéries expédient du fil machine ; les usines alimentaires Global Mills (Ouest) expédient de la crème glacée et reçoivent de la soude caustique ; la saline de l'Utah expédie du sel en vrac.
+- Et aussi : les usines d'autos reçoivent bobines d'acier, composants électroniques, pièces, peinture, verre, pneus et batteries comme la plus récente ; les distributeurs de produits chimiques prennent granules de plastique, soufre, brome, pesticides et éthanol ; les centrales reçoivent câble et fil machine ; le service pétrolier de Californie expédie de l'acide chlorhydrique et les sites pétroliers des Rocheuses reçoivent du brome ; les cours à agrégats NAMIQ reçoivent du diesel, les marinas de l'essence, les chantiers résidentiels des fermes de toit, et la jardinerie Bloomscape expédie du géotextile.
+- La machinerie (520 liens) : les chantiers de construction, les concessionnaires de machinerie et de camions, les usines d'autos et de camions, les cours à ferraille, les chantiers navals, les centrales et les dépôts routiers expédient et reçoivent la machinerie et les véhicules que leurs pareils ont déjà. Les liens des cargaisons de DLC payants (Heavy Cargo, Bobcat, JCB, Volvo Construction, Farm Machinery, KRONE, Forest Machinery, Special Transport) ne sont lus que par ceux qui ont le DLC.
+- Chaque ajout s'appuie sur un vrai chiffre : le recensement des entreprises américaines de 2023 (Census Bureau, County Business Patterns) ou l'USGS pour le sel. Une entreprise n'expédie une nouvelle cargaison que si l'industrie existe vraiment dans les États d'au moins un tiers de ses dépôts, et seulement sur un type de remorque que ses dépôts chargent déjà.
+- Pas d'inondation : une cargaison ajoutée prend au plus 10 % des offres d'une entreprise et gagne au plus 0,5 point des offres d'un État. Les plus gros changements : les concessionnaires Peterbilt et Western Star (de 2 à 10 cargaisons) et les usines d'autos AI Automotive (de 13 à 34, surtout des véhicules).
+- Pas ajouté, exprès : le brome expédié hors de l'Arkansas, l'acide borique hors de la Californie, les grains au port de San Francisco et les amandes chez Golden Meadows ; ni moteurs d'avion ni char d'assaut chez un concessionnaire de machinerie, ni un camion d'une autre marque chez Kenworth, Peterbilt ou Western Star.
+- La paie ne change pas : la règle de la 3.0.8 (poids, distance, valeur) vaut pour les nouvelles offres.
+
+━━━━━━━━━━━━━━━━━━━━
+DES IMPRÉVUS SUR LA ROUTE
+━━━━━━━━━━━━━━━━━━━━
+- Trois événements de route de plus, faits avec les décors de SCS : de longs travaux d'autoroute (200 à 300 m, une voie fermée), un camion en panne avec ses cônes, et la police qui arrête un camion sur l'accotement (module Base).
+- Ils sont rares : à peu près 1 événement sur 36 de ceux que tu croises sur l'autoroute. Les événements du jeu restent tous là, et ton réglage « Événements aléatoires » décide toujours de leur fréquence.
+- C'est du décor : la police n'arrête que le camion du décor, et aucun événement ne donne d'amende.
+- Jamais dans un tunnel, et pas de feux de circulation (ceux-là ne passent pas en convoi).
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La grande carte : son trait garde la largeur de la 3.0.9.
+- Les affiches sont aux mêmes endroits qu'en 3.0.9 : seules les images changent. Les enseignes des commerces et les panneaux des villes restent ceux du jeu.
+- Les écrans publicitaires donnent toujours les nouvelles de la version (module Base).
+- La conduite, les camions, les remorques, la paie et les prix : les mêmes qu'en 3.0.9.
+- Les tailles : Communauté passe d'environ 66 à 72 Mo (les images de l'écran du GPS), Base reste à environ 4 Mo et Économie passe de 10,5 à 10,7 Mo (les 574 nouveaux liens sont de tout petits fichiers).
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+- L'écran du GPS, son trait et sa netteté, c'est de l'affichage : chacun voit le sien, rien ne passe par le serveur.
+- En convoi, les événements de route passent par le serveur, qui ne connaît que ceux du jeu : si un événement ne s'affiche pas en convoi, dites-le-nous.
+
+Bonne route!

@@ -1,0 +1,27 @@
+OVERDRIVE QUÉBEC 3.0.12 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Un seul module change : Base (environ 4 Mo). Les 7 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+LE TRAJET DU GPS EN BLEU CYAN
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : le trajet du GPS passe au bleu cyan, plus lisible sur les routes orange. Il remplace le magenta.
+- Partout où le jeu dessine le trajet : sur les écrans GPS des camions, dans le conseiller de route (F3) et sur la grande carte (module Base).
+- Le bout de trajet que tu roules est d'un cyan un peu plus clair, pour le repérer d'un coup d'œil. Le tronçon en surbrillance est cyan pâle, le tronçon estompé d'un bleu plus sombre.
+- Les flèches vertes aux carrefours restent vertes, et le trait garde la largeur de la 3.0.11.
+- Si le cyan se confond avec quelque chose sur ta carte, dis-le-nous : on ajuste à la prochaine mise à jour.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Le GPS choisit les mêmes routes. L'écran Overdrive du GPS et sa netteté restent ceux de la 3.0.11.
+- La conduite, les camions, les remorques, les affiches, la paie et les prix : les mêmes qu'en 3.0.11.
+- Les écrans publicitaires donnent toujours les nouvelles de la version (module Base).
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+- La couleur du trajet, c'est de l'affichage : chacun voit le sien, rien ne passe par le serveur.
+
+Bonne route!

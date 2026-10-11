@@ -1,0 +1,128 @@
+OVERDRIVE QUÉBEC 3.0.8 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Cinq modules changent : Physique, Base, Remorques, Camions et Économie. Les 3 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+DES FREINS QUI CHAUFFENT COMME DE VRAIS TAMBOURS
+━━━━━━━━━━━━━━━━━━━━
+- Les freins chauffaient beaucoup trop vite. Un arrêt depuis 100 km/h, chargé à 80 000 lb, ajoutait environ 108 °C. Il ajoute maintenant environ 65 °C, ce que prennent de vrais tambours de 16,5 × 7 po (45 à 53 kg de fonte).
+- Les petits coups de frein en roulant chauffent donc beaucoup moins. Dix arrêts en ville depuis 50 km/h en 3 minutes ne mettent plus les freins au maximum.
+- Les freins refroidissent de nouveau à la vitesse du jeu d'origine. On les avait ralentis sans source, et la chaleur des coups de frein s'empilait.
+- Dans une longue descente de 6 % chargé, sans frein moteur, les freins chauffent encore et finissent au maximum, mais environ deux fois moins vite qu'avant. Avec le frein moteur, ils restent tièdes jusqu'en bas. Garde le frein moteur et un rapport bas dans les descentes : c'est la vraie règle.
+
+━━━━━━━━━━━━━━━━━━━━
+LA JAUGE QUI MONTE QUAND TU APPUIES SUR LE FREIN À L'ARRÊT
+━━━━━━━━━━━━━━━━━━━━
+- Sur le Kenworth W900 et le Peterbilt 389, l'aiguille qui monte quand tu appuies sur la pédale, même à l'arrêt, est très probablement BRK APP : la pression d'air envoyée aux freins (0 à 100 psi). Ce n'est pas une température et ce n'est pas un défaut. Sur le W900, elle est à côté de TRANS et OIL TEMP, avec le même cadran.
+- Le jeu n'a aucune jauge de température des freins, et la température des freins ne monte pas à l'arrêt.
+
+━━━━━━━━━━━━━━━━━━━━
+MOINS DE CAMIONS IA DE TRAVERS EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Le train B de bois 53 + 53 pi n'est plus dans le trafic IA. Le jeu ne trouvait pas les roues de sa remorque de tête : il roulait sans roues, et le journal du jeu annonçait même un plantage possible. Ton train B à toi ne change pas : tu peux toujours l'acheter et le conduire.
+- De nouveau un seul ensemble long à la fois autour de chaque joueur, comme dans le jeu d'origine. La 3.0.6 en permettait deux. En convoi, chaque joueur fait naître les siens : ça multipliait les remorques longues qui glissent de côté dans les virages.
+- Tout le reste de la 3.0.6 est gardé : les 9 trains ajoutés au trafic et le trafic adapté à chaque État.
+
+━━━━━━━━━━━━━━━━━━━━
+LE DIESEL : PLUS PRÈS D'UN VRAI CAMION
+━━━━━━━━━━━━━━━━━━━━
+- Sur l'autoroute, ton camion brûlait 30 à 40 % de moins qu'un vrai. Chargé, à 90 à 105 km/h : 19 à 27 L/100 km. Un vrai camion à 80 000 lb brûle 34 à 39 L/100 km (6 à 7 mpg).
+- Tous les moteurs brûlent maintenant 32 % de plus. Un Cummins X15 500 chargé à 80 000 lb, sur une autoroute plate à 100-105 km/h : environ 31 L/100 km (avant : environ 23).
+- L'écart entre les moteurs reste le même. Les grosses puissances, les anciens moteurs et les Tuned brûlent toujours un peu plus. La ligne « efficacité » brûle un peu moins.
+- Au ralenti, le moteur brûle environ 2,9 L par heure de jeu au lieu de 2,3. Un vrai camion : 2,5 à 4 L/h.
+- En ville et dans les côtes, la consommation monte aussi de 32 % : environ 45 L/100 km en moyenne, toutes routes confondues (un vrai camion : 39 à 41).
+- Pourquoi pas plus : le jeu brûle peu sur l'autoroute mais déjà assez en ville. Un seul réglage règle les deux : on a pris celui qui s'écarte le moins du vrai partout, à environ 10 % au plus, sans faire exploser le coût du diesel.
+- Le diesel de chaque livraison coûte donc un peu plus cher. La paie monte beaucoup plus (voir la section suivante).
+- Pourquoi : la résistance de l'air d'Overdrive est la vraie, mais la consommation n'avait jamais été recalée après. On a gardé la vraie résistance de l'air.
+
+━━━━━━━━━━━━━━━━━━━━
+SIX MOTEURS MARQUÉS « TUNED »
+━━━━━━━━━━━━━━━━━━━━
+- Six puissances n'ont pas de fiche d'usine publiée. On les avait déduites entre deux vraies puissances, sans le dire.
+- Elles portent maintenant « Tuned » dans leur nom, comme nos autres puissances qui ne sont pas d'usine :
+  Cummins Signature 520, Cummins ISX 500, Detroit Series 60 14.0L 545, Caterpillar C15 6NZ 500 et 525, Detroit Series 60 12.7L 470.
+- Seul le nom change. La puissance, le couple, la consommation et le prix restent ceux d'avant.
+- Si tu as déjà un de ces moteurs, il reste sur ton camion.
+
+━━━━━━━━━━━━━━━━━━━━
+LES BOÎTES OVERDRIVE SHOP
+━━━━━━━━━━━━━━━━━━━━
+- L'OD Shop 10 HD (AUT) a maintenant exactement les rapports de l'Allison TC10 du jeu : 3e à 4,25 et marche arrière à 1,96 (avant 4,247 et 1,957). Sur le LoneStar, le T680, le W900, le 389 et le 579. Tu ne sentiras pas la différence.
+- Sur le Kenworth T680 2022, les OD Shop 10 HD (SYNC) et 13 HD (SYNC) prennent le pont de leurs vraies boîtes sur ce camion : 2,64 et 3,36 (avant 2,85 et 3,55).
+
+━━━━━━━━━━━━━━━━━━━━
+LA RÉSISTANCE DE L'AIR DE QUATRE REMORQUES D'ENTREPRISE
+━━━━━━━━━━━━━━━━━━━━
+- Les trois porte-camions du Western Star 49X et le porte-pale de 40 m du Transport spécial n'avaient pas leur propre résistance de l'air. Ils prenaient celle d'un camion entier et doublaient la traînée de l'ensemble.
+- Ils ont maintenant la même valeur que toutes les autres remorques.
+- Le porte-pale est lu seulement si tu as le DLC Transport spécial.
+
+━━━━━━━━━━━━━━━━━━━━
+LE TRAIT DU GPS EN MAGENTA
+━━━━━━━━━━━━━━━━━━━━
+- Le trait de l'itinéraire est maintenant magenta (rose vif) au lieu de rouge. Sur le GPS du tableau de bord, le conseiller de route (F3) et la grande carte (M).
+- Le magenta est la couleur des GPS d'avion. Il ne se confond avec aucune couleur de la carte.
+- Le jaune se confondait avec les routes déjà découvertes, qui sont ambre. Le blanc se confondait avec les routes pas encore découvertes.
+- Les flèches vertes aux carrefours restent.
+- Le GPS choisit les mêmes routes qu'avant.
+- La largeur du trait ne change pas encore. Il faut d'abord un essai en jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+LA PAIE : AU POIDS, À LA DISTANCE ET À LA VALEUR
+━━━━━━━━━━━━━━━━━━━━
+- Un contrat paie maintenant ce que tu transportes : le poids, multiplié par la distance, et un peu plus pour une marchandise qui vaut cher. C'est comme ça que les vrais transporteurs sont payés.
+- Une remorque légère paie au moins une remorque pleine. Une remorque remplie de marchandise légère (meubles, palettes vides, IBC vides, yogourt) paie au moins un fourgon de 53 pi chargé au maximum. Ce sont les contrats légers qui gagnent le plus.
+- Aucun contrat ne paie moins qu'avant. Chaque cargaison garde au moins sa paie de la 3.0.7.
+- Le niveau général de la paie monte d'environ ×1,5. Un fourgon ordinaire paie maintenant à peu près ce que paie le jeu sans mod.
+- Le frigo paie 13 % de plus qu'un fourgon, le plateau 23 % de plus et la citerne 28 % de plus, comme les vrais tarifs.
+- Une pièce hors normes paie au moins une surbaissée pleine, puis chaque tonne en plus.
+- Un double paie deux fois une simple : il porte deux fois plus.
+- La partie fixe du contrat et les bonus (niveau, compétences, urgence) restent ceux du jeu. Les bonus montent avec la paie.
+
+Exemples, contrat de 700 km au marché du fret, partie fixe comprise :
+
+  Fourgon 53 pi, aliments : 9 019 $ → 15 351 $ (+70 %)
+  Fourgon 53 pi, meubles : 9 633 $ → 18 797 $ (+95 %)
+  Frigo 53 pi, viande : 7 734 $ → 17 964 $ (+132 %)
+  Plateau 48 pi, bois d'œuvre : 6 068 $ → 15 504 $ (+155 %)
+  Citerne 43 pi, essence : 12 772 $ → 15 875 $ (+24 %)
+  Citerne double 53+53, essence : 30 353 $ → 37 939 $ (+25 %)
+  Fourgon double 53+53, aliments : 17 738 $ → 30 629 $ (+73 %)
+  Bétaillère 48 pi, bovins : 10 478 $ → 17 931 $ (+71 %)
+  Benne 36 pi, sel : 2 109 $ → 10 797 $ (+412 %)
+  Citerne à gaz, propane : 16 022 $ → 16 022 $ (inchangé)
+  Moissonneuse sur surbaissée : 12 360 $ → 21 320 $ (+72 %)
+  Niveleuse sur plateau surbaissé : 9 283 $ → 21 320 $ (+130 %)
+  Deux conteneurs de déménagement : 1 208 $ → 18 603 $
+  Tombereau de 85 t (Transport spécial) : 16 476 $ → 72 899 $
+
+Ton multiplicateur (marché, niveau, compétences) s'applique en plus, comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+LES VRAIES MASSES DES CARGAISONS
+━━━━━━━━━━━━━━━━━━━━
+- 38 cargaisons ont maintenant leur vrai poids, avec une source pour chacune : le sel en vrac, le borax, les acides et la soude, le pesticide, le bois d'œuvre, les bennes à déchets, les poteaux, le foin, le coton, la ferraille, le calcaire, la pierre concassée, l'orge, le riz, l'ammoniac, le papier, les IBC vides, les meubles, les carcasses d'autos, le gypse, le fil machine, les bardeaux, le fromage, les surgelés, l'engrais, la viande, les fruits, la silice, le yogourt, deux machines Krone et le pneu minier.
+- Les bêtes se comptent par tête, au vrai nombre par bétaillère : 35 bovins, 171 porcs ou 337 moutons.
+- Ta remorque se remplit donc comme une vraie : par exemple, une benne de sel est maintenant pleine au poids.
+
+━━━━━━━━━━━━━━━━━━━━
+DES REMORQUES À LEUR VRAIE CAPACITÉ
+━━━━━━━━━━━━━━━━━━━━
+- Les châssis porte-conteneurs simples ont la tare et la capacité des fiches TRAC : jusqu'à 60 500 lb de charge au lieu d'environ 50 000.
+- Les surbaissées simples portent leur capacité nominale : 110 000 lb pour la 3 essieux, 70 000 lb pour la 2 essieux.
+- La benne à fond ouvrant à 3 essieux a la tare d'une vraie : 13 890 lb pour le châssis.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La force de freinage, les distances d'arrêt et le frein moteur : les mêmes qu'en 3.0.7.
+- Le maximum de température des freins reste celui du jeu (200).
+- Le jeu ne fait pas de « fading » visible quand les freins sont chauds : on ne le promet donc pas.
+- Les prix des camions, des remorques et des pièces, les prêts, les réparations et les amendes : les mêmes qu'en 3.0.7.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+
+Bonne route!

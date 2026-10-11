@@ -1,0 +1,35 @@
+OVERDRIVE QUÉBEC 3.0.5 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules Camions et Économie changent (environ 14 Mo) : les 6 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+TRANSPORT SPÉCIAL : 7 CHARGES DE PLUS AU MARCHÉ DU FRET
+━━━━━━━━━━━━━━━━━━━━
+- Depuis la 3.0.3, le camion minier, sa benne et les wagons sortaient au marché du fret, mais pas 7 autres charges du DLC Special Transport : le climatiseur industriel, le treillis, le tombereau articulé, la chargeuse souterraine, l'hélicoptère, le bateau-pilote et le silo.
+- Leur seule remorque était la longue lowboy à 9 essieux de SCS (34,5 m), que le jeu ne met pas au marché du fret.
+- Elles arrivent maintenant sur une remorque plus courte, que le jeu offre déjà :
+  - le tombereau articulé sur la lowboy courte à 9 essieux (celle du camion minier) ;
+  - les 6 autres sur la plateforme à cadre (celle des wagons), dont le plateau de 19,6 m les porte en entier.
+- La charge est posée au même endroit du plateau que sur la longue lowboy de SCS. Le choix de la remorque vient des modèles 3D du jeu : sur la lowboy courte, le climatiseur, le treillis, la chargeuse souterraine, l'hélicoptère, le bateau-pilote et le silo entreraient dans le col de cygne ou dans les roues arrière.
+- La paie, la masse et les dimensions de chaque charge ne changent pas. Les missions scénarisées du DLC restent comme SCS les a faites.
+- Il faut avoir le DLC Special Transport pour ces livraisons, comme avant.
+- Les offres déjà affichées restent jusqu'à leur renouvellement : dors quelques fois pour en voir de nouvelles.
+
+━━━━━━━━━━━━━━━━━━━━
+L'HÉLICOPTÈRE VA AUSSI AUX AÉROPORTS
+━━━━━━━━━━━━━━━━━━━━
+- L'hélicoptère n'avait que 8 dépôts de destination (les deux entreprises d'aviation). Il se livre maintenant aussi aux 15 aéroports du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- Les moteurs Paccar MX-11 (430 et 445) des T680, T680 2022, W900, 389 et 579 n'avaient pas d'icône au garage. Ils montrent maintenant l'icône Paccar, comme le MX-13.
+- Ils ont aussi le ralenti, le type de pièce, la limite sans AdBlue et l'insigne Paccar du MX-13. Leur puissance, leur couple et leur prix ne changent pas.
+- C'était la cause des erreurs « /material/ui/accessory/.mat » du journal du jeu à l'ouverture du garage.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+
+Bonne route!
