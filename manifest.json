@@ -11,6 +11,50 @@
   "news": [
     {
       "date": "2026-10-10",
+      "title": "Overdrive Québec 3.0.4 : 10, 13 et 18 vitesses pour chaque moteur, et les boîtes Overdrive Shop",
+      "text": "Chaque moteur en vente, sur chaque camion, a maintenant au moins une boîte manuelle et une automatique en 10, en 13 et en 18 vitesses (une automatisée de 12 vitesses compte comme une 13). 40 vraies boîtes s'ajoutent (Eaton Fuller RTLO-22918B, FRO-18210C et RTLO-20913A, Allison TC10, Eaton MHP et VXP) et cinq boîtes Eaton reviennent en vente. Pour les moteurs les plus forts, qu'aucune vraie 10 ou 13 vitesses n'accepte, l'Overdrive Shop prépare des versions renforcées de vraies boîtes, avec les mêmes rapports : OD Shop 10 HD et OD Shop 13 HD, en MAN, SYNC et AUT. L'Allison 4000 du 49X a enfin son convertisseur de couple. Un moteur caché que tu remplaces ne revient pas : son jumeau en vente a la même puissance. Seul le module Camions change. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.4.txt",
+        "sha256": "2452db5614226d92d1d20674d744bced7c4fec4667d66644192e7b5e083ad433",
+        "sizeBytes": 5159
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Overdrive Québec 3.0.3 : Heavy Haul, les grosses charges et les charges larges en livraisons normales",
+      "text": "Les grosses charges et les charges hors normes du jeu de base arrivent maintenant par les livraisons normales, chez beaucoup plus d'entreprises : nacelles et tours d'éoliennes, transformateurs, génératrices, wagons, moissonneuses, bouteurs, pelles, bateaux. Cherche-les aux centrales et chantiers d'énergie, aux ports, aux gares, chez les concessionnaires de machinerie, aux mines et sur les chantiers. Si tu as un DLC de cargaisons (Heavy Cargo, Special Transport, Volvo Construction, JCB, KRONE, Forest Machinery, Farm Machinery), ses grosses machines arrivent aussi par les livraisons normales ; Special Transport sans escorte ni trajet imposé. Sans le DLC, tu ne vois pas ces livraisons. Les charges larges sont acceptées, avec leur vraie masse et leurs vraies dimensions, et la paie reste celle d'Overdrive. Tu n'as rien à faire. Seul le module Économie change. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.3.txt",
+        "sha256": "3aaeb5b2bbbba26fbbedf5034697cd8214697721e60269de4a97493770603094",
+        "sizeBytes": 3611
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Overdrive Québec 3.0.2 : plus d'objets fantômes des DLC que tu n'as pas",
+      "text": "Le garage et les concessionnaires ne montrent plus les objets des DLC payants que tu n'as pas (pneus Michelin et Goodyear, objets Pink Ribbon, souvent sans image ou en vert) : leurs valeurs sont maintenant dans une partie de chaque module que le jeu ne lit que si tu possèdes le DLC. Si tu as le DLC, rien ne change : les vrais prix d'Overdrive restent appliqués, et les remorques Lode King gardent leur vraie charge. Tu n'as rien à faire : rien à cocher ni à décocher. Seuls les modules Économie, Remorques et Physique changent. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.2.txt",
+        "sha256": "7f3ecf46631d1816277469b53bed54bc17780941db16552de4698b45178d06c6",
+        "sizeBytes": 2380
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Overdrive Québec 3.0.1 : les moteurs en ordre, les bonnes boîtes avec les bons moteurs",
+      "text": "Au garage, les moteurs d'une même famille sont maintenant ensemble, du moins puissant au plus puissant (quelques prix bougent de 10 $ en 10 $, jamais plus de 0,6 %). Les boîtes d'un constructeur ne vont plus qu'avec ses moteurs : la DT12 avec les Detroit, la PACCAR TX avec les MX, l'I-Shift avec les Volvo, la T14 avec le S13. Le Mack MP10 revient dans l'Anthem et le Pinnacle, et quelques régimes et couples suivent maintenant les fiches des constructeurs. Tes camions gardent leur moteur et leur boîte. Seuls les modules Camions et Économie changent. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.1.txt",
+        "sha256": "bf9c6fd8297d176b17cf40ab15214f12fe95aaaa085b050ffa9304b97fccda50",
+        "sizeBytes": 3622
+      }
+    },
+    {
+      "date": "2026-10-10",
       "title": "Overdrive Québec 3.0.0 : le mod en 8 modules, et des journées plus longues sur le serveur",
       "text": "Overdrive Québec est maintenant fait de 8 modules : Météo, Camions, Physique, Économie, Remorques, Remorques (modèles 3D), Base et Communauté. Le contenu est exactement celui de la 2.7.7 : rien ne change en jeu, et les prochaines mises à jour ne téléchargeront que les modules qui changent. Les 8 sont obligatoires sur le serveur ; en convoi, le jeu te propose de les activer dans le bon ordre. En solo, active-les tous, tout en haut du gestionnaire de mods, Météo en premier puis Camions. L'ancien Overdrive Québec est maintenant vide : tu peux le désactiver. Sur le serveur, une journée de jeu dure maintenant environ 1 h 48 au lieu de 1 h 29. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible », ou sur « Télécharger » et « Corriger » aux lignes Overdrive Québec de la ronde de sécurité.",
       "popup": true,
@@ -263,45 +307,45 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.0",
+      "version": "3.0.2",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.0.scs",
-      "sha256": "e11f4e13ff2bb31b54ba31bbffd3fc4283acecb740bd3ec2419b6b636b7c2b11",
-      "sizeBytes": 956844,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.2.scs",
+      "sha256": "c739759a12b62814085e41b38d11cd4af48f0bb53cbcbbb27d4d36216a10d1ca",
+      "sizeBytes": 980810,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.0",
+      "version": "3.0.3",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.0.scs",
-      "sha256": "a75e2cf0f1898fb6e7b00936fb1a0b092749384e3758871e1be70dba2628b6ae",
-      "sizeBytes": 9351174,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.3.scs",
+      "sha256": "9411a013ce6e0430eec0f92a7bd9ff4d7877ab2858eba059a89d59abb3158494",
+      "sizeBytes": 10434411,
       "required": true,
       "loadOrder": 74
     },
     {
       "name": "Overdrive Québec — Physique",
-      "version": "3.0.0",
+      "version": "3.0.2",
       "source": "direct",
       "fileName": "overdrive-physique.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.0.scs",
-      "sha256": "b1650b3720b1a702651e4656a9f29c6ae6c438056eb061eff717f4be3de030f5",
-      "sizeBytes": 31931,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.2.scs",
+      "sha256": "3985bd7197d55876128c8e0ca89be21b2d7c1c51d099b6b0a8f980bd7ba51f03",
+      "sizeBytes": 33055,
       "required": true,
       "loadOrder": 75
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.0",
+      "version": "3.0.4",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.0.scs",
-      "sha256": "73ab94f4caad218d1edcb66222721c92d37b4ad3b00df413b9b0bfe3f4bd4ead",
-      "sizeBytes": 3086308,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.4.scs",
+      "sha256": "be479fa9de69bb8e2aac7e0c4ea64308aca71cad5201fb5826f63502b6304301",
+      "sizeBytes": 3311216,
       "required": true,
       "loadOrder": 76
     },
@@ -383,5 +427,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261010214017
+  "serial": 20261011012818
 }

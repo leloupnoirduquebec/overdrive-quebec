@@ -1,0 +1,66 @@
+OVERDRIVE QUÉBEC 3.0.4 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seul le module Camions change (environ 3 Mo) : les 7 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant : aucun fichier de moteur ni de boîte n'est renommé ni effacé, et un camion garde son moteur et sa boîte.
+
+━━━━━━━━━━━━━━━━━━━━
+10, 13 ET 18 VITESSES POUR CHAQUE MOTEUR
+━━━━━━━━━━━━━━━━━━━━
+- Chaque moteur en vente, sur chaque camion, a maintenant au moins une boîte manuelle (MAN) et une boîte automatique en 10, en 13 et en 18 vitesses.
+- Automatique veut dire AUT (convertisseur de couple, les Allison) ou SYNC (manuelle automatisée).
+- En 13 et en 18 vitesses, l'automatique est une SYNC : aucune vraie boîte à convertisseur n'a 13 ou 18 vitesses.
+- Une automatisée de 12 vitesses compte comme une 13 : I-Shift, mDRIVE, DT12, Endurant et PACCAR TX-12.
+- Cette règle passe avant la liste réelle du constructeur. Le Cascadia 2024, le T680 2022, les VNL 2018 et 2025, le 57X et le 5700XE ont donc des boîtes que le vrai camion n'offrait pas.
+- Le nombre de vitesses s'affiche quand tu sélectionnes une boîte au garage.
+
+━━━━━━━━━━━━━━━━━━━━
+DE NOUVELLES VRAIES BOÎTES
+━━━━━━━━━━━━━━━━━━━━
+40 boîtes ajoutées, toutes avec leurs vrais rapports et leur vraie limite de couple :
+- Eaton Fuller RTLO-22918B (18 vitesses manuelle, 2 250 lb-pi) sur 12 camions ;
+- Allison TC10 (10 vitesses à convertisseur, 1 850 lb-pi) sur 13 camions ;
+- Eaton Fuller FRO-18210C (10 vitesses manuelle) sur 5 camions ;
+- Eaton Fuller RTLO-20913A (13 vitesses manuelle) sur 6 camions ;
+- Eaton MHP (13 vitesses SYNC) sur 2 camions ;
+- Eaton VXP (18 vitesses SYNC) sur 2 camions.
+
+Remises en vente :
+- l'Eaton VXP du Cascadia 2024 ;
+- l'Eaton MHP et l'Eaton VXP du 5700XE, avec leurs versions R (ralentisseur).
+
+Sur le VNL 2025, toutes les boîtes ajoutées ont le son de l'I-Shift, le seul son de boîte de ce camion.
+
+━━━━━━━━━━━━━━━━━━━━
+LES BOÎTES OVERDRIVE SHOP, POUR LES PLUS GROS MOTEURS
+━━━━━━━━━━━━━━━━━━━━
+- Aucune vraie boîte 10 vitesses n'accepte plus de 1 850 lb-pi, et aucune vraie 13 vitesses plus de 2 050 lb-pi. Les moteurs les plus forts (les Tuned et les plus grosses cotes) n'avaient donc pas de 10 ni de 13 vitesses.
+- Pour eux, l'Overdrive Shop prépare des versions renforcées de vraies boîtes. Elles gardent exactement les mêmes rapports, avec des pièces internes plus fortes. Dans la vraie vie aussi, Eaton a monté ses boîtes plus haut avec des arbres plus forts, et des propriétaires de camions préparés posent l'arbre d'entrée Eaton de 2 250 lb-pi dans des boîtes moins fortes.
+- Les 5 boîtes :
+  - OD Shop 10 HD (MAN), sur la base de la FRO-18210C ;
+  - OD Shop 10 HD (SYNC), sur la base de l'Eaton LAS ;
+  - OD Shop 10 HD (AUT), sur la base de l'Allison TC10, avec son convertisseur ;
+  - OD Shop 13 HD (MAN), sur la base de la RTLO-20913A ;
+  - OD Shop 13 HD (SYNC), sur la base de l'Eaton MHP.
+- Tu les reconnais à leur icône Overdrive Shop.
+- Elles ne sont offertes qu'avec les moteurs qui n'ont pas de vraie boîte dans ce nombre de vitesses : en général au-dessus de 1 850 lb-pi en 10 vitesses et de 2 050 lb-pi en 13 vitesses.
+- Leur prix est celui de la boîte d'origine, plus le vrai écart de prix d'Eaton entre une boîte normale et une boîte plus forte : +2 575 $ en 10 vitesses, +1 445 $ en 13 vitesses. La TC10 renforcée coûte le prix de la TC10, car aucun prix réel n'a été trouvé pour une version renforcée.
+- Elles sont sur les 18 camions, là où des moteurs en ont besoin : 83 boîtes en tout.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- L'Allison 4000 du 49X, ajoutée en 3.0.0, n'avait pas de convertisseur de couple : elle roulait comme une boîte sans convertisseur. Elle a maintenant le sien, comme les Allison du jeu. Les Allison TC10 ajoutées ont aussi le leur.
+- 5700XE : si tu achètes le DD15 505 alors que ta boîte ne le supporte pas, le garage pose maintenant l'Eaton MHP (13 vitesses) au lieu de la DT12-OA.
+
+━━━━━━━━━━━━━━━━━━━━
+UN MOTEUR CACHÉ NE REVIENT PAS
+━━━━━━━━━━━━━━━━━━━━
+- Depuis le catalogue 2.7.7, certains moteurs en double (les versions « · son … » d'un même moteur et d'une même puissance) ne sont plus en vente.
+- Si ton camion en a un, il le garde. Mais une fois que tu l'as remplacé au garage, tu ne peux plus le racheter.
+- Son jumeau en vente a la même puissance. Choisis-le si tu veux revenir à ce moteur.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+
+Bonne route!

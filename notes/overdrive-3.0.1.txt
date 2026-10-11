@@ -1,0 +1,46 @@
+OVERDRIVE QUÉBEC 3.0.1 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules Camions et Économie changent (environ 12 Mo) : les 6 autres restent tels quels. Économie ne change que parce que le prix des cabines de quelques camions suit celui de leurs moteurs.
+
+Cette mise à jour corrige les moteurs et les boîtes de vitesses. Tes sauvegardes se chargent comme avant : aucun fichier de moteur ni de boîte n'est renommé ni effacé, et un camion garde son moteur et sa boîte.
+
+━━━━━━━━━━━━━━━━━━━━
+L'ORDRE DES MOTEURS AU GARAGE
+━━━━━━━━━━━━━━━━━━━━
+- Les moteurs d'une même famille sont maintenant ensemble, du moins puissant au plus puissant : tous les C15 6NZ, puis tous les N14, et ainsi de suite. Les versions Tuned d'une famille forment un groupe à part, plus loin dans la liste.
+- Pour y arriver, certains prix bougent de 10 $ en 10 $, jamais de plus de 2 % (0,6 % au plus, environ 160 $). Les vrais prix restent la base.
+- Les 8 familles qui avaient encore le prix du jeu (ISX12, X12, Series 60 11,1 L, D16, D17, MP10, A26, S13) ont maintenant un vrai prix ou le prix du moteur le plus proche, comme les autres : elles ne coûtent plus 1,7 fois plus cher.
+
+━━━━━━━━━━━━━━━━━━━━
+LES BONS MOTEURS DANS LES BONS CAMIONS
+━━━━━━━━━━━━━━━━━━━━
+- Un camion n'offre que les moteurs que son constructeur a vraiment montés.
+- Mack Anthem et Pinnacle : le Mack MP10 revient (515, 565 et 605 HP). Ils ont maintenant 7 moteurs au lieu de 4.
+- Camions du Workshop : les moteurs M11 ne sont plus en vente sur les camions de marques qui n'ont jamais monté de gros Cummins (Scania, Volvo FH16, Mercedes, MAN, DAF, Iveco, Renault, Mack CH). Un camion qui en a déjà un le garde.
+- Le nombre de moteurs des autres camions ne change pas (86 sur le W900).
+
+━━━━━━━━━━━━━━━━━━━━
+LES BOÎTES DE VITESSES
+━━━━━━━━━━━━━━━━━━━━
+- Les boîtes d'un constructeur ne vont plus qu'avec ses moteurs, comme en vrai :
+  - la Detroit DT12 avec les Detroit DD ;
+  - la PACCAR TX avec les PACCAR MX ;
+  - la Volvo I-Shift avec les moteurs Volvo ;
+  - l'International T14 avec le S13 ;
+  - l'Eaton Cummins Endurant avec le X15, le X12, l'A26 et, sur le Cascadia, le DD13.
+- Les Eaton et les Allison restent offertes avec tous les moteurs qu'elles supportent.
+- Le Cascadia 2024, le 57X et le 5700XE ont maintenant une Eaton Fuller RTLO-22918B (18 vitesses manuelle) pour les moteurs qui n'avaient plus de boîte.
+- Les Eaton LAS (10 vitesses) et FAM-15810B passent à leur vraie limite de 1 550 lb-pi.
+- 5700XE : le DD15 505 n'est plus offert avec la DT12-DA, trop faible ; il prend la DT12-OA.
+- Acheter un moteur trop fort pour ta boîte ne plante toujours pas le jeu : le garage pose une boîte qui le supporte.
+
+━━━━━━━━━━━━━━━━━━━━
+LES MOTEURS EUX-MÊMES
+━━━━━━━━━━━━━━━━━━━━
+- Des régimes corrigés selon les fiches : M11 (couple maximal à 1 200 tr/min), Signature, X12, S13, MX-13 et MX-11 (régimes plus hauts), D13 et X15.
+- Les versions « efficacité » donnent leur couple plus tôt (X15 : dès 900 tr/min) : c'est ce qui fait leur économie.
+- Le D13 Turbo Compound consomme un peu moins que le D13.
+- Le Mack MP8 445 a son vrai couple de 1 660 lb-pi.
+- Cylindrées corrigées : S13 12,7 L, MP10 16 L, D17 17,3 L.
+
+Bonne route!

@@ -1,0 +1,25 @@
+OVERDRIVE QUÉBEC 3.0.2 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules Économie, Remorques et Physique changent (environ 11 Mo) : les 5 autres restent tels quels. Tu n'as rien d'autre à faire : rien à cocher ni à décocher, ni dans Steam ni dans le gestionnaire de mods, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+LES OBJETS FANTÔMES DES DLC ONT DISPARU
+━━━━━━━━━━━━━━━━━━━━
+- Avant, le garage et les concessionnaires montraient des objets de DLC payants que tu n'as pas, souvent sans image ou avec une texture verte : pneus et roues Michelin et Goodyear, jouets, peintures et volants Pink Ribbon, et d'autres. Par exemple, le pneu avant Michelin X Line Energy Z à 1 780 $ chez un joueur qui n'a pas le DLC Michelin. Ils ne sont plus là.
+- Comment : dans chaque module, les valeurs d'un DLC payant sont maintenant rangées à part, dans une partie que le jeu ne lit que si tu possèdes ce DLC. Le jeu choisit lui-même, à chaque chargement, selon tes DLC.
+- Overdrive ne rend jamais disponible un objet, une remorque ou une livraison d'un DLC que tu n'as pas. Le contenu d'un DLC reste celui de SCS : Overdrive n'en change que les valeurs.
+
+━━━━━━━━━━━━━━━━━━━━
+SI TU AS LE DLC : LES VRAIS PRIX RESTENT
+━━━━━━━━━━━━━━━━━━━━
+- Les vrais prix s'appliquent toujours aux objets des DLC que tu possèdes : W900 Tuning Pack, Cabin Accessories, Steering Creations, Wheel Tuning, pneus, peintures, etc.
+- Lode King & Prestige : tes remorques gardent leur vrai prix, leur vraie masse, leur vraie charge utile, leur traînée et leurs essieux relevables.
+- Les livraisons des DLC de cargaisons (Bobcat, JCB, Farm Machinery, KRONE, Forest Machinery, Heavy Cargo, Special Transport, Volvo Construction) gardent la paie d'Overdrive.
+- Les 19 camions gratuits (W900, 389, Cascadia, etc.) ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers : chacun voit seulement ce que ses DLC lui donnent, comme dans le jeu sans mod. Rien ne change pour te connecter au serveur.
+
+Bonne route!

@@ -1,0 +1,36 @@
+OVERDRIVE QUÉBEC 3.0.3 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seul le module Économie change (environ 10 Mo) : les 7 autres restent tels quels. Tu n'as rien d'autre à faire : rien à cocher ni à décocher, ni dans Steam ni dans le gestionnaire de mods, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+HEAVY HAUL : LES GROSSES CHARGES DU JEU DE BASE
+━━━━━━━━━━━━━━━━━━━━
+- Les grosses charges et les charges hors normes du jeu de base arrivent maintenant par les livraisons normales, au marché du fret et dans les entreprises, chez beaucoup plus d'entreprises : nacelles et sections de tour d'éoliennes, transformateurs, génératrices, tours de refroidissement, wagons déplaceurs, bourreuses de voie, moissonneuses, bouteurs, pelles, niveleuses, bateaux, et d'autres.
+- Où les trouver : centrales et chantiers d'énergie (Vitas Power, Elegrid, Faraday), ports, gares de triage et terminaux ferroviaires, concessionnaires de machinerie lourde (HMS, X-Tech, Groundbreaker), mines et carrières (Coastline, NAMIQ), chantiers de construction et de routes, grandes fermes, chantiers navals et marinas, champs de pétrole et raffineries.
+- 19 cargaisons du jeu de base, 342 nouvelles livraisons possibles entre entreprises. Tout le monde les a, sans aucun DLC.
+
+━━━━━━━━━━━━━━━━━━━━
+LES CHARGES LOURDES DES DLC, POUR CEUX QUI LES ONT
+━━━━━━━━━━━━━━━━━━━━
+- Si tu as le DLC, ses grosses machines arrivent aussi par les livraisons normales, chez plus d'entreprises : Heavy Cargo Pack, Special Transport, Volvo Construction, JCB, KRONE, Forest Machinery et Farm Machinery.
+- Special Transport : ses 16 cargaisons (pale d'éolienne, wagons, tombereau géant, maison, silo, réservoir, hélicoptère, etc.) deviennent des livraisons normales, sur les remorques que SCS a faites pour elles. Pas d'escorte, pas de trajet imposé. Les missions spéciales de SCS restent comme avant, en solo.
+- Si tu n'as pas le DLC, tu ne vois pas ces livraisons, comme dans le jeu sans mod : elles sont dans une partie du module que le jeu ne lit que chez les propriétaires.
+
+━━━━━━━━━━━━━━━━━━━━
+LES CHARGES LARGES SONT ACCEPTÉES
+━━━━━━━━━━━━━━━━━━━━
+- Chaque charge garde sa vraie masse et ses vraies dimensions, même les très larges (jusqu'à 6,4 m pour la benne de tombereau). Le GPS ne connaît pas la largeur des routes : prends ton temps dans les villes, aux péages et sur les ponts étroits.
+- Les remorques et les trains suivent les règles d'Overdrive : tous les attelages sont permis partout, la charge est la vraie capacité des remorques, un diable ne porte rien.
+- La paie est celle d'Overdrive (0,56 fois le jeu), selon les vraies valeurs de chaque cargaison, sans prime inventée.
+
+━━━━━━━━━━━━━━━━━━━━
+PETIT CORRECTIF
+━━━━━━━━━━━━━━━━━━━━
+- Le module Économie avait une catégorie que le jeu ne connaît pas (« Unknown category 'cargo' » dans game.log.txt). C'est corrigé : plus d'avertissement.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers : chacun voit seulement les livraisons que ses DLC lui donnent. Rien ne change pour te connecter au serveur.
+
+Bonne route!
