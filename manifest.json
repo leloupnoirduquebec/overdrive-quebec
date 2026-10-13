@@ -43,6 +43,17 @@
   },
   "news": [
     {
+      "date": "2026-10-12",
+      "title": "Overdrive Québec 3.0.13 : correctif du GPS du VNL 2025 et du VNR Electric, événements routiers plus fréquents en multijoueur",
+      "text": "Deux correctifs. Le GPS : sur le Volvo VNL 2025, l'écran Overdrive restait par-dessus la carte du GPS, même moteur en marche, et sur le Volvo VNR Electric il couvrait la carte à chaque arrêt. Sur ces deux camions, la carte s'affiche maintenant normalement : l'écran Overdrive n'apparaît plus au démarrage, il reste seulement comme écran de veille quand tu fermes le GPS. Les autres camions ne changent pas. Si l'écran Overdrive reste sur la carte d'un autre camion, dis-nous lequel. Événements routiers plus fréquents en multijoueur : en convoi, on ne croisait presque jamais ceux d'Overdrive. Ils sortent maintenant à peu près 1 fois sur 7, en convoi comme en solo, et il y a du nouveau à découvrir en route. Si tu n'en vois toujours pas en convoi, dis-le-nous. Deux modules changent : Communauté et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.13.txt",
+        "sha256": "f9c069c086e0de66d90efe7902be12a9bda06d9aa5eabbeb73005aa2c2420262",
+        "sizeBytes": 3650
+      }
+    },
+    {
       "date": "2026-10-11",
       "title": "Overdrive Québec 3.0.12 : trajet du GPS en bleu",
       "text": "Un ajustement : le trajet du GPS passe au bleu cyan, plus lisible sur les routes orange. Il remplace le magenta sur les écrans GPS des camions, dans le conseiller de route (F3) et sur la grande carte. Les flèches vertes et la largeur du trait ne changent pas. Si le cyan se confond avec quelque chose sur ta carte, dis-le-nous. Un seul module change : Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
@@ -395,23 +406,23 @@
     },
     {
       "name": "Overdrive Québec — Communauté",
-      "version": "3.0.11",
+      "version": "3.0.13",
       "source": "direct",
       "fileName": "overdrive-communaute.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.11.scs",
-      "sha256": "844e7e1a2d06a8eaf36dd12a8c95292b5a1e49c812e0e276f866a59f8b1dde27",
-      "sizeBytes": 71840167,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.13.scs",
+      "sha256": "eceec1f4868e5fc48d1067a0b9e7ca0ad0d0354d3b6c03885e95ce5ee3fb5019",
+      "sizeBytes": 71840057,
       "required": true,
       "loadOrder": 70
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.12",
+      "version": "3.0.13",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.12.scs",
-      "sha256": "c1d8b6021e7c58d72aebad846ab264ba3575bafa90a77a513dc433e3f8d9db68",
-      "sizeBytes": 4054284,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.13.scs",
+      "sha256": "e6a5f393e1778f14cf042fa7548111b7987999bce214abea83a460f50afb74c7",
+      "sizeBytes": 4054556,
       "required": true,
       "loadOrder": 71
     },
@@ -557,5 +568,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261011193517
+  "serial": 20261013002700
 }

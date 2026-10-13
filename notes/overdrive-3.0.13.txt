@@ -1,0 +1,40 @@
+OVERDRIVE QUÉBEC 3.0.13 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Deux modules changent : Communauté (l'écran du GPS) et Base (les événements routiers et les nouvelles sur les écrans publicitaires). Les 6 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIF : LE GPS DU VNL 2025 ET DU VNR ELECTRIC
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : sur le Volvo VNL 2025, l'écran Overdrive restait par-dessus la carte du GPS, même moteur en marche. La carte s'affiche maintenant normalement.
+- La cause : le tableau de bord du VNL 2025 a déjà trois barres de régime moteur, et le jeu n'en suit pas plus de trois. La nôtre était ignorée, donc elle ne s'effaçait jamais.
+- Correctif : sur le Volvo VNR Electric, l'écran Overdrive couvrait la carte à chaque arrêt. Un moteur électrique tourne à 0 tour à l'arrêt, et l'écran Overdrive se fiait au régime du moteur.
+- Sur ces deux camions, l'écran Overdrive ne s'affiche plus au démarrage. Il reste quand tu fermes le GPS (touche « Infotainment Display Mode »), comme écran de veille.
+- Les 17 autres camions de SCS ne changent pas : l'écran Overdrive au démarrage, puis la carte dès que le moteur tourne.
+- Si l'écran Overdrive reste par-dessus la carte sur un autre camion, dis-nous lequel : on corrige à la prochaine mise à jour.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIF : ÉVÉNEMENTS ROUTIERS PLUS FRÉQUENTS EN MULTIJOUEUR
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : en convoi, on ne croisait presque jamais les événements routiers d'Overdrive. Ils sortaient à peu près 1 fois sur 36 sur l'autoroute. Maintenant, c'est à peu près 1 fois sur 7, sur l'autoroute, sur les routes à chaussées séparées et sur les routes à deux voies, en convoi comme en solo.
+- La cause : on les avait faits rares exprès. En plus, en multijoueur, le jeu retire les événements qui ont des feux de circulation ou des véhicules en mouvement, comme ses travaux avec feux sur les routes à deux voies.
+- Les événements d'Overdrive sont faits seulement de décors fixes de SCS : le jeu les garde en convoi.
+- Il y en a aussi de nouveaux, un peu partout sur la route. On te laisse les découvrir.
+- Le jeu décide toujours quand un événement apparaît : ton réglage « Événements aléatoires » ne change pas. Ce qui change, c'est que les nôtres sortent beaucoup plus souvent quand le jeu en place un.
+- C'est du décor : aucun événement ne donne d'amende. Jamais dans un tunnel.
+- Les événements du jeu restent tous là, tels quels.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Le GPS choisit les mêmes routes, et le trajet reste en bleu cyan comme en 3.0.12.
+- La conduite, les camions, les remorques, les affiches, la paie et les prix : les mêmes qu'en 3.0.12.
+- Les écrans publicitaires donnent toujours les nouvelles de la version (module Base).
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+- L'écran du GPS, c'est de l'affichage : chacun voit le sien, rien ne passe par le serveur.
+- Les événements routiers passent par le serveur. Si tu n'en vois toujours pas en convoi, dis-le-nous.
+
+Bonne route!
