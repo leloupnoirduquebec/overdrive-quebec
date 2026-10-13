@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.6.5",
+  "version": "0.6.6",
   "mandatory": false,
-  "notes": "**Nouvel onglet VOYAGES.** Le registre de tous tes trajets de la semaine, du mois ou de ta carrière : date, trajet, cargaison, type de contrat, distance, durée, revenu et revenu par kilomètre. Tu vois aussi ce que chaque cargaison, chaque type de contrat et chaque type de remorque te rapporte, au kilomètre et à l'heure de conduite.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.5.exe",
-  "sizeBytes": 65902049,
-  "sha256": "a9500283babb3d3916d02d79a3ebc7469cc5d75e4fb7fb2474cb802833e6c139",
-  "published": "2026-10-11"
+  "notes": "Correctif : le lecteur radio du lanceur fonctionne. En 0.6.5, la radio restait sur « Reconnexion… » et ne jouait jamais : une protection de Windows refusait d'ouvrir son adresse. Le lanceur lit maintenant la radio lui-même et la fait jouer par Windows, sur ton PC.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.6.exe",
+  "sizeBytes": 65922834,
+  "sha256": "e7bebf6e1d853fe7aac28f9b514c3b5df16cb01f906ef9acb8ca9852c29550c9",
+  "published": "2026-10-13"
 }

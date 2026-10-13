@@ -1,0 +1,105 @@
+OVERDRIVE QUÉBEC 3.0.14 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Six modules changent : Remorques, Remorques (modèles 3D), Économie, Camions, Base et Météo (sa description seulement). Les 2 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+DE NOUVELLES REMORQUES ET DES AJUSTEMENTS À DÉCOUVRIR
+━━━━━━━━━━━━━━━━━━━━
+- Les remorques ont eu droit à une grosse révision, famille par famille : fourgons secs, isolés et réfrigérés, porte-conteneurs, surbaissées, citernes alimentaires, vrac à moulée, trémies à grain et à courroie, bétaillères, fourgons à copeaux et citernes de carburant, chimiques et de gaz.
+- Il y a du nouveau chez le concessionnaire. On te laisse le découvrir.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENT : LES ESSIEUX À LEUR VRAIE PLACE
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les essieux des remorques suivent la pratique réelle. Sur les remorques de 53 pi, le groupe d'essieux est à 41 pi (12,50 m) du pivot, mesuré au centre du tandem ou à l'essieu du milieu d'un tridem. Quand 41 pi ne rentre pas (remorques plus courtes), le groupe est à la position la plus reculée possible sans toucher le pare-chocs, les garde-boue ni la caisse. Les remorques des DLC payants (Lode King et Prestige) restent comme SCS les a faites.
+- Un groupe de 3 essieux est un tridem fermé : trois essieux serrés, également espacés. Quand un essieu se relève, c'est celui d'avant. Les bennes et les remorques à fond ouvrant gardent leur essieu relevable à l'arrière, comme les vraies.
+- Sur les familles révisées, un groupe de 4 essieux, c'est un tridem fermé plus un seul essieu autovireur, de 2,5 à 3 m devant le tridem (la règle ontarienne des semi-remorques à 4 essieux).
+- Plus de « 2 + 1 » (un tandem et un essieu isolé) : ça n'existe pas sur la route.
+- Les bavettes, les garde-boue et les ombres au sol suivent les essieux. Sur certaines remorques, les bavettes sont maintenant accrochées au pare-chocs, comme sur les vraies remorques dont le tandem est au fond.
+- Le fourgon de 48 pi à essieux coulissants part neuf à 41 pi. Le 53 pi coulissant part à 41 pi et coulisse aussi vers l'arrière.
+- Plateaux (plateau, plateau aluminium et bâché coulissant) : les tandems qui restent reculent. Le 45 pi passe de 9,77 m à 11,16 m du pivot (41 pi ne rentre pas : c'est la place la plus reculée propre, celle du tandem arrière du jeu), le 48 pi de 9,78 m à 11,45 m, le 53 pi de 10,58 m à 12,62 m. Le 53 pi 3 essieux et le 53 pi 4 essieux autovireur ont l'essieu du milieu du tridem à 12,50 m (41 pi). Les bavettes et les ombres au sol suivent.
+- Tes remorques possédées prennent la nouvelle place des essieux au chargement de ta sauvegarde.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENT : LA CHARGE DES TRIDEMS
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : au Québec, un tridem fermé (trois essieux serrés, de 49 à 60 po entre les essieux) porte 23 000 kg, pas les 26 000 kg d'un tridem écarté (72 po entre les essieux). Les remorques à 3 essieux portent donc 3 000 kg de moins, et celles à 4 essieux (un autovireur + un tridem) 2 000 kg de moins, têtes de B-train comprises. Les porte-engins (lowboys) et quelques châssis porte-conteneurs gardent la capacité de leur fabricant ou celle du jeu.
+- La paie suit le poids : un chargement lourd qui remplissait une remorque à 3 ou 4 essieux paie un peu moins (environ 9 %), surtout le grain, le vrac et les bennes. Ça touche environ 1,6 % des combinaisons remorque-cargaison. Les chargements limités par le volume ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENT : DES CONFIGURATIONS PEU RÉALISTES RETIRÉES
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les configurations qui n'existent pas sur la route ou qui faisaient doublon sont retirées du concessionnaire et des contrats : essieux écartés bizarres, doublons, « 2 + 1 », et la plupart des tandems fixes à l'arrière.
+- Ajustement : les trains « pup » (une remorque de 28 pi sur un diabolo convertisseur à un essieu) sont retirés chez les fourgons, les plateformes et rideaux, les citernes alimentaires et de carburant et les trémies à grain. Les trains courts des remorques à fond ouvrant, des bennes et du vrac sec restent.
+- Ajustement : au-delà de 40 pi, une remorque sur diabolo roule seulement sur le diabolo à 2 essieux.
+- Ajustement : plateaux (plateau, plateau aluminium et bâché coulissant), retirés : 45 pi essieux arrière, écartés et 3 essieux ; 48 pi essieux arrière, 3 essieux et écartés ; 53 pi essieux arrière, écartés, 4 essieux et 4 essieux écartés. Restent : les tandems avant 45, 48 et 53 pi (reculés, plus haut), le 53 pi 3 essieux et le 53 pi 4 essieux autovireur.
+- Ajustement : citernes de carburant (1 et 4 compartiments), chimiques (en D et surbaissée) et alimentaires : les 53 pi à 4 essieux sont retirées.
+- Une remorque retirée que tu possèdes déjà se charge, s'affiche au garage et se vend comme avant. Elle ne reçoit simplement plus de contrats.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENT : LA CIRCULATION ROULE AVEC TES REMORQUES
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les remorques de l'IA, celles des entreprises (contrats du marché du fret) et les remorques stationnées dans les dépôts utilisent les mêmes modèles et les mêmes essieux que les tiennes.
+- Une configuration retirée pour toi n'apparaît plus nulle part : ni dans la circulation, ni dans les dépôts, ni dans les remorques des entreprises.
+- Les trains doubles de la circulation (turnpikes 53+53) roulent sur le diabolo à 2 essieux, avec la remorque arrière à 41 pi.
+- Les bétaillères de la circulation et des entreprises ont maintenant le tandem à 41 pi, comme la tienne.
+- La citerne de carburant de 53 pi des entreprises (contrats et stationnée) passe à 3 essieux arrière, comme celle que tu peux acheter : les contrats de carburant en 53 pi restent offerts.
+- Les plateaux de 45 et 53 pi de la circulation, des dépôts et des entreprises ont leurs essieux à la même place que les tiens.
+- Correctif : le plateau de 53 pi et la remorque à rideaux de 53 pi des entreprises reviennent dans le marché du fret, avec leurs essieux à ta place (12,62 m du pivot). Ils en étaient sortis avec les essieux écartés : sans les DLC Lode King et Prestige, le marché du fret n'offrait plus aucun plateau de 48 ou 53 pi.
+- Du nouveau aussi dans le marché du fret : à toi de le découvrir.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENT : LES CHARGES HORS NORMES ET LES SORTIES DE DÉPÔT
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les charges hors normes ne sont plus offertes aux dépôts dont la sortie est trop étroite ou trop courte.
+- Ça touche les 16 charges du DLC Special Transport : pale d'éolienne, wagons, climatiseur industriel, treillis, silo, réservoir, camion minier et sa benne, pneus de camion minier, tombereau articulé, chargeuse souterraine, boîte mystère, hélicoptère, bateau-pilote et maison.
+- Une entreprise garde une de ces charges seulement si tous ses dépôts laissent sortir l'attelage :
+  - un passage d'au moins la largeur de la charge plus 1 m (50 cm de chaque côté), barrières proches comprises ;
+  - la longueur de remorque que SCS permet dans ce dépôt ;
+  - une cour d'au moins la longueur de l'attelage plus 10 m.
+- Les mesures viennent des fichiers du jeu : le modèle 3D de chaque dépôt et les barrières posées sur la carte à moins de 400 m.
+- Les entreprises touchées :
+  - Beaumont Freight Terminal, Brownsville Port, Corpus Christi Cargo Terminal, Galveston Port et Port of SF : leur dépôt est limité à 20 m par SCS. Elles n'expédient plus les charges sur attelage de 26 m et plus, et ne reçoivent plus le bateau-pilote. Les pneus de camion minier partent encore de là.
+  - Houston Cargo Terminal : la barrière 4 du port de Houston laisse 5,7 m entre ses poteaux. Plus de camion minier, de benne, de boîte mystère, de climatiseur, de treillis, de silo ni de réservoir au départ, ni de bateau-pilote à l'arrivée. La pale, les wagons, l'hélicoptère, le tombereau et la chargeuse partent encore.
+  - GARC et Rail Export : SCS limite 9 gares sur 11 de GARC et 9 sur 23 de Rail Export à 20 ou 24 m. Plus de pale, de wagons, de camion minier, de benne, de tombereau, de chargeuse ni de boîte mystère au départ, ni de wagons à l'arrivée.
+  - HMS Machinery : la clôture de 25 de ses 28 dépôts laisse 7 m. Plus de camion minier ni de benne au départ ; plus de tombereau ni de chargeuse non plus (9 de ses dépôts sont limités à 20 m).
+  - X-Tech Machinery : la même clôture. Plus de camion minier ni de benne au départ.
+  - Buildmaster Manufacturing Co. : limité à 25 m. Plus de climatiseur, de treillis, de silo, de réservoir ni de wagons au départ, ni de boîte mystère à l'arrivée.
+  - Coastline Mining et NAMIQ (usines et carrières) : limite de 20 m et route du puits de carrière d'environ 6 m. Plus de camion minier, de benne, de tombereau ni de chargeuse à l'arrivée. Leurs autres dépôts miniers les reçoivent encore.
+  - Plaster & Sons et Taylor Construction Group (certains chantiers) : portails de 5 à 6 m et limites de 20 m. Plus de climatiseur, de treillis ni de tombereau à l'arrivée, ni la maison chez Plaster & Sons.
+  - Global Sky Services, Wingman Aviation Center, Airport Denver, El Paso Freight et Portland Cargo Central : limités à 20 ou 25 m. Ils ne reçoivent plus l'hélicoptère. Il se livre encore à 12 aéroports.
+  - Darwing : limité à 25 m. Plus d'hélicoptère au départ.
+  - Gallon Oil et Petrolucent (puits de pétrole) : limités à 25 m. Ils ne reçoivent plus le réservoir.
+  - Bushnell Farms : limité à 20 m. Elle ne reçoit plus le silo.
+- Chaque charge garde au moins 3 entreprises de départ et 3 d'arrivée, sauf la maison : seule Olthon Homes la construit, comme avant.
+- Certains dépôts sont construits directement sur la carte (fermes, ports fluviaux Rock Port, chantier naval Haddock, quelques mines et carrières NAMIQ et Coastline) : ils ne se mesurent pas de cette façon. Ils gardent leurs charges : si un attelage reste coincé à l'un d'eux, dis-nous où.
+- La paie, la masse et les dimensions des charges ne changent pas. Les missions scénarisées du DLC restent comme SCS les a faites.
+- Les offres déjà affichées restent jusqu'à leur renouvellement : dors quelques fois pour voir les nouvelles.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENT : DES NOMS PLUS COURTS DANS LA BOUTIQUE
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les noms des moteurs, des boîtes de vitesses et des trains d'Overdrive font 20 caractères au plus, pour s'afficher en entier dans la liste du garage et du concessionnaire.
+- Les moteurs ne disent plus « Tuned » : le nom dit ce que c'est (SP pour un son straight pipe, +HP au-dessus de la cote d'usine, Reprog pour une reprogrammation).
+- Les trains d'Overdrive ont un nom en français du Québec et en anglais : « Double 53+53 2+2 », « Train B 28+28 3+2 »… Le dernier chiffre, c'est le nombre d'essieux de la tête et de la dernière remorque.
+- Les moteurs et les trains ont leur propre icône dans la boutique.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIF : GPS
+━━━━━━━━━━━━━━━━━━━━
+- GPS : réglages d'origine du jeu pour la carte (taille des routes, couleurs), on garde la ligne bleue et l'écran Overdrive. Le trajet n'est plus aminci (depuis la 3.0.9 et la 3.0.11) : il reprend la largeur du jeu, sur les écrans GPS des camions, dans le conseiller (F3) et sur la grande carte. La couleur du segment surligné et du segment estompé revient aussi à celle du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La règle de paie au poids, à la distance et à la valeur reste la même. Ce qui bouge : les chargements lourds sur 3 et 4 essieux (plus haut), et l'ammoniac, le GPL et le propane paient un peu plus par unité (+7,2 %, +3,4 % et +0,3 %). Le plancher qui garantit qu'un contrat ne paie jamais moins qu'en 3.0.8 se calcule sur les citernes en vente, et les citernes retirées n'y comptent plus.
+- Le module Météo change seulement sa description : le ciel reste le même.
+- L'écran Overdrive du GPS reste celui de la 3.0.13. L'éclairage au sol du W900 aussi.
+- Les moteurs, les boîtes et les prix ne changent pas (seulement leurs noms et leurs icônes). La conduite change seulement là où les essieux ont bougé, se relèvent ou virent (plus haut).
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+
+Bonne route!
