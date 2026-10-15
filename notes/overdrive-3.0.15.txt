@@ -1,0 +1,38 @@
+OVERDRIVE QUÉBEC 3.0.15 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Un seul module change : Camions (les feux Overdrive Mauve du W900). Les 7 autres restent tels quels. Tu n'as rien d'autre à faire, et tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIF : LES FEUX OVERDRIVE MAUVE DU W900
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : en 3.0.14, les pièces « Overdrive Mauve » du Kenworth W900 s'allumaient en orange, ou en mauve faible seulement sur le bord des lentilles. Allumées, elles sont maintenant vraiment mauves.
+- Ça touche toutes les pièces du kit : les feux de toit, les feux de côté de la couchette, le pare-chocs avant, les clignotants avant, les filtres à air et le miroir Legacy.
+- Chaque lentille a sa propre lueur : un centre presque blanc, entouré de mauve. Le halo autour garde la taille et la force de celui du jeu, en mauve.
+- Les feux de toit s'allument au complet. On les voit de face, de côté et d'en haut, plus seulement sur le dessus de la bulle.
+- Le mauve tire un peu plus vers le rose.
+- Sur le miroir Legacy, une seule lueur par lumière, bien centrée (il y en avait deux, une à côté de l'autre).
+- Éteintes, les lentilles sont du verre teinté mauve, plus clair : on voit encore les anneaux et les DEL à travers. Avant, c'était un bloc mauve foncé.
+- La force de la lumière a été ajustée d'après des captures d'écran. Si tu trouves ça trop fort ou trop faible, de jour ou de nuit, dis-le-nous avec une capture : on ajuste à la prochaine mise à jour.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENT : CLIGNOTANTS MAUVES SUR LES PIÈCES DU KIT
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les clignotants des pièces Overdrive Mauve clignotent maintenant en mauve. Ça touche les clignotants avant (DEL et d'origine) et le miroir Legacy.
+- Plus aucune lentille des pièces du kit ne s'allume en orange.
+- Les feux de toit du kit restent allumés en mauve : ils ne clignotent plus avec les clignotants.
+- Les pièces du jeu qui ne sont pas du kit gardent leurs clignotants orange, comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Ce qui reste orange : la petite lueur du châssis du W900 près des ailes avant (elle fait partie du camion, pas des pièces du kit), et les lumières de la visière du Tuning Pack du W900 (un DLC payant : on ne peut pas recopier ses pièces).
+- Tes pièces Overdrive Mauve déjà installées restent sur ton camion et se chargent comme avant. Les pièces du kit qui n'ont pas de lentille orange (pare-chocs arrière et dos de cabine d'origine) restent en vente.
+- Si tu vois une lueur mauve à travers le toit en vue de l'intérieur de la cabine, dis-le-nous.
+- La conduite, les autres camions, les remorques, les affiches, la paie et les prix : les mêmes qu'en 3.0.14.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde a les mêmes fichiers. Rien ne change pour te connecter au serveur.
+
+Bonne route!

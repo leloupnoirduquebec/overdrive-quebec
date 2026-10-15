@@ -43,6 +43,17 @@
   },
   "news": [
     {
+      "date": "2026-10-14",
+      "title": "Overdrive Québec 3.0.15 : correctif des feux Overdrive Mauve du W900",
+      "text": "Un correctif : en 3.0.14, les pièces « Overdrive Mauve » du Kenworth W900 s'allumaient en orange, ou en mauve faible seulement sur le bord des lentilles. Allumées, elles sont maintenant vraiment mauves, avec un centre presque blanc, et les feux de toit s'allument au complet. Éteintes, les lentilles sont du verre teinté mauve, plus clair. Un ajustement : les clignotants des pièces du kit clignotent en mauve. Ce qui reste orange : la petite lueur du châssis du W900 près des ailes avant et les lumières de la visière du Tuning Pack (DLC payant). Si tu trouves la lumière trop forte ou trop faible, dis-le-nous avec une capture. Un seul module change : Camions. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.15.txt",
+        "sha256": "1320a9fc4ae3f5978875ffdcbae1ec0a85bb0b104eff3078efcf525b57400c5f",
+        "sizeBytes": 3323
+      }
+    },
+    {
       "date": "2026-10-13",
       "title": "Lancement officiel d'Overdrive Québec : le site officiel est en ligne (overdrivequebec.ca) et le Discord du Bunker QC ouvre ses portes",
       "text": "C'est le lancement officiel d'Overdrive Québec, la section American Truck Simulator du Bunker QC. Le site officiel est en ligne : https://overdrivequebec.ca. Le Discord du Bunker QC ouvre ses portes : https://discord.gg/CAjuf5gvy9 (convois, entraide, annonces et la communauté gaming québécoise, 16 ans et plus). Pour l'occasion, Overdrive Québec 3.0.14 : de nouvelles remorques et des ajustements à découvrir chez le concessionnaire et dans le marché du fret. Côté ajustements : les essieux des remorques sont à leur vraie place, des tridems fermés qui portent leur vraie charge, les trains « pup » et les configurations peu réalistes retirés, les plateaux et rideaux de 53 pi de retour dans le marché du fret, les charges hors normes seulement aux dépôts qu'elles peuvent quitter, et le GPS aux réglages d'origine du jeu avec la ligne bleue. Tes remorques et tes sauvegardes se chargent comme avant. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
@@ -494,12 +505,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.14",
+      "version": "3.0.15",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.14.scs",
-      "sha256": "54fc219d4097bd1ffa9062a7cc4b1d8f9f93e82f65e673e0c39f8ab7badb14c0",
-      "sizeBytes": 19992229,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.15.scs",
+      "sha256": "ea2259b5cf1574d3545c493e1d64fc99f6c098fd645460384a0ee0736bec655f",
+      "sizeBytes": 20786167,
       "required": true,
       "loadOrder": 76
     },
@@ -590,5 +601,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261013213242
+  "serial": 20261015020338
 }
