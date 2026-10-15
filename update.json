@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.6.6",
+  "version": "0.6.7",
   "mandatory": false,
-  "notes": "Correctif : le lecteur radio du lanceur fonctionne. En 0.6.5, la radio restait sur « Reconnexion… » et ne jouait jamais : une protection de Windows refusait d'ouvrir son adresse. Le lanceur lit maintenant la radio lui-même et la fait jouer par Windows, sur ton PC.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.6.exe",
-  "sizeBytes": 65922834,
-  "sha256": "e7bebf6e1d853fe7aac28f9b514c3b5df16cb01f906ef9acb8ca9852c29550c9",
-  "published": "2026-10-13"
+  "notes": "Nouveauté : un thème de saison habille le lanceur jusqu'au 13 novembre, puis le lanceur retrouve tout seul son allure habituelle. Rien à faire, et rien ne change pour le reste (mods, serveurs, radio).",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.7.exe",
+  "sizeBytes": 65935245,
+  "sha256": "27c48a2fd1dd8008fed3f770d4d99d69fba02a2fe0e7509f0adee93e9289702d",
+  "published": "2026-10-15"
 }
