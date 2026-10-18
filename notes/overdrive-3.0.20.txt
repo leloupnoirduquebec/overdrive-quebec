@@ -1,0 +1,171 @@
+OVERDRIVE QUÉBEC 3.0.20 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Plus aucun mod Workshop n'est obligatoire : les sons de moteur de Slav Jerry sont maintenant inclus dans Overdrive, avec sa permission. Cinq modules changent : Camions, Physique, Économie, Remorques et Base. Remorques (modèles 3D), Communauté et Météo restent tels quels. Tes sauvegardes se chargent comme avant : un moteur retiré reste sur ton camion.
+
+Cette version regroupe cinq sujets, chacun dans sa section ci-dessous : la mise à jour du jeu avec la pluie et la circulation, les réservoirs, les miroirs, les moteurs et les boîtes, puis les feux Overdrive Mauve et les pièces lumineuses du W900.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUE TU DOIS FAIRE DANS STEAM
+━━━━━━━━━━━━━━━━━━━━
+- Plus de collection Workshop et plus aucun mod Workshop obligatoire. Seul l'Ultimate Graphics Mod reste, au choix.
+- Les sons de moteur de Slav Jerry sont maintenant dans le module Camions d'Overdrive. Désabonne-toi de ses mods de son (Detroit 60 Series, Volvo VNL Stock, Mack E6, CAT C15 6NZ, Cummins Big Cam IV, Cummins X15, CAT C15 ACERT et Mack MP8) : tu n'en as plus besoin, et s'ils restent actifs au-dessus d'Overdrive, leurs moteurs remplacent les nôtres et le jeu peut planter.
+- Désabonne-toi aussi de la collection de Teax « Slav Jerry's Engine Sound Collection » (le gros paquet), du mod de son « MORTAL & CASH Cummins M11 » et de « True Mirror FOV » : ils ne font plus partie d'Overdrive. Désactive-les dans ton gestionnaire de mods.
+
+━━━━━━━━━━━━━━━━━━━━
+MISE À JOUR DU JEU 1.61.3.18 (HALLOWEEN 2026), PLUIE ET CIRCULATION
+━━━━━━━━━━━━━━━━━━━━
+Ajustement : un peu plus d'adhérence sous la pluie
+- Sur route mouillée, les pneus perdent maintenant 20 % d'adhérence au lieu de 25 %. Sur le sec, rien ne change.
+- Même règle pour les pneus des DLC (Goodyear, Michelin, Wheel Tuning Pack, Special Transport et les autos de Road Trip: Ford) : chaque pneu garde son rang du jeu (un bon pneu de pluie reste meilleur qu'un autre), mais la pluie enlève la même part à tout le monde. Ces réglages ne sont lus que si tu as le DLC.
+- Freine quand même plus tôt et en douceur sous la pluie, avec le frein moteur.
+
+Ajustement : circulation IA plus proche, moins nombreuse
+- L'IA apparaît autour de toi jusqu'à environ 300 m (avant : à au moins 400 m) et disparaît au-delà de 400 m (avant : 500 à 800 m).
+- Au plus 10 véhicules IA autour de chaque joueur (avant : 50), en solo comme sur le serveur.
+- Tu pourrais voir une auto apparaître au loin sur une longue ligne droite : c'est normal. Si les accrochages « fantômes » reviennent en convoi, dis-le-nous sur Discord.
+
+Mise à jour du jeu
+- Overdrive suit la dernière mise à jour du jeu.
+- Brackenreach, l'endroit de l'événement d'Halloween : comme partout avec Overdrive, tous les trains y sont permis, sans amende de poids. Le prix du diesel reste celui du jeu (l'endroit n'existe pas en vrai, il n'y a pas de vrai prix à mettre).
+- Ajustement : les livraisons d'Halloween (friandises, costumes, herbes et épices, bricolages) sont payées selon les mêmes règles que les autres cargaisons d'Overdrive (au poids, à la distance et à la valeur de la marchandise). Elles paient donc de 26 à 42 % de moins que dans le jeu de base, selon la marchandise.
+- Les nouveaux jouets de cabine d'Halloween ont un vrai prix, comme les autres jouets. Les jouets de siège baissent de 1 ou 2 $ (le plus cher passe de 20 $ à 19 $).
+- Les poids et les volumes des cargaisons d'Halloween restent ceux du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTION : LES RÉSERVOIRS DE CARBURANT
+━━━━━━━━━━━━━━━━━━━━
+- On a vérifié tous les réservoirs de tous les camions. Partout, les gallons du nom sont le total (exemple : 300 gal = deux réservoirs de 150 gal ; quelques châssis courts n'en ont qu'un, affiché « 120/0 » ou « 150/0 »).
+- Mack Anthem, châssis de 144 gal : le garage affichait « 74/74 gal ». Il affiche maintenant « 72/72 gal », comme son nom (144 gal) et ce qu'il contient vraiment.
+- Cascadia 2019 et 2024, LoneStar, T680 (2014), Anthem, 389, 579, VNL (2014) et 49X : le jeu arrondissait les litres. Chaque châssis a maintenant les litres exacts de ses gallons, par exemple 300 gal = 1 135,62 L (avant : 1 136 L) et 200 gal = 757,08 L (avant : 758 L). Moins d'un litre d'écart : rien ne change sur la route.
+- Volvo VNL 2025, réservoir aluminium de 150 gal : 567,81 L (avant : 568 L).
+- Les autres réservoirs (W900, 9900i, LT, Pinnacle, VNL 2018 et 2025, 5700XE, 57X, T680 2022) avaient déjà les bons litres. Les 300 gal du W900 font bien 1 135,62 L.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENT : LES MIROIRS DES VRAIS CAMIONS
+━━━━━━━━━━━━━━━━━━━━
+- Les miroirs de tous les camions sont maintenant réglés dans Overdrive, d'après de vrais miroirs de camions lourds américains.
+- Les grands miroirs, des deux côtés, sont des miroirs plats de 7 x 16 pouces, comme la loi américaine l'exige pour un camion lourd. Tu y vois ce qu'un vrai miroir plat montre : moins large qu'avant, mais sans déformation.
+- Les petits miroirs ronds (convexes) font 8 1/2 pouces. Ils montrent beaucoup plus large qu'avant, et les objets y paraissent plus petits et plus loin : c'est normal, c'est comme dans un vrai camion.
+- Les miroirs de capot font aussi 8 1/2 pouces. Le petit miroir qui regarde vers le bas ne change pas.
+- Le mod True Mirror FOV n'est plus nécessaire : nos miroirs sont réglés dans Overdrive. Désabonne-toi et désactive-le : actif au-dessus des modules Overdrive, il remplace nos miroirs.
+- Tu peux toujours régler tes miroirs dans le jeu (touche F4).
+
+━━━━━━━━━━━━━━━━━━━━
+MOTEURS, SONS ET BOÎTES DE VITESSES
+━━━━━━━━━━━━━━━━━━━━
+Les sons de moteur de Slav Jerry, inclus dans Overdrive
+- Les sons de moteur viennent des mods originaux de Slav Jerry : Detroit 60 Series, Volvo VNL Stock, Mack E6, CAT C15 6NZ, Cummins Big Cam IV, Cummins X15, CAT C15 ACERT et Mack MP8. Ils sont maintenant inclus dans le module Camions : plus besoin de t'abonner à ses mods.
+- Ses fichiers de son de moteur sont inclus tels quels, sans aucune modification. Les réglages des moteurs (puissance, couple, noms, prix) sont ceux d'Overdrive.
+- Seul l'effet d'insonorisation de cabine de son mod Volvo VNL n'est pas inclus : il remplacerait des fichiers du jeu. Dans la cabine des Volvo VNL, tu entends donc l'effet d'origine du jeu.
+- Retirés : « Slav Jerry's Engine Sound Collection » (le gros paquet de Teax) et le mod de son « MORTAL & CASH Cummins M11 ».
+
+Ajustement : les moteurs
+- Maximum 600 HP sur le serveur. Aucun moteur à vendre au-dessus.
+- Les moteurs à son « straight pipe » (SP) sont maintenant ceux-ci, chacun en 500, 545, 575 et 600 HP, plus ses vraies cotes :
+  - Detroit Series 60 12,7 L (charges régulières) : 430, 455, 500, 545, 575, 600 HP.
+  - Detroit Series 60 14,0 L (charges lourdes) : 500, 525, 545, 575, 600 HP.
+  - CAT C15 6NZ (lourd) : 500, 525, 545, 575, 600 HP.
+  - Cummins NTC Big Cam IV (lourd, W900 et Peterbilt 389) : 400, 444, 500, 545, 575, 600 HP.
+  - Cummins X15 (lourd) : 505, 545, 565, 575, 600 HP.
+  - CAT C15 ACERT King of the Hill, deux turbos (T2) et un turbo (T1) : 500, 545, 575, 600 HP.
+  - Volvo D13 (son d'origine retravaillé, VNL) : 500, 540, 575, 600 HP.
+  - Mack MP8 (Anthem et Pinnacle) : 505, 545, 575, 600 HP.
+- Les vraies cotes des fabricants sont gardées telles quelles. Les puissances qui n'existaient pas en vrai sont calculées à partir de la vraie cote la plus forte du moteur, avec le même couple par cheval : un moteur pour charges lourdes garde plus de couple à la même puissance.
+- La courbe de chaque moteur suit la vraie : plein couple dès sa vraie vitesse (par exemple 1 300 tr/min pour le NTC-400, 1 500 pour le NTC-444, 1 200 pour les Detroit et les CAT), puis le couple baisse jusqu'au régime maximum. Ce qui est écrit dans la boutique est ce que le moteur donne vraiment.
+- Correctif : le CAT C15 6NZ est un 14,6 L (pas 15,2 L) et sa vraie cote la plus forte est 525 HP / 1 850 lb-pi (avant : 550 HP, une reprogrammation).
+- Les moteurs du jeu de base sous 500 HP ne changent pas. Les autres moteurs du jeu gardent leurs vraies cotes, jusqu'à 600 HP.
+- Retirés de la vente (si ton camion en a un, tu le gardes, avec le son d'origine du camion) : les moteurs au-dessus de 600 HP, les Cummins M11 (son retiré), les N14 Celect Plus, Signature Gen II et ISX « straight pipe » (leurs sons ne sont pas inclus dans Overdrive) et les anciennes cotes « Tuned ». Les N14, M11 et ISX sous 500 HP restent à vendre avec le son du camion.
+- Sur les camions du Workshop, les moteurs du mod M11 sont retirés de la vente, avec le son d'origine du W900.
+- Les prix et les niveaux suivent la puissance et le couple, comme dans le jeu. Quelques prix des moteurs déjà en vente bougent de quelques dollars pour garder l'ordre de la boutique.
+
+Les boîtes de vitesses
+- Chaque moteur à vendre a une boîte manuelle, une automatisée et une automatique pour charges normales et pour charges lourdes, quand une vraie boîte existe pour son couple :
+  - manuelles : Fuller 10 et 13 vitesses (normales), Fuller 18 vitesses RTLO-18918B et RTLO-22918B (lourdes) ;
+  - automatisées : UltraShift LAS et MHP, I-Shift, mDRIVE, DT12, Endurant, TX-12 (normales), UltraShift MXP/VXP 18 vitesses, Endurant XD, TX-18, I-Shift et mDRIVE à vitesse rampante, DT12 vocationnelles (lourdes) ;
+  - automatiques : Allison TC10 (normale), Allison 4500 et 4700 RDS (lourdes).
+- Aucune vraie boîte automatique (à convertisseur) ne prend plus de 1 850 lb-pi : au-dessus, il reste l'Allison TC10 renforcée de la boutique Overdrive, et les manuelles et automatisées lourdes.
+- Certains camions n'ont pas d'Allison 4500/4700 dans la vraie vie (VNL 2025, Cascadia 2024, LoneStar, T680 2022) ou on ne l'a pas confirmé (9900i, LT, 57X, 5700XE) : pas d'automatique lourde sur ceux-là.
+
+Ajustement : des noms clairs dans la boutique
+- Chaque moteur et chaque boîte dit maintenant ce qu'il est, avec des lettres courtes à la fin du nom :
+  - N : pour charges normales. H : pour charges lourdes (heavy duty). Un moteur de 14 litres et plus est H, les autres sont N.
+  - T1 / T2 : un turbo ou deux turbos, quand un même moteur existe dans les deux (le CAT C15 ACERT).
+  - SP : son « straight pipe ». +HP : plus fort que la vraie cote la plus forte du moteur. Reprog : une cote entre deux vraies cotes.
+  - Sur les boîtes : R = ralentisseur, C = vitesse rampante, puis le type entre parenthèses : MAN (manuelle), SYNC (automatisée), AUT (automatique).
+- Exemples : « Cat C15 ACERT 600 T2 SP H », « S60 12.7L 500 SP N », « RTLO-22918B H (MAN) », « Eaton LAS N (SYNC) ».
+- Les moteurs à vendre ont une ligne de plus dans la boutique : la cylindrée, le nombre de turbos (quand on a une source) et si la cote est réelle ou calculée.
+- Seuls les noms changent : ton moteur et ta boîte restent les mêmes dans ta sauvegarde.
+
+━━━━━━━━━━━━━━━━━━━━
+FEUX OVERDRIVE MAUVE, PIÈCES LUMINEUSES ET NÉON DU W900
+━━━━━━━━━━━━━━━━━━━━
+Correctif : les feux Overdrive Mauve du W900 s'allument comme ceux du jeu
+- Correctif : en 3.0.15, chaque lumière du kit avait une lueur ronde presque blanche par-dessus la lentille (une « boule »). C'est fini : plus aucune boule ni lueur ajoutée. C'est la lentille elle-même qui s'allume en mauve, avec la forme de la vraie lumière (les DEL, les bandes, les anneaux, les points), exactement comme le jeu allume ses propres feux.
+- Correctif : le halo autour de chaque feu mauve est maintenant celui du jeu pour ce feu-là, même grandeur, même force, même effet de loin. Seule la couleur change. De loin, tu vois un petit feu mauve, pas une boule.
+- Correctif : allumé, le mauve reste mauve. Le centre ne vire plus au blanc ou au rose pâle.
+- Correctif : les petites taches jaunes et orange qui restaient dans certaines lentilles éteintes sont parties. Éteintes, les lentilles restent du verre teinté mauve, transparent, avec leurs reflets.
+- Correctif : les feux de toit. Le jeu n'allume pas les lentilles d'un feu de toit posé un par un sur l'adaptateur. Il y a donc maintenant des rangées de feux de toit Overdrive Mauve : dans la case de l'adaptateur de feux (au-dessus du pare-brise, et sur le toit de la couchette 72 et 86 po, toit plat compris), choisis une rangée Overdrive Mauve et tous les feux du toit s'allument en mauve, comme les autres feux du kit. Quatre modèles de feu (Lumen Chrome, Lumen Mark I, Lumen Mark II, Kenworth Legacy), au prix de l'adaptateur et de ses feux dans le jeu. Dans la boutique, une rangée s'appelle « Overdrive Mauve » avec « rangée complète de feux » en dessous.
+- Correctif : les anciens feux de toit Overdrive Mauve vendus un par un (la première version du kit) ne sont plus en vente : leur bulle ne s'allume jamais. Ils restent dans le jeu pour ne rien briser sur ton camion. Si tu en as encore, surtout sur le toit de la couchette, remplace l'adaptateur et ses feux par une rangée Overdrive Mauve.
+- Correctif : quatre vieilles pièces « Overdrive Mauve » de la première version n'avaient rien de mauve (le pare-chocs arrière d'origine et les trois arrières de cabine d'origine) : elles ne sont plus en vente non plus, et restent sur les camions qui les ont.
+- Toutes les lumières du kit, les vieilles comme les nouvelles, ont été refaites de zéro avec la même méthode : lentille allumée comme dans le jeu, halo du jeu en mauve, verre teinté mauve éteint, aucune lueur ajoutée.
+- Les feux de toit ne clignotent pas avec les clignotants, comme de vrais feux de gabarit.
+- Les clignotants mauves des pièces du kit clignotent toujours en mauve, chaque côté avec le sien.
+- La force de la lumière a été réglée d'après des captures d'écran. Si tu trouves ça trop fort ou trop faible, de jour ou de nuit, dis-le-nous avec une capture : on ajuste à la prochaine mise à jour.
+- Correctif : le feu carré DEL sur l'aile avant (Overdrive Mauve, le clignotant à DEL) montrait son verre mauve et un petit point au centre, mais sa lentille ne s'allumait pas. Il a maintenant son propre modèle intérieur, comme les pièces du jeu qui s'allument : la lentille entière devrait s'allumer en mauve, DEL par DEL. À confirmer en jeu.
+
+Nouveau : des pièces lumineuses Overdrive pour le W900
+Des pièces modélisées par Overdrive, avec nos propres feux (aucune pièce d'un DLC payant recopiée). Les feux mauves s'allument avec les feux de position, comme le reste du kit.
+- Barre arr. Overdrive (case du pare-chocs arrière) : une barre de 14 feux ronds de 4 po et 4 feux de recul. De chaque bout : 2 feux clignotants-freins-position rouges et 2 feux freins-position rouges, comme le jeu ; les 6 du milieu sont des feux de position mauves (ils ne freinent pas). Les feux de recul restent blancs. Prend la place du pare-chocs arrière d'origine, avec les mêmes garde-boue.
+- Tous les ovales à 4 DEL des pièces Overdrive sont l'ovale chromé du jeu (le même que sur les jupes de cabine Overdrive Mauve), de la même grandeur que l'ovale d'origine à chaque place, au même nombre et au même espacement.
+- Visière Overdrive (case de la visière) : la visière à store du jeu avec 6 feux ovales à DEL mauves en bas.
+- Miroir Overdrive (case des miroirs) : le miroir standard du jeu avec un feu rond à DEL mauve sur chaque bras.
+- Logo DEL Overdrive (case du logo de capot) : le logo KENWORTH « epic » ou d'origine avec une barre DEL mauve sous les lettres.
+- Jupe DEL Overdrive (case de la barre de jupe sous le marchepied) : une barre chromée avec des ovales à 4 DEL mauves de chaque côté, pour toutes les grandeurs de réservoir : 180 et 220 gal (4 de chaque côté), 235 et 260 gal (4 à gauche, 5 à droite) et 300 gal (5 de chaque côté).
+- Marche DEL Overdrive (case « Bas de marche ») : une barre chromée de la grandeur d'une barre de marche d'origine, sous le bas de la marche, 4 ovales à 4 DEL mauves de chaque côté, les mêmes que sur la jupe. Une version pour la marche 260 gal en a aussi 4 de chaque côté sur sa marche arrière.
+- Marche DEL OD Extra (case « Bas de marche ») : la Marche DEL Overdrive avec, en plus, une colonne de 3 ovales à 4 DEL mauves de chaque côté sur le panneau arrière du capot, à côté de la marche (comme la version « Extra » du jeu). Aussi en version marche 260 gal.
+- Déflecteur Overdrive (case du déflecteur de couchette) : le déflecteur du jeu (72 po, 72 po toit plat, 86 po) avec 4 ovales à 4 DEL mauves de chaque côté. Deux autres versions : avec des supports arrière chromés (6 ovales mauves de chaque côté, tournés vers l'arrière), ou avec les deux (côtés et supports arrière).
+- Barre arr. Overdrive : la barre est maintenant en chrome poli.
+- Tout le monde les voit dans la boutique. Si tu as le Tuning Pack du W900, la jupe DEL et la marche DEL vont aussi sur ses réservoirs et ses marches.
+
+Nouveau : châssis mauve pour le W900
+- Châssis mauve (sa propre case « Châssis mauve ») : un habillage mauve métallique sur les longerons du châssis, de l'avant jusqu'au bout, pour tous les châssis du W900 (toutes les longueurs, tous les essieux). Les supports, les ressorts et les pièces boulonnées sur le châssis restent devant, comme sur un vrai châssis peint. Le néon de l'éclairage au sol reste devant et bien visible.
+- Comme il a sa propre case, il va avec n'importe quelle plaque de pont (celles du jeu et celles du Tuning Pack), et avec le néon.
+- Plain Inset Mauve (case « Couverture de châssis ») : une plaque de pont Overdrive encastrée entre les longerons, de la cabine jusqu'au bout du châssis, toute mauve (la même peinture que le Châssis mauve), avec un rebord et des panneaux en creux. Pour tous les châssis du W900. Aussi en chrome : Plain Inset Chrome.
+
+Correctif : l'éclairage au sol (néon) garde sa couleur
+- Correctif : allumé, le tube du néon prenait une teinte orange en plus de sa couleur (un rouge tirait sur le jaune, un violet sur le rose). Chaque couleur garde maintenant la sienne.
+- Correctif : le tube allumé était aussi plus pâle et plus rosé que la couleur choisie, sur les 10 couleurs. C'est réglé : il a sa vraie couleur.
+- Ajustement : le tube brille moins fort. Il a un centre un peu plus pâle et une lueur douce collée autour, comme un vrai néon, au lieu d'un trait presque blanc.
+- Ajustement : la lumière sur le sol est moins forte (environ 4 dixièmes d'avant) et son bord est plus doux. Le sol garde sa couleur au lieu de virer au rose, même en violet, la couleur qui blanchit le plus vite.
+- Rien de plus à calculer pour ton ordi : pas de lueur ajoutée, le même nombre de lumières au sol qu'avant.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les phares, les feux arrière, les feux de freins et les clignotants rouges restent comme le jeu les fait. Les pièces du jeu qui ne sont pas du kit gardent leurs lumières orange.
+- Ce qui reste orange ou rouge sur un W900 avec le kit : la petite lueur du châssis près des ailes avant (elle fait partie du camion), et les lumières des pièces du Tuning Pack du W900 (un DLC payant). On ne peut pas recopier les pièces d'un DLC payant : pour avoir du mauve à ces places, prends les nouvelles pièces Overdrive (barre arrière, visière, miroir, logo DEL, jupe DEL, marche DEL et marche DEL Extra, déflecteur). Restent orange pour l'instant : les barres de feux sur les ailes avant, les pare-chocs avant lumineux, le support arrière de cabine, les arrières de cabine et les feux avant du châssis du Tuning Pack.
+- Tes pièces Overdrive Mauve et ton néon déjà installés restent sur ton camion et se chargent comme avant.
+- Les remorques à vendre et leurs modèles 3D, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.15.
+- La paie des autres cargaisons : la même qu'en 3.0.15. Les prix des pièces aussi, sauf ceux nommés plus haut et deux petits écarts qui suivent les moteurs : les châssis du LoneStar + 10 $, les cabines du LT - 10 $.
+
+━━━━━━━━━━━━━━━━━━━━
+EN CONVOI
+━━━━━━━━━━━━━━━━━━━━
+- Tout le monde doit avoir la mise à jour. Le serveur n'a plus aucun mod Workshop obligatoire dans sa liste : ni les mods de son de Slav Jerry (inclus dans Overdrive), ni True Mirror FOV, ni le gros paquet de sons, ni le mod M11. Rien ne change pour te connecter au serveur, mais désactive d'abord ces anciens mods dans ton gestionnaire de mods.
+
+━━━━━━━━━━━━━━━━━━━━
+SONS DE MOTEUR : MERCI À SLAV JERRY
+━━━━━━━━━━━━━━━━━━━━
+- Les sons de moteur ont été créés par Slav Jerry et lui appartiennent. Il nous a donné sa permission de les utiliser dans Overdrive Québec, pour notre serveur seulement : ils ne sont ni vendus, ni mis en ligne seuls, ni publiés sur le Steam Workshop ou ailleurs. Selon ses propres crédits, certains échantillons d'origine viennent de SCS Software.
+- Ses mods originaux sur le Steam Workshop (https://steamcommunity.com/sharedfiles/filedetails/?id= suivi du numéro) : Detroit 60 Series 2965630286, Volvo VNL Stock 2984211381, Mack E6 3013682152, CAT C15 6NZ 3013687427, Cummins Big Cam IV 3025843004, Cummins X15 3109207522, CAT C15 ACERT 3152835468, Mack MP8 3342633489.
+- Un gros merci à Slav Jerry pour son travail et pour sa générosité!
+- Engine sounds created by and belonging to Slav Jerry, used in Overdrive Québec on our server only with his permission (never sold, never re-uploaded on their own). Some original samples by SCS Software, as he credits. Thank you, Slav Jerry!
+
+Bonne route!

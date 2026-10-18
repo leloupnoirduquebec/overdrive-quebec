@@ -39,9 +39,37 @@
   },
   "game": {
     "requiredVersion": "1.61",
-    "maxConvoySize": 128
+    "maxConvoySize": 128,
+    "sync": [
+      {
+        "cvar": "g_traffic",
+        "value": "1.0",
+        "file": "global"
+      },
+      {
+        "cvar": "g_time_zones",
+        "value": "2",
+        "file": "profile"
+      },
+      {
+        "cvar": "g_bad_weather_factor",
+        "value": "0.07",
+        "file": "profile"
+      }
+    ]
   },
   "news": [
+    {
+      "date": "2026-10-17",
+      "title": "Overdrive Québec 3.0.20 : nouveaux sons de moteur, pluie, circulation, miroirs et correctifs",
+      "text": "Les sons de moteur de Slav Jerry sont maintenant inclus dans Overdrive : ils ont été créés par lui et lui appartiennent, et il nous a donné sa permission de les utiliser sur notre serveur. Merci, Slav Jerry! Plus de collection Workshop et plus aucun mod Workshop obligatoire : désabonne-toi des 8 mods de son de Slav Jerry, de la collection de Teax « Slav Jerry's Engine Sound Collection », du mod de son Cummins M11 et de True Mirror FOV (actifs au-dessus d'Overdrive, ses mods de son remplaceraient nos moteurs). L'Ultimate Graphics Mod reste au choix. Ajustements : un peu plus d'adhérence sous la pluie (tous les pneus, DLC compris) ; une circulation IA plus proche, au plus 10 véhicules par joueur ; les miroirs des vrais camions américains (grands miroirs plats, petits miroirs ronds bombés) ; maximum 600 HP sur le serveur, les moteurs à leurs vraies cotes avec des versions jusqu'à 600 HP, une boîte pour charges normales et une pour charges lourdes, et des noms clairs dans la boutique ; les livraisons d'Halloween payées comme les autres. Correctifs : les réservoirs de carburant ont leurs vrais litres (Mack Anthem 144 gal : 72/72 gal), le CAT C15 6NZ est un 14,6 L de 525 HP, les feux Overdrive Mauve du W900 s'allument comme ceux du jeu (plus de boule blanche) et le néon garde sa couleur. Certaines nouveautés ont aussi été ajoutées pour le W900 : à toi de les trouver chez le concessionnaire. Un moteur retiré reste sur ton camion, avec le son d'origine, et tes sauvegardes se chargent comme avant. Cinq modules changent : Camions, Physique, Économie, Remorques et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.20.txt",
+        "sha256": "de638df02ab05153b1b4bbfd23c96fc9c7532172ab551940117c4e0b0d1d24f9",
+        "sizeBytes": 22737
+      }
+    },
     {
       "date": "2026-10-14",
       "title": "Overdrive Québec 3.0.15 : correctif des feux Overdrive Mauve du W900",
@@ -424,7 +452,6 @@
       "maxPlayers": 128
     }
   ],
-  "workshopCollectionId": "3814284763",
   "mods": [
     {
       "name": "Overdrive Québec",
@@ -450,12 +477,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.14",
+      "version": "3.0.20",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.14.scs",
-      "sha256": "1704466e8d5ac23cb7a0b84ebbdda02bf43f55d047ddf4ca88b674dffd97ead5",
-      "sizeBytes": 4051191,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.20.scs",
+      "sha256": "bfe7db22047e0ed1fe39691a9b88c7e88ce008f031698e0184f1b2ea7f3fdf0c",
+      "sizeBytes": 4052621,
       "required": true,
       "loadOrder": 71
     },
@@ -472,45 +499,45 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.14",
+      "version": "3.0.20",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.14.scs",
-      "sha256": "286f90cb99d182483c122953c3988fad9a69fc4b459fad3441b7a13b5330d744",
-      "sizeBytes": 5586777,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.20.scs",
+      "sha256": "9ce6926697aa49b748d0e38f2a4f01002281e96ece5547be0cdd88bf00b3a539",
+      "sizeBytes": 5587419,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.14",
+      "version": "3.0.20",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.14.scs",
-      "sha256": "1e0c910e85a144561b605b5b17534ee72ba04da9523b3b3d434e8aa18395bdda",
-      "sizeBytes": 10637996,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.20.scs",
+      "sha256": "cdfb317e66a47fce794af424840799d554e8a26cf5b350061570dbc41323e93b",
+      "sizeBytes": 10675538,
       "required": true,
       "loadOrder": 74
     },
     {
       "name": "Overdrive Québec — Physique",
-      "version": "3.0.8",
+      "version": "3.0.20",
       "source": "direct",
       "fileName": "overdrive-physique.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.8.scs",
-      "sha256": "84304fd310f67d8556ca138d525674c703d2d53e1666ec376aa81a4271f9d94a",
-      "sizeBytes": 33050,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.20.scs",
+      "sha256": "eaae27cac899ad57241bdde24e2f9731ce7c2c685752e901dbe2e0286e6fa572",
+      "sizeBytes": 75926,
       "required": true,
       "loadOrder": 75
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.15",
+      "version": "3.0.20",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.15.scs",
-      "sha256": "ea2259b5cf1574d3545c493e1d64fc99f6c098fd645460384a0ee0736bec655f",
-      "sizeBytes": 20786167,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.20.scs",
+      "sha256": "e0965d06da82ba8f69f5bd24b77465b30ec54cd5bac86b8f402ae9ffb8e25402",
+      "sizeBytes": 44339315,
       "required": true,
       "loadOrder": 76
     },
@@ -526,25 +553,6 @@
       "loadOrder": 77
     },
     {
-      "name": "True Mirror FOV",
-      "source": "workshop",
-      "workshopId": "1823739259",
-      "required": false,
-      "loadOrder": 20
-    },
-    {
-      "name": "Slav Jerry's Engine Sound Collection",
-      "source": "workshop",
-      "workshopId": "3272227864",
-      "required": true,
-      "loadOrder": 30,
-      "orderAgainst": [
-        "overdrive-camions.scs"
-      ],
-      "orderRisk": "crash",
-      "orderNote": "ses moteurs perdent la boîte par défaut d'Overdrive, et le jeu peut planter quand tu achètes un moteur"
-    },
-    {
       "name": "Ultimate Graphics Mod ATS",
       "source": "workshop",
       "workshopId": "3491882019",
@@ -555,18 +563,6 @@
       ],
       "orderRisk": "visual",
       "orderNote": "le ciel d'Overdrive est perdu : la date du soleil revient à l'automne et les nuits sont trop longues"
-    },
-    {
-      "name": "MORTAL & CASH Cummins M11 engine sound mod",
-      "source": "workshop",
-      "workshopId": "2595128788",
-      "required": true,
-      "loadOrder": 65,
-      "orderAgainst": [
-        "overdrive-camions.scs"
-      ],
-      "orderRisk": "crash",
-      "orderNote": "ses moteurs perdent la boîte par défaut d'Overdrive, et le jeu peut planter quand tu achètes un moteur"
     }
   ],
   "retiredMods": [
@@ -601,5 +597,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261016001602
+  "serial": 20261018123208
 }

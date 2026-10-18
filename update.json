@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.6.8",
+  "version": "0.7.0",
   "mandatory": false,
-  "notes": "Nouveauté : la section « Créateurs et streamers » du lanceur a une nouvelle allure.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.6.8.exe",
-  "sizeBytes": 65937707,
-  "sha256": "ab5b3f5e96a6836a8fb1233957dee5d5da715cfbb41533a8f3ff2c96fdf4da39",
-  "published": "2026-10-16"
+  "notes": "Nouveauté : un bouton « Récompenses » en haut du lanceur. Roule sur le serveur Overdrive et reviens voir chaque jour.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.7.0.exe",
+  "sizeBytes": 65989652,
+  "sha256": "0a658123940563faa52c38d990423035cea02c1d670e75a844f5360991955901",
+  "published": "2026-10-18"
 }
