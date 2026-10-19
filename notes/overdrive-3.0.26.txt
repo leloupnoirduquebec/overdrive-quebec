@@ -1,0 +1,41 @@
+OVERDRIVE QUÉBEC 3.0.26 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Quatre modules changent : Camions, Physique, Remorques et Base. Les autres restent tels quels. Tes sauvegardes se chargent comme avant.
+
+Si tu passes directement de la 3.0.22 à la 3.0.26, tu as aussi tout ce qu'apportent les 3.0.23, 3.0.24 et 3.0.25 (leurs notes sont dans leurs propres nouvelles) : Camions, Physique, Remorques, Économie et Base changent.
+
+━━━━━━━━━━━━━━━━━━━━
+TRANSPORT EXCEPTIONNEL
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : il apparaît maintenant aussi au départ de San Diego.
+- Correctif : son icône s'affiche maintenant dans la liste des contrats.
+- Il a maintenant plus d'une destination possible… à toi de les trouver.
+
+━━━━━━━━━━━━━━━━━━━━
+PHYSIQUE
+━━━━━━━━━━━━━━━━━━━━
+Ajustement : les freins
+- La température maximale des freins passe de 200 °C à 260 °C : c'est la température où de vrais freins à tambour lâchent (étude de la FHWA, l'administration américaine des routes).
+- Dans une longue descente chargée sans frein moteur, la chaleur continue de monter au lieu de bloquer à 200 °C.
+- Avec le frein moteur, ou dans un arrêt normal : rien ne change.
+
+Ajustement : la cabine
+- Le débattement de la suspension de la cabine revient à celui du jeu (5 cm au lieu de 6) : aucune vraie valeur trouvée pour 6 cm.
+
+Ajustement : deux boîtes de vitesses
+- Les boîtes Eaton LAS avec ralentisseur ne sont plus en vente sur le Mack Anthem et l'International LoneStar : aucun moteur vendu sur ces camions ne peut les prendre.
+- Si ton camion en a déjà une, tu la gardes.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les moteurs, le néon, les cheminées, les feux, les remorques en vente, la paie des contrats, le poids permis par État, la pluie, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.25.
+
+Bonne route!

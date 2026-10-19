@@ -60,6 +60,50 @@
   },
   "news": [
     {
+      "date": "2026-10-19",
+      "title": "Overdrive Québec 3.0.26 : correctifs et physique",
+      "text": "Physique, ajustements : les freins peuvent maintenant chauffer jusqu'à 260 °C (la vraie limite des freins à tambour) au lieu de bloquer à 200 °C, la suspension de la cabine revient à celle du jeu, et deux boîtes Eaton LAS avec ralentisseur ne sont plus en vente sur le Mack Anthem et l'International LoneStar (aucun moteur vendu sur ces camions ne peut les prendre ; si tu en as une, tu la gardes). Cette mise à jour comprend aussi les 3.0.23 à 3.0.25 : un transport hors du commun circule maintenant sur nos routes… à toi de le trouver. Tes sauvegardes se chargent comme avant. Cinq modules changent depuis la 3.0.22 : Camions, Physique, Remorques, Économie et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.26.txt",
+        "sha256": "1d86b5d80b4c21c838ddfbf1068c07d8420cd4b281976df2d731cf4e8694a23b",
+        "sizeBytes": 2601
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Overdrive Québec 3.0.25 : un transport hors du commun",
+      "text": "Un transport hors du commun circule maintenant sur nos routes… à toi de le trouver. Ajustement : le poids total permis par État (camion et remorques) passe de 245 154 lb à 374 345 lb partout ; les autres contrats ne changent pas (même charge, même paie) et il n'y a toujours pas d'amendes. Cette mise à jour comprend aussi les 3.0.23 et 3.0.24 : le néon au sol arrive sur un dernier camion, la lueur du néon ne traverse plus les réservoirs de l'International LT (correctif), et certaines nouveautés ont été ajoutées dans les cheminées. Tes sauvegardes se chargent comme avant. Quatre modules changent depuis la 3.0.22 : Camions, Remorques, Économie et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.25.txt",
+        "sha256": "985fcd2e94f701f0902b6cfb0d0dc01626bc099b5e3e6ee9a74196bb8f6d99de",
+        "sizeBytes": 2058
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Overdrive Québec 3.0.24 : du nouveau dans les cheminées",
+      "text": "Certaines nouveautés ont été ajoutées dans les cheminées Overdrive : à toi de les trouver dans la boutique! Les cheminées du W900 et du 389 ne changent pas. Tes sauvegardes se chargent comme avant. Deux modules changent : Camions et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.24.txt",
+        "sha256": "d3fdc6a06b758ac22f218c23e1b983f0080d239b3065b72be274c3759da7eb34",
+        "sizeBytes": 2052
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Overdrive Québec 3.0.23 : le néon au sol, la fin du tour, et un correctif",
+      "text": "Le néon au sol arrive sur un dernier camion : à toi de trouver lequel, dans la boutique! Correctif : sur l'International LT, la lueur du néon passait à travers les réservoirs de carburant ; le tube s'arrête maintenant avant les réservoirs et reprend après (la lumière au sol ne change pas, et un néon déjà installé se charge avec la correction). Tes sauvegardes se chargent comme avant. Deux modules changent : Camions et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.23.txt",
+        "sha256": "1ae8077563f4e300be9d1cf16d2302d3d94f2d01c8f91c5efe5d212dcfddca31",
+        "sizeBytes": 2162
+      }
+    },
+    {
       "date": "2026-10-18",
       "title": "Overdrive Québec 3.0.22 : le néon au sol sur plus de camions, ménage dans les pièces du W900, cheminées et correctifs",
       "text": "Le néon au sol n'est plus réservé au Kenworth W900 : à toi de trouver sur quels camions il arrive, dans la boutique! Ménage dans la boutique : la Marche DEL Overdrive et la Plain Inset Chrome du W900 ne sont plus en vente (prends la Marche DEL OD Extra et la Plain Inset Mauve), et les cheminées de plus de 9 pouces non plus (la cheminée 11 po chrome et les cheminées Overdrive 10 po, sur le W900 et le 389). Si tu en as déjà une sur ton camion, tu la gardes. Ajustements : la Plain Inset Mauve a maintenant exactement la peinture du Châssis mauve, toutes les cheminées Overdrive ont le même chrome poli, plus brillant, les néons blanc, jaune, vert, cyan et rose sont plus doux (à peu près la force du violet, aussi sur le W900) et les néons s'appellent maintenant « Néon <couleur> » dans toutes les langues. Correctifs : la puissance, le couple et le régime des moteurs s'affichent de nouveau dans la boutique ; les petits miroirs ronds ne font plus d'erreur dans le journal du jeu (ils sont au maximum de ce que le jeu permet), et le coude du bas des cheminées Overdrive du Peterbilt 389 ne se replie plus sur lui-même. Certaines nouveautés ont aussi été ajoutées dans les cheminées : à toi de les trouver dans la boutique. Tes sauvegardes se chargent comme avant. Deux modules changent : Camions et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
@@ -488,12 +532,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.22",
+      "version": "3.0.26",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.22.scs",
-      "sha256": "68415fd16d0fe8ac91921eb822d5bf3bad84e003136c3e86b830ffa433779299",
-      "sizeBytes": 4052814,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.26.scs",
+      "sha256": "cdb156f0378cb9d9ef31a71764caeb2cb5cdbcb2a4008be383421609229873b5",
+      "sizeBytes": 4052815,
       "required": true,
       "loadOrder": 71
     },
@@ -510,45 +554,45 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.20",
+      "version": "3.0.26",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.20.scs",
-      "sha256": "9ce6926697aa49b748d0e38f2a4f01002281e96ece5547be0cdd88bf00b3a539",
-      "sizeBytes": 5587419,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.26.scs",
+      "sha256": "0dd38808cf191b70044c1a559c3ab5436d76c7bdb7e89f3c7c3bb900a4a9c618",
+      "sizeBytes": 15906037,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.20",
+      "version": "3.0.25",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.20.scs",
-      "sha256": "cdfb317e66a47fce794af424840799d554e8a26cf5b350061570dbc41323e93b",
-      "sizeBytes": 10675538,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.25.scs",
+      "sha256": "c20c42ecd47f3b0a5386b46528eb5ecbf2b1268ab23907d31dc63067252f27c5",
+      "sizeBytes": 10676230,
       "required": true,
       "loadOrder": 74
     },
     {
       "name": "Overdrive Québec — Physique",
-      "version": "3.0.20",
+      "version": "3.0.26",
       "source": "direct",
       "fileName": "overdrive-physique.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.20.scs",
-      "sha256": "eaae27cac899ad57241bdde24e2f9731ce7c2c685752e901dbe2e0286e6fa572",
-      "sizeBytes": 75926,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.26.scs",
+      "sha256": "37c8be8ccbb9735f44b2652a72b3d02fd26c6320347410b657486896a72da6f7",
+      "sizeBytes": 75932,
       "required": true,
       "loadOrder": 75
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.22",
+      "version": "3.0.26",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.22.scs",
-      "sha256": "b3438423387da198d77ed92caf8201b49d890ec30943e9e2c3e114dd464a27f2",
-      "sizeBytes": 54999040,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.26.scs",
+      "sha256": "a97b611a90b986de9bdc2d2570eae1c93bfc83115dc3ddacae17aa80347e11a4",
+      "sizeBytes": 81801346,
       "required": true,
       "loadOrder": 76
     },
@@ -608,5 +652,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261019030254
+  "serial": 20261019231501
 }

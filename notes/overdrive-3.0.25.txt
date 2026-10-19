@@ -1,0 +1,31 @@
+OVERDRIVE QUÉBEC 3.0.25 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Trois modules changent : Remorques, Économie et Base. Les autres restent tels quels. Tes sauvegardes se chargent comme avant.
+
+Cette mise à jour arrive en même temps que les 3.0.23 (néon au sol) et 3.0.24 (cheminées) : leurs notes sont dans leurs propres nouvelles. Si tu passes directement de la 3.0.22 à la 3.0.25, tu as tout : Camions, Remorques, Économie et Base changent.
+
+━━━━━━━━━━━━━━━━━━━━
+UN TRANSPORT HORS DU COMMUN
+━━━━━━━━━━━━━━━━━━━━
+Nouveau : un transport hors du commun circule maintenant sur nos routes… à toi de le trouver.
+- Il n'est pas en vente : il se mérite.
+- Aucun DLC n'est nécessaire.
+
+Ajustement : le poids maximum permis par État
+- Le poids total permis (camion et remorques) passe de 245 154 lb (111 200 kg) à 374 345 lb (169 800 kg), dans tous les États.
+- Pourquoi : pour qu'un chargement très lourd puisse être offert partout où il circule.
+- Les autres contrats ne changent pas : même charge, même paie (toutes les charges recalculées donnent exactement le même résultat). Toujours pas d'amendes.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions (moteurs, boîtes, néon, cheminées, feux), les remorques en vente, la paie des autres contrats, la physique, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.24.
+
+Bonne route!
