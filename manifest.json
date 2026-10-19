@@ -60,6 +60,17 @@
   },
   "news": [
     {
+      "date": "2026-10-18",
+      "title": "Overdrive Québec 3.0.22 : le néon au sol sur plus de camions, ménage dans les pièces du W900, cheminées et correctifs",
+      "text": "Le néon au sol n'est plus réservé au Kenworth W900 : à toi de trouver sur quels camions il arrive, dans la boutique! Ménage dans la boutique : la Marche DEL Overdrive et la Plain Inset Chrome du W900 ne sont plus en vente (prends la Marche DEL OD Extra et la Plain Inset Mauve), et les cheminées de plus de 9 pouces non plus (la cheminée 11 po chrome et les cheminées Overdrive 10 po, sur le W900 et le 389). Si tu en as déjà une sur ton camion, tu la gardes. Ajustements : la Plain Inset Mauve a maintenant exactement la peinture du Châssis mauve, toutes les cheminées Overdrive ont le même chrome poli, plus brillant, les néons blanc, jaune, vert, cyan et rose sont plus doux (à peu près la force du violet, aussi sur le W900) et les néons s'appellent maintenant « Néon <couleur> » dans toutes les langues. Correctifs : la puissance, le couple et le régime des moteurs s'affichent de nouveau dans la boutique ; les petits miroirs ronds ne font plus d'erreur dans le journal du jeu (ils sont au maximum de ce que le jeu permet), et le coude du bas des cheminées Overdrive du Peterbilt 389 ne se replie plus sur lui-même. Certaines nouveautés ont aussi été ajoutées dans les cheminées : à toi de les trouver dans la boutique. Tes sauvegardes se chargent comme avant. Deux modules changent : Camions et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": true,
+      "notes": {
+        "file": "notes/overdrive-3.0.22.txt",
+        "sha256": "b8707fd7553a95f8f6a013b4ea0ee8495053612cb6447bbe56f5d0789e4a309a",
+        "sizeBytes": 5867
+      }
+    },
+    {
       "date": "2026-10-17",
       "title": "Overdrive Québec 3.0.20 : nouveaux sons de moteur, pluie, circulation, miroirs et correctifs",
       "text": "Les sons de moteur de Slav Jerry sont maintenant inclus dans Overdrive : ils ont été créés par lui et lui appartiennent, et il nous a donné sa permission de les utiliser sur notre serveur. Merci, Slav Jerry! Plus de collection Workshop et plus aucun mod Workshop obligatoire : désabonne-toi des 8 mods de son de Slav Jerry, de la collection de Teax « Slav Jerry's Engine Sound Collection », du mod de son Cummins M11 et de True Mirror FOV (actifs au-dessus d'Overdrive, ses mods de son remplaceraient nos moteurs). L'Ultimate Graphics Mod reste au choix. Ajustements : un peu plus d'adhérence sous la pluie (tous les pneus, DLC compris) ; une circulation IA plus proche, au plus 10 véhicules par joueur ; les miroirs des vrais camions américains (grands miroirs plats, petits miroirs ronds bombés) ; maximum 600 HP sur le serveur, les moteurs à leurs vraies cotes avec des versions jusqu'à 600 HP, une boîte pour charges normales et une pour charges lourdes, et des noms clairs dans la boutique ; les livraisons d'Halloween payées comme les autres. Correctifs : les réservoirs de carburant ont leurs vrais litres (Mack Anthem 144 gal : 72/72 gal), le CAT C15 6NZ est un 14,6 L de 525 HP, les feux Overdrive Mauve du W900 s'allument comme ceux du jeu (plus de boule blanche) et le néon garde sa couleur. Certaines nouveautés ont aussi été ajoutées pour le W900 : à toi de les trouver chez le concessionnaire. Un moteur retiré reste sur ton camion, avec le son d'origine, et tes sauvegardes se chargent comme avant. Cinq modules changent : Camions, Physique, Économie, Remorques et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
@@ -477,12 +488,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.20",
+      "version": "3.0.22",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.20.scs",
-      "sha256": "bfe7db22047e0ed1fe39691a9b88c7e88ce008f031698e0184f1b2ea7f3fdf0c",
-      "sizeBytes": 4052621,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.22.scs",
+      "sha256": "68415fd16d0fe8ac91921eb822d5bf3bad84e003136c3e86b830ffa433779299",
+      "sizeBytes": 4052814,
       "required": true,
       "loadOrder": 71
     },
@@ -532,12 +543,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.20",
+      "version": "3.0.22",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.20.scs",
-      "sha256": "e0965d06da82ba8f69f5bd24b77465b30ec54cd5bac86b8f402ae9ffb8e25402",
-      "sizeBytes": 44339315,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.22.scs",
+      "sha256": "b3438423387da198d77ed92caf8201b49d890ec30943e9e2c3e114dd464a27f2",
+      "sizeBytes": 54999040,
       "required": true,
       "loadOrder": 76
     },
@@ -597,5 +608,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261018123208
+  "serial": 20261019030254
 }

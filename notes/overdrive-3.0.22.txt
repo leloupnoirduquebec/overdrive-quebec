@@ -1,0 +1,71 @@
+OVERDRIVE QUÉBEC 3.0.22 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Deux modules changent : Camions et Base. Les autres restent tels quels. Tes sauvegardes se chargent comme avant : une pièce retirée de la vente reste sur ton camion.
+
+Cette version regroupe trois sujets, chacun dans sa section ci-dessous : le ménage dans les pièces Overdrive du W900 avec la correction des petits miroirs ronds, la version finale des cheminées Overdrive, puis le néon au sol. Elle corrige aussi l'affichage des moteurs dans la boutique.
+
+━━━━━━━━━━━━━━━━━━━━
+W900 : MÉNAGE DANS LES PIÈCES OVERDRIVE
+━━━━━━━━━━━━━━━━━━━━
+Retiré : moins de doublons dans la boutique
+- La Marche DEL Overdrive n'est plus en vente (les deux versions, aussi celle de la marche 260 gal). Prends la Marche DEL OD Extra : la même barre de marche, plus les 3 ovales mauves sur le capot de chaque côté. Elle ne change pas.
+- La Plain Inset Chrome n'est plus en vente. Prends la Plain Inset Mauve.
+- Si tu as déjà une de ces deux pièces sur ton camion, tu la gardes : elle se charge comme avant. Dans la boutique, elle dit « retirée » avec la pièce à prendre à la place.
+
+Ajustement : la Plain Inset Mauve a la couleur du châssis
+- La Plain Inset Mauve était d'un mauve plus pâle que le Châssis mauve. Elle a maintenant exactement la même peinture que le Châssis mauve (même couleur, même brillant, mêmes reflets) : la plaque et les longerons ont le même mauve.
+
+Correctif : les petits miroirs ronds
+- En 3.0.20, le réglage des petits miroirs ronds (convexes) dépassait ce que le jeu accepte : le jeu écrivait une erreur dans son journal à chaque chargement. Il est maintenant au maximum permis par le jeu.
+- Les petits miroirs ronds montrent toujours plus large que dans le jeu de base, mais un peu moins large qu'un vrai miroir de 8 1/2 pouces : le jeu ne permet pas plus. Les grands miroirs plats et les miroirs de capot ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+CHEMINÉES OVERDRIVE : LA VERSION FINALE
+━━━━━━━━━━━━━━━━━━━━
+Retiré : plus de cheminées de plus de 9 pouces
+- La cheminée 11 po chrome (Kenworth W900 et Peterbilt 389) n'est plus en vente.
+- Les cheminées Overdrive 10 po ne sont plus en vente (toutes les versions, sur le W900 et le 389).
+- Si tu en as déjà une sur ton camion, tu la gardes : elle se charge comme avant. Dans le garage, elle dit « retirée de la vente ».
+- Les cheminées Overdrive 8 po et 9 po restent en vente.
+
+Ajustement : un vrai chrome poli
+- Toutes les cheminées Overdrive ont maintenant le même chrome poli, plus brillant. Avant, sur le Peterbilt 389, la version bleuie n'avait pas le même chrome que la version normale.
+- Chaque version bleuie a un nom qui finit par « .bl », et la boutique décrit la version au complet sous le nom.
+
+Correctif : le coude du bas sur le Peterbilt 389
+- Sur le 389, le coude du bas des cheminées Overdrive se repliait sur lui-même du côté de la cabine (petites facettes sombres). Le coude est maintenant lisse ; il suit la même ligne à quelques millimètres près.
+
+Nouveau : certaines nouveautés ont été ajoutées dans les cheminées. À toi de les trouver dans la boutique!
+
+━━━━━━━━━━━━━━━━━━━━
+NÉON AU SOL : PAS JUSTE SUR LE W900
+━━━━━━━━━━━━━━━━━━━━
+Nouveau : le néon au sol n'est plus réservé au Kenworth W900. Il arrive sur 18 camions du jeu : à toi de le trouver dans la boutique! Le Volvo VNR Electric n'en a pas : ses batteries cachent le châssis.
+
+Ajustement : les couleurs vives plus douces
+- Le blanc, le jaune, le vert, le cyan et le rose brillaient beaucoup plus fort que le violet. Ils ont maintenant à peu près la même force que le violet, qui ne change pas. Ça vaut aussi pour le néon du W900.
+
+Ajustement : des noms plus courts
+- Les néons s'appellent maintenant « Néon <couleur> » (par exemple « Néon violet »), dans toutes les langues du jeu. Avant, c'était « Éclairage au sol néon DEL <couleur> », en français seulement.
+- Si tu as déjà un néon sur ton W900, tu le gardes : il se charge comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTION : LES MOTEURS DANS LA BOUTIQUE
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : la puissance, le couple et le régime des moteurs s'affichent de nouveau dans la boutique.
+- Depuis la 3.0.20, la boutique ne montrait plus ces informations. Les moteurs ont maintenant les mêmes trois lignes que ceux du jeu : la quatrième ligne ajoutée en 3.0.20 (cylindrée, turbos, cote réelle ou calculée) est retirée. Les noms gardent leurs lettres (T1 / T2 et N / H), et les moteurs eux-mêmes ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les feux Overdrive Mauve, les autres pièces lumineuses Overdrive et le Châssis mauve : les mêmes qu'en 3.0.20, sauf les pièces nommées plus haut.
+- Les moteurs (à part leur affichage dans la boutique), les boîtes, les remorques, la paie, la physique, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.20.
+
+Bonne route!
