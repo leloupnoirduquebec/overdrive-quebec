@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-20",
+      "title": "Lanceur 0.7.2 : lier ton Discord, en deux étapes",
+      "text": "Correctif : « Copier le code » copie maintenant seulement le code (avant, toute la commande, et Discord pouvait dire « commande obsolète »). Pour lier ton Discord : 1. dans le lanceur, clique sur « Copier le code » ; 2. dans Le Bunker QC, salon \uD83C\uDFADrôles, clique sur « \uD83D\uDD17 Lier mon compte Overdrive » et colle le code (ou tape /lier et colle le code dans la case). Discord dit encore « commande obsolète » avec /lier ? Fais Ctrl+R dans Discord, puis recommence. Aussi : la tuile du frein moteur du Logbook s'appelle « FREIN MOTEUR ARMÉ » (elle compte l'interrupteur, pas le freinage), et deux petits correctifs dans la Ronde de sécurité. Mets ton lanceur à jour (0.7.2).",
+      "popup": false
+    },
+    {
+      "date": "2026-10-20",
       "title": "Overdrive Québec 3.0.28 : finition du transport exceptionnel",
       "text": "Le transport hors du commun gagne encore en finition… à toi de le découvrir. Correctif : sur le module avant, les poteaux, le bois et le coffre sont plus bas ; ils ne touchent plus la tour dans une côte ordinaire, même en virage. Ajustement : la suspension des modules a un peu plus de course (12 cm → 15 cm). Tes sauvegardes se chargent comme avant et un contrat en cours reste bon. Seuls les modules qui changent vraiment se téléchargent : Remorques et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
       "popup": false,
@@ -738,5 +744,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261020214324
+  "serial": 20261020233452
 }
