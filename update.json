@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.7.0",
+  "version": "0.7.1",
   "mandatory": false,
-  "notes": "Nouveauté : un bouton « Récompenses » en haut du lanceur. Roule sur le serveur Overdrive et reviens voir chaque jour.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.7.0.exe",
-  "sizeBytes": 65989652,
-  "sha256": "0a658123940563faa52c38d990423035cea02c1d670e75a844f5360991955901",
-  "published": "2026-10-18"
+  "notes": "Nouveauté : l'Accès membre. Les mises à jour d'Overdrive vont maintenant aux membres du Bunker QC. Il faut : ton Steam connecté, ton Discord lié au lanceur, le rôle American Truck sur le Discord du Bunker QC, et les conditions d'utilisation acceptées. Ouvre ton Logbook : la carte « Accès membre » montre ce qui manque, avec un bouton pour chaque étape (« Lier mon Discord », puis le code à taper dans Discord avec /lier ; « Lire et accepter » pour les conditions).",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.7.1.exe",
+  "sizeBytes": 66067852,
+  "sha256": "0e00f869b4b505330e430b4319b17a169c9d25c77c525c196dcf7883551bf9d7",
+  "published": "2026-10-20"
 }

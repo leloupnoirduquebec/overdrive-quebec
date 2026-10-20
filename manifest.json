@@ -60,10 +60,38 @@
   },
   "news": [
     {
+      "date": "2026-10-20",
+      "title": "Overdrive Québec 3.0.28 : finition du transport exceptionnel",
+      "text": "Le transport hors du commun gagne encore en finition… à toi de le découvrir. Correctif : sur le module avant, les poteaux, le bois et le coffre sont plus bas ; ils ne touchent plus la tour dans une côte ordinaire, même en virage. Ajustement : la suspension des modules a un peu plus de course (12 cm → 15 cm). Tes sauvegardes se chargent comme avant et un contrat en cours reste bon. Seuls les modules qui changent vraiment se téléchargent : Remorques et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.28.txt",
+        "sha256": "6e8245e41989ae33557bff07d684cb8848b27bfa1b813c6d1fdbeff9fdb154d1",
+        "sizeBytes": 1631
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Lanceur 0.7.1 : les mises à jour d'Overdrive passent par l'Accès membre",
+      "text": "Pour recevoir les mises à jour d'Overdrive, il faut maintenant : Steam connecté, Discord lié au lanceur, le rôle American Truck sur le Discord du Bunker QC et les conditions acceptées. Mets ton lanceur à jour (0.7.1), puis ouvre ton Logbook : la carte « Accès membre » te guide, une étape à la fois (pour lier ton Discord, tu tapes le code avec /lier sur le Bunker). Ensuite, la mise à jour s'installe toute seule, jeu fermé. Le 3 novembre 2026, les anciennes adresses de téléchargement ferment : sans lanceur à jour ou sans Accès membre, plus de mise à jour d'Overdrive. Correctif des récompenses : le serveur de la communauté reconnaît maintenant ton temps de route sur le serveur Overdrive (avant : « pas sur le serveur »). Le lanceur a aussi du nouveau dans le Logbook, même en roulant… à toi de le découvrir. Overdrive 3.0.27 est arrivé aussi : la nouvelle juste en dessous.",
+      "popup": true
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Overdrive Québec 3.0.27 : correctifs du transport exceptionnel",
+      "text": "Transport exceptionnel, correctifs : il n'apparaît plus enfoncé dans le sol, et il part maintenant de plus grands dépôts. Le transport hors du commun a aussi été redessiné et gagne en finition et en visibilité… à toi de le découvrir. Ajustement : le poids total permis par État (camion et remorques) passe de 374 345 lb à 319 009 lb partout ; les autres contrats ne changent pas (même charge, même paie) et il n'y a toujours pas d'amendes. Tes sauvegardes se chargent comme avant. Trois modules changent : Remorques, Économie et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.27.txt",
+        "sha256": "ec547d7134e343658c751cd7e8d7cb3b20e1c4090ff152aed99bb236846558cf",
+        "sizeBytes": 2115
+      }
+    },
+    {
       "date": "2026-10-19",
       "title": "Overdrive Québec 3.0.26 : correctifs et physique",
       "text": "Physique, ajustements : les freins peuvent maintenant chauffer jusqu'à 260 °C (la vraie limite des freins à tambour) au lieu de bloquer à 200 °C, la suspension de la cabine revient à celle du jeu, et deux boîtes Eaton LAS avec ralentisseur ne sont plus en vente sur le Mack Anthem et l'International LoneStar (aucun moteur vendu sur ces camions ne peut les prendre ; si tu en as une, tu la gardes). Cette mise à jour comprend aussi les 3.0.23 à 3.0.25 : un transport hors du commun circule maintenant sur nos routes… à toi de le trouver. Tes sauvegardes se chargent comme avant. Cinq modules changent depuis la 3.0.22 : Camions, Physique, Remorques, Économie et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
-      "popup": true,
+      "popup": false,
       "notes": {
         "file": "notes/overdrive-3.0.26.txt",
         "sha256": "1d86b5d80b4c21c838ddfbf1068c07d8420cd4b281976df2d731cf4e8694a23b",
@@ -532,12 +560,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.26",
+      "version": "3.0.28",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.26.scs",
-      "sha256": "cdb156f0378cb9d9ef31a71764caeb2cb5cdbcb2a4008be383421609229873b5",
-      "sizeBytes": 4052815,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.28.scs",
+      "sha256": "2291858312f1ab212a278ea50bb210b7ec5f6219c1fb91d9fff4eea3fcd3fd9c",
+      "sizeBytes": 4052812,
       "required": true,
       "loadOrder": 71
     },
@@ -554,23 +582,23 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.26",
+      "version": "3.0.28",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.26.scs",
-      "sha256": "0dd38808cf191b70044c1a559c3ab5436d76c7bdb7e89f3c7c3bb900a4a9c618",
-      "sizeBytes": 15906037,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.28.scs",
+      "sha256": "5a183cfdd543672142d2ba7e2407b428fe75211ab734f79bc55eb320f49c8488",
+      "sizeBytes": 16325783,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.25",
+      "version": "3.0.27",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.25.scs",
-      "sha256": "c20c42ecd47f3b0a5386b46528eb5ecbf2b1268ab23907d31dc63067252f27c5",
-      "sizeBytes": 10676230,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.27.scs",
+      "sha256": "8a450165cf732936c1077be18af3d79d552af854b74fa9c2e0378d30597e6b42",
+      "sizeBytes": 10676223,
       "required": true,
       "loadOrder": 74
     },
@@ -637,6 +665,64 @@
       "kind": "test"
     }
   ],
+  "retiredWorkshop": [
+    {
+      "workshopId": "3342633489",
+      "name": "Mack MP8 Straight pipe sound"
+    },
+    {
+      "workshopId": "3152835468",
+      "name": "CAT C15 ACERT Straight pipe sound"
+    },
+    {
+      "workshopId": "3109207522",
+      "name": "Cummins X15 Straight pipe sound"
+    },
+    {
+      "workshopId": "3025843004",
+      "name": "Cummins Big Cam IV Straight pipe sound"
+    },
+    {
+      "workshopId": "3013687427",
+      "name": "CAT C15 6NZ Straight pipe sound"
+    },
+    {
+      "workshopId": "3013682152",
+      "name": "Mack E6 Straight pipe sound"
+    },
+    {
+      "workshopId": "2984211381",
+      "name": "Volvo VNL Stock sound"
+    },
+    {
+      "workshopId": "2965630286",
+      "name": "Detroit Diesel 60 Series Straight pipe sound"
+    },
+    {
+      "workshopId": "3272227864",
+      "name": "Slav Jerry's Engine Sound Collection"
+    },
+    {
+      "workshopId": "2595128788",
+      "name": "MORTAL & CASH Cummins M11 engine sound mod"
+    },
+    {
+      "workshopId": "1823739259",
+      "name": "True Mirror FOV"
+    },
+    {
+      "workshopId": "3809306984",
+      "name": "Realistic Fuel Economy for ALL 176 engines"
+    },
+    {
+      "workshopId": "3617213048",
+      "name": "Ultra Realistic Truck Physics & Cabin Motion"
+    },
+    {
+      "workshopId": "3614048850",
+      "name": "Real life traffic density"
+    }
+  ],
   "audio": {
     "music": {
       "file": "overdrive-quebec.mp3",
@@ -652,5 +738,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261019231501
+  "serial": 20261020214324
 }

@@ -1,0 +1,16 @@
+# Overdrive Québec 0.7.1
+
+Du nouveau pour ton Logbook, même en roulant. À toi de le découvrir!
+
+- Nouveauté : l'Accès membre. Les mises à jour d'Overdrive vont maintenant aux membres du Bunker QC. Il faut : ton Steam connecté, ton Discord lié au lanceur, le rôle American Truck sur le Discord du Bunker QC, et les conditions d'utilisation acceptées. Ouvre ton Logbook : la carte « Accès membre » montre ce qui manque, avec un bouton pour chaque étape (« Lier mon Discord », puis le code à taper dans Discord avec /lier ; « Lire et accepter » pour les conditions).
+- Quand tout est vert et que le jeu est fermé, la mise à jour d'Overdrive s'installe toute seule. Le bouton JOUER attend la fin de l'installation.
+- Le 3 novembre 2026, les anciennes adresses de téléchargement ferment : à partir de là, seul un lanceur 0.7.1 ou plus récent, avec l'Accès membre, reçoit les mises à jour d'Overdrive. Le lanceur lui-même reste en téléchargement libre.
+- Si tu quittes le Discord du Bunker ou si tu perds le rôle American Truck, les mises à jour s'arrêtent. Les mods déjà installés restent sur ton PC et marchent encore.
+- Lier ton Discord marche dès ta première journée sur le Bunker (avant : 7 jours d'attente). Les récompenses gardent leurs règles (compte Discord de 30 jours et 7 jours sur le Bunker), vérifiées au moment du tirage.
+- Nouveauté : Ctrl+Alt+J ouvre ton Logbook complet par-dessus le jeu (jeu en plein écran fenêtré, sans bordure), avec le nombre de camionneurs sur le serveur en haut. Ctrl+Alt+J encore : il se referme. Ctrl+Alt+Entrée le plie en petit bandeau pour rouler. Pour changer de page : garde Ctrl enfoncé et clique, ou Ctrl+Alt+flèches. La touche se change dans les réglages. Il remplace le petit tableau de Ctrl+Alt+J de la 0.7.0.
+- Correctif (récompenses) : le serveur Overdrive ne donnait pas les noms des joueurs, alors ton temps de route n'était jamais reconnu (« pas sur le serveur »). Le serveur de la communauté retrouve maintenant les noms dans le journal du serveur ATS, seulement quand tout concorde.
+- Correctif : quand le serveur donne le nombre de camionneurs mais pas leurs noms, la carte du serveur le dit clairement au lieu d'une liste de « Camionneur sans nom ».
+- Ronde de sécurité : le lanceur détecte maintenant les vieilles copies d'Overdrive dans ton dossier mod (un ancien « overdrive…scs » qui n'est pas un des modules d'aujourd'hui). « Mettre de côté » les déplace, jeu fermé, dans le dossier « overdrive-mis-de-cote » à côté du dossier mod : rien n'est supprimé.
+- Ronde de sécurité : le lanceur détecte maintenant les vieux mods du Workshop qui ne sont plus dans la liste (sons de Slav Jerry, collection de Teax, M11, True Mirror FOV, Realistic Fuel Economy, Ultra Realistic Truck Physics, Real life traffic density) : leur contenu est dans Overdrive. « Ouvrir mes abonnements » t'amène dans Steam pour te désabonner ; le lanceur ne touche jamais au Workshop.
+- Ronde de sécurité : le lanceur détecte maintenant si ton jeu est plus vieux ou plus récent que celui du serveur (version bêta, mise à jour pas finie) et te dit quoi faire dans Steam.
+- Changement : dans la liste des joueurs du serveur (lanceur et site), ton nom paraît seulement si tu as accepté les conditions ou si tu partages tes statistiques. Sinon, tu es « Camionneur ».
