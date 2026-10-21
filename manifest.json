@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-21",
+      "title": "Lanceur 0.7.3 : affichage corrigé en 1280×720",
+      "text": "Correctif : le lanceur s'affiche maintenant comme il faut en 1280×720 (et sur un écran 1920×1080 à 150 %). La page défile au lieu d'écraser les serveurs : le babillard et les créateurs ne disparaissent plus, et la carte du serveur n'est plus coupée. Les boutons de « Paramètres » et d'« Expérience de conduite » restent toujours visibles en bas, une ligne coupée des paramètres est réparée, et le Logbook laisse plus de place à ses pages sur un petit écran. Mets ton lanceur à jour (0.7.3).",
+      "popup": false
+    },
+    {
+      "date": "2026-10-21",
       "title": "Overdrive Québec 3.0.32 : correctifs, plus de contrats et transport exceptionnel",
       "text": "Cette version regroupe tout ce qui a été fait depuis la 3.0.29. Le transport hors du commun a encore changé de look et part aussi de plus d'endroits sur les cartes des DLC… à toi de le découvrir. De temps en temps, certaines entreprises te confient aussi un plus gros ensemble. Correctifs : le poids du convoi porte maintenant sur le camion (les roues motrices ne « flottent » plus) et il ne penche plus dans les virages ; la sellette du milieu des doubles fourgon 53+53 et 48+48 ne tremble plus dans les virages ; la citerne à carburant Double 53+53 devient « 4+3 », la remorque à 4 essieux en tête ; sur 16 camions, le tube du néon ne passe plus à travers les réservoirs et les jupes. Ajustements : le convoi part du port d'Oakland (le port de Los Angeles, trop petit, est retiré) vers Bakersfield, Mojave ou San Diego, jusqu'à 1 300 km, avec une paie réaliste (environ 40 000 $ de base pour Oakland → Mojave, avant les bonis) ; le train derrière le camion pèse exactement 220 000 lb ; environ 11 % de contrats de plus partout (la paie ne change pas) ; sous la pluie, les pneus tiennent mieux la route (0,9 de l'adhérence du jeu au lieu de 0,8 ; au sec, rien ne change) ; le poids total permis par État passe de 306 442 lb à 247 799 lb ; il n'y a toujours pas d'amendes. Avis de droits et crédits mis à jour (Slav Jerry crédité). Les 8 modules changent : le téléchargement est plus gros que d'habitude (environ 267 Mo, une seule fois). Tes sauvegardes se chargent comme avant. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
       "popup": false,
@@ -766,5 +772,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261021210820
+  "serial": 20261021222823
 }

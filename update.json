@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.7.2",
+  "version": "0.7.3",
   "mandatory": false,
-  "notes": "Correctif (lier ton Discord) : « Copier le code » copie maintenant seulement le code. Avant, le lanceur copiait toute la commande « /lier code: … », et Discord pouvait répondre « cette commande est obsolète » quand on la collait.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.7.2.exe",
-  "sizeBytes": 66068725,
-  "sha256": "f1a156a3aa125981e2a3b078a6449eee2dc77f97694c17b7f725a563e37ff8f2",
-  "published": "2026-10-20"
+  "notes": "Correctif : affichage corrigé en 1280×720 (et sur un écran 1920×1080 à 150 %). Le titre et le bas de la fenêtre sont plus petits, et la page défile au lieu d'écraser les serveurs : le babillard et les créateurs ne disparaissent plus, et la carte du serveur n'est plus coupée.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.7.3.exe",
+  "sizeBytes": 66085705,
+  "sha256": "0914e829acdba8e59a126741872adf834e6b4357b6a1084f95261592e20df928",
+  "published": "2026-10-21"
 }
