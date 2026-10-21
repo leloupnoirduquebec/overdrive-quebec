@@ -61,6 +61,17 @@
   "news": [
     {
       "date": "2026-10-20",
+      "title": "Overdrive Québec 3.0.29 : correctif du transport exceptionnel",
+      "text": "Correctif : le contrat du transport exceptionnel ne fait plus fermer le jeu. Le transport hors du commun a aussi été redessiné… à toi de le découvrir. Ajustements : la suspension des modules revient à 12 cm de course (comme en 3.0.27), et le poids total permis par État (camion et remorques) passe de 319 009 lb à 306 442 lb partout ; les autres contrats ne changent pas (même charge, même paie) et il n'y a toujours pas d'amendes. Tes sauvegardes se chargent comme avant. Trois modules changent : Remorques, Économie et Base. Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.29.txt",
+        "sha256": "ba6ab50bdfecec798423381538377ccc7383aac81071c16e1cd51f9b27dbce29",
+        "sizeBytes": 1894
+      }
+    },
+    {
+      "date": "2026-10-20",
       "title": "Lanceur 0.7.2 : lier ton Discord, en deux étapes",
       "text": "Correctif : « Copier le code » copie maintenant seulement le code (avant, toute la commande, et Discord pouvait dire « commande obsolète »). Pour lier ton Discord : 1. dans le lanceur, clique sur « Copier le code » ; 2. dans Le Bunker QC, salon \uD83C\uDFADrôles, clique sur « \uD83D\uDD17 Lier mon compte Overdrive » et colle le code (ou tape /lier et colle le code dans la case). Discord dit encore « commande obsolète » avec /lier ? Fais Ctrl+R dans Discord, puis recommence. Aussi : la tuile du frein moteur du Logbook s'appelle « FREIN MOTEUR ARMÉ » (elle compte l'interrupteur, pas le freinage), et deux petits correctifs dans la Ronde de sécurité. Mets ton lanceur à jour (0.7.2).",
       "popup": false
@@ -566,12 +577,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.28",
+      "version": "3.0.29",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.28.scs",
-      "sha256": "2291858312f1ab212a278ea50bb210b7ec5f6219c1fb91d9fff4eea3fcd3fd9c",
-      "sizeBytes": 4052812,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.29.scs",
+      "sha256": "2547048483ed9e7bed1446a5491f92cc6bd2579c118523aeb883fd7a13fd50e4",
+      "sizeBytes": 4052814,
       "required": true,
       "loadOrder": 71
     },
@@ -588,23 +599,23 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.28",
+      "version": "3.0.29",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.28.scs",
-      "sha256": "5a183cfdd543672142d2ba7e2407b428fe75211ab734f79bc55eb320f49c8488",
-      "sizeBytes": 16325783,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.29.scs",
+      "sha256": "2e925f0d68bb27964b9ca5f37dc04568c13111074e6c8d9f5a45968e1df2a821",
+      "sizeBytes": 16014462,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.27",
+      "version": "3.0.29",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.27.scs",
-      "sha256": "8a450165cf732936c1077be18af3d79d552af854b74fa9c2e0378d30597e6b42",
-      "sizeBytes": 10676223,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.29.scs",
+      "sha256": "4953eab297a07fe060716a23bbc691c66407554880ba9cfc345770a8b1f1fc75",
+      "sizeBytes": 10676212,
       "required": true,
       "loadOrder": 74
     },
@@ -744,5 +755,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261020233452
+  "serial": 20261021023619
 }
