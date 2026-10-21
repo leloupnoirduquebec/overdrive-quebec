@@ -1,0 +1,64 @@
+OVERDRIVE QUÉBEC 3.0.32 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Cette version regroupe tout ce qui a été fait depuis la 3.0.29. Les 8 modules changent (chacun reçoit le nouvel avis de droits) : le téléchargement est donc plus gros que d'habitude, environ 267 Mo, une seule fois. Tes sauvegardes se chargent comme avant.
+
+Ajustement :
+- Avis de droits et crédits mis à jour (Slav Jerry crédité).
+
+━━━━━━━━━━━━━━━━━━━━
+TRANSPORT EXCEPTIONNEL
+━━━━━━━━━━━━━━━━━━━━
+- Le transport hors du commun a encore changé de look… à toi de le découvrir. Il part et arrive aussi à plus d'endroits sur les cartes des DLC; sur la carte de base, pas besoin de DLC pour le faire.
+- Correctif : le poids du convoi porte maintenant sur le camion (environ 8,5 t sur la sellette au lieu d'environ 4,5 t). Les roues motrices ne « flottent » plus : pas besoin de monter la suspension au maximum.
+- Correctif : le convoi ne penche plus dans les virages (le centre de gravité de la tour était placé trop haut).
+- Ajustement : sur la carte de base, le convoi part maintenant du port d'Oakland, le plus grand port de la carte. Le port de Los Angeles est retiré : trop petit pour un convoi de 40 m.
+- Ajustement : de nouvelles arrivées. Du port d'Oakland, la tour va au dépôt ferroviaire de Bakersfield (environ 550 km), aux chantiers d'énergie de Mojave (environ 680 à 690 km) ou de San Diego (environ 1 150 km).
+- Ajustement : sa distance maximale passe de 850 à 1 300 km.
+- Ajustement : la paie de la tour devient réaliste. Elle est calculée comme celle des autres gros transports d'Overdrive (poids × distance × valeur) : environ 64 $ par km, soit environ 40 000 $ de base pour Oakland → Mojave, avant les bonis du jeu.
+- Ajustement : le train derrière le camion pèse exactement 220 000 lb au total (la tour : 116 600 lb).
+
+━━━━━━━━━━━━━━━━━━━━
+TRAINS DOUBLES
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : la sellette du milieu des doubles fourgon 53+53 (2+2 et 3+3) et 48+48 ne tremble plus dans les virages. La boîte de collision invisible de l'arrière de la remorque de tête touchait le timon du diabolo dès qu'il tournait d'environ 40° : elle laisse maintenant au moins 8 cm, même à 60° et en pente. Corrigé aussi sur le double à copeaux 48+48, les doubles fourgon du trafic et le 45+45 du jeu. Rien de visible ne bouge.
+- Correctif : la citerne à carburant Double 53+53 devient « Double 53+53 4+3 » : la remorque à 4 essieux (avec son essieu autovireur en avant) est maintenant en tête, juste derrière le camion, et la remorque à 3 essieux derrière, comme dans la vraie vie. La charge permise suit les vrais groupes d'essieux.
+- Tes remorques déjà achetées restent dans ton garage : rien n'est retiré.
+
+━━━━━━━━━━━━━━━━━━━━
+CONTRATS
+━━━━━━━━━━━━━━━━━━━━
+- De temps en temps, certaines entreprises te confient un plus gros ensemble… à toi de le découvrir.
+Ajustement :
+- Plus de contrats offerts. Le jeu laissait exprès une place d'offre sur dix vide dans chaque entreprise; il n'y en a plus. Ça donne environ 11 % de contrats de plus partout : marché du fret, contrats rapides et marché des cargaisons. La paie ne change pas.
+
+━━━━━━━━━━━━━━━━━━━━
+NÉON
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : sur 16 camions, le tube du néon passait à travers les réservoirs et les jupes. Comme sur l'International LT, il s'arrête maintenant avant eux et reprend après : Cascadia 2019 et 2024, International 9900i et LoneStar, Kenworth T680 2022, Mack Anthem et Pinnacle, Peterbilt 389 et 579, Volvo VNL, VNL 2018, VNL 2025 et VNR électrique, Western Star 49X, 5700XE et 57X. La lumière au sol ne change pas.
+- Sur les camions où les réservoirs et les jupes couvrent presque tout le longeron (surtout le Mack Pinnacle), il reste moins de tube visible de côté.
+
+━━━━━━━━━━━━━━━━━━━━
+PLUIE
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : sous la pluie, les pneus tiennent mieux la route : 0,9 de l'adhérence du jeu au lieu de 0,8, sur tous les pneus et toutes les roues (le convoi aussi). Au sec, rien ne change : c'est l'adhérence du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+POIDS PERMIS PAR ÉTAT
+━━━━━━━━━━━━━━━━━━━━
+Ajustement :
+- Le poids total permis par État (camion et remorques) passe de 306 442 lb à 247 799 lb partout : il suit le poids du transport exceptionnel.
+- Ça reste plus que le plus lourd des autres ensembles. Les autres contrats gardent la même charge et il n'y a toujours pas d'amendes.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les moteurs, les freins, les cheminées, les feux, la paie des autres contrats, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.29.
+
+Bonne route!
