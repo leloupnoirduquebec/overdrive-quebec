@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.7.3",
+  "version": "0.7.4",
   "mandatory": false,
-  "notes": "Correctif : affichage corrigé en 1280×720 (et sur un écran 1920×1080 à 150 %). Le titre et le bas de la fenêtre sont plus petits, et la page défile au lieu d'écraser les serveurs : le babillard et les créateurs ne disparaissent plus, et la carte du serveur n'est plus coupée.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.7.3.exe",
-  "sizeBytes": 66085705,
-  "sha256": "0914e829acdba8e59a126741872adf834e6b4357b6a1084f95261592e20df928",
-  "published": "2026-10-21"
+  "notes": "Ajustement : un excès de vitesse compte seulement quand le jeu te donne l'amende (patrouille « Excès de vitesse » ou radar photo) : 1 point, ou plus selon l'excès que le jeu a mesuré (+10 mph : 1 point, +20 mph : 2 points, +30 mph : 4 points). Le lanceur ne surveille plus ta vitesse lui-même.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.7.4.exe",
+  "sizeBytes": 66093860,
+  "sha256": "78832fd4d6c11d27a3b449d4d0a6d63933ed3f793667f23b8e42f3c221479255",
+  "published": "2026-10-24"
 }

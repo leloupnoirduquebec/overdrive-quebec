@@ -60,6 +60,12 @@
   },
   "news": [
     {
+      "date": "2026-10-24",
+      "title": "Lanceur 0.7.4 : corrections du Logbook, du permis et des récompenses",
+      "text": "Correctifs et ajustements : un excès de vitesse compte seulement quand le jeu te donne l'amende (patrouille ou radar photo), et le freinage brusque est retiré. Le Logbook passe à 4 h de conduite; chaque courte pause de 5 min moteur coupé te donne 15 min de plus (2 fois au plus : 4 h 30), et 15 min de repos remettent tout à zéro. Ton bonbon s'ouvre maintenant après 1 h 30 à rouler (au lieu de 2 h), une coupure de réseau ne te fait plus perdre une minute de plus, et le panneau montre la différence entre le jeu ouvert et le temps roulé. Le permis du serveur redonne aussi le point des 5 livraisons sans infraction, comme le lanceur, et une correction du staff redescend dans ton Logbook. Les chiffres de la page Compagnie ne restent plus « privé » toute la semaine. Mets ton lanceur à jour (0.7.4).",
+      "popup": false
+    },
+    {
       "date": "2026-10-21",
       "title": "Lanceur 0.7.3 : affichage corrigé en 1280×720",
       "text": "Correctif : le lanceur s'affiche maintenant comme il faut en 1280×720 (et sur un écran 1920×1080 à 150 %). La page défile au lieu d'écraser les serveurs : le babillard et les créateurs ne disparaissent plus, et la carte du serveur n'est plus coupée. Les boutons de « Paramètres » et d'« Expérience de conduite » restent toujours visibles en bas, une ligne coupée des paramètres est réparée, et le Logbook laisse plus de place à ses pages sur un petit écran. Mets ton lanceur à jour (0.7.3).",
@@ -772,5 +778,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261021222823
+  "serial": 20261024122548
 }

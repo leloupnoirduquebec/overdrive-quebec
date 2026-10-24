@@ -35,18 +35,24 @@
   <h1>Overdrive Qu&#233;bec</h1>
 
 
-  <a class="get" href="Overdrive-0.7.3.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.7.3 · 63,0 Mo · Windows 10 ou 11, 64 bits · 2026-10-21 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.7.4.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.7.4 · 63,0 Mo · Windows 10 ou 11, 64 bits · 2026-10-24 · gratuit, rien à installer : un seul fichier.</div>
 
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>Correctif : affichage corrig&#233; en 1280&#215;720 (et sur un &#233;cran 1920&#215;1080 &#224; 150 %). Le titre et le bas de la fen&#234;tre sont plus petits, et la page d&#233;file au lieu d&#39;&#233;craser les serveurs : le babillard et les cr&#233;ateurs ne disparaissent plus, et la carte du serveur n&#39;est plus coup&#233;e.</li>
-      <li>Correctif : dans &#171; Param&#232;tres &#187; et &#171; Exp&#233;rience de conduite &#187;, les boutons (Enregistrer, Appliquer, Fermer…) restent toujours visibles en bas, m&#234;me sur un petit &#233;cran.</li>
-      <li>Correctif : dans &#171; Param&#232;tres &#187;, la ligne &#171; Actualiser les serveurs automatiquement (toutes les 90 secondes) &#187; n&#39;est plus coup&#233;e.</li>
-      <li>Correctif : sur un &#233;cran bas, le Logbook laisse plus de place &#224; ses pages (titre plus petit, une seule ligne par onglet).</li>
-      <li>Staff seulement : les mod&#233;rateurs peuvent approuver, refuser ou retirer un streamer directement dans le lanceur (&#171; Staff : streamers &#187;), avec une raison et une confirmation.</li>
+      <li>Ajustement : un exc&#232;s de vitesse compte seulement quand le jeu te donne l&#39;amende (patrouille &#171; Exc&#232;s de vitesse &#187; ou radar photo) : 1 point, ou plus selon l&#39;exc&#232;s que le jeu a mesur&#233; (+10 mph : 1 point, +20 mph : 2 points, +30 mph : 4 points). Le lanceur ne surveille plus ta vitesse lui-m&#234;me.</li>
+      <li>Ajustement : le freinage brusque est retir&#233; du Logbook (il ne co&#251;tait d&#233;j&#224; aucun point).</li>
+      <li>Ajustement : le Logbook passe &#224; 4 h de conduite (au lieu de 3 h). Chaque courte pause de 5 min &#224; l&#39;arr&#234;t, moteur coup&#233; (ou le jeu ferm&#233;), te donne 15 min de plus, 2 fois au plus : 4 h 30. Un repos de 15 min moteur coup&#233; remet tout &#224; z&#233;ro. Au Canada, une pause ne donne pas d&#39;heures en plus : ici, c&#39;est une r&#232;gle de jeu.</li>
+      <li>Ajustement : le bonbon et l&#39;essai de caviar s&#39;ouvrent apr&#232;s 1 h 30 &#224; rouler sur le serveur Overdrive dans ta journ&#233;e (au lieu de 2 h).</li>
+      <li>Correctif : une coupure de r&#233;seau pendant que tu roules te fait encore perdre la minute dont l&#39;envoi a &#233;chou&#233;, mais plus la minute d&#39;apr&#232;s : elle continue ta s&#233;rie au lieu de repartir d&#39;une nouvelle session.</li>
+      <li>Correctif : le chargement d&#39;une partie n&#39;affiche plus &#171; le compteur a fait un saut &#187; au d&#233;but de chaque session.</li>
+      <li>Nouveau dans le panneau des r&#233;compenses : &#171; Aujourd&#39;hui sur ce PC : jeu ouvert X h, roul&#233; Y h &#187;. Calcul&#233; sur ton PC seulement, rien n&#39;est envoy&#233;. Le menu, la pause et le camion stationn&#233; ne comptent pas pour le bonbon.</li>
+      <li>Correctif : le permis vu par le serveur (classements, fiche) redonne aussi le point des 5 livraisons sans infraction, comme ton lanceur. Les deux disent maintenant la m&#234;me chose.</li>
+      <li>Correctif : une infraction annul&#233;e par le staff sur le serveur est aussi retir&#233;e de ton Logbook (marqu&#233;e &#171; Annul&#233;e par le staff &#187;), au plus tard 10 minutes apr&#232;s, si tu partages avec la communaut&#233;.</li>
+      <li>Correctif : sur la page Compagnie, un membre ne reste plus &#171; priv&#233; &#187; toute la semaine quand sa fiche n&#39;a pas r&#233;pondu une fois : le lanceur redemande plus tard, et ses chiffres se mettent &#224; jour pendant la semaine.</li>
+      <li>Correctif : le lanceur ne prend plus jamais un programme de test pour ton jeu. Une nouvelle version du plugin de t&#233;l&#233;m&#233;trie vient avec le lanceur (m&#234;me format) : le lanceur te propose de la mettre &#224; jour (&#171; Mettre &#224; jour &#187; dans les v&#233;rifications, jeu ferm&#233;). Son banc d&#39;essai &#233;crit maintenant &#224; part. Si une fausse lecture de ce banc d&#39;essai est rest&#233;e dans ton Logbook (un camion &#224; 120 600 km), elle est retir&#233;e.</li>
     </ul>
   </section>
 
@@ -61,7 +67,7 @@
 
 
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>0914e829acdba8e59a126741872adf834e6b4357b6a1084f95261592e20df928</code></p>
+    <p><code>78832fd4d6c11d27a3b449d4d0a6d63933ed3f793667f23b8e42f3c221479255</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
 
