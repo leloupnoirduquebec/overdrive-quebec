@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-24",
+      "title": "Lanceur 0.8.0 : le permis à la québécoise",
+      "text": "Ajustements : ton permis suit maintenant les vraies règles de la SAAQ. Tu pars à 0 point et les points s'additionnent; à 15 points, ton permis est suspendu (3, 6 ou 12 mois), et chaque point s'efface 2 ans après l'infraction. Seules les amendes données par le jeu comptent, avec les amendes activées dans tes options. Ton permis affiché est recompté une fois avec les nouvelles règles. La radio n'est plus dans le lanceur : elle reste dans le jeu (ligne « Radio Overdrive dans le jeu » dans la ronde de sécurité), et la musique de fond est retirée; de courts sons sont ajoutés, avec un interrupteur et un volume dans les paramètres. Certaines nouveautés ont aussi été ajoutées… à toi de les découvrir. Mets ton lanceur à jour (0.8.0).",
+      "popup": false
+    },
+    {
+      "date": "2026-10-24",
       "title": "Overdrive Québec 3.0.35 : la paie et les remorques ajustées",
       "text": "Ajustements de la paie : les longs voyages paient moins (environ 78 000 $ pour 4 000 km avec la remorque de la compagnie, au niveau 36, toutes les compétences au maximum, sans urgent, valeur ni fragile ; vers 500 km la paie reste proche ; plus le voyage est long, plus elle baisse) et chaque contrat a une partie fixe de 5 000 $ ; avec ta remorque (marché des chargements), un contrat paie 25 % de plus, les offres rapides 25 % de moins, et les convois lourds 25 % de plus (la tour d'éolienne : environ 47 $ par km au lieu de 66 $). Ajustements des remorques : les petits formats ne sont plus vendus chez le concessionnaire (on garde surtout les 53 pi, les 48 pi et plus longs) ; si tu en as déjà une, tu la gardes, elle roule comme avant et trouve encore des contrats au marché des chargements. Les contrats des compagnies se font surtout en 53 pi et en 48 pi, et il y a environ deux fois moins de convois lourds dans les offres. Les compagnies ont aussi quelques nouvelles remorques… à toi de les découvrir. Tes sauvegardes se chargent comme avant. Quatre modules changent : Remorques, Remorques (modèles 3D), Économie et Base (environ 119 Mo, une seule fois). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
       "popup": false,
@@ -800,5 +806,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261024192012
+  "serial": 20261024231023
 }

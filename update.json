@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.7.4",
+  "version": "0.8.0",
   "mandatory": false,
-  "notes": "Ajustement : un excès de vitesse compte seulement quand le jeu te donne l'amende (patrouille « Excès de vitesse » ou radar photo) : 1 point, ou plus selon l'excès que le jeu a mesuré (+10 mph : 1 point, +20 mph : 2 points, +30 mph : 4 points). Le lanceur ne surveille plus ta vitesse lui-même.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.7.4.exe",
-  "sizeBytes": 66093860,
-  "sha256": "78832fd4d6c11d27a3b449d4d0a6d63933ed3f793667f23b8e42f3c221479255",
+  "notes": "Nouveau : le plugin de télémétrie passe à la version 4 (le lanceur te propose de le mettre à jour dans les vérifications, jeu fermé). Il voit maintenant ton type de boîte (automatique, manuelle, H-shifter), l'embrayage, les clignotants, les quatre clignotants, le feu de frein, la pression d'air, le code de la cargaison et la paie offerte au contrat. Un vieux plugin marche encore : ces infos sont juste absentes.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.8.0.exe",
+  "sizeBytes": 66444338,
+  "sha256": "eb7c26bf3642db8c7e8a165a8b1ab1babc82ad0ffb42935d2e26ef6b33918acf",
   "published": "2026-10-24"
 }
