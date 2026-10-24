@@ -61,6 +61,28 @@
   "news": [
     {
       "date": "2026-10-24",
+      "title": "Overdrive Québec 3.0.35 : la paie et les remorques ajustées",
+      "text": "Ajustements de la paie : les longs voyages paient moins (environ 78 000 $ pour 4 000 km avec la remorque de la compagnie, au niveau 36, toutes les compétences au maximum, sans urgent, valeur ni fragile ; vers 500 km la paie reste proche ; plus le voyage est long, plus elle baisse) et chaque contrat a une partie fixe de 5 000 $ ; avec ta remorque (marché des chargements), un contrat paie 25 % de plus, les offres rapides 25 % de moins, et les convois lourds 25 % de plus (la tour d'éolienne : environ 47 $ par km au lieu de 66 $). Ajustements des remorques : les petits formats ne sont plus vendus chez le concessionnaire (on garde surtout les 53 pi, les 48 pi et plus longs) ; si tu en as déjà une, tu la gardes, elle roule comme avant et trouve encore des contrats au marché des chargements. Les contrats des compagnies se font surtout en 53 pi et en 48 pi, et il y a environ deux fois moins de convois lourds dans les offres. Les compagnies ont aussi quelques nouvelles remorques… à toi de les découvrir. Tes sauvegardes se chargent comme avant. Quatre modules changent : Remorques, Remorques (modèles 3D), Économie et Base (environ 119 Mo, une seule fois). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.35.txt",
+        "sha256": "3bc678fccdc9eaf8d1f7b55d34380daf6994d15e805e8c4697c596c89665fcdc",
+        "sizeBytes": 5121
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Overdrive Québec 3.0.34 : la tour éolienne refaite",
+      "text": "Correctif : tour éolienne refaite : col-de-cygne directement sur la sellette, pivots qui suivent la tour en virage, arrière en un seul train de 6 essieux qui porte sa vraie part de la tour, roues doubles directrices, béquilles à l'avant, l'avant ne glisse plus de côté, plus de roues dans le sol. Ajustement : la paie de la tour suit son nouveau poids (environ 66 $ par km au lieu de 64 $, avant les bonis). Tes sauvegardes se chargent comme avant. Deux modules changent : Remorques et Base (environ 29 Mo). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.34.txt",
+        "sha256": "acd8a52731c037bcb388fbf1bd2cd7258d8313fe63309206faa39703ead1871d",
+        "sizeBytes": 2105
+      }
+    },
+    {
+      "date": "2026-10-24",
       "title": "Lanceur 0.7.4 : corrections du Logbook, du permis et des récompenses",
       "text": "Correctifs et ajustements : un excès de vitesse compte seulement quand le jeu te donne l'amende (patrouille ou radar photo), et le freinage brusque est retiré. Le Logbook passe à 4 h de conduite; chaque courte pause de 5 min moteur coupé te donne 15 min de plus (2 fois au plus : 4 h 30), et 15 min de repos remettent tout à zéro. Ton bonbon s'ouvre maintenant après 1 h 30 à rouler (au lieu de 2 h), une coupure de réseau ne te fait plus perdre une minute de plus, et le panneau montre la différence entre le jeu ouvert et le temps roulé. Le permis du serveur redonne aussi le point des 5 livraisons sans infraction, comme le lanceur, et une correction du staff redescend dans ton Logbook. Les chiffres de la page Compagnie ne restent plus « privé » toute la semaine. Mets ton lanceur à jour (0.7.4).",
       "popup": false
@@ -600,45 +622,45 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.32",
+      "version": "3.0.35",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.32.scs",
-      "sha256": "5a6c13c05efb569018b6d5e8a7867c3f88c95cf67abecd80366d5ac91466d70f",
-      "sizeBytes": 4054245,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.35.scs",
+      "sha256": "0960edd169f040871df74e91aeb4d5de27147cd4a249e751226a79f79fb0f5e7",
+      "sizeBytes": 4054246,
       "required": true,
       "loadOrder": 71
     },
     {
       "name": "Overdrive Québec — Remorques (modèles 3D)",
-      "version": "3.0.32",
+      "version": "3.0.35",
       "source": "direct",
       "fileName": "overdrive-remorques-modeles.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.32.scs",
-      "sha256": "57f657ccc1e092010182f0f35f22d56e38ce737a3cb6e05c5b3696db624a8213",
-      "sizeBytes": 79950560,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.35.scs",
+      "sha256": "f286ccc898030bde751a3a3d08b9bd650fb8a845a1b179617175484928e84722",
+      "sizeBytes": 99138932,
       "required": true,
       "loadOrder": 72
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.32",
+      "version": "3.0.35",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.32.scs",
-      "sha256": "2351a55fc71a0676b766f885d4a2cf78dc121d3655b785f3a58e7f153bbc38a8",
-      "sizeBytes": 16009595,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.35.scs",
+      "sha256": "cf58fb64adcc2e60665b2ac115a58a9da39b82b2600ec18b8d9fdb6ff3cf1f54",
+      "sizeBytes": 5253067,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.32",
+      "version": "3.0.35",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.32.scs",
-      "sha256": "ed02a39d5571b7d2c041ef36ff60c6281007f5acabc5ebcd545954aec875eb01",
-      "sizeBytes": 10680016,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.35.scs",
+      "sha256": "c1bade7c0f74e4eb081b1208844b02c54e3d3957687b9e32dafbe7bada9876fa",
+      "sizeBytes": 10687658,
       "required": true,
       "loadOrder": 74
     },
@@ -778,5 +800,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261024122548
+  "serial": 20261024192012
 }

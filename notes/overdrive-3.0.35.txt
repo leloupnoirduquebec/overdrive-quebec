@@ -1,0 +1,50 @@
+OVERDRIVE QUÉBEC 3.0.35 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : Remorques, Remorques (modèles 3D), Économie et Base (environ 119 Mo, une seule fois : le module des modèles 3D se télécharge au complet). Tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+LA PAIE
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : la paie des longs voyages baisse. Un voyage de 4 000 km avec la remorque de la compagnie rapporte maintenant environ 78 000 $ (avant : environ 128 000 $), au niveau 36, toutes les compétences au maximum, sans urgent, valeur ni fragile. Sans niveau ni compétences : environ 49 000 $ (avant : environ 77 000 $).
+- Ajustement : chaque contrat a une partie fixe de 5 000 $ (avant : 600 $), payée même sur un petit voyage. Vers 500 km, la paie reste proche d'avant (environ 11 % de moins, compétences au maximum) ; plus le voyage est long, plus elle baisse (environ 27 % de moins à 1 000 km, 39 % de moins à 4 000 km).
+- Ajustement : avec TA remorque (marché des chargements), un contrat paie 25 % de plus qu'avec la remorque de la compagnie.
+- Ajustement : les offres rapides (tout fourni) paient 25 % de moins que la remorque de la compagnie (partie fixe 3 750 $).
+- Ajustement : les convois lourds et hors normes paient 25 % de plus que le même poids en fret ordinaire (environ 105 000 $ pour 2 000 km avec un fardier de la compagnie).
+- Ajustement : la tour d'éolienne suit la même règle : environ 47 $ par km au lieu de 66 $, avant les bonis du jeu.
+- Exemples, compétences au maximum, contrat ordinaire de 4 000 km : offre rapide environ 58 000 $ (avant : 95 000 $), ta remorque 53 pi fourgon environ 95 000 $ (avant : 141 000 $), ton double 53+53 fourgon environ 189 000 $ (avant : 285 000 $).
+- Les bonis du jeu (urgent, valeur, fragile, longue distance, niveau) ne changent pas. Les matières dangereuses (ADR) ne paient toujours pas plus : c'est le jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+LES REMORQUES
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les petits formats ne sont plus vendus chez le concessionnaire. On garde surtout les 53 pi, les 48 pi et plus longs :
+  - fourgon, isotherme et réfrigéré : les simples de moins de 53 pi ; les trains B 28+28 (2+1 et 2+2) et le grand train routier 48+48 ;
+  - porte-conteneurs : les simples de moins de 53 pi ;
+  - benne à déchargement central : les simples de moins de 45 pi, ses trains routiers et son triple 28 pi ;
+  - citerne alimentaire : les simples de moins de 53 pi, ses trains routiers et son triple ;
+  - benne basculante arrière : la simple de 30 pi et le train B 36+30 (le train B 30+30 reste en vente) ;
+  - trémie à grain : les simples de moins de 50 pi, son train B et le grand train routier à 5 essieux (celui à 6 essieux, 40+40, reste en vente) ;
+  - citerne en D : les simples de moins de 53 pi et les grands trains routiers 43+43 et 48+48 ;
+  - vrac sec : les simples de moins de 48 pi et ses trains routiers, dont celui des Rocheuses ;
+  - citerne à carburant : les simples de moins de 53 pi, ses trains routiers et son triple ;
+  - citerne à gaz : les simples de moins de 53 pi.
+- Rien n'est effacé : si tu as déjà une de ces remorques, tu la gardes, elle roule comme avant et elle trouve encore des contrats au marché des chargements.
+- Ajustement : les contrats des compagnies (avec leur remorque et les offres rapides) se font maintenant surtout en 53 pi et en 48 pi. Chaque marchandise garde au moins une remorque de compagnie. Un contrat déjà pris se charge encore.
+- Les compagnies ont aussi quelques nouvelles remorques… à toi de les découvrir.
+- Ajustement : environ deux fois moins de convois lourds dans les offres (à peu près 13 % des offres au lieu de 23 % avec les DLC de cargaison, 6 % au lieu de 11 % avec le jeu de base). Le +11 % d'offres de la 3.0.32 reste.
+- Le dépôt du garage des travaux publics d'Indio et de San Diego n'offre plus les génératrices en conteneur (son quai est trop court pour un 53 pi). Partout ailleurs, oui.
+- Les modèles 3D de la tour d'éolienne passent dans le module Remorques (modèles 3D), avec nos autres modèles. Rien ne change à l'écran.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions, les moteurs, les freins, la physique, la charge des remorques, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.34.
+
+Bonne route!

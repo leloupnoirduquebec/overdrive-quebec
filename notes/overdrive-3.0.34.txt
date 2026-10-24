@@ -1,0 +1,28 @@
+OVERDRIVE QUÉBEC 3.0.34 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : Remorques et Base (environ 29 Mo). Tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+TRANSPORT EXCEPTIONNEL
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : tour éolienne refaite : col-de-cygne directement sur la sellette, pivots qui suivent la tour en virage, arrière en un seul train de 6 essieux, roues doubles directrices, béquilles à l'avant, l'avant ne glisse plus de côté, plus de roues dans le sol en pente.
+- Correctif : le train arrière porte sa vraie part de la tour : ses roues restent sur la route une fois attelé.
+- Correctif : le col de cygne laisse au moins 10 cm avec tous les camions du jeu, leurs cabines et leurs accessoires, en tournant jusqu'à 90°.
+- Ajustement : la tour pèse 119 700 lb (avant : 116 600 lb). Le train derrière le camion pèse toujours 220 000 lb au total.
+- Ajustement : la paie suit ce poids : environ 66 $ par km au lieu de 64 $, avant les bonis du jeu.
+- Les départs (port d'Oakland et port de La Nouvelle-Orléans) et les arrivées ne changent pas.
+- Un contrat de tour pris avant la mise à jour se charge encore.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions, les moteurs, les freins, la physique, les autres remorques, la paie des autres contrats, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.32.
+
+Bonne route!
