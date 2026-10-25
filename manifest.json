@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Lanceur 0.9.0 : un nouveau Logbook",
+      "text": "Nouveautés : un nouveau Logbook à découvrir, et des classements par catégorie (bientôt ouverts). Tu peux aussi choisir ton profil principal dans le Logbook. Si tu partages ta conduite (texte 4), le lanceur envoie maintenant aussi le résumé de tes journées du Logbook, comme le texte 4 l'annonçait. Il te demande aussi une fois d'accepter le nouveau texte d'accord (texte 5) : il ajoute le code de ton profil principal, le moment où l'horloge du jeu recule et une pastille Logbook que les autres verront dans les classements. Si tu dis non au texte 5, tu continues de partager exactement ce que le texte 4 couvre. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-25",
       "title": "Lanceur 0.8.4 : la pause de 15 min remet bien le Logbook à zéro",
       "text": "Correctif : une pause de 15 min stationné moteur coupé ne remettait pas toujours ta conduite à zéro. Le temps passé dans le menu du jeu ou le jeu réduit ne comptait pas : il compte maintenant dans ta pause, tant que le camion est stationné moteur coupé. Sous le cadran, tu vois ta pause avancer (« Pause : 7 min sur 15 »), et un avertissement si le moteur tourne encore (au ralenti, ça compte comme de la conduite). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -863,5 +869,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261025181842
+  "serial": 20261025210152
 }

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.8.4",
+  "version": "0.9.0",
   "mandatory": false,
-  "notes": "Correctif : une pause de 15 min stationné moteur coupé ne remettait pas toujours ta conduite à zéro dans le Logbook. Le temps passé dans le menu du jeu (Échap), ou avec le jeu réduit dans la barre des tâches, ne comptait pas du tout : si tu prenais ta pause dans le menu, elle n'arrivait jamais à 15 min. Maintenant, tant que le camion reste stationné moteur coupé, ce temps-là compte dans ta pause (la courte pause de 5 min aussi). Le menu ne compte toujours jamais comme de la conduite.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.8.4.exe",
-  "sizeBytes": 66459862,
-  "sha256": "f96fbbd54eb4f163a30528768c68c65d3fbe1352e8cfeb2c63ae87ae546c1986",
+  "notes": "Nouveauté : un nouveau Logbook. Ouvre-le et découvre ce qui a changé.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.0.exe",
+  "sizeBytes": 66568093,
+  "sha256": "4dbda2d13c96acb927809b1f6703ef9f92ec1f5efe303a34dae86af5c597bbe3",
   "published": "2026-10-25"
 }
