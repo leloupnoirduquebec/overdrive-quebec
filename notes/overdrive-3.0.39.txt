@@ -1,0 +1,36 @@
+OVERDRIVE QUÉBEC 3.0.39 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : depuis la 3.0.38, quatre modules, Remorques, Remorques (modèles 3D), Économie et Base (environ 120 Mo). Tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+LES REMORQUES EN VENTE
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : de retour en vente chez le concessionnaire et au marché des chargements (avec ta propre remorque) : la citerne alimentaire en grand train 43+43 (diabolo 2 essieux, 6 essieux), la citerne alimentaire Rocky Mountain 43+28, et le vrac sec en grand train 42+42 (diabolo 2 essieux). Chaque famille a encore sa remorque simple, et maintenant aussi un double ou un grand train.
+- Ajustement : nouveau en vente chez le concessionnaire et au marché des chargements (avec ta propre remorque) : la benne à déchargement central Rocky Mountain 45+28 sur le diabolo 2 essieux (6 essieux). La même sur le petit diabolo 1 essieu reste hors vente : avec le poids réel, le milieu du train risquait de sauter. Le diabolo 2 essieux de ce train a sa sellette montée 7 cm plus haut, pour que la remorque de 28 pi s'appuie dessus au lieu de flotter.
+- Ces trains ne sont pas dans les offres des compagnies : là, c'est seulement des remorques simples de 53 pi au maximum (comme en 3.0.38).
+- Ajustement : retirées de la vente : les plateformes (plateforme, plateforme alu et toile rétractable) simples de 28 pi, de 32 pi (1 et 2 essieux) et de 45 pi, parce que la famille a des 53 pi. Les plateformes de 48 pi et de 53 pi restent, et les trains de plateformes ne changent pas.
+- Ajustement : retiré de la vente : le vrac sec 48 pi 4 essieux (son essieu avant levait sans tourner, trop proche des trois autres). Les vracs secs 48 pi 2 et 3 essieux restent.
+- Si tu as déjà une de ces remorques, tu la gardes : elle roule encore et garde ses contrats du marché des chargements.
+- Les offres des compagnies qui prenaient une plateforme de 28 ou 45 pi prennent maintenant une plateforme de 53 pi : les mêmes marchandises, les mêmes départs.
+- Les trains de l'IA sur la route ne changent pas. L'IA ne roule plus avec les plateformes de 28 et 45 pi.
+
+━━━━━━━━━━━━━━━━━━━━
+TRANSPORT EXCEPTIONNEL
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : la paie de la tour éolienne passe à 86 $ du km avant les primes (avant : 59,03 $). Le poids, la longueur, les départs et les arrivées de la tour ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions, les moteurs, les freins, la physique, les amendes, la paie des autres cargaisons, les autres modèles 3D des remorques, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.38.
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+
+Bonne route!

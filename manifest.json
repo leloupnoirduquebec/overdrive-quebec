@@ -61,6 +61,17 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Overdrive Québec 3.0.39 : des remorques en vente ajustées et la paie de la tour",
+      "text": "Ajustement : de retour en vente et au marché des chargements (avec ta propre remorque) : la citerne alimentaire en grand train 43+43 et en Rocky Mountain 43+28, et le vrac sec en grand train 42+42. Ces trains ne sont pas dans les offres des compagnies (là, seulement des remorques simples de 53 pi au maximum). Ajustement : retirées de la vente : les plateformes simples de 28, 32 et 45 pi (la famille a des 53 pi ; les 48 et 53 pi restent) et le vrac sec 48 pi 4 essieux. Si tu en as déjà une, tu la gardes et elle garde ses contrats du marché des chargements. Ajustement : la tour éolienne paie 86 $ du km avant les primes (avant : 59 $). Tes sauvegardes se chargent comme avant. Et une nouveauté pour le transport, à découvrir. Depuis la 3.0.38, quatre modules changent : Remorques, Remorques (modèles 3D), Économie et Base (environ 120 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.39.txt",
+        "sha256": "e5512c05b0327c0ed20d346aa8655fd4cca966b9650428415177a10c9c8f20d3",
+        "sizeBytes": 3606
+      }
+    },
+    {
+      "date": "2026-10-25",
       "title": "Lanceur 0.9.0 : un nouveau Logbook",
       "text": "Nouveautés : un nouveau Logbook à découvrir, et des classements par catégorie (bientôt ouverts). Tu peux aussi choisir ton profil principal dans le Logbook. Si tu partages ta conduite (texte 4), le lanceur envoie maintenant aussi le résumé de tes journées du Logbook, comme le texte 4 l'annonçait. Il te demande aussi une fois d'accepter le nouveau texte d'accord (texte 5) : il ajoute le code de ton profil principal, le moment où l'horloge du jeu recule et une pastille Logbook que les autres verront dans les classements. Si tu dis non au texte 5, tu continues de partager exactement ce que le texte 4 couvre. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -691,45 +702,45 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.38",
+      "version": "3.0.39",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.38.scs",
-      "sha256": "6d844ae759db5e86d02b3420181d457cdc761909c333b549fa6b61a92d8c396e",
-      "sizeBytes": 4054246,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.39.scs",
+      "sha256": "3160af9ed2f478064e581dc240637c73e9754654a7469f5c9e658662299d8148",
+      "sizeBytes": 4054245,
       "required": true,
       "loadOrder": 71
     },
     {
       "name": "Overdrive Québec — Remorques (modèles 3D)",
-      "version": "3.0.38",
+      "version": "3.0.39",
       "source": "direct",
       "fileName": "overdrive-remorques-modeles.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.38.scs",
-      "sha256": "5ed5c65202c6e863d559385e5e6e3a1af35c1d59dccc1d279b2af8fec5882756",
-      "sizeBytes": 99141082,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.39.scs",
+      "sha256": "debbbd047d24cedbea97b6f7d5fbc101bcc4dbe3bc828d98d40d0f11dc63264d",
+      "sizeBytes": 99438069,
       "required": true,
       "loadOrder": 72
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.38",
+      "version": "3.0.39",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.38.scs",
-      "sha256": "627e875e06e6d740966df59a4a8e20f22b079cfb6d54d5fcd80fd39a81c94b81",
-      "sizeBytes": 5257998,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.39.scs",
+      "sha256": "7d109cea0d98c6216cec7391438ba5170580d278f64d4c9079c17f99705b6283",
+      "sizeBytes": 5338715,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.38",
+      "version": "3.0.39",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.38.scs",
-      "sha256": "fc1253b4d6de6ce77a2dcc4c45e400f5d63eff5f6d4a1b944e2abf3312f2d151",
-      "sizeBytes": 10693064,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.39.scs",
+      "sha256": "ac2af91641b40e2a2b82f23e6c22920bde2998a151c7e8ab695a033d0526d25b",
+      "sizeBytes": 10690887,
       "required": true,
       "loadOrder": 74
     },
@@ -869,5 +880,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261025210152
+  "serial": 20261025211029
 }
