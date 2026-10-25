@@ -35,16 +35,19 @@
   <h1>Overdrive Qu&#233;bec</h1>
 
 
-  <a class="get" href="Overdrive-0.8.1.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.8.1 · 63,4 Mo · Windows 10 ou 11, 64 bits · 2026-10-25 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.8.2.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.8.2 · 63,4 Mo · Windows 10 ou 11, 64 bits · 2026-10-25 · gratuit, rien à installer : un seul fichier.</div>
 
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>Ajustement : ton permis passe &#224; l&#39;&#233;chelle du jeu. Les points ne s&#39;effacent plus avec le temps : chaque lundi &#224; minuit, heure normale de l&#39;Est (1 h du matin l&#39;&#233;t&#233;), 6 points reviennent. Et toutes les 4 livraisons parfaites de plus de 1 000 km (livr&#233;es avec les amendes activ&#233;es, sans aucune infraction, m&#234;me &#224; 0 point), pas besoin de suite, 2 points de plus reviennent ; le compte part de ta premi&#232;re infraction qui co&#251;te des points et recommence quand ton dossier revient &#224; 0. &#192; 15 points, la suspension dure 3, 6 ou 12 jours (au lieu de mois). Ton Logbook montre le prochain lundi et tes livraisons parfaites ; ta fiche et le classement suivent les m&#234;mes r&#232;gles.</li>
-      <li>Mise &#224; jour obligatoire : cette version va avec le serveur de la communaut&#233; ; une version plus vieille du lanceur afficherait encore l&#39;ancien permis (2 ans, mois).</li>
-      <li>Ajustement : les r&#232;gles des r&#233;compenses sont demand&#233;es au serveur une fois par session (au lieu de chaque rafra&#238;chissement) : moins d&#39;attente quand le serveur ne r&#233;pond pas.</li>
+      <li>Correctif : ton permis ne descend plus jamais sous 0. Il montre maintenant les points qu&#39;il te reste, &#171; X / 15 &#187; : tu pars &#224; 15 / 15 et chaque infraction en retire, sans jamais passer sous 0. Avant, le total pouvait grimper bien au-del&#224; de 15 et afficher des chiffres qui n&#39;avaient pas de sens.</li>
+      <li>Correctif : la suspension dure 3 jours, puis 6, puis 12 selon ta derni&#232;re suspension des 24 jours d&#39;avant.</li>
+      <li>Correctif : pendant une suspension, tes infractions vont quand m&#234;me &#224; ton dossier, mais elles n&#39;enl&#232;vent rien de plus, et rien ne revient : les lundis et les livraisons parfaites ne donnent rien. &#192; la fin de la suspension, tu retrouves 15 / 15.</li>
+      <li>Correctif : les &#171; points perdus &#187; des classements comptent ce que le permis a vraiment perdu (une suspension ne peut plus en afficher plus de 15). Les permis sont recalcul&#233;s sur le serveur.</li>
+      <li>Ajustement : le texte des r&#232;gles du permis, dans le Logbook, parle seulement en points qu&#39;il te reste, et la ligne des livraisons parfaites se cache pendant une suspension.</li>
+      <li>Mise &#224; jour obligatoire : cette version va avec le serveur de la communaut&#233; ; une version plus vieille du lanceur afficherait encore l&#39;ancien total.</li>
     </ul>
   </section>
 
@@ -59,7 +62,7 @@
 
 
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>56e8a428f7a569d9d7af6acb189eaee63b5d5da4d15271985213b2bbc2886236</code></p>
+    <p><code>06360afc2261f83654a3b8bd3a342d4a77761b720089b165f19ed21bafae0635</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
 

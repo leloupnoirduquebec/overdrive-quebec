@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Lanceur 0.8.2 : le permis ne descend plus sous 0",
+      "text": "Correctif : ton permis ne descend plus jamais sous 0. Il montre les points qu'il te reste, « X / 15 » : tu pars à 15 / 15 et chaque infraction en retire. Correctif : la suspension dure 3 jours, puis 6, puis 12. Pendant une suspension, tes infractions vont à ton dossier mais n'enlèvent rien de plus, et les lundis et les livraisons parfaites ne donnent rien ; à la fin, tu retrouves 15 / 15. Correctif : les « points perdus » des classements comptent ce que le permis a vraiment perdu. Mise à jour obligatoire : mets ton lanceur à jour (0.8.2). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-25",
       "title": "Overdrive Québec 3.0.38 : la tour en convoi, les offres des compagnies et les diabolos ajustés",
       "text": "Correctif : en convoi, la tour éolienne ne paraît plus enfoncée chez les autres joueurs ; elle a ses propres roues invisibles au niveau de la route sous le pivot arrière. Ajustement : la tour pèse 25 % de plus (67 866 kg au lieu de 54 293) et sa paie suit son poids (environ 59 $ par km au lieu de 47 $, avant les primes). Ajustement : le poids total permis par État passe de 247 799 lb à 277 782 lb partout, pour la tour plus lourde. Ajustement : les contrats avec la remorque de la compagnie se font seulement en remorque simple de 53 pi au maximum ; tous les trains (doubles, triples, trains B, trains routiers, 53+53) restent seulement dans le marché des chargements, avec ta propre remorque. Les fardiers et la tour restent dans les offres des compagnies. Ajustement : encore 25 % moins d'offres de transports exceptionnels qu'en 3.0.35. Correctifs : le milieu des trains doubles et triples ne saute plus (le diabolo porte 10 % du poids, 5 % dans un triple, comme les trains du jeu), la double bétaillère et les doubles plateforme de 28 pi ne frottent plus sur le diabolo. Tes sauvegardes se chargent comme avant. Depuis la 3.0.35, cinq modules changent : Camions, Remorques, Remorques (modèles 3D), Économie et Base (environ 203 Mo). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
       "popup": false,
@@ -845,5 +851,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261025125215
+  "serial": 20261025141909
 }
