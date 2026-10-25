@@ -35,14 +35,15 @@
   <h1>Overdrive Qu&#233;bec</h1>
 
 
-  <a class="get" href="Overdrive-0.8.3.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.8.3 · 63,4 Mo · Windows 10 ou 11, 64 bits · 2026-10-25 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.8.4.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.8.4 · 63,4 Mo · Windows 10 ou 11, 64 bits · 2026-10-25 · gratuit, rien à installer : un seul fichier.</div>
 
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>Correctif : dans la liste des infractions du Logbook (et dans l&#39;affichage en jeu), les points d&#39;une infraction s&#39;affichaient &#171; +3 &#187; alors que ton permis compte les points qu&#39;il te reste. Ils s&#39;affichent maintenant &#171; −3 &#187; : l&#39;infraction t&#39;enl&#232;ve 3 points. Une infraction sans point reste &#171; 0 &#187;.</li>
+      <li>Correctif : une pause de 15 min stationn&#233; moteur coup&#233; ne remettait pas toujours ta conduite &#224; z&#233;ro dans le Logbook. Le temps pass&#233; dans le menu du jeu (&#201;chap), ou avec le jeu r&#233;duit dans la barre des t&#226;ches, ne comptait pas du tout : si tu prenais ta pause dans le menu, elle n&#39;arrivait jamais &#224; 15 min. Maintenant, tant que le camion reste stationn&#233; moteur coup&#233;, ce temps-l&#224; compte dans ta pause (la courte pause de 5 min aussi). Le menu ne compte toujours jamais comme de la conduite.</li>
+      <li>Ajustement : sous le cadran du Logbook (et dans l&#39;affichage en jeu), tu vois ta pause avancer : &#171; Pause : 7 min sur 15, moteur coup&#233; &#187;. Si tu es arr&#234;t&#233; avec le moteur qui tourne, un avertissement te le dit : au ralenti, &#231;a compte comme de la conduite, coupe le moteur pour que ta pause compte.</li>
     </ul>
   </section>
 
@@ -57,7 +58,7 @@
 
 
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>c2e3f3c44b920fed6ca4387e67622933e8f814c2cadf3c2f09153811d0644881</code></p>
+    <p><code>f96fbbd54eb4f163a30528768c68c65d3fbe1352e8cfeb2c63ae87ae546c1986</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
 

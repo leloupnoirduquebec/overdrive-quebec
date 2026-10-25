@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Lanceur 0.8.4 : la pause de 15 min remet bien le Logbook à zéro",
+      "text": "Correctif : une pause de 15 min stationné moteur coupé ne remettait pas toujours ta conduite à zéro. Le temps passé dans le menu du jeu ou le jeu réduit ne comptait pas : il compte maintenant dans ta pause, tant que le camion est stationné moteur coupé. Sous le cadran, tu vois ta pause avancer (« Pause : 7 min sur 15 »), et un avertissement si le moteur tourne encore (au ralenti, ça compte comme de la conduite). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-25",
       "title": "Lanceur 0.8.3 : les points d'une infraction en moins",
       "text": "Correctif : dans la liste des infractions du Logbook, les points d'une infraction s'affichaient « +3 » alors que ton permis compte les points qu'il te reste. Ils s'affichent maintenant « −3 ». Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -857,5 +863,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261025151827
+  "serial": 20261025181842
 }
