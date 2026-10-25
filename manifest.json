@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Lanceur 0.8.3 : les points d'une infraction en moins",
+      "text": "Correctif : dans la liste des infractions du Logbook, les points d'une infraction s'affichaient « +3 » alors que ton permis compte les points qu'il te reste. Ils s'affichent maintenant « −3 ». Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-25",
       "title": "Lanceur 0.8.2 : le permis ne descend plus sous 0",
       "text": "Correctif : ton permis ne descend plus jamais sous 0. Il montre les points qu'il te reste, « X / 15 » : tu pars à 15 / 15 et chaque infraction en retire. Correctif : la suspension dure 3 jours, puis 6, puis 12. Pendant une suspension, tes infractions vont à ton dossier mais n'enlèvent rien de plus, et les lundis et les livraisons parfaites ne donnent rien ; à la fin, tu retrouves 15 / 15. Correctif : les « points perdus » des classements comptent ce que le permis a vraiment perdu. Mise à jour obligatoire : mets ton lanceur à jour (0.8.2). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -851,5 +857,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261025141909
+  "serial": 20261025151827
 }
