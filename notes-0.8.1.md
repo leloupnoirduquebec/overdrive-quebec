@@ -1,0 +1,5 @@
+# Overdrive Québec 0.8.1
+
+- Ajustement : ton permis passe à l'échelle du jeu. Les points ne s'effacent plus avec le temps : chaque lundi à minuit, heure normale de l'Est (1 h du matin l'été), 6 points reviennent. Et toutes les 4 livraisons parfaites de plus de 1 000 km (livrées avec les amendes activées, sans aucune infraction, même à 0 point), pas besoin de suite, 2 points de plus reviennent ; le compte part de ta première infraction qui coûte des points et recommence quand ton dossier revient à 0. À 15 points, la suspension dure 3, 6 ou 12 jours (au lieu de mois). Ton Logbook montre le prochain lundi et tes livraisons parfaites ; ta fiche et le classement suivent les mêmes règles.
+- Mise à jour obligatoire : cette version va avec le serveur de la communauté ; une version plus vieille du lanceur afficherait encore l'ancien permis (2 ans, mois).
+- Ajustement : les règles des récompenses sont demandées au serveur une fois par session (au lieu de chaque rafraîchissement) : moins d'attente quand le serveur ne répond pas.

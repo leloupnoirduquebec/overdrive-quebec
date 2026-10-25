@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.8.0",
+  "version": "0.8.1",
   "mandatory": false,
-  "notes": "Nouveau : le plugin de télémétrie passe à la version 4 (le lanceur te propose de le mettre à jour dans les vérifications, jeu fermé). Il voit maintenant ton type de boîte (automatique, manuelle, H-shifter), l'embrayage, les clignotants, les quatre clignotants, le feu de frein, la pression d'air, le code de la cargaison et la paie offerte au contrat. Un vieux plugin marche encore : ces infos sont juste absentes.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.8.0.exe",
-  "sizeBytes": 66444338,
-  "sha256": "eb7c26bf3642db8c7e8a165a8b1ab1babc82ad0ffb42935d2e26ef6b33918acf",
-  "published": "2026-10-24"
+  "notes": "Ajustement : ton permis passe à l'échelle du jeu. Les points ne s'effacent plus avec le temps : chaque lundi à minuit, heure normale de l'Est (1 h du matin l'été), 6 points reviennent. Et toutes les 4 livraisons parfaites de plus de 1 000 km (livrées avec les amendes activées, sans aucune infraction, même à 0 point), pas besoin de suite, 2 points de plus reviennent ; le compte part de ta première infraction qui coûte des points et recommence quand ton dossier revient à 0. À 15 points, la suspension dure 3, 6 ou 12 jours (au lieu de mois). Ton Logbook montre le prochain lundi et tes livraisons parfaites ; ta fiche et le classement suivent les mêmes règles.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.8.1.exe",
+  "sizeBytes": 66456275,
+  "sha256": "56e8a428f7a569d9d7af6acb189eaee63b5d5da4d15271985213b2bbc2886236",
+  "published": "2026-10-25"
 }
