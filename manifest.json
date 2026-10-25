@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Lanceur 0.9.1 : correctifs du nouveau Logbook",
+      "text": "Correctif : le Logbook disait que tes amendes du jeu n'étaient pas activées alors qu'elles l'étaient. Ton livre attend 7 jours de suite avec les amendes : maintenant il le dit clairement (« Livre en attente », en orange, avec la date), et « désactivées » seulement quand elles le sont vraiment. Ajustement : jeu fermé, la carte de ta journée t'explique comment commencer (lance le jeu, arrête-toi, puis « Arrivée à l'entreprise »), et pendant le tour du camion elle te dit ce qui manque : frein de stationnement serré, moteur coupé, et les secondes. Correctif : le lanceur accepte seulement le texte des récompenses qu'il t'a montré. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-25",
       "title": "Overdrive Québec 3.0.39 : des remorques en vente ajustées et la paie de la tour",
       "text": "Ajustement : de retour en vente et au marché des chargements (avec ta propre remorque) : la citerne alimentaire en grand train 43+43 et en Rocky Mountain 43+28, et le vrac sec en grand train 42+42. Ces trains ne sont pas dans les offres des compagnies (là, seulement des remorques simples de 53 pi au maximum). Ajustement : retirées de la vente : les plateformes simples de 28, 32 et 45 pi (la famille a des 53 pi ; les 48 et 53 pi restent) et le vrac sec 48 pi 4 essieux. Si tu en as déjà une, tu la gardes et elle garde ses contrats du marché des chargements. Ajustement : la tour éolienne paie 86 $ du km avant les primes (avant : 59 $). Tes sauvegardes se chargent comme avant. Et une nouveauté pour le transport, à découvrir. Depuis la 3.0.38, quatre modules changent : Remorques, Remorques (modèles 3D), Économie et Base (environ 120 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false,
@@ -880,5 +886,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261025211029
+  "serial": 20261025234013
 }

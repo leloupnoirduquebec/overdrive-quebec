@@ -35,18 +35,19 @@
   <h1>Overdrive Qu&#233;bec</h1>
 
 
-  <a class="get" href="Overdrive-0.9.0.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.9.0 · 63,5 Mo · Windows 10 ou 11, 64 bits · 2026-10-25 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.9.1.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.9.1 · 63,5 Mo · Windows 10 ou 11, 64 bits · 2026-10-25 · gratuit, rien à installer : un seul fichier.</div>
 
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>Nouveaut&#233; : un nouveau Logbook. Ouvre-le et d&#233;couvre ce qui a chang&#233;.</li>
-      <li>Nouveaut&#233; : des classements par cat&#233;gorie (bient&#244;t ouverts). Rien ne change pour l&#39;instant : on t&#39;avertira quand ils ouvriront.</li>
-      <li>Nouveaut&#233; : dans le Logbook, tu peux choisir ton profil principal (&#171; En faire mon profil principal &#187;).</li>
-      <li>Partage de conduite : si tu partages ta conduite (texte 4 d&#233;j&#224; accept&#233;), le lanceur envoie maintenant aussi au serveur le r&#233;sum&#233; de chaque journ&#233;e de ton Logbook, gard&#233; 400 jours. Le texte 4 l&#39;annon&#231;ait d&#233;j&#224; (&#171; plus tard, avec une nouvelle version du lanceur &#187;) : c&#39;est cette version.</li>
-      <li>Nouveau texte d&#39;accord (texte 5) : le lanceur te demande une fois si tu acceptes la nouvelle version du texte. Elle ajoute trois choses : le code de ton profil principal (jamais son nom), le moment o&#249; l&#39;horloge du jeu recule (&#231;a veut dire qu&#39;une autre sauvegarde a &#233;t&#233; charg&#233;e) et une pastille verte ou rouge tir&#233;e de tes journ&#233;es du Logbook, que les autres voient dans les classements (jamais le d&#233;tail de tes journ&#233;es). Tu peux dire oui ou non. Si tu dis non au texte 5, tu continues de partager exactement ce que le texte 4 couvre (le r&#233;sum&#233; de tes journ&#233;es du Logbook compris). Le d&#233;tail est sur la page Confidentialit&#233; du site.</li>
+      <li>Correctif : le Logbook disait &#171; les amendes du jeu ne sont pas activ&#233;es &#187; m&#234;me quand elles l&#39;&#233;taient. Le lanceur lisait bien tes amendes (activ&#233;es), mais ton livre a besoin de 7 jours de suite avec les amendes, et il disait cette attente comme si elles &#233;taient coup&#233;es. Maintenant il y a trois messages clairs : activ&#233;es ; activ&#233;es depuis peu, avec la date o&#249; ton livre peut devenir vert ; ou d&#233;sactiv&#233;es. Si le lanceur n&#39;a pas encore lu l&#39;option, il le dit : il ne dit jamais &#171; d&#233;sactiv&#233;es &#187; &#224; la place.</li>
+      <li>Correctif : un livre qui attend seulement ses jours (mode Logbook ou amendes activ&#233;s depuis peu) s&#39;appelle maintenant &#171; Livre en attente &#187;, en orange. Le rouge reste pour une vraie infraction.</li>
+      <li>Correctif : si le lanceur n&#39;arrive pas &#224; lire l&#39;option des amendes une seule fois (le jeu est en train d&#39;&#233;crire le fichier), tes amendes restent activ&#233;es, avec leur date. Avant, ce petit moment pouvait les faire passer &#224; &#171; inconnu &#187;.</li>
+      <li>Ajustement : jeu ferm&#233;, la carte &#171; Journ&#233;e du chauffeur &#187; t&#39;explique comment commencer : lance le jeu avec le lanceur ouvert, arr&#234;te ton camion, puis appuie sur &#171; Arriv&#233;e &#224; l&#39;entreprise &#187; (c&#39;est le d&#233;but de ta journ&#233;e). Si tu roules, elle te dit de t&#39;arr&#234;ter d&#39;abord : rouler sans journ&#233;e commenc&#233;e compte une infraction.</li>
+      <li>Ajustement : pendant le tour du camion, la carte te dit exactement ce qui manque : &#171; frein de stationnement serr&#233; : oui ou non &#183; moteur coup&#233; : oui ou non &#183; 12 s sur 30 &#187;. Le d&#233;compte avance seulement avec le frein serr&#233; ET le moteur coup&#233;.</li>
+      <li>Correctif (vie priv&#233;e) : le lanceur accepte seulement le texte des r&#233;compenses qu&#39;il t&#39;a montr&#233;. Si le serveur a un texte plus r&#233;cent, il te demande de mettre le lanceur &#224; jour avant d&#39;accepter.</li>
     </ul>
   </section>
 
@@ -61,7 +62,7 @@
 
 
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>4dbda2d13c96acb927809b1f6703ef9f92ec1f5efe303a34dae86af5c597bbe3</code></p>
+    <p><code>5a5d60e1a623e4e3e59d2ba01a075c3d4b771f966d9a0b39dfcd6a6ce6adec2f</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
 
