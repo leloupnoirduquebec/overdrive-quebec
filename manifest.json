@@ -60,6 +60,45 @@
   },
   "news": [
     {
+      "date": "2026-10-25",
+      "title": "Overdrive Québec 3.0.38 : la tour en convoi, les offres des compagnies et les diabolos ajustés",
+      "text": "Correctif : en convoi, la tour éolienne ne paraît plus enfoncée chez les autres joueurs ; elle a ses propres roues invisibles au niveau de la route sous le pivot arrière. Ajustement : la tour pèse 25 % de plus (67 866 kg au lieu de 54 293) et sa paie suit son poids (environ 59 $ par km au lieu de 47 $, avant les primes). Ajustement : le poids total permis par État passe de 247 799 lb à 277 782 lb partout, pour la tour plus lourde. Ajustement : les contrats avec la remorque de la compagnie se font seulement en remorque simple de 53 pi au maximum ; tous les trains (doubles, triples, trains B, trains routiers, 53+53) restent seulement dans le marché des chargements, avec ta propre remorque. Les fardiers et la tour restent dans les offres des compagnies. Ajustement : encore 25 % moins d'offres de transports exceptionnels qu'en 3.0.35. Correctifs : le milieu des trains doubles et triples ne saute plus (le diabolo porte 10 % du poids, 5 % dans un triple, comme les trains du jeu), la double bétaillère et les doubles plateforme de 28 pi ne frottent plus sur le diabolo. Tes sauvegardes se chargent comme avant. Depuis la 3.0.35, cinq modules changent : Camions, Remorques, Remorques (modèles 3D), Économie et Base (environ 203 Mo). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.38.txt",
+        "sha256": "025cb40049dec1ee4ed2a2a98df6ad95912b9158f76a7a457a8043565f973830",
+        "sizeBytes": 4255
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Overdrive Québec 3.0.37 : les moteurs et les amendes ajustés",
+      "text": "Ajustement : le Caterpillar C15 ACERT T1 (simple turbo) et les Cummins NTC montés en atelier ont 15 % de couple de plus (C15 T1 500 HP 2 020 lb-pi, 545 HP 2 130, 575 HP 2 245, 600 HP 2 250 ; NTC 500 HP 1 810, 545 HP 1 980, 575 HP 2 085, 600 HP 2 175). Les chevaux, le prix et la consommation ne changent pas ; ils demandent 2 ou 3 niveaux de plus. Ajustement : tous les C15 ACERT tournent au ralenti à 600 tr/min. Correctifs : le couple plein du Mack MP10 (1 200 tr/min), du PACCAR MX-13 510 HP (1 000 tr/min) et du Cummins X15 500 HP (900 tr/min). Ajustement : les amendes du jeu passent aux vrais montants du Québec, pour tout le monde peu importe le niveau, et plus de double devant la police (excès de +20 km/h environ 80 $, feu rouge 200 $). Trois modules changent : Camions, Économie et Base (environ 99 Mo). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.37.txt",
+        "sha256": "be0c35947b3a9a49fbdabc67adb59334429699e56beb8f9241576096b514eee5",
+        "sizeBytes": 4705
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Overdrive Québec 3.0.36 : la tour éolienne ajustée et la benne 40+40 de retour",
+      "text": "Ajustements de la tour éolienne : les roues du col de cygne braquent maintenant en virage (les 2 lignes arrière braquent, les 2 lignes avant guident) et les 6 lignes du module arrière ont des roues fixes. Correctif : la petite instabilité gauche-droite aux pivots ; les roues fixes tiennent le col de cygne et le module arrière droits sous la tour. Le poids, la paie et la longueur de la tour ne changent pas. Un contrat de tour déjà pris se charge encore. Correctif : le train routier de bennes à déchargement central 40+40 à 6 essieux est de retour chez le concessionnaire, avec ses deux caisses (mâchoires et trappes). Deux modules changent : Remorques et Base (environ 9 Mo). Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ».",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.36.txt",
+        "sha256": "9facd613cb5c0aa244704633ba3773847da176461088075c9a1401f123394c6c",
+        "sizeBytes": 2203
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "title": "Lanceur 0.8.1 : le permis à l'échelle du jeu",
+      "text": "Ajustement : ton permis passe à l'échelle du jeu. Les points ne s'effacent plus avec le temps : chaque lundi à minuit, heure normale de l'Est (1 h du matin l'été), 6 points reviennent. Toutes les 4 livraisons parfaites de plus de 1 000 km (avec les amendes activées, sans aucune infraction), 2 points de plus reviennent. À 15 points, la suspension dure 3, 6 ou 12 jours (au lieu de mois). Ton Logbook montre le prochain lundi et tes livraisons parfaites. Mise à jour obligatoire : mets ton lanceur à jour (0.8.1).",
+      "popup": false
+    },
+    {
       "date": "2026-10-24",
       "title": "Lanceur 0.8.0 : le permis à la québécoise",
       "text": "Ajustements : ton permis suit maintenant les vraies règles de la SAAQ. Tu pars à 0 point et les points s'additionnent; à 15 points, ton permis est suspendu (3, 6 ou 12 mois), et chaque point s'efface 2 ans après l'infraction. Seules les amendes données par le jeu comptent, avec les amendes activées dans tes options. Ton permis affiché est recompté une fois avec les nouvelles règles. La radio n'est plus dans le lanceur : elle reste dans le jeu (ligne « Radio Overdrive dans le jeu » dans la ronde de sécurité), et la musique de fond est retirée; de courts sons sont ajoutés, avec un interrupteur et un volume dans les paramètres. Certaines nouveautés ont aussi été ajoutées… à toi de les découvrir. Mets ton lanceur à jour (0.8.0).",
@@ -628,45 +667,45 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.35",
+      "version": "3.0.38",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.35.scs",
-      "sha256": "0960edd169f040871df74e91aeb4d5de27147cd4a249e751226a79f79fb0f5e7",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.38.scs",
+      "sha256": "6d844ae759db5e86d02b3420181d457cdc761909c333b549fa6b61a92d8c396e",
       "sizeBytes": 4054246,
       "required": true,
       "loadOrder": 71
     },
     {
       "name": "Overdrive Québec — Remorques (modèles 3D)",
-      "version": "3.0.35",
+      "version": "3.0.38",
       "source": "direct",
       "fileName": "overdrive-remorques-modeles.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.35.scs",
-      "sha256": "f286ccc898030bde751a3a3d08b9bd650fb8a845a1b179617175484928e84722",
-      "sizeBytes": 99138932,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.38.scs",
+      "sha256": "5ed5c65202c6e863d559385e5e6e3a1af35c1d59dccc1d279b2af8fec5882756",
+      "sizeBytes": 99141082,
       "required": true,
       "loadOrder": 72
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.35",
+      "version": "3.0.38",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.35.scs",
-      "sha256": "cf58fb64adcc2e60665b2ac115a58a9da39b82b2600ec18b8d9fdb6ff3cf1f54",
-      "sizeBytes": 5253067,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.38.scs",
+      "sha256": "627e875e06e6d740966df59a4a8e20f22b079cfb6d54d5fcd80fd39a81c94b81",
+      "sizeBytes": 5257998,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.35",
+      "version": "3.0.38",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.35.scs",
-      "sha256": "c1bade7c0f74e4eb081b1208844b02c54e3d3957687b9e32dafbe7bada9876fa",
-      "sizeBytes": 10687658,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.38.scs",
+      "sha256": "fc1253b4d6de6ce77a2dcc4c45e400f5d63eff5f6d4a1b944e2abf3312f2d151",
+      "sizeBytes": 10693064,
       "required": true,
       "loadOrder": 74
     },
@@ -683,12 +722,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.32",
+      "version": "3.0.37",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.32.scs",
-      "sha256": "a2f1243ee9ee9ccb3886044a9b7c3dbbce78f84cc9a3c75177817170ee3c70d5",
-      "sizeBytes": 83901910,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.37.scs",
+      "sha256": "569883fc6f940802be387afbd40c8911124f65714d21596f49c8cc31b5c3145e",
+      "sizeBytes": 83902227,
       "required": true,
       "loadOrder": 76
     },
@@ -806,5 +845,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261025022301
+  "serial": 20261025125215
 }

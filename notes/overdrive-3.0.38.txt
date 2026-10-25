@@ -1,0 +1,45 @@
+OVERDRIVE QUÉBEC 3.0.38 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : depuis la 3.0.35, cinq modules, Camions, Remorques, Remorques (modèles 3D), Économie et Base (environ 203 Mo). Tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+TRANSPORT EXCEPTIONNEL
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : tour éolienne en convoi. Chez les autres joueurs, ta tour paraissait enfoncée sur son module arrière. La tour a maintenant ses propres roues, invisibles, au niveau de la route sous le pivot arrière : chaque joueur la voit à la bonne hauteur.
+- Ajustement : la tour pèse 25 % de plus : 67 866 kg (149 619 lb) au lieu de 54 293 kg (119 696 lb). Le convoi derrière le camion pèse environ 249 900 lb (avant : 220 000 lb).
+- Ajustement : la paie de la tour suit son poids : 59,03 $ du km avant les primes (avant : 47,22 $).
+- Ajustement : le poids total permis par État (camion et remorques) passe de 247 799 lb à 277 782 lb partout, pour que la tour plus lourde passe.
+- Les ressorts du col de cygne et du module arrière restent à leur hauteur avec ce poids : rien ne touche la route.
+- La longueur, les départs et les arrivées de la tour ne changent pas.
+- Un contrat de tour pris avant la mise à jour se charge encore. Jusqu'à sa livraison, il garde ses anciennes roues sous le pivot arrière.
+- Ajustement : les offres de transports exceptionnels (fardiers, lowboys, charges lourdes, la tour) sortent encore 25 % moins souvent qu'en 3.0.35. Les autres cargaisons sortent un peu plus souvent.
+
+━━━━━━━━━━━━━━━━━━━━
+LES OFFRES DES COMPAGNIES
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les contrats avec la remorque de la compagnie (marché du fret et contrats rapides) se font seulement en remorque simple de 53 pi au maximum.
+- Ajustement : tous les trains sortent des offres des compagnies : doubles, triples, trains B, trains routiers, les 53+53 et les plateformes 28+28. Ils restent dans le marché des chargements, avec ta propre remorque ou ton propre train.
+- Les transports exceptionnels d'une seule charge restent dans les offres des compagnies : les fardiers avec leur avant-train et leur arrière, et la tour éolienne.
+- Les trains de l'IA sur la route ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+LES TRAINS DOUBLES ET TRIPLES
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : le milieu des trains doubles et triples sautait. Le diabolo porte maintenant 10 % du poids de la cargaison (5 % par diabolo dans un triple), pris sur la remorque d'en arrière, comme les trains du jeu. La charge totale, la paie et le poids sur le camion ne changent pas. Le diabolo n'a toujours aucune capacité de cargaison à lui.
+- Correctif : double bétaillère 48+48 : le timon du diabolo frottait sur l'arrière de la remorque de tête (1,3 cm). Il passe à 20 cm maintenant. La remorque d'en arrière ne touche plus le diabolo dans les côtes ni en virage.
+- Correctif : doubles et triples plateforme et rideaux de 28 pi : la petite remorque frottait sur le diabolo dans les côtes (4,6 cm). Il reste 14,5 cm maintenant.
+- Correctif : le diabolo 2 essieux des trains de l'IA pèse son vrai poids : 2 168 kg (avant : 1 270 kg).
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions, les moteurs, les freins, la physique, les amendes, la paie des autres cargaisons, les remorques en vente, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.37.
+
+Bonne route!

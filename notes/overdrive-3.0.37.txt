@@ -1,0 +1,48 @@
+OVERDRIVE QUÉBEC 3.0.37 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : Camions, Économie et Base (environ 99 Mo). Tes sauvegardes se chargent comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+LES MOTEURS
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : Caterpillar C15 ACERT T1 (simple turbo), +15 % de couple. 545 HP : 2 130 lb-pi (avant : 1 850). 575 HP : 2 245 lb-pi (avant : 1 950). Les chevaux ne changent pas.
+- Ajustement : C15 ACERT T1 500 HP : 2 020 lb-pi (avant : 1 850). C'est +9 % seulement : avec 500 HP et le couple plein dès 1 200 tr/min, le moteur ne peut pas porter plus sans dépasser 500 HP.
+- Ajustement : C15 ACERT T1 600 HP : 2 250 lb-pi (avant : 2 050). C'est +10 % seulement : 2 250 lb-pi, c'est la limite de la plus forte vraie boîte vendue avec lui (Fuller 18 vitesses et Eaton UltraShift VXP).
+- Le C15 ACERT T2 (double turbo) garde les vraies cotes de Caterpillar.
+- Ajustement : Cummins NTC (Big Cam IV), les cotes montées en atelier, +15 % de couple. 500 HP : 1 810 lb-pi (avant : 1 575). 545 HP : 1 980 lb-pi (avant : 1 720). 575 HP : 2 085 lb-pi (avant : 1 815). 600 HP : 2 175 lb-pi (avant : 1 890). Leur couple plein arrive maintenant dès 1 300 tr/min (avant : 1 500), le régime du vrai NTC-400. Les vraies cotes NTC-400 et NTC-444 ne changent pas.
+- Ces moteurs plus forts demandent 2 ou 3 niveaux de plus pour être débloqués.
+- Au-dessus de 2 050 lb-pi, la Fuller 13 vitesses RTLO-20913A et l'Eaton MHP ne sont plus offertes avec eux (trop de couple pour elles). La Fuller 18 vitesses, l'Eaton VXP et les boîtes Overdrive restent offertes.
+- Ajustement : la boîte Overdrive 10 vitesses du Cascadia 2019 prend maintenant jusqu'à 2 250 lb-pi (avant : 2 115).
+- Ajustement : tous les C15 ACERT tournent au ralenti à 600 tr/min, comme l'ordinateur d'un vrai C15 (avant : 650 ou 700 selon le son).
+- Correctif : Mack MP10, le couple plein part de 1 200 tr/min (avant : 1 000), comme la fiche de Mack.
+- Correctif : PACCAR MX-13 510 HP, le couple plein arrive à 1 000 tr/min (avant : 900), comme la fiche du concessionnaire.
+- Correctif : Cummins X15 500 HP (1 850 lb-pi), le couple plein arrive dès 900 tr/min (avant : 1 150), comme la fiche de Cummins.
+- Le prix et la consommation des moteurs ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+LES AMENDES
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : les amendes du jeu passent aux vrais montants du Québec (1 $ = 1 $).
+- Ajustement : tout le monde paie le vrai montant, peu importe son niveau. Avant, le jeu baissait l'amende selon ton niveau (un nouveau payait 20 % de l'amende, un niveau 10 et plus 100 %).
+- Ajustement : plus de « double si une police est proche ». Au Québec, l'amende est la même. Ton excès de vitesse en patrouille était toujours doublé.
+- Ajustement : excès de vitesse (patrouille ou radar photo), réglé sur la grille de la SAAQ : 30 $ de base, plus une hausse par tranche de 5 km/h. Environ 49 $ à +10 km/h (avant : 760 $), 80 $ à +20 (avant : 1 420 $), 131 $ à +30 (avant : 2 660 $), au plus 1 080 $ (avant : 5 000 $).
+- Le jeu ne connaît pas les zones de vitesse : les grands excès coûtent un peu moins que la vraie grille. Par exemple, +40 km/h dans une zone de 50 : 213 $ au lieu de 380 $.
+- Ajustement : feu rouge, 200 $ (avant : 700 $, et 1 400 $ devant la police).
+- Ajustement : pause obligatoire pas prise (heures de conduite), 597 $ (avant : 500 $).
+- Ajustement : véhicule endommagé, 597 $ (avant : 500 $).
+- Accident : 900 $, même devant la police (avant : 1 800 $ devant la police).
+- Sans vrai montant fixe trouvé, ces amendes gardent le montant du jeu : contresens 250 $, phares éteints la nuit 250 $, balance évitée 700 $, remorque non permise 1 500 $, inspection évitée 3 000 $.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les remorques, la tour éolienne, les freins, la physique, la paie, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.36.
+
+Bonne route!
