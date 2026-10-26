@@ -35,19 +35,16 @@
   <h1>Overdrive Qu&#233;bec</h1>
 
 
-  <a class="get" href="Overdrive-0.9.1.exe" download="Overdrive.exe"><span>Télécharger</span></a>
-  <div class="muted">Version 0.9.1 · 63,5 Mo · Windows 10 ou 11, 64 bits · 2026-10-25 · gratuit, rien à installer : un seul fichier.</div>
+  <a class="get" href="Overdrive-0.9.2.exe" download="Overdrive.exe"><span>Télécharger</span></a>
+  <div class="muted">Version 0.9.2 · 63,5 Mo · Windows 10 ou 11, 64 bits · 2026-10-26 · gratuit, rien à installer : un seul fichier.</div>
 
 
   <section class="card">
     <h2>Quoi de neuf</h2>
     <ul>
-      <li>Correctif : le Logbook disait &#171; les amendes du jeu ne sont pas activ&#233;es &#187; m&#234;me quand elles l&#39;&#233;taient. Le lanceur lisait bien tes amendes (activ&#233;es), mais ton livre a besoin de 7 jours de suite avec les amendes, et il disait cette attente comme si elles &#233;taient coup&#233;es. Maintenant il y a trois messages clairs : activ&#233;es ; activ&#233;es depuis peu, avec la date o&#249; ton livre peut devenir vert ; ou d&#233;sactiv&#233;es. Si le lanceur n&#39;a pas encore lu l&#39;option, il le dit : il ne dit jamais &#171; d&#233;sactiv&#233;es &#187; &#224; la place.</li>
-      <li>Correctif : un livre qui attend seulement ses jours (mode Logbook ou amendes activ&#233;s depuis peu) s&#39;appelle maintenant &#171; Livre en attente &#187;, en orange. Le rouge reste pour une vraie infraction.</li>
-      <li>Correctif : si le lanceur n&#39;arrive pas &#224; lire l&#39;option des amendes une seule fois (le jeu est en train d&#39;&#233;crire le fichier), tes amendes restent activ&#233;es, avec leur date. Avant, ce petit moment pouvait les faire passer &#224; &#171; inconnu &#187;.</li>
-      <li>Ajustement : jeu ferm&#233;, la carte &#171; Journ&#233;e du chauffeur &#187; t&#39;explique comment commencer : lance le jeu avec le lanceur ouvert, arr&#234;te ton camion, puis appuie sur &#171; Arriv&#233;e &#224; l&#39;entreprise &#187; (c&#39;est le d&#233;but de ta journ&#233;e). Si tu roules, elle te dit de t&#39;arr&#234;ter d&#39;abord : rouler sans journ&#233;e commenc&#233;e compte une infraction.</li>
-      <li>Ajustement : pendant le tour du camion, la carte te dit exactement ce qui manque : &#171; frein de stationnement serr&#233; : oui ou non &#183; moteur coup&#233; : oui ou non &#183; 12 s sur 30 &#187;. Le d&#233;compte avance seulement avec le frein serr&#233; ET le moteur coup&#233;.</li>
-      <li>Correctif (vie priv&#233;e) : le lanceur accepte seulement le texte des r&#233;compenses qu&#39;il t&#39;a montr&#233;. Si le serveur a un texte plus r&#233;cent, il te demande de mettre le lanceur &#224; jour avant d&#39;accepter.</li>
+      <li>Correctif : le bouton &#171; Commencer ma journ&#233;e &#187; est maintenant en haut de toutes les pages du Logbook, dans le lanceur et par-dessus le jeu, d&#232;s que le mode Logbook est coch&#233; et qu&#39;aucune journ&#233;e n&#39;est commenc&#233;e. Avant, le bouton (&#171; Arriv&#233;e &#224; l&#39;entreprise &#187;) &#233;tait seulement sur la page En route, tout en bas, et on ne le voyait pas. Jeu ferm&#233; ou camion qui roule, il reste visible, &#233;teint, avec la raison &#233;crite juste &#224; c&#244;t&#233;.</li>
+      <li>Correctif : une journ&#233;e rest&#233;e ouverte quand tu fermes le jeu se termine toute seule quand le jeu est ferm&#233; depuis 15 min (la r&#232;gle existait, mais elle attendait que tu relances le jeu). La carte n&#39;affiche plus &#171; Conduite &#187; pendant que le jeu est ferm&#233;, et ta prochaine journ&#233;e se commence en un clic. Le temps jeu ferm&#233; ne compte jamais comme de la conduite.</li>
+      <li>Ajustement : le bouton s&#39;appelle &#171; Commencer ma journ&#233;e &#187; partout (c&#39;est ton arriv&#233;e &#224; l&#39;entreprise). Par-dessus le jeu, le Logbook te rappelle la touche du mode tablette pour cliquer avec la souris.</li>
     </ul>
   </section>
 
@@ -62,7 +59,7 @@
 
 
     <p>L'empreinte SHA-256 du fichier doit être exactement :</p>
-    <p><code>5a5d60e1a623e4e3e59d2ba01a075c3d4b771f966d9a0b39dfcd6a6ce6adec2f</code></p>
+    <p><code>ce3e75881cddc76786311041b08a15d57d62c5afaa8df9383daf4cf15ac379e5</code></p>
     <p>Pour la calculer : ouvre PowerShell dans le dossier du téléchargement et tape</p>
     <pre>Get-FileHash .\Overdrive.exe -Algorithm SHA256</pre>
 

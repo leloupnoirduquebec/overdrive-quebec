@@ -61,6 +61,12 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Lanceur 0.9.2 : le bouton pour commencer ta journée",
+      "text": "Correctif : le bouton « Commencer ma journée » est maintenant en haut de toutes les pages du Logbook (dans le lanceur et par-dessus le jeu) dès que le mode Logbook est coché. Avant, il était seulement tout en bas de la page En route. Jeu fermé ou camion qui roule, il reste visible avec la raison écrite à côté. Correctif : une journée restée ouverte quand tu fermes le jeu se termine toute seule après 15 min jeu fermé, au lieu d'afficher « Conduite » jusqu'à ton retour : ta prochaine journée se commence en un clic. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-25",
       "title": "Overdrive Québec 3.0.40 : des ajustements sur la route",
       "text": "Ajustement : certains ajustements ont été faits sur la route (circulation, trafic…), à découvrir en roulant. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.39, un seul module change : Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false,
@@ -897,5 +903,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261026002259
+  "serial": 20261026100710
 }

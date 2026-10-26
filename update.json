@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.1",
+  "version": "0.9.2",
   "mandatory": false,
-  "notes": "Correctif : le Logbook disait « les amendes du jeu ne sont pas activées » même quand elles l'étaient. Le lanceur lisait bien tes amendes (activées), mais ton livre a besoin de 7 jours de suite avec les amendes, et il disait cette attente comme si elles étaient coupées. Maintenant il y a trois messages clairs : activées ; activées depuis peu, avec la date où ton livre peut devenir vert ; ou désactivées. Si le lanceur n'a pas encore lu l'option, il le dit : il ne dit jamais « désactivées » à la place.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.1.exe",
-  "sizeBytes": 66570574,
-  "sha256": "5a5d60e1a623e4e3e59d2ba01a075c3d4b771f966d9a0b39dfcd6a6ce6adec2f",
-  "published": "2026-10-25"
+  "notes": "Correctif : le bouton « Commencer ma journée » est maintenant en haut de toutes les pages du Logbook, dans le lanceur et par-dessus le jeu, dès que le mode Logbook est coché et qu'aucune journée n'est commencée. Avant, le bouton (« Arrivée à l'entreprise ») était seulement sur la page En route, tout en bas, et on ne le voyait pas. Jeu fermé ou camion qui roule, il reste visible, éteint, avec la raison écrite juste à côté.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.2.exe",
+  "sizeBytes": 66573923,
+  "sha256": "ce3e75881cddc76786311041b08a15d57d62c5afaa8df9383daf4cf15ac379e5",
+  "published": "2026-10-26"
 }
