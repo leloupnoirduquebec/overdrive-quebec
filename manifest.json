@@ -61,6 +61,17 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Overdrive Québec 3.0.41 : nettoyage des erreurs du journal du jeu",
+      "text": "Correctif : nettoyage des erreurs du journal du jeu. Une ligne oubliée dans nos fichiers empêchait le jeu de charger sa liste de remorques de l'IA : les camions de l'IA tirent de nouveau les remorques ordinaires du jeu (fourgons, plateformes, citernes, bois…). Correctif : les autos ne passent plus sous la tour d'éolienne. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.40, trois modules changent : Remorques (environ 5 Mo), Remorques (modèles 3D) (environ 99 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.41.txt",
+        "sha256": "2ab82c79e012edb338dc708b11ca00a0fe3e6c35ac817e06ff371848b2ae102d",
+        "sizeBytes": 2860
+      }
+    },
+    {
+      "date": "2026-10-25",
       "title": "Lanceur 0.9.2 : le bouton pour commencer ta journée",
       "text": "Correctif : le bouton « Commencer ma journée » est maintenant en haut de toutes les pages du Logbook (dans le lanceur et par-dessus le jeu) dès que le mode Logbook est coché. Avant, il était seulement tout en bas de la page En route. Jeu fermé ou camion qui roule, il reste visible avec la raison écrite à côté. Correctif : une journée restée ouverte quand tu fermes le jeu se termine toute seule après 15 min jeu fermé, au lieu d'afficher « Conduite » jusqu'à ton retour : ta prochaine journée se commence en un clic. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -725,34 +736,34 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.40",
+      "version": "3.0.41",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.40.scs",
-      "sha256": "8d096e098b8da7ad522f291dc20fd0f817c4d2d86dc90617af27a64bf4d89531",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.41.scs",
+      "sha256": "929c4e56606e48718f2464575df16ba6b987417dfb7c981182463d960a890899",
       "sizeBytes": 4089691,
       "required": true,
       "loadOrder": 71
     },
     {
       "name": "Overdrive Québec — Remorques (modèles 3D)",
-      "version": "3.0.39",
+      "version": "3.0.41",
       "source": "direct",
       "fileName": "overdrive-remorques-modeles.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.39.scs",
-      "sha256": "debbbd047d24cedbea97b6f7d5fbc101bcc4dbe3bc828d98d40d0f11dc63264d",
-      "sizeBytes": 99438069,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.41.scs",
+      "sha256": "7d2a0a39884d17a2b00786a39f0fc305312df5e73cc07d826038b19a7780e749",
+      "sizeBytes": 99438103,
       "required": true,
       "loadOrder": 72
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.39",
+      "version": "3.0.41",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.39.scs",
-      "sha256": "7d109cea0d98c6216cec7391438ba5170580d278f64d4c9079c17f99705b6283",
-      "sizeBytes": 5338715,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.41.scs",
+      "sha256": "67bc3129ebc0352c61843b5b56630e0e3b8ca331a80378b667ac22dc1d3a891d",
+      "sizeBytes": 5338674,
       "required": true,
       "loadOrder": 73
     },
@@ -903,5 +914,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261026100710
+  "serial": 20261026101010
 }

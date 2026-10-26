@@ -1,0 +1,35 @@
+OVERDRIVE QUÉBEC 3.0.41 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : depuis la 3.0.40, trois modules, Remorques (environ 5 Mo), Remorques (modèles 3D) (environ 99 Mo) et Base (environ 4 Mo). Tes sauvegardes se chargent comme avant.
+
+En bref : nettoyage des erreurs du journal du jeu, les camions de l'IA tirent de nouveau les remorques ordinaires du jeu, et les autos ne passent plus sous la tour d'éolienne.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : nettoyage des erreurs du journal du jeu (game.log). Une ligne oubliée dans nos fichiers de remorques de l'IA (les 45 pieds avant retirées) empêchait le jeu de charger sa liste de remorques de l'IA au complet.
+- Correctif : les camions de l'IA tirent de nouveau les remorques ordinaires du jeu (fourgons, frigos, plateformes, rideaux, citernes, bois, copeaux, céréaliers, bétaillères…). Depuis la 3.0.35, ils ne tiraient plus que les remorques d'Overdrive et celles des DLC.
+- Les remorques retirées des concessionnaires restent absentes de l'IA, comme avant.
+- Les erreurs « extreme/nice » du journal ne viennent pas d'Overdrive : elles viennent de l'Ultimate Graphics Mod.
+- Tour d'éolienne : les autos ne passent plus sous la tour. Le dessous du tube, entre le col de cygne et le module arrière, bloque maintenant les autos et les camionnettes. Le look, les roues, le poids et la paie ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+SI TU N'AVAIS PAS ENCORE LA 3.0.40
+━━━━━━━━━━━━━━━━━━━━
+- Elle vient avec : feux verts plus longs (30 s), flèches de virage à gauche 15 s, trains de marchandises de 8 à 40 wagons. Les détails sont dans les notes de la 3.0.40.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions, les moteurs, les remorques en vente, les freins, la physique, la paie, les amendes, le ciel, les affiches, le GPS, les feux et les trains : les mêmes qu'en 3.0.40.
+
+Bonne route!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
