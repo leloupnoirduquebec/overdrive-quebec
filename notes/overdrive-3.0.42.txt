@@ -1,0 +1,27 @@
+OVERDRIVE QUÉBEC 3.0.42 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : depuis la 3.0.41, deux modules, Remorques (environ 5 Mo) et Base (environ 4 Mo). Tes sauvegardes se chargent comme avant.
+
+En bref : la liste des remorques de l'IA se charge au complet chez ceux qui ont le DLC Lode King.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- Correctif : chez les joueurs qui ont le DLC Lode King (remorques Lode King et Prestige), le jeu n'arrivait toujours pas à charger sa liste de remorques de l'IA (erreur « Unable to load trailer storage » dans le journal du jeu). La 3.0.41 n'avait réglé qu'une partie du problème.
+- La cause : quatre remorques Lode King et Prestige de l'IA se basent sur la plateforme 45 pieds du jeu (essieux à l'avant), qu'on avait retirée de l'IA. Elle est maintenant gardée dans les fichiers du jeu, mais elle ne roule jamais sur la route : elle reste retirée des concessionnaires et de l'IA, comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions, les moteurs, les remorques en vente, la tour d'éolienne, les freins, la physique, la paie, les amendes, le ciel, les affiches, le GPS, les feux et les trains : les mêmes qu'en 3.0.41.
+
+Bonne route!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.

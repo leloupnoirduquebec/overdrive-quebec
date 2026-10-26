@@ -66,6 +66,17 @@
   "news": [
     {
       "date": "2026-10-26",
+      "title": "Overdrive Québec 3.0.42 : la liste des remorques de l'IA avec le DLC Lode King",
+      "text": "Correctif : chez ceux qui ont le DLC Lode King, le jeu n'arrivait toujours pas à charger sa liste de remorques de l'IA (erreur « Unable to load trailer storage » dans le journal du jeu). Quatre remorques Lode King et Prestige de l'IA se basaient sur une remorque qu'on avait retirée : elle est maintenant gardée, mais elle ne roule jamais. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.41, deux modules changent : Remorques (environ 5 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.42.txt",
+        "sha256": "eccff5782bb605e2234240f92532f76690dee4b3c70fc090b75498e13b306473",
+        "sizeBytes": 2100
+      }
+    },
+    {
+      "date": "2026-10-26",
       "title": "Lanceur 0.9.3 : les amendes du jeu obligatoires, la musique et la souris dans le Logbook",
       "text": "Règle : les amendes du jeu sont maintenant obligatoires. Overdrive Québec est un serveur réaliste, et certains roulaient à n'importe quelle vitesse en coupant les amendes du jeu : c'est fini. Le lanceur active les amendes du jeu à chaque lancement (Réglages du convoi) et tout le monde paie les mêmes vraies amendes du Québec. Si tu les coupes quand même, tu perds tout de suite ton Logbook, ton permis à points, ta place au classement et tes récompenses ; tu les retrouves après le délai du règlement une fois les amendes remises (il est écrit dans le Logbook, sous ton permis), et chaque fois que tu les coupes, le compteur repart à zéro. Coupées pendant que tu joues : un avis s'affiche tout de suite par-dessus le jeu, et le lanceur les remet quand tu fermes le jeu. Le lanceur te demande aussi une fois d'accepter le nouveau texte des récompenses (version 3) : il ajoute seulement si les amendes du jeu sont activées dans le profil que tu joues, et depuis quand. Ajustement : le staff peut maintenant annuler une infraction de service du Logbook, et ton lanceur suit tout seul. Correctif : par-dessus le jeu, la souris marche maintenant dans le Logbook en mode tablette (la flèche apparaît dessus) ; arrêté, Ctrl gardé enfoncé une demi-seconde ouvre aussi le mode tablette (ça se décoche dans les réglages). Correctif : l'écran « Permis suspendu » dit maintenant la vraie règle du permis (plus de points, quelques jours de suspension, puis le permis au complet). Correctif : le livre du Logbook compte maintenant 48 heures, comme les classements, et les infractions d'avant l'ouverture des classements s'affichent « Avant l'ouverture des classements » au lieu de « Annulée par le staff ». Nouveauté : la musique du lanceur, les chansons de Radio Overdrive au complet dans un ordre au hasard, avec un bouton pour la couper et son volume ; elle s'arrête quand le jeu roule. Quelques chansons se téléchargent une seule fois, en arrière-plan, quand la musique est allumée (environ 64 Mo en tout). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -747,11 +758,11 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.41",
+      "version": "3.0.42",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.41.scs",
-      "sha256": "929c4e56606e48718f2464575df16ba6b987417dfb7c981182463d960a890899",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.42.scs",
+      "sha256": "ccd67f1d078cd803016f81b5ec9d4d6c51dd0a593deff1d29f0741a29771556e",
       "sizeBytes": 4089691,
       "required": true,
       "loadOrder": 71
@@ -769,12 +780,12 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.41",
+      "version": "3.0.42",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.41.scs",
-      "sha256": "67bc3129ebc0352c61843b5b56630e0e3b8ca331a80378b667ac22dc1d3a891d",
-      "sizeBytes": 5338674,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.42.scs",
+      "sha256": "4e416309674eade23bd0df5070117af5c1aea3a47a8c1cf11d6a40752b0dc063",
+      "sizeBytes": 5339092,
       "required": true,
       "loadOrder": 73
     },
@@ -1011,5 +1022,5 @@
       }
     ]
   },
-  "serial": 20261026211315
+  "serial": 20261026234736
 }
