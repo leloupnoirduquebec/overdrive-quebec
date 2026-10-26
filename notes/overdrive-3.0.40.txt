@@ -1,0 +1,40 @@
+OVERDRIVE QUÉBEC 3.0.40 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : depuis la 3.0.39, un seul module, Base (environ 4 Mo). Tes sauvegardes se chargent comme avant.
+
+En bref : feux verts plus longs (30 s), flèches de virage à gauche 15 s, trains de marchandises de 8 à 40 wagons.
+
+━━━━━━━━━━━━━━━━━━━━
+LES FEUX DE CIRCULATION
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : feux verts plus longs. Le vert de 20 s du jeu passe à 30 s, et le vert de 36 s des grosses intersections en T passe à environ 50 s.
+- Ajustement : flèches de virage à gauche plus longues : 10 s avant, 15 s maintenant.
+- Le jaune (4 s) et le rouge de sécurité entre deux directions (2 s) ne changent pas. L'ordre des feux non plus : deux directions qui se croisent n'ont jamais le vert en même temps.
+- Aux intersections où un vert continue pendant le jaune d'une flèche, ce vert passe plutôt à 27 ou 28 s.
+- Un tour complet du feu dure au plus 2 minutes.
+- Partout dans le jeu de base et dans les États en DLC (Colorado, Wyoming, Oklahoma, Nevada, Arizona, Arkansas). Quelques feux spéciaux (29 réglages sur 543) gardent le minutage du jeu.
+- Comme le vert dure plus longtemps, le rouge aussi : tu attends un peu plus quand tu arrives au rouge. C'est le même feu pour tout le monde, l'IA comprise.
+
+━━━━━━━━━━━━━━━━━━━━
+LES TRAINS
+━━━━━━━━━━━━━━━━━━━━
+- Ajustement : trains de marchandises de 8 à 40 wagons (avant : 5 à 16). La plupart ont autour de 20 à 25 wagons; les très courts et les très longs sont rares.
+- Les mêmes wagons que le jeu (citernes, conteneurs, plateformes, trémies, wagons couverts, bois, charbon, wagons à graffitis).
+- Aux passages à niveau, les barrières restent baissées plus longtemps avec un long train : jusqu'à environ 1 min 10 s pour 40 wagons.
+- Les trains de passagers ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions, les moteurs, les remorques, les freins, la physique, la paie, les amendes, le ciel, les affiches et le GPS : les mêmes qu'en 3.0.39.
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+
+Bonne route!

@@ -61,6 +61,17 @@
   "news": [
     {
       "date": "2026-10-25",
+      "title": "Overdrive Québec 3.0.40 : des ajustements sur la route",
+      "text": "Ajustement : certains ajustements ont été faits sur la route (circulation, trafic…), à découvrir en roulant. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.39, un seul module change : Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.40.txt",
+        "sha256": "14f962132505daadc106633e58390a179a64bfc8139a638657b2c5c799e1e0eb",
+        "sizeBytes": 2990
+      }
+    },
+    {
+      "date": "2026-10-25",
       "title": "Lanceur 0.9.1 : correctifs du nouveau Logbook",
       "text": "Correctif : le Logbook disait que tes amendes du jeu n'étaient pas activées alors qu'elles l'étaient. Ton livre attend 7 jours de suite avec les amendes : maintenant il le dit clairement (« Livre en attente », en orange, avec la date), et « désactivées » seulement quand elles le sont vraiment. Ajustement : jeu fermé, la carte de ta journée t'explique comment commencer (lance le jeu, arrête-toi, puis « Arrivée à l'entreprise »), et pendant le tour du camion elle te dit ce qui manque : frein de stationnement serré, moteur coupé, et les secondes. Correctif : le lanceur accepte seulement le texte des récompenses qu'il t'a montré. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -708,12 +719,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.39",
+      "version": "3.0.40",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.39.scs",
-      "sha256": "3160af9ed2f478064e581dc240637c73e9754654a7469f5c9e658662299d8148",
-      "sizeBytes": 4054245,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.40.scs",
+      "sha256": "8d096e098b8da7ad522f291dc20fd0f817c4d2d86dc90617af27a64bf4d89531",
+      "sizeBytes": 4089691,
       "required": true,
       "loadOrder": 71
     },
@@ -886,5 +897,5 @@
       "sizeBytes": 4503503
     }
   },
-  "serial": 20261025234013
+  "serial": 20261026002259
 }
