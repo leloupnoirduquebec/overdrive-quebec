@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.2",
+  "version": "0.9.3",
   "mandatory": false,
-  "notes": "Correctif : le bouton « Commencer ma journée » est maintenant en haut de toutes les pages du Logbook, dans le lanceur et par-dessus le jeu, dès que le mode Logbook est coché et qu'aucune journée n'est commencée. Avant, le bouton (« Arrivée à l'entreprise ») était seulement sur la page En route, tout en bas, et on ne le voyait pas. Jeu fermé ou camion qui roule, il reste visible, éteint, avec la raison écrite juste à côté.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.2.exe",
-  "sizeBytes": 66573923,
-  "sha256": "ce3e75881cddc76786311041b08a15d57d62c5afaa8df9383daf4cf15ac379e5",
+  "notes": "Règle : les amendes du jeu sont maintenant obligatoires. Overdrive Québec est un serveur réaliste. Certains roulaient à n'importe quelle vitesse en coupant les amendes du jeu : c'est fini. Tout le monde paie les mêmes vraies amendes du Québec.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.3.exe",
+  "sizeBytes": 86095110,
+  "sha256": "1823be8880e2a364ed8617c18d1a3f38ce31a61a4bd0c2cdd3d03ab2ee81e7e9",
   "published": "2026-10-26"
 }

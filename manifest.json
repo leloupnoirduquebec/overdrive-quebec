@@ -55,10 +55,21 @@
         "cvar": "g_bad_weather_factor",
         "value": "0.07",
         "file": "profile"
+      },
+      {
+        "cvar": "g_police",
+        "value": "1",
+        "file": "profile"
       }
     ]
   },
   "news": [
+    {
+      "date": "2026-10-26",
+      "title": "Lanceur 0.9.3 : les amendes du jeu obligatoires, la musique et la souris dans le Logbook",
+      "text": "Règle : les amendes du jeu sont maintenant obligatoires. Overdrive Québec est un serveur réaliste, et certains roulaient à n'importe quelle vitesse en coupant les amendes du jeu : c'est fini. Le lanceur active les amendes du jeu à chaque lancement (Réglages du convoi) et tout le monde paie les mêmes vraies amendes du Québec. Si tu les coupes quand même, tu perds tout de suite ton Logbook, ton permis à points, ta place au classement et tes récompenses ; tu les retrouves après le délai du règlement une fois les amendes remises (il est écrit dans le Logbook, sous ton permis), et chaque fois que tu les coupes, le compteur repart à zéro. Coupées pendant que tu joues : un avis s'affiche tout de suite par-dessus le jeu, et le lanceur les remet quand tu fermes le jeu. Le lanceur te demande aussi une fois d'accepter le nouveau texte des récompenses (version 3) : il ajoute seulement si les amendes du jeu sont activées dans le profil que tu joues, et depuis quand. Ajustement : le staff peut maintenant annuler une infraction de service du Logbook, et ton lanceur suit tout seul. Correctif : par-dessus le jeu, la souris marche maintenant dans le Logbook en mode tablette (la flèche apparaît dessus) ; arrêté, Ctrl gardé enfoncé une demi-seconde ouvre aussi le mode tablette (ça se décoche dans les réglages). Correctif : l'écran « Permis suspendu » dit maintenant la vraie règle du permis (plus de points, quelques jours de suspension, puis le permis au complet). Correctif : le livre du Logbook compte maintenant 48 heures, comme les classements, et les infractions d'avant l'ouverture des classements s'affichent « Avant l'ouverture des classements » au lieu de « Annulée par le staff ». Nouveauté : la musique du lanceur, les chansons de Radio Overdrive au complet dans un ordre au hasard, avec un bouton pour la couper et son volume ; elle s'arrête quand le jeu roule. Quelques chansons se téléchargent une seule fois, en arrière-plan, quand la musique est allumée (environ 64 Mo en tout). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
     {
       "date": "2026-10-25",
       "title": "Overdrive Québec 3.0.41 : nettoyage des erreurs du journal du jeu",
@@ -912,7 +923,93 @@
       "url": "https://leloupnoirduquebec.github.io/overdrive-quebec/music/overdrive-quebec.mp3",
       "sha256": "a768aaf155eccdb6e3d536c030dc0b4ba32151af7000d2b28f3a6ad1f8aa0fbe",
       "sizeBytes": 4503503
-    }
+    },
+    "playlist": [
+      {
+        "file": "dans-l-oeil-du-blizzard.mp3",
+        "title": "Dans l'œil du blizzard",
+        "sha256": "2fc7606c66cc6df47968587eb4096595bf22e2388020908eec4ed5d9e1cead72",
+        "sizeBytes": 4653974
+      },
+      {
+        "file": "derniere-biere-au-honky-tonk.mp3",
+        "title": "Dernière Bière au Honky-Tonk",
+        "sha256": "4254535481be4128c3f8b174671af4ddbcbf812b5b512fc1cbc628acf25528f4",
+        "sizeBytes": 5130448
+      },
+      {
+        "file": "highway-diesel-et-liberte.mp3",
+        "title": "Highway, Diesel et Liberté",
+        "sha256": "e877535c548da1580792835e435e6864d98dff8c7071a6534f54d3d1433fe91c",
+        "sizeBytes": 3949713
+      },
+      {
+        "file": "j-roule-vers-la-maison.mp3",
+        "title": "J' roule vers la maison",
+        "sha256": "a8ad37decc13e6efa91e111e8222d9ad07889b29fb91aa669dcdbb18112bb1e4",
+        "sizeBytes": 4740074
+      },
+      {
+        "file": "l-enfer-en-sixieme.mp3",
+        "title": "L'enfer en sixième",
+        "sha256": "f229b81f9bf92d221e4a17ceb8d77cdf366eb0a995fb9e38f1d0883b5093d0b3",
+        "sizeBytes": 5221981
+      },
+      {
+        "file": "le-diable-au-volant.mp3",
+        "title": "Le Diable au Volant",
+        "sha256": "96cfb6511bc4de2a62fc9d14c63f75dfe09108052f845f89342bf68d5d671812",
+        "sizeBytes": 3968939
+      },
+      {
+        "file": "le-roi-des-longues-distances.mp3",
+        "title": "Le Roi des Longues Distances",
+        "sha256": "06f3b787ede759dcf54b8a230edaec603320a2be51b8f16e31e2045acb463155",
+        "sizeBytes": 5485295
+      },
+      {
+        "file": "les-fantomes-de-la-route.mp3",
+        "title": "Les Fantômes de la Route",
+        "sha256": "b271ad365b98129faf939e22c9ebf75024a820bdea6bb4dc3015bc74bb69a79c",
+        "sizeBytes": 4897226
+      },
+      {
+        "file": "minuit-sur-l-asphalte.mp3",
+        "title": "Minuit sur l'asphalte",
+        "sha256": "5b6c0b7ff69bf9038dd469dfb8f0b1546dccd4a5c8f81ecfcdf3407b611a875c",
+        "sizeBytes": 5095339
+      },
+      {
+        "file": "mon-vieux-truck-pis-moi.mp3",
+        "title": "Mon vieux truck pis moi",
+        "sha256": "c2b7dcf0b41dc8fb6b849e2dc15fb166400839796f97164cf278cb0f569eb257",
+        "sizeBytes": 5118327
+      },
+      {
+        "file": "ne-dans-le-bruit.mp3",
+        "title": "Né dans le bruit",
+        "sha256": "f66e234074af1dad12455eeea96e23b9c55f860c6b5757533329f5794100c35b",
+        "sizeBytes": 4424514
+      },
+      {
+        "file": "ne-pour-manger-du-millage.mp3",
+        "title": "Né pour manger du millage",
+        "sha256": "f297adbfaf39920b3dba6ebe495ca82f7183d8e3ca0723df2f0b2d3db1afe4b8",
+        "sizeBytes": 4954487
+      },
+      {
+        "file": "route-66-dans-le-sang.mp3",
+        "title": "Route 66 dans le sang",
+        "sha256": "f61f2e075a3f7d4093a7d5bf5e0b08ec3dd1675d4652a6472184d67c9cf22d73",
+        "sizeBytes": 4353043
+      },
+      {
+        "file": "sous-les-lumieres-du-truck.mp3",
+        "title": "Sous les lumières du truck",
+        "sha256": "043731a1741912ecc806cce29f08858162e7c3651286d8bf5c987de08103fa26",
+        "sizeBytes": 4935261
+      }
+    ]
   },
-  "serial": 20261026101010
+  "serial": 20261026211315
 }
