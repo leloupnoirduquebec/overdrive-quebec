@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.4",
+  "version": "0.9.5",
   "mandatory": false,
-  "notes": "Nouveauté : quand ton jeu plante, le lanceur t'aide maintenant à trouver pourquoi. Cherche « Mon jeu plante », en haut du lanceur. Pour le faire, il lit seulement le journal du jeu (game.log.txt), le fichier des plantages du jeu (game.crash.txt) et son propre journal : jamais tes sauvegardes, tes profils ni tes réglages. Rien n'est envoyé : si tu veux l'aide du staff, « Préparer pour le staff » te montre ce qu'il va mettre dans un zip, puis tu l'enregistres toi-même où tu veux. Ton nom d'utilisateur Windows, ton ID Steam, le nom de tes profils et les pseudos multijoueur du journal (le tien et ceux des autres joueurs) sont cachés dans ce zip. « À propos » dit ce qui est lu et écrit.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.4.exe",
-  "sizeBytes": 86244108,
-  "sha256": "a0a33cfdac45c7aa1354a8f92385a0561e97e1aff8c59fe4cad69d22d7bfd291",
+  "notes": "Ajustement : si ton jeu roulait déjà quand tu as ouvert le lanceur, le lanceur te le dit maintenant tout de suite, au lieu de te laisser rouler pour rien. Un avis apparaît en haut de la fenêtre (en français et en anglais), et une ligne reste dans le Logbook et au Classement tant que cette partie dure : le lanceur n'a pas vu le début de cette partie, alors ses livraisons ne comptent pas au classement. Ferme le jeu, puis lance-le avec le bouton JOUER du lanceur. Le truc à retenir : ouvre le lanceur avant le jeu, et ferme le jeu avant le lanceur.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.5.exe",
+  "sizeBytes": 86290528,
+  "sha256": "32856c926e3b9708b2b2da8042e8899494129e985ccfb51d0a5a5a8c51369336",
   "published": "2026-10-27"
 }
