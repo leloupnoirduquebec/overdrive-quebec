@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.6",
+  "version": "0.9.7",
   "mandatory": false,
-  "notes": "Correctif : la page Classement du Logbook pouvait n'afficher que les compagnies, sans aucun camionneur. Elle s'ouvrait sur ta catégorie et ton côté du classement (vérifié ou non vérifié) ; quand personne n'y avait encore de livraison comptée cette semaine, la liste des camionneurs restait vide, pendant que les compagnies, elles, montraient toute la semaine. Maintenant, si ton classement est vide, la page s'ouvre sur tous les camionneurs (toutes les catégories, vérifiés et non vérifiés) et te dit pourquoi, en orange sous les filtres. Dès que quelqu'un a une livraison dans ta catégorie et de ton côté, elle revient d'elle-même sur ton classement. Si tu touches un filtre toi-même, la page garde ton choix.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.6.exe",
-  "sizeBytes": 86324520,
-  "sha256": "f250a09816d36d580a18723c91a47cda100476b0e97db4f93f915e46e3f4fe7a",
+  "notes": "Ajustement : améliorations internes du lanceur.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.7.exe",
+  "sizeBytes": 86351984,
+  "sha256": "3098d7f303b0eaac22129e287fac206bae7ce4d306c12f0eaba22721b8977c45",
   "published": "2026-10-27"
 }
