@@ -66,6 +66,12 @@
   "news": [
     {
       "date": "2026-10-27",
+      "title": "Lanceur 0.9.6 : le Classement montre enfin les camionneurs",
+      "text": "Correctif : la page Classement du Logbook pouvait n'afficher que les compagnies. Quand personne n'était encore dans ta catégorie et de ton côté (vérifié ou non) cette semaine, la liste des camionneurs restait vide. Maintenant, le Classement s'ouvre sur tout le monde et te dit pourquoi ; dès que quelqu'un est dans ta catégorie, il revient sur ta catégorie. Correctif : sous chaque nom, tu vois maintenant sa catégorie (ex. Réaliste · non synchro), s'il est vérifié ou non, et son livre du Logbook (vert ou rouge). Correctif : les listes des compagnies suivent le filtre choisi, comme celles des camionneurs, et un filtre où personne n'a encore livré le dit clairement. Correctif : après « Effacer mes données », tu peux relier Steam et Discord tout de suite (plus d'attente de 90 jours) ; tu repars comme un nouveau joueur, avec les 48 h avant d'entrer aux classements. Correctif : la ligne « Affiches de la communauté » de la vérification ne te demande plus de corriger un réglage qu'elle ne peut pas voir ; elle te dit où le changer dans le jeu. Correctif : les fenêtres du lanceur sont lisibles de 1080p à 4K (tout est dessiné plus grand sur un grand écran), et le Logbook en jeu tient à l'écran sans défilement. Ajustement : le lanceur t'avertit après la partie si un mod qui n'est pas ceux du lanceur est actif (seuls les mods du lanceur sont permis sur le serveur), et te dit de désactiver le petit fichier « Overdrive Québec » (overdrive.scs) s'il est encore actif. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-27",
       "title": "Lanceur 0.9.5 : ouvre le lanceur avant le jeu",
       "text": "Ajustement : si ton jeu roulait déjà quand tu ouvres le lanceur, le lanceur te prévient maintenant, en français et en anglais : cette partie n'a pas été vue du début et ses livraisons ne comptent pas au classement. Ferme le jeu, puis lance-le avec le bouton JOUER du lanceur. À retenir : ouvre le lanceur avant le jeu, et ferme le jeu avant le lanceur. Ajustement : quand tu cliques sur « Effacer mes données du serveur », ton compte Discord reste bloqué 90 jours ; si c'était une erreur, le propriétaire peut maintenant lever ce blocage depuis ta fiche. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -849,7 +855,7 @@
       "name": "Ultimate Graphics Mod ATS",
       "source": "workshop",
       "workshopId": "3491882019",
-      "required": false,
+      "required": true,
       "loadOrder": 60,
       "orderAgainst": [
         "overdrive-meteo.scs"
@@ -858,6 +864,7 @@
       "orderNote": "le ciel d'Overdrive est perdu : la date du soleil revient à l'automne et les nuits sont trop longues"
     }
   ],
+  "onlyListedMods": true,
   "retiredMods": [
     {
       "package": "overdrive-ciel",
@@ -1034,5 +1041,5 @@
       }
     ]
   },
-  "serial": 20261027091327
+  "serial": 20261027201408
 }
