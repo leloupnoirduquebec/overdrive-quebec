@@ -66,6 +66,12 @@
   "news": [
     {
       "date": "2026-10-26",
+      "title": "Lanceur 0.9.4 : des nouveautés et un staff mieux outillé",
+      "text": "Certaines nouveautés ont été ajoutées dans le lanceur (de l'aide quand ton jeu plante, le calendrier des convois…), à découvrir. Ajustement : le staff a maintenant deux niveaux (le propriétaire et les modérateurs), personne du staff ne peut agir sur son propre dossier, et chaque action du staff est notée. Ajustement : le staff peut écrire une courte note sur un joueur pour ne jamais punir deux fois ; seul le staff la voit, et elle est effacée après un an au plus ou avec « Effacer mes données du serveur ». Ajustement : le staff voit un résumé par jour des amendes du jeu, avec ce que ton lanceur envoie déjà quand tu partages, pour repérer les abus et garder les classements justes ; rien de nouveau n'est collecté. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-26",
       "title": "Overdrive Québec 3.0.42 : la liste des remorques de l'IA avec le DLC Lode King",
       "text": "Correctif : chez ceux qui ont le DLC Lode King, le jeu n'arrivait toujours pas à charger sa liste de remorques de l'IA (erreur « Unable to load trailer storage » dans le journal du jeu). Quatre remorques Lode King et Prestige de l'IA se basaient sur une remorque qu'on avait retirée : elle est maintenant gardée, mais elle ne roule jamais. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.41, deux modules changent : Remorques (environ 5 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false,
@@ -1022,5 +1028,5 @@
       }
     ]
   },
-  "serial": 20261026234736
+  "serial": 20261027020523
 }
