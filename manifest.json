@@ -66,6 +66,17 @@
   "news": [
     {
       "date": "2026-10-28",
+      "title": "Overdrive Québec 3.0.43 : deux corrections sur les remorques",
+      "text": "Correctif : la bannière « OVERSIZE LOAD » et les drapeaux rouges n'apparaissent plus sur un plateau de la compagnie qui transporte un chargement ordinaire (depuis la 3.0.39, un de ces plateaux les gardait par erreur). Correctif : certaines citernes et remorques de l'IA s'affichaient sans carrosserie, avec un bout de peinture ; elles ont maintenant leur citerne ou leurs trémies, leurs pièces et la peinture de la remorque de la compagnie. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.42, deux modules changent : Remorques (environ 5 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.43.txt",
+        "sha256": "9dd160add8f7c946949e1e5a838d26fe785a17b42112e0b0b4d4a701c9124095",
+        "sizeBytes": 2156
+      }
+    },
+    {
+      "date": "2026-10-28",
       "title": "Lanceur 0.9.9 : l'événement d'Halloween arrive !",
       "text": "Nouveauté : un événement d'Halloween commence vendredi 30 octobre à 20 h, heure du Québec. Dans le lanceur (au plus tôt mercredi 28 octobre à 17 h), une bannière t'amène à la page de l'événement : la vidéo d'introduction, le compte à rebours jusqu'au départ, les règles et les prix. La vidéo s'ouvre toute seule une seule fois, quand le lanceur est devant toi et que le jeu est fermé ; tu peux la revoir depuis la page. Le classement de l'événement s'ouvre au départ. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -794,11 +805,11 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.42",
+      "version": "3.0.43",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.42.scs",
-      "sha256": "ccd67f1d078cd803016f81b5ec9d4d6c51dd0a593deff1d29f0741a29771556e",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.43.scs",
+      "sha256": "10eb85376cf10a14b1e7dfec3d193cd4e2ffe9733ba7fb2471eaf3689a496e3e",
       "sizeBytes": 4089691,
       "required": true,
       "loadOrder": 71
@@ -816,12 +827,12 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.42",
+      "version": "3.0.43",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.42.scs",
-      "sha256": "4e416309674eade23bd0df5070117af5c1aea3a47a8c1cf11d6a40752b0dc063",
-      "sizeBytes": 5339092,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.43.scs",
+      "sha256": "6221f713922755be0fee88bfdfd9155028bddf992b30212d8fa51a7c7369efa7",
+      "sizeBytes": 5339619,
       "required": true,
       "loadOrder": 73
     },
@@ -1059,5 +1070,5 @@
       }
     ]
   },
-  "serial": 20261028203445
+  "serial": 20261028204916
 }
