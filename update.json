@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.7",
+  "version": "0.9.8",
   "mandatory": false,
-  "notes": "Ajustement : améliorations internes du lanceur.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.7.exe",
-  "sizeBytes": 86351984,
-  "sha256": "3098d7f303b0eaac22129e287fac206bae7ce4d306c12f0eaba22721b8977c45",
-  "published": "2026-10-27"
+  "notes": "Ajustement : quand le classement ne te montre pas encore, la page Classement du Logbook te le dit maintenant en gros, avec la raison et un compte à rebours qui bouge à chaque seconde, par exemple « Tes livraisons comptent au classement dans 11 h 59 min 03 s », puis « Pourquoi : tes amendes du jeu sont activées depuis 36 h, il en faut 48 h ». C'est en français, avec l'anglais dessous. Chaque raison vient du serveur, qui applique les mêmes règles que pour le classement : les amendes du jeu activées depuis moins de 48 h, ton profil principal changé depuis moins de 48 h, les amendes du jeu coupées, les amendes pas encore lues par le lanceur, aucun profil principal choisi, le partage de tes données de conduite (texte 4) pas accepté, le partage avec la communauté coupé. Quand il y a quelque chose à faire (remettre les amendes, choisir ton profil principal, accepter le texte 4), le message te dit quoi. Quand ton attente est finie, le message dit « Tes prochaines livraisons comptent au classement » : tu apparais au classement avec les livraisons que tu fais après la fin de l'attente. Le lanceur redemande ta place au serveur tout seul, de moins en moins souvent si le serveur tarde à répondre.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.8.exe",
+  "sizeBytes": 86364239,
+  "sha256": "bbcfe2fbb508e01ef66253dd629142dcf2628b957905f71c95b75fb99ec5577b",
+  "published": "2026-10-28"
 }

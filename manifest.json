@@ -66,6 +66,12 @@
   "news": [
     {
       "date": "2026-10-27",
+      "title": "Lanceur 0.9.8 : pourquoi tu n'es pas encore au classement",
+      "text": "Ajustement : quand le classement ne te montre pas encore, la page Classement du Logbook te le dit maintenant en gros, avec un compte à rebours (« Tes livraisons comptent au classement dans 11 h 59 min 03 s ») et la raison (« Pourquoi : tes amendes du jeu sont activées depuis 36 h, il en faut 48 h »), en français et en anglais. Les raisons viennent du serveur, qui applique les mêmes règles que pour le classement : amendes du jeu activées depuis moins de 48 h, profil principal changé depuis moins de 48 h, amendes du jeu coupées ou pas encore lues par le lanceur, aucun profil principal choisi, partage des données de conduite (texte 4) pas accepté, partage avec la communauté coupé. Quand il y a quelque chose à faire, le message te dit quoi. Ajustement : si ta dernière partie du jeu a démarré avant le lanceur, le message le dit aussi (cette partie ne compte pas). Ajustement : le Logbook en jeu (Ctrl+Alt+J) montre le même message, plus petit, tant que tu n'es pas au classement. Si tu es déjà au classement, rien ne change pour toi. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-27",
       "title": "Lanceur 0.9.7 : améliorations internes",
       "text": "Ajustement : améliorations internes du lanceur. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -1047,5 +1053,5 @@
       }
     ]
   },
-  "serial": 20261027220811
+  "serial": 20261028100933
 }
