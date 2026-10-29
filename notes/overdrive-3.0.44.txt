@@ -1,0 +1,30 @@
+OVERDRIVE QUÉBEC 3.0.44 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : depuis la 3.0.43, deux modules, Économie (environ 26 Mo) et Base (environ 4 Mo). Tes sauvegardes se chargent comme avant.
+
+En bref : l'Halloween arrive sur la route, avec une nouveauté à découvrir dans les offres, et deux correctifs au concessionnaire de remorques.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉ À DÉCOUVRIR
+━━━━━━━━━━━━━━━━━━━━
+- Une surprise d'Halloween s'est glissée dans les offres de transport. Ouvre l'œil!
+- Aucun prérequis de compétence : tout le monde peut la trouver.
+- C'est pour l'événement d'Halloween (les détails sont dans la page Événement du lanceur). Après l'Halloween, elle disparaîtra des offres dans une prochaine mise à jour; tes sauvegardes resteront bonnes, même avec une livraison en cours.
+- Correctif, concessionnaire de remorques : les citernes à carburant et à gaz, les porte-conteneurs et les remorques à bétail ont maintenant leur nom en français (« Citerne de carburant », « Citerne de gaz », « Porte-conteneurs », « Remorque à bétail », « Remorque à bétail surbaissée »). Le jeu de base les laissait en anglais (« Fuel Tank », « Gas Tank »…). Les prix ne changent pas.
+- Correctif, concessionnaire de remorques : le « Fardier en bois Double » (le fardier derrière un jeep) n'est plus dans les offres d'origine, parce qu'il avait les mêmes jobs que le fardier simple. Si tu en as déjà un, tu le gardes : il s'attelle, roule et prend ses jobs comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions, les moteurs, les remorques (à part les noms et l'offre du concessionnaire, plus haut), la tour d'éolienne, les freins, la physique, la paie des autres cargaisons, les amendes, le ciel, les affiches, le GPS, les feux et les trains : les mêmes qu'en 3.0.43.
+
+Bonne route!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.

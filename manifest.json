@@ -66,6 +66,17 @@
   "news": [
     {
       "date": "2026-10-29",
+      "title": "Overdrive Québec 3.0.44 : l'Halloween arrive sur la route",
+      "text": "Une surprise d'Halloween s'est glissée dans les offres de transport. Ouvre l'œil! Aucun prérequis de compétence : tout le monde peut la trouver. Le classement de l'événement s'ouvre vendredi 30 octobre à 20 h, heure du Québec : les livraisons d'avant ne comptent pas. Les détails de l'événement sont dans la page Événement du lanceur. Correctif : au concessionnaire de remorques, les citernes à carburant et à gaz, les porte-conteneurs et les remorques à bétail ont maintenant leur nom en français (le jeu de base les laissait en anglais) ; les prix ne changent pas. Correctif : le « Fardier en bois Double » (le fardier derrière un jeep) n'est plus dans les offres d'origine, parce qu'il avait les mêmes jobs que le fardier simple ; si tu en as déjà un, tu le gardes. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.43, deux modules changent : Économie (environ 26 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.44.txt",
+        "sha256": "2fc10bb155cb503c5088cfa9ba9593e1d1b9c50e780b4d4b7699ef472fd4f517",
+        "sizeBytes": 2735
+      }
+    },
+    {
+      "date": "2026-10-29",
       "title": "Lanceur 0.9.10 : une sécurité en plus et des nouveautés",
       "text": "Sécurité : la vidéo d'introduction de l'événement et son affiche ne sont maintenant acceptées que si elles viennent de nos sites (overdrivequebec.ca) en connexion sécurisée (https) ; toute autre adresse est ignorée, et la page de l'événement fonctionne quand même sans la vidéo. Correctif : récompenses : une seule victoire par PC et par jour, même après « Effacer mes données ». Nouveautés : le lanceur a de nouvelles surprises, à découvrir (la page de l'événement change de look, et un petit tutoriel t'attend au premier lancement). Nouveau : l'aide « Mon jeu plante » peut maintenant recevoir de nouvelles solutions sans mise à jour du lanceur. Les textes, le classement, les prix et les règles de l'événement ne changent pas. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -811,11 +822,11 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.43",
+      "version": "3.0.44",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.43.scs",
-      "sha256": "10eb85376cf10a14b1e7dfec3d193cd4e2ffe9733ba7fb2471eaf3689a496e3e",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.44.scs",
+      "sha256": "b6b31dff8ff9a28f861f4d2c39f6bde176232fb268ecea8dacac39c32ad806d3",
       "sizeBytes": 4089691,
       "required": true,
       "loadOrder": 71
@@ -844,12 +855,12 @@
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.39",
+      "version": "3.0.44",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.39.scs",
-      "sha256": "ac2af91641b40e2a2b82f23e6c22920bde2998a151c7e8ab695a033d0526d25b",
-      "sizeBytes": 10690887,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.44.scs",
+      "sha256": "72f4793e6d83a1b51b6b3f1d8f3a52dc558564b840a57c86c1e439163c6d613c",
+      "sizeBytes": 26351817,
       "required": true,
       "loadOrder": 74
     },
@@ -1076,5 +1087,5 @@
       }
     ]
   },
-  "serial": 20261029202843
+  "serial": 20261029205340
 }
