@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.9",
+  "version": "0.9.10",
   "mandatory": false,
-  "notes": "Nouveauté : l'événement d'Halloween est annoncé dans le lanceur. Il commence vendredi 30 octobre à 20 h (heure du Québec). Dès que ton lanceur est à jour (au plus tôt mercredi 28 octobre à 17 h), une bannière apparaît dans le lanceur et la vidéo d'introduction s'ouvre toute seule, une seule fois, quand le lanceur est devant toi et que le jeu est fermé. Tu peux la revoir quand tu veux depuis la page de l'événement.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.9.exe",
-  "sizeBytes": 86365655,
-  "sha256": "78e3610535d2b2926c5d2dc1c1328ded6835bcb7fc8b2c97d3aebbb6fc5c5b38",
-  "published": "2026-10-28"
+  "notes": "Nouveauté : la page et la bannière de l'événement d'Halloween changent de look. Ça fait peur, juste ce qu'il faut. Rien ne clignote, et les petits mouvements lents s'arrêtent si tu as coupé les animations (dans le lanceur ou dans Windows).",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.10.exe",
+  "sizeBytes": 86438241,
+  "sha256": "dfbf507959d23695b2e48aa209b40fc2a67ae83df1d29cb14e94c047a4d3614b",
+  "published": "2026-10-29"
 }

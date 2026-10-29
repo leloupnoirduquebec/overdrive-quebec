@@ -65,6 +65,12 @@
   },
   "news": [
     {
+      "date": "2026-10-29",
+      "title": "Lanceur 0.9.10 : une sécurité en plus et des nouveautés",
+      "text": "Sécurité : la vidéo d'introduction de l'événement et son affiche ne sont maintenant acceptées que si elles viennent de nos sites (overdrivequebec.ca) en connexion sécurisée (https) ; toute autre adresse est ignorée, et la page de l'événement fonctionne quand même sans la vidéo. Correctif : récompenses : une seule victoire par PC et par jour, même après « Effacer mes données ». Nouveautés : le lanceur a de nouvelles surprises, à découvrir (la page de l'événement change de look, et un petit tutoriel t'attend au premier lancement). Nouveau : l'aide « Mon jeu plante » peut maintenant recevoir de nouvelles solutions sans mise à jour du lanceur. Les textes, le classement, les prix et les règles de l'événement ne changent pas. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
       "date": "2026-10-28",
       "title": "Overdrive Québec 3.0.43 : deux corrections sur les remorques",
       "text": "Correctif : la bannière « OVERSIZE LOAD » et les drapeaux rouges n'apparaissent plus sur un plateau de la compagnie qui transporte un chargement ordinaire (depuis la 3.0.39, un de ces plateaux les gardait par erreur). Correctif : certaines citernes et remorques de l'IA s'affichaient sans carrosserie, avec un bout de peinture ; elles ont maintenant leur citerne ou leurs trémies, leurs pièces et la peinture de la remorque de la compagnie. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.42, deux modules changent : Remorques (environ 5 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -1070,5 +1076,5 @@
       }
     ]
   },
-  "serial": 20261028204916
+  "serial": 20261029202843
 }
