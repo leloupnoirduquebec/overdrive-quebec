@@ -1,0 +1,36 @@
+OVERDRIVE QUÉBEC 3.0.45 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : depuis la 3.0.44, deux modules, Camions (environ 84 Mo) et Base (environ 4 Mo). Tes sauvegardes se chargent comme avant.
+
+En bref : les caméras s'ajustent, dehors comme dans la cabine. Dans la cabine, tu peux maintenant te pencher vers la couchette, regarder le plancher sur les côtés et pousser le siège (F4) plus à droite.
+
+━━━━━━━━━━━━━━━━━━━━
+CAMÉRAS
+━━━━━━━━━━━━━━━━━━━━
+- Caméra de derrière le camion (touche 2) : tu peux reculer deux fois plus loin, jusqu'à 21 m (avant : 10,5 m). Les 2 m de plus avec une remorque restent comme avant. Pour tous les camions.
+- Vue du dessus : elle monte deux fois plus haut, jusqu'à 70 m (avant : 35 m), et le jeu dessine le sol assez loin pour que ça se voie.
+- Dans la cabine : en regardant devant toi, tu peux baisser la tête jusqu'à 75° (avant : entre 50° et 60° selon le camion). En tournant la tête sur le côté, ça revient doucement vers les limites du jeu, sauf là où on a pu baisser plus (voir « Regarder le plancher sur les côtés »). 19 camions.
+- Siège (F4) : il avance plus près du tableau de bord, pour que le tableau de bord et le volant ne soient jamais coupés à l'écran. La limite a été mesurée camion par camion sur les vrais modèles du jeu : il peut avancer de 12 à 44 cm selon le camion (avant : 10 cm partout). Le W900 : 24 cm.
+- Le LoneStar, le LT et le Western Star 49X n'ont pas de place de plus vers l'avant : ils restent à 10 cm. Le VNL 2018 et le VNR électrique n'ont pas de fichier de siège dans le jeu : leur siège ne change pas.
+- Te pencher vers la couchette : quand tu regardes derrière toi par la droite, ta tête va maintenant vers le milieu de la cabine, entre les deux sièges, et un peu vers l'arrière, sans passer à travers rien. Mesuré sur toutes les cabines de chaque camion : W900, T680 et T680 2022, 579, VNL, VNL 2018 et VNL 2025, VNR électrique, Cascadia 2019 et 2024, Western Star 57X et 5700XE. Les autres camions n'ont pas de place de plus : ils gardent le mouvement du jeu.
+- Regarder le plancher sur les côtés : en tournant la tête sur le côté, tu peux aussi regarder plus bas, jusqu'à 75° selon le camion, partout où rien ne se coupe à l'écran. Pas de changement sur les côtés pour les Cascadia, le 9900i, le 579 et le 57X.
+- Siège (F4) vers la droite : jusqu'à 24 cm (avant : 10 cm), soit la moitié de la largeur d'un vrai siège de camion. W900, T680 2022, VNL, VNL 2025 et 5700XE : 24 cm ; 579 : 22 cm ; 57X : 16 cm ; Anthem et Pinnacle : 14 cm ; 389 : 12 cm. Les autres restent à 10 cm.
+- Siège (F4) vers l'arrière et vers la gauche : un peu plus sur quelques camions, là où la cabine a la place : vers l'arrière, Anthem et Pinnacle 18 cm, T680 14 cm, LoneStar et LT 12 cm ; vers la gauche, 57X 12 cm. Ailleurs, et vers le haut et le bas pour tous, on garde les 10 cm du jeu : c'est déjà le maximum réel (l'appui-tête est juste derrière ta tête, et le jeu couvre déjà les chauffeurs petits et grands).
+- Ton réglage actuel ne change pas tant que tu ne bouges pas le siège toi-même.
+- À savoir : si tu avances le siège au maximum ET que tu le mets aussi tout à gauche ou tout en bas, le bord du volant peut être un peu coupé au coin de l'écran. Le jeu fait déjà ça à ses propres limites.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Tout le reste : les camions et leurs pièces, les moteurs, les remorques, la tour d'éolienne, les freins, la physique, la paie, les cargaisons, les amendes, le ciel, les affiches, le GPS, les feux et les trains : les mêmes qu'en 3.0.44.
+
+Bonne route!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.10",
+  "version": "0.9.11",
   "mandatory": false,
-  "notes": "Nouveauté : la page et la bannière de l'événement d'Halloween changent de look. Ça fait peur, juste ce qu'il faut. Rien ne clignote, et les petits mouvements lents s'arrêtent si tu as coupé les animations (dans le lanceur ou dans Windows).",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.10.exe",
-  "sizeBytes": 86438241,
-  "sha256": "dfbf507959d23695b2e48aa209b40fc2a67ae83df1d29cb14e94c047a4d3614b",
-  "published": "2026-10-29"
+  "notes": "Nouveau : les saisons. Chaque mois, une nouvelle saison du classement, du 1er au dernier jour du mois (heure du Québec). La première commence le 1er novembre. Une livraison compte dans le mois où elle est livrée. Une carte « La saison du mois » en bas de la page Classement montre le mois en cours et les saisons passées.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.11.exe",
+  "sizeBytes": 86458361,
+  "sha256": "0c6b8b406a9045069f0c3033fec0db5a1459dd05860b3e8ff4711c7d6268f1f1",
+  "published": "2026-10-30"
 }

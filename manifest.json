@@ -65,6 +65,23 @@
   },
   "news": [
     {
+      "date": "2026-10-30",
+      "title": "Overdrive Québec 3.0.45 : les caméras ajustées",
+      "text": "Caméras : la caméra extérieure recule deux fois plus loin (21 m), la vue du dessus monte deux fois plus haut (70 m), on regarde plus bas dans la cabine, devant comme sur les côtés, on se penche vers la couchette en regardant derrière par la droite, et le siège (F4) avance plus près du tableau de bord et va plus loin à droite (jusqu'à 24 cm selon le camion). Ton réglage actuel ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.44, deux modules changent : Camions (environ 84 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.45.txt",
+        "sha256": "c8cf1600a80d63957a8531d18b9d0a6dc6a07b89c67538299e3dbc7f15c195b0",
+        "sizeBytes": 4528
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "title": "Lanceur 0.9.11 : les saisons du classement",
+      "text": "Nouveau : les saisons. Chaque mois, une nouvelle saison du classement, du 1er au dernier jour du mois (heure du Québec). La première commence le 1er novembre. À accepter une fois : la mise à jour du partage de conduite. Ce sont les mêmes données qu'avant, rien de plus n'est reçu ni gardé ; le texte dit plus clairement ce qui est public : ta fiche, les podiums de la semaine et du mois, et les noms que le bot Discord affiche. Si tu ne l'acceptes pas, tu gardes tes classements, mais tu n'apparais pas à ces endroits. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
       "date": "2026-10-29",
       "title": "Overdrive Québec 3.0.44 : l'Halloween arrive sur la route",
       "text": "Une surprise d'Halloween s'est glissée dans les offres de transport. Ouvre l'œil! Aucun prérequis de compétence : tout le monde peut la trouver. Le classement de l'événement s'ouvre vendredi 30 octobre à 20 h, heure du Québec : les livraisons d'avant ne comptent pas. Les détails de l'événement sont dans la page Événement du lanceur. Correctif : au concessionnaire de remorques, les citernes à carburant et à gaz, les porte-conteneurs et les remorques à bétail ont maintenant leur nom en français (le jeu de base les laissait en anglais) ; les prix ne changent pas. Correctif : le « Fardier en bois Double » (le fardier derrière un jeep) n'est plus dans les offres d'origine, parce qu'il avait les mêmes jobs que le fardier simple ; si tu en as déjà un, tu le gardes. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.43, deux modules changent : Économie (environ 26 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -822,11 +839,11 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.44",
+      "version": "3.0.45",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.44.scs",
-      "sha256": "b6b31dff8ff9a28f861f4d2c39f6bde176232fb268ecea8dacac39c32ad806d3",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.45.scs",
+      "sha256": "425a971dcfccd4fc47a76adfd233c2d481c0251d901100dd9d22c0eb24737fee",
       "sizeBytes": 4089691,
       "required": true,
       "loadOrder": 71
@@ -877,12 +894,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.37",
+      "version": "3.0.45",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.37.scs",
-      "sha256": "569883fc6f940802be387afbd40c8911124f65714d21596f49c8cc31b5c3145e",
-      "sizeBytes": 83902227,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.45.scs",
+      "sha256": "b19611feb769b2583e5ee17c1b3f06d4335a51a4355e5ae567bc9a6bf09d9f4c",
+      "sizeBytes": 83936154,
       "required": true,
       "loadOrder": 76
     },
@@ -1087,5 +1104,5 @@
       }
     ]
   },
-  "serial": 20261029205340
+  "serial": 20261030205640
 }
