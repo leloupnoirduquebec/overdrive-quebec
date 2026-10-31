@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.11",
+  "version": "0.9.12",
   "mandatory": false,
-  "notes": "Nouveau : les saisons. Chaque mois, une nouvelle saison du classement, du 1er au dernier jour du mois (heure du Québec). La première commence le 1er novembre. Une livraison compte dans le mois où elle est livrée. Une carte « La saison du mois » en bas de la page Classement montre le mois en cours et les saisons passées.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.11.exe",
-  "sizeBytes": 86458361,
-  "sha256": "0c6b8b406a9045069f0c3033fec0db5a1459dd05860b3e8ff4711c7d6268f1f1",
-  "published": "2026-10-30"
+  "notes": "Accueil du lanceur revu : tout rentre maintenant dans la fenêtre, petite ou grande. La carte du serveur n'est plus coupée en bas (mot de passe et bouton Copier visibles), le titre de la carte Discord tient sur une ligne et les boutons du haut sont alignés.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.12.exe",
+  "sizeBytes": 86523770,
+  "sha256": "19112f13cf157579fddd36f0febd2070619d935864eec1412ef73d0af23113af",
+  "published": "2026-10-31"
 }

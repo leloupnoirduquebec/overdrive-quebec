@@ -65,6 +65,12 @@
   },
   "news": [
     {
+      "date": "2026-10-31",
+      "title": "Lanceur 0.9.12 : un accueil plus clair",
+      "text": "L'accueil du lanceur a été revu : tout rentre maintenant dans la fenêtre, petite ou grande, et quelques nouveautés t'attendent, pour les nouveaux comme pour les habitués. Correctif : Logbook : l'inspection du début de journée se fait maintenant avec ou sans voyage. Ton camion seul, ça compte ; une remorque attelée plus tard est vérifiée quand tu l'attelles. Avant, sans voyage, la journée virait au rouge. Ajustement : le podium du mois n'a plus de minimum de kilomètres : une livraison dans le mois suffit, avec les autres conditions. Le podium de la semaine ne change pas. Correctif : la carte de la saison et la fiche du camionneur s'affichent dans une seule langue, celle du lanceur. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
       "date": "2026-10-30",
       "title": "Overdrive Québec 3.0.46 : la caméra de derrière plus loin et des freins plus réalistes",
       "text": "Caméra de derrière (touche 2) : avec une remorque, elle recule jusqu'à 52 m (avant : 23 m) pour voir tout ton convoi ; sans remorque, jusqu'à 30 m (avant : 21 m). Elle monte aussi jusqu'à 85° au-dessus du camion, presque à la verticale (avant : 50°). Ton réglage actuel ne change pas : elle part à la même distance et au même angle qu'avant. Freins : tous les véhicules freinent environ 13 % moins fort, plus proche d'un vrai camion (de 50 à 30 km/h : environ 2,3 s au lieu de 2 s en freinage normal), toujours dans la référence d'un vrai camion chargé. Tes réglages du jeu (ABS, force du freinage) ne changent pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.45, trois modules changent : Camions (environ 84 Mo), Base (environ 4 Mo) et Physique (environ 80 Ko). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -1115,5 +1121,5 @@
       }
     ]
   },
-  "serial": 20261031140817
+  "serial": 20261031150802
 }
