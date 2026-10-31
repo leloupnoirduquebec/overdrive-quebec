@@ -1,0 +1,41 @@
+OVERDRIVE QUÉBEC 3.0.46 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent se téléchargent : depuis la 3.0.45, trois modules, Camions (environ 84 Mo), Base (environ 4 Mo) et Physique (environ 80 Ko). Tes sauvegardes se chargent comme avant.
+
+En bref : la caméra de derrière recule beaucoup plus loin avec une remorque et monte presque à la verticale. Les freins sont un peu moins forts, plus proches d'un vrai camion.
+
+━━━━━━━━━━━━━━━━━━━━
+CAMÉRA DE DERRIÈRE
+━━━━━━━━━━━━━━━━━━━━
+- Caméra de derrière le camion (touche 2), avec une remorque : tu peux reculer jusqu'à 52 m (avant : 23 m). Tu vois tout ton convoi, même un train double, un long fardier ou la tour d'éolienne. Pour tous les camions.
+- Sans remorque : jusqu'à 30 m (avant : 21 m).
+- Elle monte maintenant jusqu'à 85° au-dessus du camion, presque à la verticale (avant : 50°). Elle ne passe toujours pas sous la route. Le tour complet à l'horizontale, lui, était déjà permis.
+- Ton réglage actuel ne change pas : la caméra part à la même distance et au même angle qu'avant. C'est toi qui recules ou montes avec la souris.
+- À savoir : plus la caméra est loin, plus le jeu la rapproche quand un arbre, un bâtiment ou le terrain passe entre elle et le camion (en forêt ou en ville). La molette peut demander plus de crans pour aller au bout.
+- La vue du dessus et les caméras de la cabine ne changent pas depuis la 3.0.45.
+
+━━━━━━━━━━━━━━━━━━━━
+FREINS
+━━━━━━━━━━━━━━━━━━━━
+- Tous les véhicules (camions, remorques et autos) freinent environ 13 % moins fort, plus proche d'un vrai camion. C'est un seul réglage du jeu : pareil pour tout le monde.
+- De 50 à 30 km/h : environ 2,3 s au lieu de 2 s en freinage normal. À fond : environ 0,8 à 1 s (avant : 0,7 à 0,85 s ; un vrai camion de 80 000 lb : 1 s, essais réels du gouvernement américain).
+- Ça reste dans la référence d'un vrai camion : à fond, tu freines au moins aussi bien qu'un vrai camion chargé, et l'arrêt depuis 96 km/h reste sous le maximum de la loi américaine (250 pieds).
+- La chaleur des freins ne change pas.
+- Tes réglages du jeu (ABS, force du freinage) ne changent pas.
+- À savoir : avec l'ABS, un freinage à fond peut rester presque pareil si tes pneus étaient déjà à la limite de l'adhérence. Le freinage normal, lui, change.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Tout le reste : les camions et leurs pièces, les moteurs, les remorques, la tour d'éolienne, la vue du dessus, les caméras de la cabine et le siège, la suspension, la paie, les cargaisons, l'événement d'Halloween, les amendes, le ciel, les affiches, le GPS, les feux et les trains : les mêmes qu'en 3.0.45.
+
+Bonne route!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.

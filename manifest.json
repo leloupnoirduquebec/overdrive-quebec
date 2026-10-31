@@ -66,6 +66,17 @@
   "news": [
     {
       "date": "2026-10-30",
+      "title": "Overdrive Québec 3.0.46 : la caméra de derrière plus loin et des freins plus réalistes",
+      "text": "Caméra de derrière (touche 2) : avec une remorque, elle recule jusqu'à 52 m (avant : 23 m) pour voir tout ton convoi ; sans remorque, jusqu'à 30 m (avant : 21 m). Elle monte aussi jusqu'à 85° au-dessus du camion, presque à la verticale (avant : 50°). Ton réglage actuel ne change pas : elle part à la même distance et au même angle qu'avant. Freins : tous les véhicules freinent environ 13 % moins fort, plus proche d'un vrai camion (de 50 à 30 km/h : environ 2,3 s au lieu de 2 s en freinage normal), toujours dans la référence d'un vrai camion chargé. Tes réglages du jeu (ABS, force du freinage) ne changent pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.45, trois modules changent : Camions (environ 84 Mo), Base (environ 4 Mo) et Physique (environ 80 Ko). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.46.txt",
+        "sha256": "4c64682e5dbaf3e9d8b3c43d6eef8037dccbdfca6c069764afa58a790de90455",
+        "sizeBytes": 3633
+      }
+    },
+    {
+      "date": "2026-10-30",
       "title": "Overdrive Québec 3.0.45 : les caméras ajustées",
       "text": "Caméras : la caméra extérieure recule deux fois plus loin (21 m), la vue du dessus monte deux fois plus haut (70 m), on regarde plus bas dans la cabine, devant comme sur les côtés, on se penche vers la couchette en regardant derrière par la droite, et le siège (F4) avance plus près du tableau de bord et va plus loin à droite (jusqu'à 24 cm selon le camion). Ton réglage actuel ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Depuis la 3.0.44, deux modules changent : Camions (environ 84 Mo) et Base (environ 4 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false,
@@ -839,12 +850,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.45",
+      "version": "3.0.46",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.45.scs",
-      "sha256": "425a971dcfccd4fc47a76adfd233c2d481c0251d901100dd9d22c0eb24737fee",
-      "sizeBytes": 4089691,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.46.scs",
+      "sha256": "6f7f96ac40427249575806bf50e5a16d672c1295a79839088d9fc9e19cad561f",
+      "sizeBytes": 4089693,
       "required": true,
       "loadOrder": 71
     },
@@ -883,23 +894,23 @@
     },
     {
       "name": "Overdrive Québec — Physique",
-      "version": "3.0.32",
+      "version": "3.0.46",
       "source": "direct",
       "fileName": "overdrive-physique.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.32.scs",
-      "sha256": "2f2cb9276520ce33ea8bedfaf3c98cc4e16c8bb96544e864ce738d675f41f7db",
-      "sizeBytes": 78524,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.46.scs",
+      "sha256": "32506970cd25449052fc170b6e7a58f6d27a6764bfa2ad51033450feb50831c4",
+      "sizeBytes": 78530,
       "required": true,
       "loadOrder": 75
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.45",
+      "version": "3.0.46",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.45.scs",
-      "sha256": "b19611feb769b2583e5ee17c1b3f06d4335a51a4355e5ae567bc9a6bf09d9f4c",
-      "sizeBytes": 83936154,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.46.scs",
+      "sha256": "cce20a3d97671b4ff201313da7cd4dceed4c8d850a302540628b0abe71c05036",
+      "sizeBytes": 83936167,
       "required": true,
       "loadOrder": 76
     },
@@ -1104,5 +1115,5 @@
       }
     ]
   },
-  "serial": 20261030205640
+  "serial": 20261031140817
 }
