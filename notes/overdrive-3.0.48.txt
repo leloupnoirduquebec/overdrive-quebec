@@ -1,0 +1,57 @@
+OVERDRIVE QUÉBEC 3.0.48 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls 4 modules changent : Économie, Camions, Base et Remorques (environ 124 Mo). Tes sauvegardes se chargent comme avant.
+
+En bref : du nouveau pour le W900 et plusieurs correctifs (trafic, IA, journal du jeu).
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU POUR LE W900
+━━━━━━━━━━━━━━━━━━━━
+- Un petit quelque chose sur le dash, de nuit. À toi de le trouver au garage.
+- Avec le Tuning Pack : quelque chose à l'arrière de la cabine.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- Trafic : jusqu'à 15 véhicules IA par joueur (avant 10) ; ils apparaissent à 350 m (avant 300 m) et disparaissent au-delà de 450 m (avant 400 m).
+- IA : les plateformes Lode King et Prestige reviennent sur la route (pour ceux qui ont le DLC).
+- Journal du jeu : fin des lignes d'erreur « remorque garée introuvable » des anciennes remorques retirées.
+- Icônes de cargaisons : correction de l'image des 8 cargaisons du jeu qui n'en ont pas dans la liste des contrats (les batteries, les granulés chimiques, l'éthanol, le soufre et 4 cargaisons d'Halloween du jeu). Elles prennent l'image d'une cargaison semblable du jeu.
+- Gestionnaire de mods : la description du module Camions est à jour pour la caméra de la cabine. Le regard plus bas est vers l'avant, et un peu sur les côtés selon le camion (comme depuis la 3.0.47).
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie des contrats, les offres des compagnies, les camions et leurs pièces (sauf les nouveautés du W900), les moteurs, les phares et les gyrophares, le klaxon de train, les remorques en vente, les caméras, le siège, la suspension, les freins, le ciel, les affiches, le GPS, les feux de circulation et les trains : les mêmes qu'en 3.0.47.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only 4 modules change: Économie, Camions, Base and Remorques (about 124 MB). Your saves load as before.
+
+New for the W900
+- A little something on the dash, at night. Find it in the garage.
+- With the Tuning Pack: something at the back of the cab.
+
+Fixes
+- Traffic: up to 15 AI vehicles per player (was 10); they appear at 350 m (was 300 m) and leave beyond 450 m (was 400 m).
+- AI: the Lode King and Prestige flatbeds are back on the road (for DLC owners).
+- Game log: no more « parked trailer not found » error lines from the old retired trailers.
+- Cargo icons: a fix for the image of the 8 game cargoes that have none in the job list (batteries, chemical granules, ethanol, sulfur and 4 of the game's Halloween cargoes). They take the image of a similar game cargo.
+- Mod manager: the Camions module's description is up to date for the cab camera. Looking lower works ahead, and a little to the sides depending on the truck (as since 3.0.47).
+
+What does not change
+- Contract pay, company offers, the trucks and their parts (but the W900's new items), engines, headlights and beacons, the train horn, the trailers on sale, cameras, the seat, suspension, brakes, sky, posters, GPS, traffic lights and trains: the same as in 3.0.47.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
