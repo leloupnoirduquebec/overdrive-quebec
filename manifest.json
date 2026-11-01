@@ -66,6 +66,12 @@
   "news": [
     {
       "date": "2026-11-01",
+      "title": "Lanceur 0.9.14 : des correctifs pour les classements",
+      "text": "Correctif : le classement charge plus vite et dit quand il ne peut pas charger (bouton Réessayer). Correctif : moins de saccades en changeant de page. Correctif : les fiches montrent la bonne pastille Logbook et les places de la semaine. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-11-01",
       "title": "Overdrive Québec 3.0.48 : du nouveau pour le W900 et plusieurs correctifs",
       "text": "Nouveau pour le W900 : un petit quelque chose sur le dash, de nuit, et, avec le Tuning Pack, quelque chose à l'arrière de la cabine. Correctif pour le trafic : jusqu'à 15 véhicules IA par joueur (avant 10) ; ils apparaissent à 350 m et disparaissent au-delà de 450 m. Correctif : les plateformes Lode King et Prestige de l'IA reviennent sur la route (pour ceux qui ont le DLC). Correctif : fin des lignes d'erreur « remorque garée introuvable » dans le journal du jeu. Correctif pour les icônes de cargaisons : les 8 cargaisons du jeu qui n'ont pas d'image dans la liste des contrats (les batteries, les granulés chimiques, l'éthanol, le soufre et 4 cargaisons d'Halloween du jeu) prennent l'image d'une cargaison semblable du jeu. Correctif : dans le gestionnaire de mods, la description du module Camions est à jour pour la caméra de la cabine (le regard plus bas est vers l'avant, et un peu sur les côtés selon le camion). Le reste ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 4 modules changent : Économie, Camions, Base et Remorques (environ 124 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false,
@@ -1149,5 +1155,5 @@
       }
     ]
   },
-  "serial": 20261101212051
+  "serial": 20261101232237
 }

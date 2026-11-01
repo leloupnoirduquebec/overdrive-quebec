@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.13",
+  "version": "0.9.14",
   "mandatory": false,
-  "notes": "Les classements ont été revus dans le lanceur : quelques nouveautés t'y attendent, à toi de les découvrir.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.13.exe",
-  "sizeBytes": 86660850,
-  "sha256": "639108113ab7eaac98e846958105eb35ce327ef16b32b5945c8dacf070a2fa78",
+  "notes": "Correctif : le classement charge plus vite et dit quand il ne peut pas charger (bouton Réessayer).",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.14.exe",
+  "sizeBytes": 86685886,
+  "sha256": "1066f197642acc9bd53caf73f665feb04b66cfb0159bec4e9b16577cbf54473a",
   "published": "2026-11-01"
 }
