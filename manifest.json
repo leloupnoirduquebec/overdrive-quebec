@@ -66,6 +66,17 @@
   "news": [
     {
       "date": "2026-10-31",
+      "title": "Overdrive Québec 3.0.47 : la paie des contrats, des phares plus forts et plus de variété dans les offres",
+      "text": "Paie des contrats : toutes les cargaisons du jeu paient 20 % de plus au kilomètre, sauf les marchandises exceptionnelles (icône « Marchandises exceptionnelles », la tour d'éolienne comprise) qui paient 10 % de moins. Le sable, la ferraille, le sel, les pierres, la terre excavée et le calcaire paient 30 % de plus, le gravier 40 % de plus et les copeaux de bois 4 fois plus. La partie fixe de chaque contrat et les bonus du jeu ne changent pas. Phares : sur tous les camions, le plein phare éclaire 25 % plus fort et les feux de croisement plus large sur les côtés, surtout à gauche ; tous les gyrophares éclairent 15 % plus fort et 50 % plus loin. W900 : les gyrophares et les clignotants mauves sont retirés de la boutique ; un camion qui en a un reprend le look d'origine du jeu, rien à faire. Plus de variété dans les offres de certaines compagnies. Nouvelles images dans le gestionnaire de mods. Correctif : la caméra de la cabine : vers les fenêtres de côté, regarder vers le bas revient à la limite du jeu sur la plupart des camions (vers l'avant, rien ne change). Le chargement d'Halloween reste là et garde sa paie. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Cette fois, les 8 modules se téléchargent une fois au complet (environ 290 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.47.txt",
+        "sha256": "0656fd0fe2063f902836c7372bbf09bc60f558a6b3837ae0115c589c0f97edae",
+        "sizeBytes": 8013
+      }
+    },
+    {
+      "date": "2026-10-31",
       "title": "Lanceur 0.9.12 : un accueil plus clair",
       "text": "L'accueil du lanceur a été revu : tout rentre maintenant dans la fenêtre, petite ou grande, et quelques nouveautés t'attendent, pour les nouveaux comme pour les habitués. Correctif : Logbook : l'inspection du début de journée se fait maintenant avec ou sans voyage. Ton camion seul, ça compte ; une remorque attelée plus tard est vérifiée quand tu l'attelles. Avant, sans voyage, la journée virait au rouge. Ajustement : le podium du mois n'a plus de minimum de kilomètres : une livraison dans le mois suffit, avec les autres conditions. Le podium de la semaine ne change pas. Correctif : la carte de la saison et la fiche du camionneur s'affichent dans une seule langue, celle du lanceur. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -834,100 +845,100 @@
   "mods": [
     {
       "name": "Overdrive Québec",
-      "version": "3.0.32",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-3.0.32.scs",
-      "sha256": "d822777a18170690491d53a9263ea875e25a32b1d5ac1eaa47a796a3f4bfed96",
-      "sizeBytes": 2879,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-3.0.47.scs",
+      "sha256": "349c6f940db21eafd289c7358e39d752c455438d86476a6ef70a7916f8e7ea92",
+      "sizeBytes": 16401,
       "required": false,
       "loadOrder": 10
     },
     {
       "name": "Overdrive Québec — Communauté",
-      "version": "3.0.32",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive-communaute.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.32.scs",
-      "sha256": "d03568a8322032bc21e081fa4d828c5f86251e95b5433a14b8ad48d04944b0ea",
-      "sizeBytes": 71841494,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.47.scs",
+      "sha256": "05349db1d8751b5f6919eae617ae71daf3b8f4cb32f21351fdf64fb62f52ff6a",
+      "sizeBytes": 71845593,
       "required": true,
       "loadOrder": 70
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.46",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.46.scs",
-      "sha256": "6f7f96ac40427249575806bf50e5a16d672c1295a79839088d9fc9e19cad561f",
-      "sizeBytes": 4089693,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.47.scs",
+      "sha256": "cf3fbe2f61bac0b01acb8ad4a6bea4bac7ae16cfdb77184ea4e13516da80d338",
+      "sizeBytes": 4097954,
       "required": true,
       "loadOrder": 71
     },
     {
       "name": "Overdrive Québec — Remorques (modèles 3D)",
-      "version": "3.0.41",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive-remorques-modeles.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.41.scs",
-      "sha256": "7d2a0a39884d17a2b00786a39f0fc305312df5e73cc07d826038b19a7780e749",
-      "sizeBytes": 99438103,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-modeles-3.0.47.scs",
+      "sha256": "383d3bcdaa38be5ba346cce06a3eb743f5a280253d49074c32ea8f04e0b8cf2e",
+      "sizeBytes": 99443508,
       "required": true,
       "loadOrder": 72
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.43",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.43.scs",
-      "sha256": "6221f713922755be0fee88bfdfd9155028bddf992b30212d8fa51a7c7369efa7",
-      "sizeBytes": 5339619,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.47.scs",
+      "sha256": "8c637bb6c4981f306f9e75ad8b71337eccf47a04cfd2454ee6e443c07bacd20e",
+      "sizeBytes": 5345695,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.44",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.44.scs",
-      "sha256": "72f4793e6d83a1b51b6b3f1d8f3a52dc558564b840a57c86c1e439163c6d613c",
-      "sizeBytes": 26351817,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.47.scs",
+      "sha256": "73bffbe0b001cfd46214c97559eae8f8ff2bd22b80431b33d9310b22dcbd0746",
+      "sizeBytes": 26368910,
       "required": true,
       "loadOrder": 74
     },
     {
       "name": "Overdrive Québec — Physique",
-      "version": "3.0.46",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive-physique.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.46.scs",
-      "sha256": "32506970cd25449052fc170b6e7a58f6d27a6764bfa2ad51033450feb50831c4",
-      "sizeBytes": 78530,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.47.scs",
+      "sha256": "3b6bfdd42d3409220973a3998ed5cdf459ea28ec8e924fde89a02f471cfb7119",
+      "sizeBytes": 82968,
       "required": true,
       "loadOrder": 75
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.46",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.46.scs",
-      "sha256": "cce20a3d97671b4ff201313da7cd4dceed4c8d850a302540628b0abe71c05036",
-      "sizeBytes": 83936167,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.47.scs",
+      "sha256": "9ec65821f62fcbbae5491479426cde8d92c519c7b1d88f8cc8c28b735cb8afed",
+      "sizeBytes": 84479872,
       "required": true,
       "loadOrder": 76
     },
     {
       "name": "Overdrive Québec — Météo",
-      "version": "3.0.32",
+      "version": "3.0.47",
       "source": "direct",
       "fileName": "overdrive-meteo.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-meteo-3.0.32.scs",
-      "sha256": "177434f60e166eb29d56dc3525f55ce2457e5fc6d2067a5f082d1a9b3d96d434",
-      "sizeBytes": 13520,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-meteo-3.0.47.scs",
+      "sha256": "604654eb976fe3481d75ad7445172a4e7e2b2a3eaecffbc883436566dcf2f532",
+      "sizeBytes": 16183,
       "required": true,
       "loadOrder": 77
     },
@@ -1121,5 +1132,5 @@
       }
     ]
   },
-  "serial": 20261031150802
+  "serial": 20261101011108
 }

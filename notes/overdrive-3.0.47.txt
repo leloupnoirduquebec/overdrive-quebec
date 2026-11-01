@@ -1,0 +1,103 @@
+OVERDRIVE QUÉBEC 3.0.47 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Cette fois, les 8 modules se téléchargent une fois au complet (environ 290 Mo en tout), parce que chacun a sa nouvelle image dans le gestionnaire de mods. Tes sauvegardes se chargent comme avant.
+
+En bref : la paie des contrats monte, plus de variété dans les offres de certaines compagnies, des phares et des gyrophares plus forts, et quelques correctifs.
+
+━━━━━━━━━━━━━━━━━━━━
+PAIE DES CONTRATS
+━━━━━━━━━━━━━━━━━━━━
+- Les marchandises exceptionnelles (l'icône « Marchandises exceptionnelles » dans la liste des contrats, la tour d'éolienne comprise) paient 10 % de moins au kilomètre.
+- Le sable, la ferraille, le sel (en sacs et en vrac), les pierres, la terre excavée et le calcaire paient 30 % de plus.
+- Le gravier paie 40 % de plus.
+- Les copeaux de bois paient 4 fois plus.
+- Toutes les autres cargaisons du jeu paient 20 % de plus ; le chargement d'Halloween garde sa paie.
+- La partie fixe de chaque contrat et les bonus du jeu ne changent pas : un voyage complet monte donc d'un peu moins que ces pourcentages.
+
+━━━━━━━━━━━━━━━━━━━━
+OFFRES DES COMPAGNIES
+━━━━━━━━━━━━━━━━━━━━
+- Plus de variété dans les offres : les concessionnaires Kenworth, Wanderlust, les chantiers de forage Gallon Oil et Vortex et Sweetbeets offrent de nouvelles cargaisons logiques pour leur industrie.
+- Quatre offres de convoi lourd qui ne pouvaient jamais sortir de leur dépôt ont été retirées. Tu ne les voyais jamais en jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+PHARES ET GYROPHARES
+━━━━━━━━━━━━━━━━━━━━
+- Phares : sur tous les camions, le plein phare éclaire 25 % plus fort, à la même distance.
+- Les feux de croisement éclairent plus large sur les côtés, surtout à gauche : l'entrée de route à gauche se voit mieux quand tu tournes. Ils n'éblouissent pas plus les autres.
+- Gyrophares : tous les gyrophares (camions, remorques, circulation, police, ambulances) éclairent 15 % plus fort et 50 % plus loin autour d'eux. Ça se voit sur les murs et les bâtiments.
+
+━━━━━━━━━━━━━━━━━━━━
+W900 : PIÈCES MAUVES
+━━━━━━━━━━━━━━━━━━━━
+- Les gyrophares mauves (Overdrive Mauve 1 à 3) et les clignotants mauves (feux d'aile avant Overdrive Mauve 1 et 2, miroir Legacy Overdrive Mauve 1) sont retirés de la boutique.
+- Si ton camion en a un, il reprend le look d'origine du jeu (gyrophare, feux de position et clignotants orange). Rien à faire de ton côté.
+- Les autres pièces mauves ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+GESTIONNAIRE DE MODS
+━━━━━━━━━━━━━━━━━━━━
+- Nouvelles images dans le gestionnaire de mods : chaque module d'Overdrive a maintenant sa propre image.
+- Le petit fichier « overdrive.scs » s'appelle maintenant « Overdrive Québec — fichier du lanceur (laisser inactif) ». Il est vide : laisse-le inactif, inutile de le supprimer, le lanceur le remet.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- Caméra de la cabine : le jeu signalait un avertissement (W900 surtout). Quand tu tournes la tête vers les côtés, la limite pour regarder vers le bas change maintenant en douceur d'une zone à l'autre, sur tous les camions. Regarder plus bas vers l'avant, comme depuis la 3.0.45, ne change pas. Vers les fenêtres de côté, cette limite revient à celle du jeu sur la plupart des camions, là où descendre plus bas aurait fait passer la vue à travers la cabine.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Le chargement d'Halloween reste là.
+- Les camions et leurs pièces (sauf les phares et les pièces mauves plus haut), les moteurs, les remorques, la tour d'éolienne (sauf sa paie), les caméras (sauf le correctif de la cabine), le siège, la suspension, les freins, le ciel, les affiches, le GPS, les feux de circulation et les trains : les mêmes qu'en 3.0.46.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). This time the 8 modules download in full once (about 290 MB in all), because each one has its new image in the mod manager. Your saves load as before.
+
+Contract pay
+- Exceptional loads (the "Heavy Cargo" icon in the job list, the wind tower included) pay 10% less per kilometre.
+- Sand, scrap metal, salt (bagged and bulk), stones, excavated soil and limestone pay 30% more.
+- Gravel pays 40% more.
+- Wood chips pay 4 times as much.
+- Every other game cargo pays 20% more; the Halloween load keeps its pay.
+- The fixed part of each contract and the game's bonuses do not change, so a whole trip goes up a little less than these percentages.
+
+Company offers
+- More variety in the offers: Kenworth dealers, Wanderlust, the Gallon Oil and Vortex drilling sites and Sweetbeets offer new cargoes that fit their industry.
+- Four heavy-haul offers that could never leave their depot were removed. You never saw them in game.
+
+Headlights and beacons
+- Headlights: on every truck, high beams are 25% brighter and reach the same distance.
+- Low beams light wider to the sides, mostly to the left, so the road entrance on your left shows better when you turn. They do not dazzle other drivers more.
+- Beacons: every beacon (trucks, trailers, traffic, police, ambulances) is 15% brighter and lights 50% farther around it, on walls and buildings.
+
+W900: purple parts
+- The purple beacons (Overdrive Mauve 1 to 3) and the purple turn signals (Overdrive Mauve 1 and 2 front fender lights, Overdrive Mauve 1 Legacy mirror) are removed from the shop.
+- If your truck has one, it goes back to the game's original look (amber beacon, marker lights and turn signals). Nothing to do on your side.
+- Every other purple part stays the same.
+
+Mod manager
+- New images in the mod manager: each Overdrive module now has its own image.
+- The small "overdrive.scs" file is now called « Overdrive Québec — fichier du lanceur (laisser inactif) ». It is empty: leave it inactive; no need to delete it, the launcher puts it back.
+
+Fixes
+- Cab camera: the game logged a warning (mostly the W900). When you turn your head to the sides, the limit for looking down now changes smoothly from one zone to the next, on every truck. Looking further down ahead, as since 3.0.45, does not change. Toward the side windows that limit goes back to the game's on most trucks, where looking lower would have put the view through the cab.
+
+What does not change
+- The Halloween load stays.
+- The trucks and their parts (except the headlights and the purple parts above), engines, trailers, the wind tower (except its pay), the cameras (except the cab fix), the seat, suspension, brakes, sky, posters, GPS, traffic lights and trains: the same as in 3.0.46.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
