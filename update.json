@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.12",
+  "version": "0.9.13",
   "mandatory": false,
-  "notes": "Accueil du lanceur revu : tout rentre maintenant dans la fenêtre, petite ou grande. La carte du serveur n'est plus coupée en bas (mot de passe et bouton Copier visibles), le titre de la carte Discord tient sur une ligne et les boutons du haut sont alignés.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.12.exe",
-  "sizeBytes": 86523770,
-  "sha256": "19112f13cf157579fddd36f0febd2070619d935864eec1412ef73d0af23113af",
-  "published": "2026-10-31"
+  "notes": "Les classements ont été revus dans le lanceur : quelques nouveautés t'y attendent, à toi de les découvrir.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.13.exe",
+  "sizeBytes": 86660850,
+  "sha256": "639108113ab7eaac98e846958105eb35ce327ef16b32b5945c8dacf070a2fa78",
+  "published": "2026-11-01"
 }

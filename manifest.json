@@ -66,6 +66,12 @@
   "news": [
     {
       "date": "2026-10-31",
+      "title": "Lanceur 0.9.13 : les classements revus et un départ guidé",
+      "text": "Les classements ont été revus dans le lanceur : quelques nouveautés t'y attendent, à toi de les découvrir. Nouveau : le petit livre du Logbook a une troisième couleur, l'orange : ton journal est propre, mais le mode Logbook ou les amendes du jeu sont en marche depuis moins de 48 h. Il redevient vert tout seul (avant, ce cas-là donnait un livre rouge). Le podium demande toujours le livre vert. Ajustement : « Meilleures habitudes » affiche maintenant les infractions aux 1 000 km (ce qui sert à la classer) au lieu des points du permis. Correctif : la page des classements et la fiche du camionneur s'affichent au complet dans une seule langue, celle du lanceur. Correctif : les citrouilles sur le toit des camions de l'accueil sont parties, et l'ambiance d'Halloween s'enrichit un peu. Nouveau : au démarrage, le lanceur te demande une seule fois de lier ton Steam et ton Discord et d'accepter nos conditions, étape par étape (il te le redemande seulement si nos conditions changent ou si un lien se perd ; si notre serveur ne répond pas, il s'ouvre quand même). L'accueil a aussi quelques nouveautés pour t'aider à rejoindre le serveur, et tes cadeaux sont plus faciles à trouver. Correctif : le bloc de ton compte est maintenant bien aligné à droite, sous le nombre de camionneurs en ligne. Ajustement : dans le Bilan du Logbook, les lignes Camions, Remorques et Garages sont parties (elles affichaient toujours « valeur non disponible » : le jeu n'écrit leur valeur nulle part). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-10-31",
       "title": "Overdrive Québec 3.0.47 : la paie des contrats, des phares plus forts et plus de variété dans les offres",
       "text": "Paie des contrats : toutes les cargaisons du jeu paient 20 % de plus au kilomètre, sauf les marchandises exceptionnelles (icône « Marchandises exceptionnelles », la tour d'éolienne comprise) qui paient 10 % de moins. Le sable, la ferraille, le sel, les pierres, la terre excavée et le calcaire paient 30 % de plus, le gravier 40 % de plus et les copeaux de bois 4 fois plus. La partie fixe de chaque contrat et les bonus du jeu ne changent pas. Phares : sur tous les camions, le plein phare éclaire 25 % plus fort et les feux de croisement plus large sur les côtés, surtout à gauche ; tous les gyrophares éclairent 15 % plus fort et 50 % plus loin. W900 : les gyrophares et les clignotants mauves sont retirés de la boutique ; un camion qui en a un reprend le look d'origine du jeu, rien à faire. Plus de variété dans les offres de certaines compagnies. Nouvelles images dans le gestionnaire de mods. Correctif : la caméra de la cabine : vers les fenêtres de côté, regarder vers le bas revient à la limite du jeu sur la plupart des camions (vers l'avant, rien ne change). Le chargement d'Halloween reste là et garde sa paie. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Cette fois, les 8 modules se téléchargent une fois au complet (environ 290 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false,
@@ -1132,5 +1138,5 @@
       }
     ]
   },
-  "serial": 20261101011108
+  "serial": 20261101022438
 }
