@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.14",
+  "version": "0.9.15",
   "mandatory": false,
-  "notes": "Correctif : le classement charge plus vite et dit quand il ne peut pas charger (bouton Réessayer).",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.14.exe",
-  "sizeBytes": 86685886,
-  "sha256": "1066f197642acc9bd53caf73f665feb04b66cfb0159bec4e9b16577cbf54473a",
-  "published": "2026-11-01"
+  "notes": "Correctif : le lanceur ne ralentit plus pendant que tu roules. Le Logbook suit ton camion chaque seconde sans redessiner toutes ses pages.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.15.exe",
+  "sizeBytes": 86697148,
+  "sha256": "1994975754a48ddb98e07979b64f5b363d1dd7c59913ca8d9865b518c1d300c4",
+  "published": "2026-11-02"
 }

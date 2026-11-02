@@ -1,0 +1,73 @@
+OVERDRIVE QUÉBEC 3.0.49 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls 4 modules changent : Économie, Camions, Base et Remorques (environ 125 Mo). Tes sauvegardes se chargent comme avant.
+
+En bref : la paie des doubles et des triples, quelques marchandises rééquilibrées, la police, du nouveau pour le W900 et des correctifs.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU POUR LE W900
+━━━━━━━━━━━━━━━━━━━━
+- Avec le Tuning Pack : encore du nouveau à l'arrière de la cabine. À toi de le trouver au garage.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Paie : un double paie maintenant 2 fois un simple sur le même contrat, un triple 3 fois. La partie fixe de chaque contrat revient à 600 $ (avant : 5 000 $) et le prix au km monte de 5 %. Les longs voyages paient pareil ; les petits voyages en simple paient moins (ta remorque 53 pi, compétences au maximum : environ 5 400 $ à 200 km, avant : 9 600 $). Les offres rapides suivent (partie fixe 450 $, avant : 3 750 $). Tes chauffeurs embauchés suivent la même règle : leurs contrats courts paient moins.
+- Paie : le générateur d'électricité paie moins (au plus ~110 $ du mile).
+- Paie : les copeaux de bois, la chargeuse à bois, la fraiseuse routière, le transformateur, le châssis de chariot-élévateur pour conteneurs et la décapeuse paient moins (au plus ~110 $ du mile, comme le générateur).
+- Paie : meilleure paie pour les batteries et les roulottes de chantier (+20 %), les fruits secs, les aliments emballés, le lait en poudre et les pommes de terre (+30 %).
+- Police : sur la route, 2 fois le jeu de base : jusqu'à 2 à la fois sur l'autoroute (avant : 3), jusqu'à 4 en ville, mais moins souvent.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- W900 : avec les cadrans de couleur, les 3 icônes du blocage de différentiel prennent aussi la couleur choisie (avant : elles restaient blanches).
+- Journal du jeu : fin des lignes d'erreur « remorque garée introuvable » de la citerne chimique 48 pi garée.
+
+━━━━━━━━━━━━━━━━━━━━
+CONSEIL
+━━━━━━━━━━━━━━━━━━━━
+- Dans les petites cours, dételle ta remorque au lieu de la stationner.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les camions et leurs pièces (sauf les nouveautés du W900), les moteurs, les phares et les gyrophares, le klaxon de train, les remorques en vente et leur charge, les caméras, le siège, la suspension, les freins, le ciel, les affiches, le GPS, les feux de circulation, les trains et le trafic (sauf la police) : les mêmes qu'en 3.0.48.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only 4 modules change: Économie, Camions, Base and Remorques (about 125 MB). Your saves load as before.
+
+New for the W900
+- With the Tuning Pack: more new things at the back of the cab. Find them in the garage.
+
+Adjustments
+- Pay: a double now pays 2 times a single on the same contract, a triple 3 times. The fixed part of every contract is back to 600 $ (was 5,000 $) and the pay per km is up 5 %. Long trips pay the same; short trips with a single pay less (your 53 ft trailer, every skill at the top: about 5,400 $ for 200 km, was 9,600 $). Quick jobs follow (fixed part 450 $, was 3,750 $). Your hired drivers follow the same rule: their short jobs pay less.
+- Pay: the power generator pays less (at most ~110 $ a mile).
+- Pay: wood chips, the log loader, the road milling machine, the transformer, the container lift-truck chassis and the scraper pay less (at most ~110 $ a mile, like the generator).
+- Pay: better pay for batteries and site trailers (+20 %), dried fruit, packaged food, powdered milk and potatoes (+30 %).
+- Police: on the road, 2 times the base game: up to 2 at a time on the highway (was 3), up to 4 in town, but less often.
+
+Fixes
+- W900: with the coloured gauges, the 3 differential-lock icons take the chosen colour too (they stayed white before).
+- Game log: no more « parked trailer not found » error lines from the parked 48 ft chemical tank.
+
+Tip
+- In small yards, drop your trailer instead of parking it.
+
+What does not change
+- The trucks and their parts (but the W900's new items), engines, headlights and beacons, the train horn, the trailers on sale and their load, cameras, the seat, suspension, brakes, sky, posters, GPS, traffic lights, trains and traffic (but the police): the same as in 3.0.48.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.

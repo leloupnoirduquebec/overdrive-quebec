@@ -65,6 +65,23 @@
   },
   "news": [
     {
+      "date": "2026-11-02",
+      "title": "Overdrive Québec 3.0.49 : la paie des doubles et des triples, du nouveau pour le W900 et des correctifs",
+      "text": "Nouveau pour le W900 : avec le Tuning Pack, encore du nouveau à l'arrière de la cabine. Ajustement de la paie : un double paie maintenant 2 fois un simple sur le même contrat, un triple 3 fois. La partie fixe de chaque contrat revient à 600 $ (avant : 5 000 $) et le prix au km monte de 5 % : les longs voyages paient pareil, les petits voyages en simple paient moins ; les offres rapides et tes chauffeurs embauchés suivent. Ajustement : le générateur d'électricité, les copeaux de bois, la chargeuse à bois, la fraiseuse routière, le transformateur, le châssis de chariot-élévateur pour conteneurs et la décapeuse paient au plus ~110 $ du mile ; meilleure paie pour les batteries et les roulottes de chantier (+20 %), les fruits secs, les aliments emballés, le lait en poudre et les pommes de terre (+30 %). Ajustement : la police sur la route passe à 2 fois le jeu de base (jusqu'à 2 à la fois sur l'autoroute, jusqu'à 4 en ville, mais moins souvent). Correctif : avec les cadrans de couleur du W900, les 3 icônes du blocage de différentiel prennent aussi la couleur choisie. Correctif : fin des lignes d'erreur « remorque garée introuvable » de la citerne chimique 48 pi garée. Conseil : dans les petites cours, dételle ta remorque au lieu de la stationner. Le reste ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 4 modules changent : Économie, Camions, Base et Remorques (environ 125 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.49.txt",
+        "sha256": "024c18c835b9ce489b0082924cc86cdb01bba4043a30560222e020ff5fc85d09",
+        "sizeBytes": 5613
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "title": "Lanceur 0.9.15 : le lanceur ne ralentit plus quand tu roules",
+      "text": "Correctif : le lanceur ne ralentit plus pendant que tu roules (le Logbook suit ton camion sans redessiner toutes ses pages chaque seconde). Correctif : les lueurs qui t'attendent demandent beaucoup moins à ta carte graphique, surtout en 4K. Correctif : ce qui est caché sous les pages Classements et Logbook n'est plus dessiné pour rien. Correctif : en 4K, une page qui arrive reste nette pendant qu'elle glisse. Correctif : « Réduire les animations » arrête aussi les petits indicateurs de chargement. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
       "date": "2026-11-01",
       "title": "Lanceur 0.9.14 : des correctifs pour les classements",
       "text": "Correctif : le classement charge plus vite et dit quand il ne peut pas charger (bouton Réessayer). Correctif : moins de saccades en changeant de page. Correctif : les fiches montrent la bonne pastille Logbook et les places de la semaine. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -890,12 +907,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.48",
+      "version": "3.0.49",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.48.scs",
-      "sha256": "b08216ef2fdf99e190e3cbd471a6e27ff0a55b792c0cb2f4dffed5df7819d15c",
-      "sizeBytes": 4098043,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.49.scs",
+      "sha256": "e98a3f5b4571f41c277db46254a0d69ccd6f43bd4301ae9b3d889e6258fb7c26",
+      "sizeBytes": 4098133,
       "required": true,
       "loadOrder": 71
     },
@@ -912,23 +929,23 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.48",
+      "version": "3.0.49",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.48.scs",
-      "sha256": "982afc84a9392c3dce04fc388df8f51e2978bb90afb24022d21685d4d512327b",
-      "sizeBytes": 5349980,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.49.scs",
+      "sha256": "b7d14e58fe7615c1be81433e1c885e3cce7d8364b4ac2009587fce9d66a150bb",
+      "sizeBytes": 5350290,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.48",
+      "version": "3.0.49",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.48.scs",
-      "sha256": "38596f400adbe202f716fac0bfc0facfc7b823adb6de09f3af1565c8e8bc7a4a",
-      "sizeBytes": 26368780,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.49.scs",
+      "sha256": "9d65b266cd71703d75b9607c70cc8b70268d997c792b7e6604345002067bf7de",
+      "sizeBytes": 26368877,
       "required": true,
       "loadOrder": 74
     },
@@ -945,12 +962,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.48",
+      "version": "3.0.49",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.48.scs",
-      "sha256": "686eabf17dce5b2b362b4203653ec6c01430fb8add633488f7b926e3c11517c1",
-      "sizeBytes": 88134847,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.49.scs",
+      "sha256": "b03a9b8bf492d5a7bc5910c1dc86f6c55921273d6d71a4f6317fce442fc06a3a",
+      "sizeBytes": 89415284,
       "required": true,
       "loadOrder": 76
     },
@@ -1155,5 +1172,5 @@
       }
     ]
   },
-  "serial": 20261101232237
+  "serial": 20261102223253
 }
