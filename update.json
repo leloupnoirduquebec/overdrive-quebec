@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.16",
+  "version": "0.9.17",
   "mandatory": false,
-  "notes": "Correctif : dans Classements, les menus Catégorie et Classement se choisissent de nouveau (un clic ne faisait plus rien depuis 0.9.13).",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.16.exe",
-  "sizeBytes": 86724904,
-  "sha256": "aee79ebd2c7516eab6caf380ccf26b175f65dfa525dc291cf1f95a8c373e2e61",
+  "notes": "Correctif : le lanceur ne se présente plus comme planté quand le pilote graphique se réinitialise pendant la fermeture (erreur « UCEERR_RENDERTHREADFAILURE »). Rien n'était perdu, mais le rapport d'erreur faisait peur.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.17.exe",
+  "sizeBytes": 86727553,
+  "sha256": "cd95b23011ff025eb778401ef060a8d60ee1bc53b832f4ed7f2cf677cf143532",
   "published": "2026-11-04"
 }

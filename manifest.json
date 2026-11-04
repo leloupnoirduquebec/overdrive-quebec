@@ -65,6 +65,23 @@
   },
   "news": [
     {
+      "date": "2026-11-04",
+      "title": "Overdrive Québec 3.0.51 : du nouveau pour le Peterbilt 389 et ses cadrans de couleur corrigés",
+      "text": "Nouveau : encore du nouveau pour le Peterbilt 389, pour tous ses châssis : à toi de le trouver au garage. Barre DEL OD 85 po (gyrophares) : chaque groupe de DEL a maintenant sa vitre, orange devant les DEL orange et claire devant les blanches. Correctif : avec les cadrans de couleur du Peterbilt 389, les chiffres et les traits des cadrans prennent maintenant la couleur choisie, peu importe la couleur (avant : avec certaines couleurs, ils restaient orange). Le reste ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 2 modules changent : Camions et Base (environ 110 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.51.txt",
+        "sha256": "14e65f417b4a911653a9ec6f7bbd8da20ca4d08f7ae6066026beb43b3c073c6d",
+        "sizeBytes": 3414
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "title": "Lanceur 0.9.17 : plus de faux plantage quand le pilote graphique se réinitialise",
+      "text": "Correctif : le lanceur ne se présente plus comme planté quand le pilote graphique se réinitialise pendant la fermeture (erreur « UCEERR_RENDERTHREADFAILURE ») ; rien n'était perdu. Correctif : si le pilote graphique se réinitialise pendant que le lanceur est ouvert, il se relance tout seul en affichage logiciel (plus lent, mais stable) au lieu de s'arrêter. Correctif : dans la vérification des mods, un fichier de clé Overdrive que le serveur accepte n'est plus signalé comme « pas permis sur le serveur ». Correctif : l'Ultimate Graphics Mod est facultatif sur le serveur : le lanceur ne le demande plus comme obligatoire et ne le signale plus comme « pas permis sur le serveur » ; si tu l'as, garde-le sous les modules d'Overdrive (le lanceur t'avertit encore s'il passe au-dessus de Météo). Correctif : « Ouvrir la fiche des mods » depuis la vérification ne bloque plus la fenêtre : la vérification se ferme et la fiche s'ouvre à sa place. Correctif : les fenêtres du Logbook en jeu s'affichent maintenant sans passer par la carte graphique, pour éviter l'erreur « UCEERR_RENDERTHREADFAILURE » quand une mission démarre l'inspection. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
       "date": "2026-11-03",
       "title": "Overdrive Québec 3.0.50 : la paie par catégorie, des lumières plus fortes sur les racks et des correctifs",
       "text": "Ajustement de la paie : toutes les marchandises d'une même catégorie paient maintenant le même prix au mille (environ 60 $/mi en simple, 110 $/mi en exceptionnel, 140 $/mi en ultra lourd, pour un chauffeur au maximum) ; les doubles et triples paient selon leur charge. Ajustement : le même prix avec ta remorque ou celle de la compagnie. Ajustement : la plupart des contrats paient plus, quelques-uns qui payaient beaucoup plus que les autres de leur catégorie paient un peu moins. Nouveau : du nouveau pour le W900 et le Peterbilt 389, à toi de le trouver au garage. Ajustement : avec le Tuning Pack, les lumières blanches à l'arrière des racks éclairent beaucoup plus fort et la barre DEL se voit mieux de jour. Correctif : les 3 boutons de traction du W900 prennent enfin la couleur des cadrans. Correctif : les pièces des lumières mauves ont leur image au garage. Correctif : des remorques stationnées qui manquaient à certaines places sont revenues, seulement à leurs places : jamais sur la route ni en mission. Cette version va avec American Truck Simulator 1.62. Le reste ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 5 modules changent : Camions, Économie, Communauté, Base et Remorques (environ 211 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -924,12 +941,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.50",
+      "version": "3.0.51",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.50.scs",
-      "sha256": "781629d114bafec7d83e072fb9beff9daacea7d893d4a8402e1a0f658174252f",
-      "sizeBytes": 4098133,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.51.scs",
+      "sha256": "f4def6fc0d4260cdb0f9f622d19908cc7ddb5e6045956a912ec6a6f64516ddee",
+      "sizeBytes": 4098132,
       "required": true,
       "loadOrder": 71
     },
@@ -979,12 +996,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.50",
+      "version": "3.0.51",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.50.scs",
-      "sha256": "ac0da41d0a610a1522386cf5ad02863f3459869e6629e026a5e508dc51281dd7",
-      "sizeBytes": 103211155,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.51.scs",
+      "sha256": "8c95317e4dd9f7f2291a9fa2033318b9c241cb7e6882dfab2d13524bf244a088",
+      "sizeBytes": 106058514,
       "required": true,
       "loadOrder": 76
     },
@@ -1003,7 +1020,7 @@
       "name": "Ultimate Graphics Mod ATS",
       "source": "workshop",
       "workshopId": "3491882019",
-      "required": true,
+      "required": false,
       "loadOrder": 60,
       "orderAgainst": [
         "overdrive-meteo.scs"
@@ -1189,5 +1206,5 @@
       }
     ]
   },
-  "serial": 20261104004920
+  "serial": 20261104231248
 }
