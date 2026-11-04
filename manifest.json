@@ -38,7 +38,7 @@
     }
   },
   "game": {
-    "requiredVersion": "1.61",
+    "requiredVersion": "1.62",
     "maxConvoySize": 128,
     "sync": [
       {
@@ -64,6 +64,23 @@
     ]
   },
   "news": [
+    {
+      "date": "2026-11-03",
+      "title": "Overdrive Québec 3.0.50 : la paie par catégorie, des lumières plus fortes sur les racks et des correctifs",
+      "text": "Ajustement de la paie : toutes les marchandises d'une même catégorie paient maintenant le même prix au mille (environ 60 $/mi en simple, 110 $/mi en exceptionnel, 140 $/mi en ultra lourd, pour un chauffeur au maximum) ; les doubles et triples paient selon leur charge. Ajustement : le même prix avec ta remorque ou celle de la compagnie. Ajustement : la plupart des contrats paient plus, quelques-uns qui payaient beaucoup plus que les autres de leur catégorie paient un peu moins. Nouveau : du nouveau pour le W900 et le Peterbilt 389, à toi de le trouver au garage. Ajustement : avec le Tuning Pack, les lumières blanches à l'arrière des racks éclairent beaucoup plus fort et la barre DEL se voit mieux de jour. Correctif : les 3 boutons de traction du W900 prennent enfin la couleur des cadrans. Correctif : les pièces des lumières mauves ont leur image au garage. Correctif : des remorques stationnées qui manquaient à certaines places sont revenues, seulement à leurs places : jamais sur la route ni en mission. Cette version va avec American Truck Simulator 1.62. Le reste ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 5 modules changent : Camions, Économie, Communauté, Base et Remorques (environ 211 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.50.txt",
+        "sha256": "707deb1a067d04560e0721f9436dbdbe1defefe7ccf25c9c035d7efe9d8a9db3",
+        "sizeBytes": 5566
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Lanceur 0.9.16 : les classements s'affichent et leurs menus marchent de nouveau",
+      "text": "Correctif : dans Classements, les menus Catégorie et Classement se choisissent de nouveau, connecté ou non. Correctif : la page ne s'ouvre plus sur une liste vide ; si personne n'a encore de livraison cette semaine, elle s'ouvre sur le mois et te dit pourquoi : le classement repart à zéro chaque lundi, et tes livraisons s'ajoutent quand tu fermes le jeu. Correctif : essayer les catégories l'une après l'autre ne donne plus « Ce classement n'a pas pu être lu ». Correctif : le bouton MA FICHE répond toujours ; s'il ne trouve pas ta fiche, il te dit pourquoi. Correctif : le tutoriel ne dit plus que ta remorque paie 25 % de plus : depuis la 3.0.50, c'est la même paie avec ta remorque ou celle de la compagnie. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
     {
       "date": "2026-11-02",
       "title": "Overdrive Québec 3.0.49 : la paie des doubles et des triples, du nouveau pour le W900 et des correctifs",
@@ -896,22 +913,22 @@
     },
     {
       "name": "Overdrive Québec — Communauté",
-      "version": "3.0.47",
+      "version": "3.0.50",
       "source": "direct",
       "fileName": "overdrive-communaute.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.47.scs",
-      "sha256": "05349db1d8751b5f6919eae617ae71daf3b8f4cb32f21351fdf64fb62f52ff6a",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-communaute-3.0.50.scs",
+      "sha256": "466beb6105c35cd4ef31d760309b4e34b1367e4f34c75841d33e50e71b470806",
       "sizeBytes": 71845593,
       "required": true,
       "loadOrder": 70
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.49",
+      "version": "3.0.50",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.49.scs",
-      "sha256": "e98a3f5b4571f41c277db46254a0d69ccd6f43bd4301ae9b3d889e6258fb7c26",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.50.scs",
+      "sha256": "781629d114bafec7d83e072fb9beff9daacea7d893d4a8402e1a0f658174252f",
       "sizeBytes": 4098133,
       "required": true,
       "loadOrder": 71
@@ -929,23 +946,23 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.49",
+      "version": "3.0.50",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.49.scs",
-      "sha256": "b7d14e58fe7615c1be81433e1c885e3cce7d8364b4ac2009587fce9d66a150bb",
-      "sizeBytes": 5350290,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.50.scs",
+      "sha256": "c84d65173f9e7fa31b74cd608433d5e80af325fef8d205cd5a69cbfe8e5eac4b",
+      "sizeBytes": 5352242,
       "required": true,
       "loadOrder": 73
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.49",
+      "version": "3.0.50",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.49.scs",
-      "sha256": "9d65b266cd71703d75b9607c70cc8b70268d997c792b7e6604345002067bf7de",
-      "sizeBytes": 26368877,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.50.scs",
+      "sha256": "51df3bc144f098a7e8c53e75ebc0a12336d86d85bb0300fc61e42b64c300dcb9",
+      "sizeBytes": 26506534,
       "required": true,
       "loadOrder": 74
     },
@@ -962,12 +979,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.49",
+      "version": "3.0.50",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.49.scs",
-      "sha256": "b03a9b8bf492d5a7bc5910c1dc86f6c55921273d6d71a4f6317fce442fc06a3a",
-      "sizeBytes": 89415284,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.50.scs",
+      "sha256": "ac0da41d0a610a1522386cf5ad02863f3459869e6629e026a5e508dc51281dd7",
+      "sizeBytes": 103211155,
       "required": true,
       "loadOrder": 76
     },
@@ -1172,5 +1189,5 @@
       }
     ]
   },
-  "serial": 20261102223253
+  "serial": 20261104004920
 }

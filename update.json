@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.15",
+  "version": "0.9.16",
   "mandatory": false,
-  "notes": "Correctif : le lanceur ne ralentit plus pendant que tu roules. Le Logbook suit ton camion chaque seconde sans redessiner toutes ses pages.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.15.exe",
-  "sizeBytes": 86697148,
-  "sha256": "1994975754a48ddb98e07979b64f5b363d1dd7c59913ca8d9865b518c1d300c4",
-  "published": "2026-11-02"
+  "notes": "Correctif : dans Classements, les menus Catégorie et Classement se choisissent de nouveau (un clic ne faisait plus rien depuis 0.9.13).",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.16.exe",
+  "sizeBytes": 86724904,
+  "sha256": "aee79ebd2c7516eab6caf380ccf26b175f65dfa525dc291cf1f95a8c373e2e61",
+  "published": "2026-11-04"
 }

@@ -1,0 +1,71 @@
+OVERDRIVE QUÉBEC 3.0.50 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls 5 modules changent : Camions, Économie, Communauté, Base et Remorques (environ 211 Mo). Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant.
+
+En bref : la paie revue par catégorie de marchandise, des lumières plus fortes sur les racks, du nouveau pour le W900 et le Peterbilt 389, et des correctifs.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAU
+━━━━━━━━━━━━━━━━━━━━
+- Peterbilt 389 : du nouveau dans la cabine. À toi de le trouver au garage.
+- W900 (Tuning Pack) : la barre DEL du rack à portes est plus longue (85 po), avec plus de lumières.
+
+━━━━━━━━━━━━━━━━━━━━
+AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Paie : toutes les marchandises d'une même catégorie paient maintenant le même prix au mille (environ 60 $/mi en simple, 110 $/mi en exceptionnel, 140 $/mi en ultra lourd, pour un chauffeur au maximum) ; les doubles et triples paient selon leur charge.
+- Paie : le même prix avec ta remorque ou avec celle de la compagnie (avant, ta remorque payait 25 % de plus).
+- Paie : la plupart des contrats paient plus, surtout les simples et les transports exceptionnels. Quelques contrats qui payaient beaucoup plus que les autres de leur catégorie paient un peu moins (par exemple le chlore en double, le tombereau de 85 t).
+- W900 (Tuning Pack) : les 2 lumières blanches à l'arrière des racks éclairent beaucoup plus fort (vraie lumière de travail DEL de 1 200 lumens).
+- W900 (Tuning Pack) : la barre DEL du rack se voit beaucoup mieux de jour, avec des effets plus forts.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- W900 : avec les cadrans de couleur, les 3 boutons de traction (blocage de différentiel) à droite du tableau de bord prennent enfin la couleur choisie (avant : ils restaient blancs).
+- Garage : les pièces des lumières mauves ont maintenant leur image.
+- Stationnements : des remorques stationnées manquaient à certaines places (citerne chimique en Arizona, petites vans en Californie, etc.). Elles sont revenues, seulement à leurs places de stationnement : jamais sur la route ni en mission.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- Les moteurs, les boîtes de vitesses, les phares, le klaxon de train, les remorques en vente et leur charge, les caméras, le siège, la suspension, les freins, le ciel, le GPS, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.49.
+- Communauté : adaptée à ATS 1.62 (mêmes affiches).
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only 5 modules change: Camions, Économie, Communauté, Base and Remorques (about 211 MB). This version goes with American Truck Simulator 1.62. Your saves load as before.
+
+New
+- Peterbilt 389: something new in the cab. Find it in the garage.
+- W900 (Tuning Pack): the door rack's LED bar is longer (85 in), with more lights.
+
+Adjustments
+- Pay: every cargo of the same category now pays the same price a mile (about 60 $/mi for a single, 110 $/mi for an exceptional load, 140 $/mi for an ultra-heavy one, for a maxed-out driver); doubles and triples pay by their load.
+- Pay: the same price with your own trailer or the company's (your trailer paid 25 % more before).
+- Pay: most jobs pay more, mostly singles and exceptional loads. A few jobs that paid far more than the rest of their category pay a little less (for example chlorine on a double, the 85 t dumper).
+- W900 (Tuning Pack): the 2 white lamps at the back of the racks light much stronger (a real 1,200 lumen LED work lamp).
+- W900 (Tuning Pack): the rack's LED bar shows much better by day, with stronger effects.
+
+Fixes
+- W900: with the coloured gauges, the 3 traction buttons (differential lock) on the right of the dash finally take the chosen colour (they stayed white before).
+- Garage: the purple light parts now have their picture.
+- Parking spots: parked trailers were missing at some spots (the chemical tank in Arizona, small vans in California, etc.). They are back, only at their parking spots: never on the road or on a job.
+
+What does not change
+- Engines, gearboxes, headlights, the train horn, the trailers on sale and their load, cameras, the seat, suspension, brakes, sky, GPS, traffic lights, trains and road traffic: the same as in 3.0.49.
+- Communauté: adapted to ATS 1.62 (same posters).
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
