@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.17",
+  "version": "0.9.18",
   "mandatory": false,
-  "notes": "Correctif : le lanceur ne se présente plus comme planté quand le pilote graphique se réinitialise pendant la fermeture (erreur « UCEERR_RENDERTHREADFAILURE »). Rien n'était perdu, mais le rapport d'erreur faisait peur.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.17.exe",
-  "sizeBytes": 86727553,
-  "sha256": "cd95b23011ff025eb778401ef060a8d60ee1bc53b832f4ed7f2cf677cf143532",
-  "published": "2026-11-04"
+  "notes": "Nouveau : une section « Mods facultatifs » dans la Vérification. Les mods réservés à un rôle sur le Discord (les tests bêta, par exemple) y apparaissent seulement pour ceux qui ont ce rôle, et se téléchargent en un clic, vérifiés. Ensuite, coche-le dans le gestionnaire de mods du jeu.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.18.exe",
+  "sizeBytes": 86743215,
+  "sha256": "0aed4554c691481efa8dac061d81d6bc5b1a5e9088a600bc15175b136cc1cfe7",
+  "published": "2026-11-05"
 }

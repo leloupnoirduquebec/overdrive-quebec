@@ -1,0 +1,41 @@
+OVERDRIVE QUÉBEC 3.0.52 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls 3 modules changent : Camions, Remorques et Base (environ 125 Mo). Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant.
+
+En bref : les triples sont maintenant permis au Dakota du Nord, comme dans le jeu 1.62.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- Triples permis au Dakota du Nord : les triples plateaux, citerne alimentaire et citerne à carburant sont maintenant valides au Dakota du Nord, comme dans le jeu 1.62 (avant : il leur manquait cet État).
+- Volvo VNL 2025 : le reflet du siège suit maintenant la cabine refaite par SCS dans la 1.62. Le siège et les caméras gardent les mêmes réglages.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les moteurs, les boîtes de vitesses, les phares, le klaxon de train, les remorques en vente et leur charge (sauf les triples au Dakota du Nord), les caméras, le siège, la suspension, les freins, le ciel, le GPS, les affiches, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.51.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only 3 modules change: Camions, Remorques and Base (about 125 MB). This version goes with American Truck Simulator 1.62. Your saves load as before.
+
+Fixes
+- Triples allowed in North Dakota: the flatbed, food tank and fuel tank triples are now valid in North Dakota, as in the 1.62 game (that state was missing before).
+- Volvo VNL 2025: the seat's reflection now follows the cab SCS rebuilt in 1.62. The seat and cameras keep the same settings.
+
+What does not change
+- Pay, engines, gearboxes, headlights, the train horn, the trailers on sale and their load (but the triples in North Dakota), cameras, the seat, suspension, brakes, sky, GPS, posters, traffic lights, trains and road traffic: the same as in 3.0.51.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.

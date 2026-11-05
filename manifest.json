@@ -65,6 +65,23 @@
   },
   "news": [
     {
+      "date": "2026-11-05",
+      "title": "Overdrive Québec 3.0.52 : les triples permis au Dakota du Nord",
+      "text": "Correctif : les triples plateaux, citerne alimentaire et citerne à carburant sont maintenant valides au Dakota du Nord, comme dans le jeu 1.62 (avant : il leur manquait cet État). Correctif : Volvo VNL 2025, le reflet du siège suit maintenant la cabine refaite par SCS dans la 1.62 ; le siège et les caméras gardent les mêmes réglages. Le reste ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 3 modules changent : Camions, Remorques et Base (environ 125 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.52.txt",
+        "sha256": "d5dbc360bee3728aede6790ebf8401cd7ee617c0f23c6df8a795221ddc77d94f",
+        "sizeBytes": 2947
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "title": "Lanceur 0.9.18 : une section « Mods facultatifs »",
+      "text": "Nouveau : une section « Mods facultatifs » dans la Vérification. Les mods réservés à un rôle sur le Discord (les tests bêta, par exemple) y apparaissent seulement pour ceux qui ont ce rôle, et se téléchargent en un clic, vérifiés ; ensuite, coche-le dans le gestionnaire de mods du jeu. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
       "date": "2026-11-04",
       "title": "Overdrive Québec 3.0.51 : du nouveau pour le Peterbilt 389 et ses cadrans de couleur corrigés",
       "text": "Nouveau : encore du nouveau pour le Peterbilt 389, pour tous ses châssis : à toi de le trouver au garage. Barre DEL OD 85 po (gyrophares) : chaque groupe de DEL a maintenant sa vitre, orange devant les DEL orange et claire devant les blanches. Correctif : avec les cadrans de couleur du Peterbilt 389, les chiffres et les traits des cadrans prennent maintenant la couleur choisie, peu importe la couleur (avant : avec certaines couleurs, ils restaient orange). Le reste ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 2 modules changent : Camions et Base (environ 110 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -941,12 +958,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.51",
+      "version": "3.0.52",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.51.scs",
-      "sha256": "f4def6fc0d4260cdb0f9f622d19908cc7ddb5e6045956a912ec6a6f64516ddee",
-      "sizeBytes": 4098132,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.52.scs",
+      "sha256": "860146030f879f7f04af94fc173193620e3482dfe1dface753385beee1e8ebb8",
+      "sizeBytes": 4098133,
       "required": true,
       "loadOrder": 71
     },
@@ -963,12 +980,12 @@
     },
     {
       "name": "Overdrive Québec — Remorques",
-      "version": "3.0.50",
+      "version": "3.0.52",
       "source": "direct",
       "fileName": "overdrive-remorques.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.50.scs",
-      "sha256": "c84d65173f9e7fa31b74cd608433d5e80af325fef8d205cd5a69cbfe8e5eac4b",
-      "sizeBytes": 5352242,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-remorques-3.0.52.scs",
+      "sha256": "0b3e41164a0211748ba861a068483a5ea1b1af9b43846a17a45585d9f3e53bd9",
+      "sizeBytes": 5352283,
       "required": true,
       "loadOrder": 73
     },
@@ -996,12 +1013,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.51",
+      "version": "3.0.52",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.51.scs",
-      "sha256": "8c95317e4dd9f7f2291a9fa2033318b9c241cb7e6882dfab2d13524bf244a088",
-      "sizeBytes": 106058514,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.52.scs",
+      "sha256": "8e7d8d7c5c035518d37212d9abb288a00ab7fd5a7a789731728ad3261f39a0e2",
+      "sizeBytes": 115619341,
       "required": true,
       "loadOrder": 76
     },
@@ -1027,6 +1044,19 @@
       ],
       "orderRisk": "visual",
       "orderNote": "le ciel d'Overdrive est perdu : la date du soleil revient à l'automne et les nuits sont trop longues"
+    }
+  ],
+  "optionalMods": [
+    {
+      "name": "Clé bêta",
+      "version": "3.0.52",
+      "source": "direct",
+      "fileName": "overdrive-depanneuse-cle.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-depanneuse-cle-3.0.52.scs",
+      "sha256": "0d5951ecdb56cfc21c84f1df0d5cf9764886592a7dcfb137b5b4a8b8e2dca424",
+      "sizeBytes": 35811,
+      "required": false,
+      "role": "beta_depanneuse"
     }
   ],
   "onlyListedMods": true,
@@ -1206,5 +1236,5 @@
       }
     ]
   },
-  "serial": 20261104231248
+  "serial": 20261105224747
 }
