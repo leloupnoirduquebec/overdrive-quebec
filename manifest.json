@@ -65,6 +65,28 @@
   },
   "news": [
     {
+      "date": "2026-11-07",
+      "title": "Overdrive Québec 3.0.55 : fin de l'événement d'Halloween et des nouveautés pour la bêta privée",
+      "text": "Correctif : l'événement d'Halloween est terminé, le chargement d'Halloween n'est plus offert et sa paie revient à la normale. Nouveau : plusieurs nouveautés à découvrir pour la bêta privée en cours, seulement avec l'accès bêta des testeurs. Sur la route, rien d'autre ne change pour les autres joueurs. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 3 modules changent : Camions, Économie et Base (environ 150 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.55.txt",
+        "sha256": "96109c5598e8b95962a15bde1e8a9b7284f81389b51eb49842088656e17da27b",
+        "sizeBytes": 3506
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Overdrive Québec 3.0.53 : des correctifs pour la bêta privée",
+      "text": "Correctif : des correctifs pour la bêta privée en cours, seulement avec l'accès bêta des testeurs. Sur la route, rien ne change pour les autres joueurs. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 2 modules changent : Camions et Base (environ 125 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.53.txt",
+        "sha256": "4bf283f9f68a0a3e71c9c297bae94d42b5ebf5b225c7e7d56187f182872cd8f9",
+        "sizeBytes": 2478
+      }
+    },
+    {
       "date": "2026-11-05",
       "title": "Overdrive Québec 3.0.52 : les triples permis au Dakota du Nord",
       "text": "Correctif : les triples plateaux, citerne alimentaire et citerne à carburant sont maintenant valides au Dakota du Nord, comme dans le jeu 1.62 (avant : il leur manquait cet État). Correctif : Volvo VNL 2025, le reflet du siège suit maintenant la cabine refaite par SCS dans la 1.62 ; le siège et les caméras gardent les mêmes réglages. Le reste ne change pas. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 3 modules changent : Camions, Remorques et Base (environ 125 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -958,12 +980,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.52",
+      "version": "3.0.55",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.52.scs",
-      "sha256": "860146030f879f7f04af94fc173193620e3482dfe1dface753385beee1e8ebb8",
-      "sizeBytes": 4098133,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.55.scs",
+      "sha256": "d92fac887d2051b8fe1ce36cd275bbe33e2816350a40bafafdc75ab6c0712560",
+      "sizeBytes": 4098134,
       "required": true,
       "loadOrder": 71
     },
@@ -991,12 +1013,12 @@
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.50",
+      "version": "3.0.54",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.50.scs",
-      "sha256": "51df3bc144f098a7e8c53e75ebc0a12336d86d85bb0300fc61e42b64c300dcb9",
-      "sizeBytes": 26506534,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.54.scs",
+      "sha256": "5e63a9be4f39bdbf1e61da6af57c22641dcec5aa7b097db1b062d358ed3f15ca",
+      "sizeBytes": 26506532,
       "required": true,
       "loadOrder": 74
     },
@@ -1013,12 +1035,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.52",
+      "version": "3.0.55",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.52.scs",
-      "sha256": "8e7d8d7c5c035518d37212d9abb288a00ab7fd5a7a789731728ad3261f39a0e2",
-      "sizeBytes": 115619341,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.55.scs",
+      "sha256": "e1ff40a9db562f55a1311e2244a723a5dea938c66b4210ef5a7c19c3aaa1813c",
+      "sizeBytes": 118702866,
       "required": true,
       "loadOrder": 76
     },
@@ -1049,12 +1071,12 @@
   "optionalMods": [
     {
       "name": "Clé bêta",
-      "version": "3.0.52",
+      "version": "3.0.53",
       "source": "direct",
       "fileName": "overdrive-depanneuse-cle.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-depanneuse-cle-3.0.52.scs",
-      "sha256": "0d5951ecdb56cfc21c84f1df0d5cf9764886592a7dcfb137b5b4a8b8e2dca424",
-      "sizeBytes": 35811,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-depanneuse-cle-3.0.53.scs",
+      "sha256": "64bb5eec75408415c9db8bba13cdcc2e4bbd667a46df01861913e3d4434e6b53",
+      "sizeBytes": 58748,
       "required": false,
       "role": "beta_depanneuse"
     }
@@ -1236,5 +1258,5 @@
       }
     ]
   },
-  "serial": 20261105224747
+  "serial": 20261107194236
 }
