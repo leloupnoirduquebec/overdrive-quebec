@@ -1,0 +1,49 @@
+OVERDRIVE QUÉBEC 3.0.58 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls 2 modules changent : Camions et Base (environ 125 Mo). Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant.
+
+En bref : des correctifs pour la remorqueuse de la bêta privée en cours. Sur la route, rien ne change pour les autres joueurs.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Bêta privée, remorqueuse (seulement avec l'accès bêta des testeurs) :
+  - les réservoirs à carburant sont sortis droit de 3,3 cm, alignés sur la couchette, avec leurs marches ;
+  - l'aile du 2e essieu avant est d'une seule pièce, portée par la cabine du haut jusqu'en bas : plus de coupure ; la boîte derrière l'aile est coupée en arc ;
+  - la plaque sous la porte est collée à plat sur la cabine, d'un bout à l'autre, avec ses 4 feux ;
+  - l'espace entre la couchette et le mur avant de la caisse est réduit : le mur est avancé et à la largeur de la caisse, avec un joint de caoutchouc par-dessus ;
+  - d'autres ajustements pour les testeurs.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les moteurs et les boîtes de vitesses, les phares, le klaxon de train, les remorques en vente et leur charge, les caméras, le siège, la suspension, les freins, le ciel, le GPS, les affiches, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.57.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only 2 modules change: Camions and Base (about 125 MB). This version goes with American Truck Simulator 1.62. Your saves load as before.
+
+Fixes and adjustments
+- Private beta, wrecker (only with the testers' beta access):
+  - the fuel tanks are moved straight out by 3.3 cm, in line with the sleeper, with their steps;
+  - the second front axle's fender is one piece, carried by the cab from top to bottom: no more cut; the box behind the fender is cut on an arc;
+  - the plate under the door sits flat on the cab from end to end, with its 4 lamps;
+  - the gap between the sleeper and the body's front wall is smaller: the wall is moved forward and set at the body's width, with a rubber seal over it;
+  - other adjustments for the testers.
+
+What does not change
+- Pay, engines and gearboxes, headlights, the train horn, the trailers on sale and their load, cameras, the seat, suspension, brakes, sky, GPS, posters, traffic lights, trains and road traffic: the same as in 3.0.57.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
