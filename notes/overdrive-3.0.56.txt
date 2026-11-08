@@ -1,0 +1,57 @@
+OVERDRIVE QUÉBEC 3.0.56 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls 2 modules changent : Camions et Base (environ 125 Mo). Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant.
+
+En bref : des correctifs et du nouveau pour la bêta privée en cours. Sur la route, rien ne change pour les autres joueurs.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Bêta privée : du nouveau à découvrir pour les testeurs (seulement avec leur accès bêta). Sans cet accès, rien ne change dans ton jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS
+━━━━━━━━━━━━━━━━━━━━
+- Bêta privée, remorqueuse (seulement avec l'accès bêta des testeurs) :
+  - les trous et les jours autour de l'aile du 2e essieu avant et de la plaque de côté sont fermés ;
+  - les feux de côté sont redressés, à plat sur leur plaque ;
+  - la roue avant ne lève plus quand la remorqueuse tire une charge lourde ;
+  - le travail de remorquage est offert plus souvent dans le marché du fret, et il a maintenant son icône ;
+  - la peinture choisie au garage ne déborde plus sur les accessoires.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les moteurs, les boîtes de vitesses, les phares, le klaxon de train, les remorques en vente et leur charge, les caméras, le siège, la suspension, les freins, le ciel, le GPS, les affiches, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.55.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only 2 modules change: Camions and Base (about 125 MB). This version goes with American Truck Simulator 1.62. Your saves load as before.
+
+New
+- Private beta: new things for the testers to discover (only with their beta access). Without that access, nothing changes in your game.
+
+Fixes
+- Private beta, wrecker (only with the testers' beta access):
+  - the holes and gaps around the second front axle's fender and the side plate are closed;
+  - the side lamps are straightened, flat on their plate;
+  - the front wheel no longer lifts when the wrecker pulls a heavy load;
+  - the tow job is offered more often in the freight market, and it now has its icon;
+  - the paint chosen at the garage no longer spills onto the accessories.
+
+What does not change
+- Pay, engines, gearboxes, headlights, the train horn, the trailers on sale and their load, cameras, the seat, suspension, brakes, sky, GPS, posters, traffic lights, trains and road traffic: the same as in 3.0.55.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.

@@ -1,0 +1,77 @@
+OVERDRIVE QUÉBEC 3.0.57 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls 3 modules changent : Camions, Base et Économie (environ 150 Mo). Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant.
+
+En bref : 3 boîtes manuelles « charge lourde » et des moteurs HN de 2 250 lb-pi pour tous les camions, la barre de gyrophares DEL a plus de points lumineux et de nouveaux motifs, et d'autres correctifs pour la bêta privée en cours.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- 3 nouvelles boîtes manuelles « charge lourde », sans ralentisseur, pour tirer de 122 000 à 180 000 lb. Offertes sur tous les camions du jeu (sauf l'électrique) et sur la remorqueuse :
+  - 22918B 4.56 H (MAN) : Eaton Fuller RTLO-22918B, 18 vitesses, pont 4,56. La plus forte : 2 250 lb-pi, elle prend tous les moteurs du jeu. Environ 120 à 128 km/h au maximum, selon le moteur. 75 000 $.
+  - 20918B 4.30 H (MAN) : Eaton Fuller RTLO-20918B, 18 vitesses, pont 4,30 (celle des vraies remorqueuses rotatives). 2 050 lb-pi. 50 000 $.
+  - 20913A 4.10 H (MAN) : Eaton Fuller RTLO-20913A, 13 vitesses, pont 4,10. 2 050 lb-pi. La plus rapide des trois. 37 500 $.
+- Moteurs HN (hors norme) : chaque moteur de 600 forces a maintenant sa version HN, 600 forces et 2 250 lb-pi, pour utiliser la 22918B au maximum. Même son que sa famille. Pour Cat C15 6NZ, Cummins X15, ISX15 et NTC, Detroit DD16, S60 12,7 L et 14,0 L, Mack MP8, Volvo D13 et D16 (en anglais : « Max »). Le Cat C15 ACERT T1 600 est déjà à 2 250 lb-pi. Les moteurs que tu as déjà ne changent pas. Sur le W900, les réservoirs sans DEF sont offerts aussi avec les moteurs HN sans système DEF (C15 6NZ, NTC, S60).
+- Bêta privée : du nouveau à découvrir pour les testeurs (seulement avec leur accès bêta). Sans cet accès, rien ne change dans ton jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Boîtes Overdrive 10 et Overdrive 13 : sur les camions qui vendent un moteur HN, elles montent à 2 250 lb-pi pour ces moteurs. L'Overdrive 13 revient en vente sur 8 camions, seulement avec un moteur HN.
+- Prix de 43 moteurs ajustés de 10 à 50 $ : les prix de la boutique restent en ordre avec les nouveaux moteurs.
+- Barre DEL OD 85 po (gyrophares), sur le kit du W900 et sur la remorqueuse : plus de points lumineux (une rangée en haut et une en bas tout le tour, 4 points à chaque bout) et de nouveaux motifs de clignotement. Même barre, même taille.
+- Bêta privée, remorqueuse (seulement avec l'accès bêta des testeurs) :
+  - la boîte au-dessus des 3 essieux arrière est rentrée au même niveau que la caisse : plus de rebord qui dépasse ;
+  - les ailes chromées des 3 essieux arrière sont fermées jusqu'à la caisse, sans jour ;
+  - l'aile du 2e essieu avant est collée sur la couchette et bouge avec elle : plus de fente ;
+  - la petite plaque près de la cheminée suit la courbe de la couchette ;
+  - la bande de caoutchouc derrière l'aile du 2e essieu est rapprochée de la couchette ;
+  - les crochets de la grue sont accrochés dans leurs anneaux jaunes en position de route, câble tendu, sans chaîne ;
+  - la plaque sous la porte est droite, parallèle au réservoir, avec ses feux.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les phares, le klaxon de train, les remorques en vente et leur charge, les caméras, le siège, la suspension, les freins, le ciel, le GPS, les affiches, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.56.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only 3 modules change: Camions, Base and Économie (about 150 MB). This version goes with American Truck Simulator 1.62. Your saves load as before.
+
+New
+- 3 new heavy-haul manual gearboxes, no retarder, to pull 122,000 to 180,000 lb. On every truck of the game (but the electric one) and on the wrecker:
+  - 22918B 4.56 H (MAN): Eaton Fuller RTLO-22918B, 18 speeds, 4.56 axle. The strongest: 2,250 lb-ft, it takes every engine of the game. About 120 to 128 km/h top speed, by engine. 75,000 $.
+  - 20918B 4.30 H (MAN): Eaton Fuller RTLO-20918B, 18 speeds, 4.30 axle (the one real rotator wreckers use). 2,050 lb-ft. 50,000 $.
+  - 20913A 4.10 H (MAN): Eaton Fuller RTLO-20913A, 13 speeds, 4.10 axle. 2,050 lb-ft. The fastest of the three. 37,500 $.
+- Max engines (hors norme): every 600 hp engine now has its Max version, 600 hp and 2,250 lb-ft, to use the 22918B to the full. Same sound as its family. For the Cat C15 6NZ, Cummins X15, ISX15 and NTC, Detroit DD16, S60 12.7 L and 14.0 L, Mack MP8, Volvo D13 and D16. The Cat C15 ACERT T1 600 is already at 2,250 lb-ft. The engines you already own do not change. On the W900, the no-DEF tanks are also offered with the Max engines that have no DEF system (C15 6NZ, NTC, S60).
+- Private beta: new things for the testers to discover (only with their beta access). Without that access, nothing changes in your game.
+
+Fixes and adjustments
+- Overdrive 10 and Overdrive 13 gearboxes: on the trucks that sell a Max engine, they go up to 2,250 lb-ft for those engines. The Overdrive 13 is back on sale on 8 trucks, only with a Max engine.
+- 43 engine prices adjusted by 10 to 50 $: the shop prices stay in order with the new engines.
+- OD 85 in LED bar (beacons), on the W900 kit and on the wrecker: more light points (a top row and a bottom row all round, 4 points at each end) and new flash patterns. Same bar, same size.
+- Private beta, wrecker (only with the testers' beta access):
+  - the box over the 3 rear axles is pushed in flush with the body: no more border sticking out;
+  - the chrome fenders of the 3 rear axles are closed back to the body, no gap;
+  - the second front axle's fender is fixed to the sleeper and moves with it: no more slot;
+  - the small plate by the stack follows the sleeper's curve;
+  - the rubber strip behind the second front axle's fender sits closer to the sleeper;
+  - the crane's hooks hang in their yellow rings in road position, cable taut, no chain;
+  - the plate under the door is straight, parallel to the fuel tank, with its lamps.
+
+What does not change
+- Pay, headlights, the train horn, the trailers on sale and their load, cameras, the seat, suspension, brakes, sky, GPS, posters, traffic lights, trains and road traffic: the same as in 3.0.56.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.

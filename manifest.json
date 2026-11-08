@@ -65,6 +65,28 @@
   },
   "news": [
     {
+      "date": "2026-11-08",
+      "title": "Overdrive Québec 3.0.57 : la barre de gyrophares DEL et des correctifs pour la remorqueuse de la bêta privée",
+      "text": "Ajustement : la barre DEL OD 85 po (gyrophares), sur le kit du W900 et sur la remorqueuse, a plus de points lumineux (une rangée en haut et une en bas tout le tour, 4 points à chaque bout) et de nouveaux motifs de clignotement. Correctif : pour la remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : la boîte au-dessus des essieux arrière est rentrée au niveau de la caisse, les ailes chromées sont fermées jusqu'à la caisse, l'aile du 2e essieu avant est collée sur la couchette, les petites plaques sous la couchette suivent sa courbe, les crochets de la grue sont accrochés dans leurs anneaux et la plaque sous la porte est droite. Nouveau : du nouveau à découvrir dans la boutique des camions, et pour les testeurs. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 3 modules changent : Camions, Base et Économie (environ 150 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.57.txt",
+        "sha256": "e22f26c33874a37f92fc6c5317e9a6b39e2867a0ac36217ccab82a11d80d2efd",
+        "sizeBytes": 7476
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "title": "Overdrive Québec 3.0.56 : des correctifs pour la remorqueuse de la bêta privée",
+      "text": "Correctif : pour la remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : les trous autour de l'aile avant et de la plaque de côté sont fermés, les feux de côté sont redressés, la roue avant ne lève plus avec une charge lourde, le travail de remorquage est offert plus souvent et a son icône, et la peinture ne déborde plus sur les accessoires. Nouveau : du nouveau à découvrir pour les testeurs. Sur la route, rien ne change pour les autres joueurs. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 2 modules changent : Camions et Base (environ 125 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.56.txt",
+        "sha256": "c5e6a1929e7d4fd810067c40543870433790f42585c5f42fdf9bd4884ab9816c",
+        "sizeBytes": 3614
+      }
+    },
+    {
       "date": "2026-11-07",
       "title": "Overdrive Québec 3.0.55 : fin de l'événement d'Halloween et des nouveautés pour la bêta privée",
       "text": "Correctif : l'événement d'Halloween est terminé, le chargement d'Halloween n'est plus offert et sa paie revient à la normale. Nouveau : plusieurs nouveautés à découvrir pour la bêta privée en cours, seulement avec l'accès bêta des testeurs. Sur la route, rien d'autre ne change pour les autres joueurs. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 3 modules changent : Camions, Économie et Base (environ 150 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -980,11 +1002,11 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.55",
+      "version": "3.0.57",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.55.scs",
-      "sha256": "d92fac887d2051b8fe1ce36cd275bbe33e2816350a40bafafdc75ab6c0712560",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.57.scs",
+      "sha256": "1914d1739536f3e080ad5d0b07529c6a012abe102ce0262b59c1ac8e46d2a055",
       "sizeBytes": 4098134,
       "required": true,
       "loadOrder": 71
@@ -1013,12 +1035,12 @@
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.54",
+      "version": "3.0.57",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.54.scs",
-      "sha256": "5e63a9be4f39bdbf1e61da6af57c22641dcec5aa7b097db1b062d358ed3f15ca",
-      "sizeBytes": 26506532,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.57.scs",
+      "sha256": "7b8056edc3e09e8d95ce8855e17f3ae4067e11e39e5f70ac0c61b7369e222a5e",
+      "sizeBytes": 26506814,
       "required": true,
       "loadOrder": 74
     },
@@ -1035,12 +1057,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.55",
+      "version": "3.0.57",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.55.scs",
-      "sha256": "e1ff40a9db562f55a1311e2244a723a5dea938c66b4210ef5a7c19c3aaa1813c",
-      "sizeBytes": 118702866,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.57.scs",
+      "sha256": "6dd63c605dca472b778df8f582a89356b4d6378c8bbc4de778b0a3017af7a350",
+      "sizeBytes": 120366693,
       "required": true,
       "loadOrder": 76
     },
@@ -1071,12 +1093,12 @@
   "optionalMods": [
     {
       "name": "Clé bêta",
-      "version": "3.0.53",
+      "version": "3.0.57",
       "source": "direct",
       "fileName": "overdrive-depanneuse-cle.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-depanneuse-cle-3.0.53.scs",
-      "sha256": "64bb5eec75408415c9db8bba13cdcc2e4bbd667a46df01861913e3d4434e6b53",
-      "sizeBytes": 58748,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-depanneuse-cle-3.0.57.scs",
+      "sha256": "8a6dfb952a55e61c8ee194fed906549cd35228fb367f86fde918d1aadbae66f3",
+      "sizeBytes": 24187,
       "required": false,
       "role": "beta_depanneuse"
     }
@@ -1258,5 +1280,5 @@
       }
     ]
   },
-  "serial": 20261107194236
+  "serial": 20261108140917
 }
