@@ -66,6 +66,17 @@
   "news": [
     {
       "date": "2026-11-08",
+      "title": "Overdrive Québec 3.0.59 : les peintures à dessin sur la remorqueuse de la bêta privée",
+      "text": "Correctif : pour la remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : les peintures à dessin continuent maintenant sur les portes de la couchette, l'aile, les plaques et toute la caisse arrière, au lieu d'une seule couleur ; 9 peintures à motif gardent une caisse unie ; le lettrage overdrivequebec.ca a un contour noir plus large, lisible sur les peintures claires ; et d'autres ajustements pour les testeurs. Sur la route, rien ne change pour les autres joueurs. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 2 modules changent : Camions et Base (environ 125 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.59.txt",
+        "sha256": "cfc36e51f5008136ef5b73ae7cd9af518cfc3ae8e7607e4b217a90cf89557531",
+        "sizeBytes": 3873
+      }
+    },
+    {
+      "date": "2026-11-08",
       "title": "Overdrive Québec 3.0.58 : des correctifs pour la remorqueuse de la bêta privée",
       "text": "Correctif : pour la remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : les réservoirs à carburant sont sortis droit, alignés sur la couchette ; l'aile du 2e essieu avant est d'une seule pièce, du haut jusqu'en bas ; la plaque sous la porte est collée à plat sur la cabine avec ses feux ; le mur avant de la caisse est avancé, à la largeur de la caisse, avec un joint de caoutchouc par-dessus l'espace ; et d'autres ajustements pour les testeurs. Sur la route, rien ne change pour les autres joueurs. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls 2 modules changent : Camions et Base (environ 125 Mo). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false,
@@ -1019,11 +1030,11 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.58",
+      "version": "3.0.59",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.58.scs",
-      "sha256": "b2766b53685489e4123b9f82766d3c672c7945c8d503c05761763fd6793113d8",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.59.scs",
+      "sha256": "a04fee174eb1bb37eafa78dbe608cc388b1bb1ca78ce2bec109040b960a3fe7c",
       "sizeBytes": 4098134,
       "required": true,
       "loadOrder": 71
@@ -1074,12 +1085,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.58",
+      "version": "3.0.59",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.58.scs",
-      "sha256": "0524882432a54719c731084c183cfa5142d32b8ce27becf7b92a3aadff1a5462",
-      "sizeBytes": 120291409,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.59.scs",
+      "sha256": "3bd28e947fdb7b6239e8115e273baa35f96585419382d2ec914b4f260bc187e5",
+      "sizeBytes": 120583498,
       "required": true,
       "loadOrder": 76
     },
@@ -1297,5 +1308,5 @@
       }
     ]
   },
-  "serial": 20261108195920
+  "serial": 20261109021427
 }
