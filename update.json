@@ -4,7 +4,7 @@
   "mandatory": false,
   "notes": "Ajusté : la probabilité de pluie (« Probabilité de pluie » dans les options du jeu) n'est plus imposée à tous les joueurs. Le lanceur ne la règle que pour les mods de météo d'Overdrive qui en ont besoin, sur la ligne « Réglages du convoi » (ta copie d'abord, « Remettre mes réglages » pour la reprendre), et ne touche à rien sinon ; quand ce mod disparaît, elle te redonne ta propre valeur d’avant (jamais celle que tu as changée toi-même). Elle ne change jamais ton niveau de réglages ni ton classement.",
   "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.20.exe",
-  "sizeBytes": 86747979,
-  "sha256": "bda46e8ed97d1ac168df4a649ed36f3b9b02a41fa0e7716b1e18fe3747d00c1c",
+  "sizeBytes": 86747980,
+  "sha256": "17c8b634627ea07c79d55dd34350b1b78ee855c8875ae156ed78f04acd301618",
   "published": "2026-11-10"
 }
