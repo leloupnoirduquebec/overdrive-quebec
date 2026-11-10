@@ -52,11 +52,6 @@
         "file": "profile"
       },
       {
-        "cvar": "g_bad_weather_factor",
-        "value": "0.07",
-        "file": "profile"
-      },
-      {
         "cvar": "g_police",
         "value": "1",
         "file": "profile"
@@ -64,6 +59,23 @@
     ]
   },
   "news": [
+    {
+      "date": "2026-11-10",
+      "title": "Lanceur 0.9.20 : la probabilité de pluie n'est plus imposée à tout le monde",
+      "text": "Ajustement : le lanceur ne force plus la probabilité de pluie (0.07) à tous les joueurs. Quand le mod d'hiver d'Overdrive est installé, il la met à 100 % (comme les autres réglages de la ligne « Réglages du convoi » : copie de tes réglages d'abord, « Remettre mes réglages » pour reprendre les tiens) ; sans l'hiver, il la laisse tranquille. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false
+    },
+    {
+      "date": "2026-11-10",
+      "title": "Overdrive Québec 3.0.61 : l'hiver est arrivé, du nouveau pour le camion à benne et des correctifs pour la remorqueuse de la bêta privée",
+      "text": "L'hiver est arrivé sur le serveur… Ouvre l'œil : la carte a changé. C'est un nouveau module obligatoire, « Overdrive Québec — Hiver » (environ 3,8 Go : prévois quelques minutes de téléchargement). Ajustements : tant que l'hiver est installé, le lanceur 0.9.20 met la « Probabilité de pluie » à 100 % ; l'adhérence est réduite, de façon modérée, sur les chemins de terre et de gravier, la terre et le gazon des cours et des terre-pleins (les autoroutes et les routes asphaltées ne changent pas). Du nouveau aussi pour le camion à benne d'International : une charrue avant, une aile de côté, une barre de gyrophares sur le toit et des gyros à l'arrière, à toi de les trouver au garage. Correctif : le camion à benne a reçu des correctifs : le poids de la charge se ressent, il est plus stable, le tas de gravier est gris et bien éclairé et ses cheminées ont un fini aluminium. Pour la remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : l'aile de la 2e roue directrice rejoint maintenant l'arrondi de l'aile extérieure, au lieu de sembler flotter, et elle dégage la cheminée ; ses réservoirs prennent 300 gallons au plein ; ses boîtes de remorquage ont des vitesses hautes plus longues ; ses rétroviseurs sortent 5 cm plus loin ; et d'autres ajustements pour les testeurs. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Quatre modules changent : Camions, Base, Physique et le nouveau module Hiver (environ 3 965 Mo en tout). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.61.txt",
+        "sha256": "3f0721c309f72c1a1c8942d42957ff5ec1a1aa1fa2e7abc6754f99cbd88595de",
+        "sizeBytes": 7051
+      }
+    },
     {
       "date": "2026-11-09",
       "title": "Overdrive Québec 3.0.60 : une petite surprise et des correctifs pour la remorqueuse de la bêta privée",
@@ -1041,11 +1053,11 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.60",
+      "version": "3.0.61",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.60.scs",
-      "sha256": "91965ce6b49a5c0a50729a5269a242e1df06b8c7a67b78f82dba2cf5e6b3083f",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.61.scs",
+      "sha256": "0d11edf937bad04073e187afae958999ce228ae3a4478eaad51813846872055c",
       "sizeBytes": 4098133,
       "required": true,
       "loadOrder": 71
@@ -1085,23 +1097,23 @@
     },
     {
       "name": "Overdrive Québec — Physique",
-      "version": "3.0.47",
+      "version": "3.0.61",
       "source": "direct",
       "fileName": "overdrive-physique.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.47.scs",
-      "sha256": "3b6bfdd42d3409220973a3998ed5cdf459ea28ec8e924fde89a02f471cfb7119",
-      "sizeBytes": 82968,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-physique-3.0.61.scs",
+      "sha256": "7e5ed194cc8b9e8543e90b3bd77129ab0fcec8d07c667be9504ee0768ad2edbe",
+      "sizeBytes": 84525,
       "required": true,
       "loadOrder": 75
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.60",
+      "version": "3.0.61",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.60.scs",
-      "sha256": "acef5c11e7e7fee407ff8e4485bb05023d7ce8bc4365306c41c2537215a2f18b",
-      "sizeBytes": 123469471,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.61.scs",
+      "sha256": "65b7b8ad12925d33d9b5eb89943e2faa6a01110535b237b3e8dacb691bead085",
+      "sizeBytes": 125572363,
       "required": true,
       "loadOrder": 76
     },
@@ -1115,6 +1127,17 @@
       "sizeBytes": 16183,
       "required": true,
       "loadOrder": 77
+    },
+    {
+      "name": "Overdrive Québec — Hiver",
+      "version": "3.0.61",
+      "source": "direct",
+      "fileName": "overdrive-hiver.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-hiver-3.0.61.scs",
+      "sha256": "c9c9adc89d4d77a8374a7eec90e4214b058717d68ccf5d429f63bc5d327110a6",
+      "sizeBytes": 3836019807,
+      "required": true,
+      "loadOrder": 78
     },
     {
       "name": "Ultimate Graphics Mod ATS",
@@ -1157,6 +1180,22 @@
     {
       "package": "essai-dlc0-*",
       "name": "ESSAI DLC 0",
+      "kind": "test"
+    },
+    {
+      "package": "overdrive-hiver-essai*",
+      "name": "Overdrive Québec — Hiver (ESSAI SOLO)",
+      "note": "l'hiver est maintenant le module « Overdrive Québec — Hiver », installé par le lanceur",
+      "kind": "test"
+    },
+    {
+      "package": "overdrive-hiver-palier-*",
+      "name": "Overdrive Québec — palier d'essai de la tempête (ESSAI SOLO)",
+      "kind": "test"
+    },
+    {
+      "package": "overdrive-hiver-glace-essai",
+      "name": "Overdrive Québec — Hiver : étangs et lacs gelés (ESSAI SOLO)",
       "kind": "test"
     }
   ],
@@ -1319,5 +1358,5 @@
       }
     ]
   },
-  "serial": 20261109222844
+  "serial": 20261110221421
 }

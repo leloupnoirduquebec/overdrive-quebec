@@ -1,0 +1,75 @@
+OVERDRIVE QUÉBEC 3.0.61 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Quatre modules changent : Camions, Base, Physique et le nouveau module Hiver (environ 3 965 Mo en tout, dont environ 3 840 Mo pour l'hiver : prévois quelques minutes de téléchargement). Cette version va avec American Truck Simulator 1.62 et le lanceur 0.9.20. Tes sauvegardes se chargent comme avant.
+
+En bref : l'hiver est arrivé sur le serveur, du nouveau pour le camion à benne d'International, des correctifs pour ce camion (poids ressenti, stabilité, tas, cheminées), et des correctifs pour la remorqueuse de la bêta privée en cours.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- L'hiver est arrivé sur le serveur… Ouvre l'œil : la carte a changé. C'est le nouveau module « Overdrive Québec — Hiver », obligatoire comme les autres modules d'Overdrive : il s'installe avec la mise à jour.
+- Du nouveau pour le camion à benne d'International (le 9900i, avec sa remorque pup) : une charrue avant, une aile de côté, une barre de gyrophares sur le toit et des gyros à l'arrière. À toi de les trouver au garage.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, réglage du lanceur : tant que le module d'hiver est installé, le lanceur 0.9.20 met la « Probabilité de pluie » (options du jeu) à 100 %, pour que la neige tombe souvent. Il copie d'abord ton fichier de réglages ; « Remettre mes réglages » te redonne ta valeur d'avant. Sans le module d'hiver, il n'y touche pas.
+- Hiver, physique : l'adhérence est réduite, de façon modérée, sur la neige tassée des chemins de terre et de gravier, de la terre et du gazon des cours et des terre-pleins (freinage environ 1,5 fois plus long). Les autoroutes et les routes asphaltées ne changent pas.
+- Le camion à benne d'International (celui de la 3.0.60) a reçu des correctifs :
+  - le poids de la charge se ressent maintenant à l'accélération et en côte ;
+  - il est plus stable sur la route ;
+  - le tas de gravier dans la benne est gris et bien éclairé (avant : un damier rose) ;
+  - ses cheminées ont un fini aluminium, comme celles du 9900i du jeu, sans reflet arc-en-ciel ;
+  - d'autres ajustements.
+- Bêta privée, remorqueuse (seulement avec l'accès bêta des testeurs) :
+  - l'aile de la 2e roue directrice rejoint maintenant l'arrondi de l'aile extérieure, au lieu de sembler flotter, et elle dégage la cheminée de la couchette ;
+  - ses réservoirs prennent maintenant tous 300 gallons au plein, comme les autres camions (celui d'origine en prenait 266,66) ;
+  - ses 3 boîtes de remorquage (ponts 4,56, 4,30 et 4,10) ont des vitesses hautes plus longues : environ 1 400 tours à 105 km/h et 1 700 tours à 125 km/h en dernière ; les vitesses basses ne changent pas ;
+  - ses rétroviseurs (Duty, Standard, Legacy et le miroir mauve Overdrive) sortent 5 cm plus loin, pour mieux voir derrière la cheminée ;
+  - d'autres ajustements pour les testeurs.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les moteurs et les boîtes de vitesses (sauf celles de la remorqueuse de la bêta privée), les phares, le klaxon de train, les caméras, le siège, la suspension, les freins, le ciel, le GPS, les affiches, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.60.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Four modules change: Camions, Base, Physique and the new Hiver (winter) module (about 3,965 MB in all, of which about 3,840 MB is the winter: allow a few minutes to download). This version goes with American Truck Simulator 1.62 and launcher 0.9.20. Your saves load as before.
+
+New
+- Winter has arrived on the server… Keep your eyes open: the map has changed. It is the new « Overdrive Québec — Hiver » (winter) module, required like Overdrive's other modules: it installs with the update.
+- New for International's dump truck (the 9900i, with its pup trailer): a front plow, a side wing, a light bar on the roof and beacons at the back. Find them at the garage.
+
+Fixes and adjustments
+- Winter, launcher setting: while the winter module is installed, launcher 0.9.20 sets « Probabilité de pluie » (rain probability, in the game's options) to 100 %, so the snow falls often. It copies your settings file first; « Remettre mes réglages » gives your earlier value back. Without the winter module it leaves the setting alone.
+- Winter, physics: grip is reduced, moderately, on the packed snow of dirt and gravel roads, and of the dirt and grass of yards and medians (braking about 1.5 times longer). Highways and paved roads do not change.
+- International's dump truck (the one from 3.0.60) got fixes:
+  - the weight of the load is now felt when accelerating and on hills;
+  - it is more stable on the road;
+  - the gravel heap in the body is grey and well lit (before: a pink checkerboard);
+  - its stacks have an aluminium finish, like the game's 9900i, with no rainbow reflection;
+  - other adjustments.
+- Private beta, wrecker (only with the testers' beta access):
+  - the second steering axle's fender now blends into the outer fender's curve instead of looking like it floats, and it clears the sleeper stack;
+  - all its fuel tanks now take 300 gallons when filled, like the other trucks (the stock one took 266.66);
+  - its 3 towing gearboxes (4.56, 4.30 and 4.10 axles) have longer high gears: about 1,400 rpm at 105 km/h and 1,700 rpm at 125 km/h in top gear; the low gears do not change;
+  - its side mirrors (Duty, Standard, Legacy and the purple Overdrive mirror) reach 5 cm farther out, for a better view past the stack;
+  - other adjustments for the testers.
+
+What does not change
+- Pay, engines and gearboxes (except the private beta wrecker's), headlights, the train horn, cameras, the seat, suspension, brakes, sky, GPS, posters, traffic lights, trains and road traffic: the same as in 3.0.60.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.

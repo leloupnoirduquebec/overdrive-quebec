@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.19",
+  "version": "0.9.20",
   "mandatory": false,
-  "notes": "Corrigé : l'attelage avancé des remorques ne compte plus dans ton niveau de réglages. Tu peux l'enlever (pour les remorqueuses et les camions modifiés d'Overdrive, par exemple) sans descendre dans le classement. Le lanceur ne le change plus quand tu appliques un niveau.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.19.exe",
-  "sizeBytes": 86746651,
-  "sha256": "49220161cd01b4b7bc6409da9f286179440043c0700f13d7487c9d023cb022b6",
-  "published": "2026-11-08"
+  "notes": "Ajusté : la probabilité de pluie (« Probabilité de pluie » dans les options du jeu) n'est plus imposée à tous les joueurs. Le lanceur ne la règle que pour les mods de météo d'Overdrive qui en ont besoin, sur la ligne « Réglages du convoi » (ta copie d'abord, « Remettre mes réglages » pour la reprendre), et ne touche à rien sinon ; quand ce mod disparaît, elle te redonne ta propre valeur d’avant (jamais celle que tu as changée toi-même). Elle ne change jamais ton niveau de réglages ni ton classement.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.20.exe",
+  "sizeBytes": 86747979,
+  "sha256": "bda46e8ed97d1ac168df4a649ed36f3b9b02a41fa0e7716b1e18fe3747d00c1c",
+  "published": "2026-11-10"
 }
