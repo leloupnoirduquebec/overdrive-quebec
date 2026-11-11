@@ -61,6 +61,17 @@
   "news": [
     {
       "date": "2026-11-10",
+      "title": "Overdrive Québec 3.0.62 : l'hiver retiré pour l'instant, et un correctif pour la remorqueuse de la bêta privée",
+      "text": "Ajustement : le module « Overdrive Québec — Hiver » est retiré du serveur pour l'instant : on pouvait encore rester pris sur des bancs de neige, même sur l'autoroute. On le corrige, et il reviendra. Désactive-le dans le gestionnaire de mods du jeu ; le lanceur te le signale et peut le mettre de côté. Pour la remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : l'ancienne remorqueuse (d'avant la 3.0.56) n'est plus en vente et ne se modifie plus au garage ; si tu l'as encore, tu la gardes, revends-la et achète la nouvelle chez Kenworth. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Deux modules changent : Camions et Base (environ 130 Mo en tout). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.62.txt",
+        "sha256": "c48410325d128c17a71e63554a4873e139bea633fcc150a50f3da5ca90866760",
+        "sizeBytes": 3479
+      }
+    },
+    {
+      "date": "2026-11-10",
       "title": "Lanceur 0.9.20 : la probabilité de pluie n'est plus imposée à tout le monde",
       "text": "Ajustement : le lanceur ne force plus la probabilité de pluie (0.07) à tous les joueurs. Quand le mod d'hiver d'Overdrive est installé, il la met à 100 % (comme les autres réglages de la ligne « Réglages du convoi » : copie de tes réglages d'abord, « Remettre mes réglages » pour reprendre les tiens) ; sans l'hiver, il la laisse tranquille. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
       "popup": false
@@ -1053,12 +1064,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.61",
+      "version": "3.0.62",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.61.scs",
-      "sha256": "0d11edf937bad04073e187afae958999ce228ae3a4478eaad51813846872055c",
-      "sizeBytes": 4098133,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.62.scs",
+      "sha256": "c30e68d272d5094e4d6d639f7a35ada9fa785a7eaed58de8b4c27b0819ec6038",
+      "sizeBytes": 4098134,
       "required": true,
       "loadOrder": 71
     },
@@ -1108,12 +1119,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.61",
+      "version": "3.0.62",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.61.scs",
-      "sha256": "65b7b8ad12925d33d9b5eb89943e2faa6a01110535b237b3e8dacb691bead085",
-      "sizeBytes": 125572363,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.62.scs",
+      "sha256": "53cc650b7eab7fc870420c2a096990ddbcbea81e539a545bcce452ecdd441740",
+      "sizeBytes": 125585634,
       "required": true,
       "loadOrder": 76
     },
@@ -1127,17 +1138,6 @@
       "sizeBytes": 16183,
       "required": true,
       "loadOrder": 77
-    },
-    {
-      "name": "Overdrive Québec — Hiver",
-      "version": "3.0.61",
-      "source": "direct",
-      "fileName": "overdrive-hiver.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-hiver-3.0.61.scs",
-      "sha256": "c9c9adc89d4d77a8374a7eec90e4214b058717d68ccf5d429f63bc5d327110a6",
-      "sizeBytes": 3836019807,
-      "required": true,
-      "loadOrder": 78
     },
     {
       "name": "Ultimate Graphics Mod ATS",
@@ -1181,6 +1181,11 @@
       "package": "essai-dlc0-*",
       "name": "ESSAI DLC 0",
       "kind": "test"
+    },
+    {
+      "package": "overdrive-hiver",
+      "name": "Overdrive Québec — Hiver",
+      "note": "l'hiver est retiré du serveur pour l'instant : on corrige les bancs de neige, il reviendra"
     },
     {
       "package": "overdrive-hiver-essai*",
@@ -1358,5 +1363,5 @@
       }
     ]
   },
-  "serial": 20261110230340
+  "serial": 20261111095825
 }

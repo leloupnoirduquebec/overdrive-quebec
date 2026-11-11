@@ -1,0 +1,41 @@
+OVERDRIVE QUÉBEC 3.0.62 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Deux modules changent : Camions et Base (environ 130 Mo en tout). Cette version va avec American Truck Simulator 1.62 et le lanceur 0.9.20. Tes sauvegardes se chargent comme avant.
+
+En bref : l'hiver est retiré du serveur pour l'instant, et l'ancienne remorqueuse de la bêta privée est retirée du garage.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver : le module « Overdrive Québec — Hiver » est retiré du serveur pour l'instant. On pouvait encore rester pris sur des bancs de neige, même sur l'autoroute. On le corrige, et il reviendra. Désactive-le dans le gestionnaire de mods du jeu : le lanceur te le signale et peut le mettre de côté.
+- Bêta privée, remorqueuse (seulement avec l'accès bêta des testeurs) : l'ancienne remorqueuse (celle d'avant la 3.0.56) n'est plus en vente et ne se modifie plus au garage. Si tu l'as encore, tu la gardes : ta sauvegarde se charge comme avant. Revends-la et achète la nouvelle chez Kenworth.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les moteurs et les boîtes de vitesses, les phares, le klaxon de train, les caméras, le siège, la suspension, les freins, l'adhérence d'hiver, le GPS, les affiches, les feux de circulation, les trains, le trafic sur la route et le camion à benne : les mêmes qu'en 3.0.61.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Two modules change: Camions and Base (about 130 MB in all). This version goes with American Truck Simulator 1.62 and launcher 0.9.20. Your saves load as before.
+
+Fixes and adjustments
+- Winter: the « Overdrive Québec — Hiver » module is removed from the server for now. You could still get stuck on snow banks, even on the highway. We are fixing it, and it will come back. Switch it off in the game's mod manager: the launcher points it out and can set it aside.
+- Private beta, wrecker (only with the testers' beta access): the old wrecker (the one from before 3.0.56) is no longer for sale and can no longer be modified at the garage. If you still have it, you keep it: your save loads as before. Sell it and buy the new one at Kenworth.
+
+What does not change
+- Pay, engines and gearboxes, headlights, the train horn, cameras, the seat, suspension, brakes, winter grip, GPS, posters, traffic lights, trains, road traffic and the dump truck: the same as in 3.0.61.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
