@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.20",
+  "version": "0.9.21",
   "mandatory": false,
-  "notes": "Ajusté : la probabilité de pluie (« Probabilité de pluie » dans les options du jeu) n'est plus imposée à tous les joueurs. Le lanceur ne la règle que pour les mods de météo d'Overdrive qui en ont besoin, sur la ligne « Réglages du convoi » (ta copie d'abord, « Remettre mes réglages » pour la reprendre), et ne touche à rien sinon ; quand ce mod disparaît, elle te redonne ta propre valeur d’avant (jamais celle que tu as changée toi-même). Elle ne change jamais ton niveau de réglages ni ton classement.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.20.exe",
-  "sizeBytes": 86747980,
-  "sha256": "17c8b634627ea07c79d55dd34350b1b78ee855c8875ae156ed78f04acd301618",
-  "published": "2026-11-10"
+  "notes": "Nouveau : les mises à jour des mods sont maintenant partielles. Quand tu as déjà la version d'avant d'un module, le lanceur télécharge seulement ce qui a changé, puis refait le mod à côté de ta copie et vérifie qu'il est exactement celui du convoi. Exemples mesurés (d'une version à la suivante) : la mise à jour du module Camions passe de 126 Mo à 0,27 Mo, celle du module Économie de 26,5 Mo à 0,36 Mo. Si ça ne marche pas pour une raison ou une autre, le lanceur télécharge le mod au complet, comme avant.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.21.exe",
+  "sizeBytes": 86788161,
+  "sha256": "67fa9052a6b9a4312493af29ead52707f935845aee66bcf60673f3279b21918a",
+  "published": "2026-11-12"
 }

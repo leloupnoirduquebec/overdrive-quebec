@@ -1,0 +1,61 @@
+OVERDRIVE QUÉBEC 3.0.64 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Cinq modules changent : Camions, Physique, Économie, Base et Hiver (environ 3 570 Mo en tout, dont environ 3 415 Mo pour l'hiver). Avec le lanceur 0.9.21, la mise à jour se télécharge en petits morceaux : seul ce qui a changé dans chaque mod est envoyé, et un téléchargement coupé reprend là où il s'était arrêté. Avec un lanceur plus ancien, les fichiers complets sont renvoyés : prévois quelques minutes de téléchargement. Cette version va avec American Truck Simulator 1.62 et le lanceur 0.9.21. Tes sauvegardes se chargent comme avant.
+
+En bref : l'hiver est plus propre. Les gazons de ville ne sont plus verts, les routes ont de la neige sale avec les traces des roues, les buissons sont plus gris et la tempête de jour est un peu moins forte. Les peintures et les jouets de cabine du DLC Route 66 ont maintenant leur prix.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, gazons : les gazons de ville, les pelouses et les terrains posés sur la carte ne sont plus verts. Ils sont blancs comme le reste. Le sol, les routes et les objets gardent exactement la forme et la place du jeu : seules des couleurs changent.
+- Hiver, routes : les routes ont maintenant de la neige sale. Les traces des roues sont plus sombres, la voie roulée est blanche et tassée, et les bords et les accotements ont de la gadoue gris-brun et jaunâtre. Les autoroutes restent plus dégagées que les routes secondaires et les rues. Les lignes de la route ne changent pas.
+- Hiver, buissons : les buissons sont plus gris, avec un peu de vert foncé gardé.
+- Hiver, tempête de jour : le blizzard du jour est un peu moins fort (environ 10 % de moins : la visibilité passe de 50 à environ 56 m et il tombe un peu moins de neige). La nuit, la fréquence et la durée des tempêtes ne changent pas.
+- Hiver, flocons de nuit : un peu plus gris la nuit (la nuit reste sombre).
+- Hiver, adhérence : l'asphalte est un peu plus glissant, à 90 % de l'adhérence sèche, sur toutes les routes (autoroutes comprises) ; le freinage est environ 11 % plus long. La terre, le gravier et les cours gardent leur adhérence d'hiver.
+- Route 66 : les peintures et les jouets de cabine du DLC Route 66 (American Truck Simulator, 1.62.2.0) ont maintenant leur prix Overdrive, comme les autres pièces. Nous ne livrons que des définitions : rien du DLC n'est copié.
+- Remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : la clé bêta n'offre plus qu'une seule remorqueuse chez le concessionnaire, la Kenworth W900 Couchette 72 po (l'offre en double pour ceux qui ont le Tuning Pack est retirée). Les pièces du Tuning Pack restent en vente au garage. Un camion déjà acheté se charge comme avant.
+- Lanceur 0.9.21, hiver : le lanceur s'habille pour l'hiver, une neige légère tombe derrière les pages.
+- Lanceur 0.9.21, plus fluide : le lanceur ne gèle plus quand on change d'onglet (Classements, Carnet de route).
+- Hiver facultatif : le module Hiver n'est plus obligatoire sur le serveur. Le lanceur 0.9.21 l'installe quand même par défaut, mais tu peux le décocher dans ses paramètres (« Hiver (facultatif…) ») si ton PC a de la misère : le serveur ne te demande rien de plus et tu joues avec les autres, sans la neige du module. L'adhérence d'hiver est dans Physique : elle reste la même pour tout le monde, avec ou sans le module Hiver.
+- Lanceur 0.9.21 : fin d'Halloween. Le décor d'Halloween est mis de côté dans le lanceur, qui reprend son look de tous les jours.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les moteurs et les boîtes de vitesses, les phares, le klaxon de train, les caméras, le siège, la suspension, les freins, l'adhérence d'hiver, le GPS, les affiches, les feux de circulation, les trains, la charrue du camion à benne et le trafic sur la route : les mêmes qu'en 3.0.63.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Five modules change: Camions, Physique (physics), Économie (economy), Base and Hiver (winter) (about 3,570 MB in all, of which about 3,415 MB is the winter). With launcher 0.9.21 the update downloads in small pieces: only what changed in each mod is sent, and a cut download resumes where it stopped. With an older launcher the complete files are sent again: allow a few minutes to download. This version goes with American Truck Simulator 1.62 and launcher 0.9.21. Your saves load as before.
+
+Fixes and adjustments
+- Winter, lawns: city lawns, grass patches and the terrain placed on the map are no longer green. They are white like the rest. The ground, the roads and the objects keep exactly the game's shape and place: only colours change.
+- Winter, roads: roads now have dirty snow. The wheel tracks are darker, the driven lane is white and packed, and the edges and shoulders have grey-brown and yellowish slush. Highways stay cleaner than secondary roads and city streets. The road lines do not change.
+- Winter, bushes: bushes are greyer, with a little dark green kept.
+- Winter, daytime storm: the daytime blizzard is a little lighter (about 10 % less: visibility goes from 50 to about 56 m and a little less snow falls). The night and the frequency and length of the storms do not change.
+- Winter, night flakes: a little greyer at night (the night stays dark).
+- Winter, grip: asphalt is a little more slippery, at 90 % of the dry grip, on every road (highways included); braking is about 11 % longer. Dirt, gravel and yards keep their winter grip.
+- Route 66: the paint jobs and cab toys of the Route 66 DLC (American Truck Simulator, 1.62.2.0) now have their Overdrive price, like the other parts. We ship definitions only: nothing from the DLC is copied.
+- Private-beta wrecker, only with the testers' beta access: the beta key now offers a single wrecker at the dealer, the Kenworth W900 72 in. Sleeper (the duplicate offer for Tuning Pack owners is removed). The Tuning Pack parts stay on sale in the garage. A truck already bought loads as before.
+- Launcher 0.9.21, winter: the launcher dresses for winter, a light snowfall drifts behind the pages.
+- Launcher 0.9.21, smoother: no more freezes when switching tabs (Rankings, Logbook).
+- Optional winter: the Winter module is no longer required on the server. Launcher 0.9.21 still installs it by default, but you can untick it in its settings (« Hiver (facultatif…) ») if your PC struggles: the server asks nothing more of you and you play with the others, without the module's snow. The winter grip is in Physique (physics): it stays the same for everyone, with or without the Winter module.
+- Launcher 0.9.21: end of Halloween. The Halloween decoration is put aside in the launcher, which goes back to its everyday look.
+
+What does not change
+- Pay, engines and gearboxes, headlights, the train horn, cameras, the seat, suspension, brakes, winter grip, GPS, posters, traffic lights, trains, the dump truck's plow and road traffic: the same as in 3.0.63.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
