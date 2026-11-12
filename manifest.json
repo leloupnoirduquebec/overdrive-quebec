@@ -60,6 +60,17 @@
   },
   "news": [
     {
+      "date": "2026-11-11",
+      "title": "Overdrive Québec 3.0.63 : l'hiver revient, sans buttes de neige sur la route, et la charrue du camion à benne frappe ce qu'elle touche",
+      "text": "L'hiver revient. Cette fois la neige ne change plus la hauteur du sol : plus de buttes sur la route. Ouvre l'œil, il a un nouveau look. Correctif : sur le camion à benne, la charrue avant et l'aile de côté frappent maintenant ce qu'elles touchent, au lieu de passer au travers. Avant, seul le pare-chocs frappait. Leur allure ne change pas et tes sauvegardes se chargent comme avant. Les détails sont dans les notes complètes. Trois modules changent : Camions, Base et Hiver (environ 3 540 Mo en tout, dont environ 3 410 Mo pour l'hiver : prévois quelques minutes de téléchargement). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.63.txt",
+        "sha256": "bdccff84e7b08fcfae665a1bc43dc8193da788bdd14d3a4a3cd5076e687c4e11",
+        "sizeBytes": 5473
+      }
+    },
+    {
       "date": "2026-11-10",
       "title": "Overdrive Québec 3.0.62 : l'hiver retiré pour l'instant, et un correctif pour la remorqueuse de la bêta privée",
       "text": "Ajustement : le module « Overdrive Québec — Hiver » est retiré du serveur pour l'instant : on pouvait encore rester pris sur des bancs de neige, même sur l'autoroute. On le corrige, et il reviendra. Désactive-le dans le gestionnaire de mods du jeu ; le lanceur te le signale et peut le mettre de côté. Pour la remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : l'ancienne remorqueuse (d'avant la 3.0.56) n'est plus en vente et ne se modifie plus au garage ; si tu l'as encore, tu la gardes, revends-la et achète la nouvelle chez Kenworth. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Deux modules changent : Camions et Base (environ 130 Mo en tout). Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -1064,11 +1075,11 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.62",
+      "version": "3.0.63",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.62.scs",
-      "sha256": "c30e68d272d5094e4d6d639f7a35ada9fa785a7eaed58de8b4c27b0819ec6038",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.63.scs",
+      "sha256": "6a14834819d65c462c2a7296861f22ebe6aecf103fdbca65ddb5e3b5dfc98dbf",
       "sizeBytes": 4098134,
       "required": true,
       "loadOrder": 71
@@ -1119,12 +1130,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.62",
+      "version": "3.0.63",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.62.scs",
-      "sha256": "53cc650b7eab7fc870420c2a096990ddbcbea81e539a545bcce452ecdd441740",
-      "sizeBytes": 125585634,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.63.scs",
+      "sha256": "13b8413f2b949a433fbef8fcf7fa115aa15678f5a13505d7e4554652d7212383",
+      "sizeBytes": 125599035,
       "required": true,
       "loadOrder": 76
     },
@@ -1138,6 +1149,17 @@
       "sizeBytes": 16183,
       "required": true,
       "loadOrder": 77
+    },
+    {
+      "name": "Overdrive Québec — Hiver",
+      "version": "3.0.63",
+      "source": "direct",
+      "fileName": "overdrive-hiver.scs",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-hiver-3.0.63.scs",
+      "sha256": "3e7dd3a490a53e82264c6e19396807cf50c63ee4ea80cb4318b323f176afcc5b",
+      "sizeBytes": 3412477824,
+      "required": true,
+      "loadOrder": 78
     },
     {
       "name": "Ultimate Graphics Mod ATS",
@@ -1181,11 +1203,6 @@
       "package": "essai-dlc0-*",
       "name": "ESSAI DLC 0",
       "kind": "test"
-    },
-    {
-      "package": "overdrive-hiver",
-      "name": "Overdrive Québec — Hiver",
-      "note": "l'hiver est retiré du serveur pour l'instant : on corrige les bancs de neige, il reviendra"
     },
     {
       "package": "overdrive-hiver-essai*",
@@ -1363,5 +1380,5 @@
       }
     ]
   },
-  "serial": 20261111095825
+  "serial": 20261112002400
 }

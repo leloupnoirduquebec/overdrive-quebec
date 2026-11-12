@@ -1,0 +1,49 @@
+OVERDRIVE QUÉBEC 3.0.63 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Trois modules changent : Camions, Base et Hiver (environ 3 540 Mo en tout, dont environ 3 410 Mo pour l'hiver : prévois quelques minutes de téléchargement). Cette version va avec American Truck Simulator 1.62 et le lanceur 0.9.20. Tes sauvegardes se chargent comme avant.
+
+En bref : l'hiver revient, et cette fois la neige ne change plus la hauteur du sol (plus de buttes sur la route). Sur le camion à benne, la charrue avant et l'aile de côté frappent maintenant ce qu'elles touchent.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, de retour : le module « Overdrive Québec — Hiver » revient sur le serveur. Cette fois la neige ne change plus la hauteur du sol : le sol, les routes et les objets gardent exactement la forme et la place du jeu, et seules les couleurs deviennent blanches. Il n'y a plus de buttes de neige sur la route, ni aux ponts, ni aux passages à niveau, ni aux sorties. Il reste obligatoire sur le serveur pendant l'hiver, au-dessus de la Météo et de l'Ultimate Graphics Mod. Si tu l'avais mis de côté, le lanceur le réinstalle.
+- Hiver, roches et collines : les roches, les falaises et les flancs de montagne gardent l'image du jeu, sans neige peinte par-dessus. Sur les collines au loin, la neige couvre la forêt, l'herbe et la terre, et la vraie roche reste visible.
+- Hiver, chemins de terre : les chemins et les terrains de terre sont en boue d'hiver (deux ornières de boue mouillée, de la neige tassée grise et brune à côté).
+- Hiver, cours et verdure : les cours, les gazons de ville, les haies et les îlots d'échangeur sont enneigés.
+- Hiver, la neige qui tombe et le pare-brise : les flocons ont une nouvelle allure, et la nuit ils sont un peu plus sombres (moins gris). Le pare-brise a de nouvelles images, du flocon frais à la gadoue.
+- Camion à benne, charrue et aile de côté : la charrue avant et l'aile de côté de la benne frappent maintenant ce qu'elles touchent, au lieu de passer au travers. Avant, seul le pare-chocs frappait. L'allure de la charrue et de l'aile ne change pas, et le poids du camion non plus.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les moteurs et les boîtes de vitesses, les phares, le klaxon de train, les caméras, le siège, la suspension, les freins, l'adhérence d'hiver, le GPS, les affiches, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.62.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Three modules change: Camions, Base and Hiver (winter) (about 3,540 MB in all, of which about 3,410 MB is the winter: allow a few minutes to download). This version goes with American Truck Simulator 1.62 and launcher 0.9.20. Your saves load as before.
+
+Fixes and adjustments
+- Winter, back: the « Overdrive Québec — Hiver » module is back on the server. This time the snow no longer changes the height of the ground: the ground, the roads and the objects keep exactly the game's shape and place, and only their colours turn white. There are no snow humps on the road any more, nor at bridges, level crossings or exits. It stays required on the server during winter, above the Weather module and the Ultimate Graphics Mod. If you had set it aside, the launcher installs it again.
+- Winter, rocks and hills: rocks, cliffs and mountain flanks keep the game's image, with no snow painted over them. On the distant hills, the snow covers the forest, the grass and the soil, and the real rock stays visible.
+- Winter, dirt roads: dirt roads and dirt lots are winter mud (two ruts of wet mud, grey and brown packed snow beside them).
+- Winter, yards and greenery: yards, city lawns, hedges and interchange islands are snowy.
+- Winter, falling snow and the windscreen: the flakes look new, and at night they are a little darker (less grey). The windscreen has new images, from fresh flake to slush.
+- Dump truck, plow and side wing: the front plow and the dump truck's side wing now hit what they touch, instead of passing through it. Before, only the bumper hit. The plow's and the wing's look do not change, and neither does the truck's weight.
+
+What does not change
+- Pay, engines and gearboxes, headlights, the train horn, cameras, the seat, suspension, brakes, winter grip, GPS, posters, traffic lights, trains and road traffic: the same as in 3.0.62.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
