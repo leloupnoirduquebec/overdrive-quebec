@@ -1,0 +1,67 @@
+OVERDRIVE QUÉBEC 3.0.65 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Quatre modules changent : Physique, Camions, Base et Hiver (environ 3 550 Mo en tout, dont environ 3 420 Mo pour l'hiver). Avec le lanceur 0.9.21, seul ce qui a changé dans chaque mod est téléchargé, et un téléchargement coupé reprend là où il s'était arrêté. Cette version va avec American Truck Simulator 1.62 et le lanceur 0.9.21. Tes sauvegardes se chargent comme avant.
+
+En bref : l'hiver est plus réaliste. La neige est plus blanche partout, le jour est plus clair, on voit un peu plus loin dans le blizzard et le ciel d'hiver a du nouveau. L'hiver est plus glissant (environ 44 % d'adhérence en moins sur l'asphalte, 25 % ailleurs) et un nouveau pneu à chaînes donne un peu plus d'adhérence aux roues arrière. La remorqueuse de la bêta privée porte maintenant un vrai nom de remorqueuse.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, le ciel : il y a maintenant des éclaircies. Le soleil bas perce les nuages pendant qu'une petite neige continue de tomber. Et l'hiver n'est plus tout à fait le même d'un bout à l'autre de la carte… Ouvre l'œil d'une région à l'autre.
+- Nouveau pneu « Dynamix à chaînes » pour les roues arrière de tous les camions : un peu plus d'adhérence (10 % de plus que les autres pneus, sur toutes les routes). Jamais à l'avant ni sur une remorque.
+- Remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : du nouveau sur la grue et à l'arrière… Ouvre l'œil.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, neige plus blanche : la neige est plus blanche et plus réaliste partout, avec le blanc de la vraie neige fraîche. Le sol, les cours, les toits, les objets et les arbres ont été refaits ensemble, pour qu'ils aillent ensemble. La neige tassée des chemins garde son gris. Le sol, les routes et les objets gardent exactement la forme et la place du jeu : seules des images et des couleurs changent, et les roches restent comme dans le jeu.
+- Hiver, lumière du jour : le jour, l'image est un peu plus claire, pour que la neige au soleil paraisse blanche plutôt que grise. Les jours où il neige, l'image est aussi un peu plus claire et un peu plus contrastée.
+- Hiver, visibilité : dans le blizzard de jour, on voit environ 10 % plus loin (environ 61 m au lieu de 56 m). La nuit, le brouillard des tempêtes est moins noir, plus gris. La neige qui tombe reste la même.
+- Hiver, ligne verte le long des autoroutes : une mince ligne vert kaki qui ondulait de chaque côté de la route (le gravier du bord de l'asphalte) est maintenant couverte de neige sale comme le reste.
+- Hiver, adhérence : l'hiver, tous les pneus (camions, remorques, autos) ont 25 % d'adhérence en moins, sur toutes les surfaces. Sur l'asphalte, ça s'ajoute à la route d'hiver : il reste environ 56 % de l'adhérence sèche, environ 44 % de moins (avant : 90 %), sur toutes les routes, autoroutes comprises. Le freinage est environ 1,8 fois plus long : ralentis plus tôt. Le gravier, la terre et les cours, déjà sous la neige, perdent aussi 25 %. Le pneu à chaînes garde 10 % de plus que les autres pneus. Le jeu ne fait pas de différence entre une autoroute et une autre route, donc c'est le même chiffre partout. Comme avant, c'est dans le module Physique : pareil pour tout le monde, avec ou sans le module Hiver.
+- Hiver, arbre resté vert : un petit arbre vu de loin, le genévrier de l'Utah, était resté vert d'été. Il est maintenant en hiver comme les autres.
+- Multijoueur : les autres joueurs voient maintenant les pièces des DLC sur la remorqueuse et sur le W900 (capots, pare-buffles, pièces de cabine, racks, barres DEL, lumières), même sans ces DLC ; seuls leurs propriétaires peuvent les acheter.
+- Remorqueuse de la bêta privée, seulement avec l'accès bêta des testeurs : chez le concessionnaire, elle s'appelle maintenant « Kenworth W900 Rotateur 50 t », son vrai nom de remorqueuse lourde, sans « OD » (avant : « Couchette 72 po OD »). Seul le nom affiché change : un camion déjà acheté se charge comme avant.
+- Remorqueuse de la bêta privée : le contour chromé des ailes arrière est maintenant collé sur la caisse (avant, il restait un creux d'environ 6 cm derrière). Un camion déjà acheté se charge comme avant.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les prix, les moteurs et les boîtes de vitesses, les phares, le klaxon de train, les caméras, le siège, la suspension, les freins, l'adhérence sous la pluie, le GPS, les affiches, les feux de circulation, les trains, la charrue du camion à benne et le trafic sur la route : les mêmes qu'en 3.0.64. L'hiver reste facultatif, comme en 3.0.64.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Four modules change: Physique (physics), Camions, Base and Hiver (winter) (about 3,550 MB in all, of which about 3,420 MB is the winter). With launcher 0.9.21 only what changed in each mod is downloaded, and a cut download resumes where it stopped. This version goes with American Truck Simulator 1.62 and launcher 0.9.21. Your saves load as before.
+
+New
+- Winter, the sky: there are now sun breaks. The low sun comes through the clouds while a light snow keeps falling. And winter is no longer quite the same from one end of the map to the other… Keep your eyes open from one region to the next.
+- New « Dynamix with chains » tyre for the rear wheels of every truck: a little more grip (10 % more than the other tyres, on every road). Never on the front or on a trailer.
+- Private-beta wrecker, only with the testers' beta access: something new on the crane and at the rear… Keep your eyes open.
+
+Fixes and adjustments
+- Winter, whiter snow: the snow is whiter and more realistic everywhere, with the white of real fresh snow. The ground, the yards, the roofs, the objects and the trees were remade together, so that they match. The packed snow of dirt roads keeps its grey. The ground, the roads and the objects keep exactly the game's shape and place: only images and colours change, and the rocks stay as in the game.
+- Winter, daylight: by day the picture is a little brighter, so that sunlit snow looks white rather than grey. On snowing days the picture is also a little brighter and a little more contrasted.
+- Winter, visibility: in the day blizzard you see about 10 % farther (about 61 m instead of 56 m). At night the storms' fog is less black, greyer. The falling snow stays the same.
+- Winter, green line along highways: a thin khaki-green line that waved on each side of the road (the gravel at the edge of the asphalt) is now covered with slush like the rest.
+- Winter, grip: in winter every tyre (trucks, trailers, cars) has 25 % less grip, on every surface. On asphalt this adds to the winter road: about 56 % of the dry grip is left, about 44 % less (before: 90 %), on every road, highways included. Braking is about 1.8 times longer: slow down earlier. Gravel, dirt and yards, already under snow, also lose 25 %. The chained tyre keeps 10 % more than the other tyres. The game makes no difference between a highway and another road, so it is the same number everywhere. As before it is in the Physique (physics) module: the same for everyone, with or without the Winter module.
+- Winter, a tree that stayed green: a small tree seen from afar, the Utah juniper, had stayed summer green. It is now in winter like the others.
+- Multiplayer: other players now see the DLC parts on the wrecker and on the W900 (hoods, bull bars, cab parts, racks, LED bars, lights), even without those DLCs; only their owners can buy them.
+- Private-beta wrecker, only with the testers' beta access: at the dealer it is now called « Kenworth W900 50 t rotator », its real heavy-wrecker name, without « OD » (before: « OD 72 in sleeper »). Only the displayed name changes: a truck already bought loads as before.
+- Private-beta wrecker: the chrome contour of the rear fenders now sits flush on the body (before, a gap of about 6 cm was left behind it). A truck already bought loads as before.
+
+What does not change
+- Pay, prices, engines and gearboxes, headlights, the train horn, cameras, the seat, suspension, brakes, grip in the rain, GPS, posters, traffic lights, trains, the dump truck's plow and road traffic: the same as in 3.0.64. The winter stays optional, as in 3.0.64.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
