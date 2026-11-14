@@ -1,0 +1,65 @@
+OVERDRIVE QUÉBEC 3.0.66 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Trois modules changent : Hiver, Camions et Base. Avec le lanceur 0.9.21, seul ce qui a changé dans chaque mod est téléchargé (environ 11 Mo si tu as la 3.0.65), et un téléchargement coupé reprend là où il s'était arrêté. Si tu avais décoché l'hiver, ou si tu as un vieux lanceur, l'hiver se télécharge de nouveau en entier (environ 3 420 Mo), parce qu'il est maintenant obligatoire. Cette version va avec American Truck Simulator 1.62 et le lanceur 0.9.21. Tes sauvegardes se chargent comme avant.
+
+En bref : l'hiver est maintenant obligatoire pour tout le monde sur le serveur. Deux autres pneus à chaînes arrivent pour les roues arrière (Roadmaster et Vortex), et le Peterbilt 389 reçoit des pare-chocs à feux et des supports de garde-boue à DEL. Le néon sous les camions est plus réaliste et passe à 17 couleurs.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Pneus à chaînes : deux nouveaux articles « Roadmaster à chaînes » et « Vortex à chaînes » pour les roues arrière de tous les camions (jamais à l'avant ni sur une remorque), avec le même plus d'adhérence que le Dynamix à chaînes (10 % de plus que les autres pneus, sur toutes les routes).
+- Peterbilt 389, pare-chocs à feux : deux nouveaux pare-chocs de 20 po dans la case Pare-chocs, « OD 15 feux 2 po » (quinze petites lampes rondes ambre de 2 po sur œillets de caoutchouc) et « OD 20 feux 3/4 po » (vingt petites lampes rondes ambre de 3/4 po dans des lunettes chromées). Les lampes s'allument avec les feux de position.
+- Peterbilt 389, garde-boue à DEL : « OD Garde-boue DEL » dans la case Garde-boue, des supports en inox de 30 po avec trois feux rouges de 4 po par côté (feux de position, frein et clignotants).
+- Ces pièces du 389 sont offertes sur tous les châssis du 389 et tout le monde les voit en convoi.
+- Néon sous les camions, plus réaliste : au lieu d'un tapis de couleur égal qui s'arrête net aux pneus, la lumière forme maintenant un bassin plus fort sous le camion qui s'estompe doucement environ un mètre plus loin. Le tube n'a plus de cœur blanc : une seule couleur franche.
+- Sept nouvelles couleurs de néon, avec les mêmes noms et la même teinte que les cadrans : neutre, pêche, corail, mauve, glace, menthe et lime (17 couleurs en tout, chacune avec sa propre icône dans la boutique). Les 10 couleurs d'avant ne changent pas : un camion déjà équipé garde son néon.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver obligatoire : le module Hiver est de nouveau obligatoire sur le serveur, comme tous les autres modules d'Overdrive Québec (en 3.0.64 et 3.0.65, il était facultatif). Le lanceur l'installe pour tout le monde. Aucun changement dans l'hiver lui-même : c'est le même contenu qu'en 3.0.65.
+- Les chaînes du Roadmaster et du Vortex sont les mêmes que celles du Dynamix à chaînes de la 3.0.65. Prix : Roadmaster à chaînes 2 029 $, Vortex à chaînes 3 559 $.
+- Prix des pièces du 389 : OD 15 feux 2 po 870 $, OD 20 feux 3/4 po 1 020 $, OD Garde-boue DEL 350 $ (des prix de pièces réelles).
+- Boîtes de vitesses pour charges lourdes : les boîtes « 20918B 4.30 H » et « 20913A 4.10 H » acceptent maintenant les moteurs HN 2 250 lb-pi, comme la « 22918B 4.56 H ». Leur capacité est renforcée par Overdrive (ce n'est pas la cote réelle d'Eaton, 2 050 lb-pi).
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les prix, les moteurs et les autres boîtes de vitesses, les phares, le klaxon de train, les caméras, le siège, la suspension, les freins, l'adhérence (hiver et pluie), le GPS, les affiches, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.65.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Three modules change: Hiver (winter), Camions and Base. With launcher 0.9.21 only what changed in each mod is downloaded (about 11 MB if you have 3.0.65), and a cut download resumes where it stopped. If you had unticked the winter, or if you have an old launcher, the winter downloads again in full (about 3,420 MB), because it is now required. This version goes with American Truck Simulator 1.62 and launcher 0.9.21. Your saves load as before.
+
+In short: the winter is now required for everyone on the server. Two more chained tyres arrive for the rear wheels (Roadmaster and Vortex), and the Peterbilt 389 gets lit bumpers and LED mud flap hangers. The neon under the trucks is more realistic and goes to 17 colours.
+
+New
+- Chained tyres: two new items « Roadmaster chained » and « Vortex with chains » for the rear wheels of every truck (never on the front or on a trailer), with the same extra grip as the Dynamix with chains (10 % more than the other tyres, on every road).
+- Peterbilt 389, lit bumpers: two new 20 in bumpers in the Bumper slot, « OD 15 Lamps 2 in » (fifteen small round amber 2 in lamps on rubber grommets) and « OD 20 Lamps 3/4 in » (twenty small round amber 3/4 in lamps in chrome bezels). The lamps light with the parking lights.
+- Peterbilt 389, LED mud flap hangers: « OD LED Flap Hangers » in the Mud flaps slot, 30 in stainless hangers with three red 4 in lamps on each side (tail, brake and turn signals).
+- These 389 parts are offered on every 389 chassis and everyone sees them in convoy.
+- More realistic neon under the trucks: instead of an even carpet of colour that stops dead at the tyres, the light now forms a pool, stronger under the truck, that fades out softly about a metre farther. The tube no longer has a white core: one clear colour.
+- Seven new neon colours, with the same names and the same hue as the gauges: neutral, peach, coral, mauve, ice, mint and lime (17 colours in all, each with its own shop icon). The 10 earlier colours do not change: a truck already fitted keeps its neon.
+
+Fixes and adjustments
+- Winter required: the Winter module is required on the server again, like every other Overdrive Québec module (in 3.0.64 and 3.0.65 it was optional). The launcher installs it for everyone. The winter itself does not change: the same content as in 3.0.65.
+- The Roadmaster and Vortex chains are the same as the Dynamix with chains of 3.0.65. Prices: Roadmaster chained $2,029, Vortex with chains $3,559.
+- Prices of the 389 parts: OD 15 Lamps 2 in $870, OD 20 Lamps 3/4 in $1,020, OD LED Flap Hangers $350 (real parts' prices).
+- Heavy-haul gearboxes: the « 20918B 4.30 H » and « 20913A 4.10 H » boxes now accept the HN 2,250 lb-ft engines, like the « 22918B 4.56 H ». Their capacity is reinforced by Overdrive (it is not Eaton's real rating, 2,050 lb-ft).
+
+What does not change
+- Pay, prices, engines and the other gearboxes, headlights, the train horn, cameras, the seat, suspension, brakes, grip (winter and rain), GPS, posters, traffic lights, trains and road traffic: the same as in 3.0.65.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
