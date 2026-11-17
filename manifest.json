@@ -60,6 +60,22 @@
   },
   "news": [
     {
+      "date": "2026-11-17",
+      "title": "Overdrive Québec 3.0.68 : le néon serré autour du camion et des correctifs pour le Peterbilt 389",
+      "text": "Du nouveau pour le Peterbilt 389 à découvrir au garage, ouvre l'œil. Correctifs : le néon sous le camion n'éclaire plus large sur les côtés, c'est maintenant une bande serrée d'environ 14 cm autour du camion, sur les côtés et en arrière sur tous les camions qui ont notre néon ; sur le 389, le pare-buffle Quarterback est rapproché du capot, les racks derrière la cabine sont rapprochés de la cabine, le tuyau du jeu ne dépasse plus sous la cheminée gauche, les plaques de châssis pleine longueur ont la largeur et l'épaisseur du vrai, les ailes à dessus plat sont plus rondes et les supports de garde-boue ne sont plus roses ; pour que tout le monde voie en convoi deux peintures du Tuning Pack du W900 et la charge du lowboy du jeu avec le Transport spécial. Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Seuls Camions, Base et Économie changent : environ 38 Mo si tu as la 3.0.67. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
+      "popup": false,
+      "notes": {
+        "file": "notes/overdrive-3.0.68.txt",
+        "sha256": "debee2e2592c157d0eccd06d4bd1441648e454fbe8bad6527c1dd605efb7a640",
+        "sizeBytes": 10955
+      },
+      "image": {
+        "file": "affiches/affiche-3.0.68.png",
+        "sha256": "8083b6a0d5c11a15bf775b96264fcc733ca050c7e93b202beaeab61245714bed",
+        "sizeBytes": 752815
+      }
+    },
+    {
       "date": "2026-11-16",
       "title": "Overdrive Québec 3.0.67 : une grosse série de pièces pour le Peterbilt 389, la lumière d'ambiance de cabine et des correctifs",
       "text": "Du nouveau pour le Peterbilt 389 : une grosse série de pièces de modification à découvrir au garage, ouvre l'œil. Du nouveau aussi pour la cabine du W900 et du 389, pour le néon et pour les pneus à chaînes, et nos cheminées reçoivent sept nouveaux hauts, en 7 et 8 po (les 9 po ne sont plus en vente ; celles déjà posées restent). Correctifs : les cartes postales « Virée en voiture » et les jouets de cabine payants reviennent sur le 389 et le W900 ; les boutons des cadrans du W900 ne restent plus blancs ; la barre DEL du rack du W900 est maintenant centrée sur le rack ; les attaches et les charnières des racks à portes du W900 et du 389 ne sont plus sombres, elles sont maintenant bien éclairées ; la carte postale « Virée en voiture » de Californie 2, que personne ne pouvait débloquer, est cachée ; les arbres vert foncé et orange de l'hiver sont couverts de givre comme les autres ; les arbres de rue, les haies, les buissons et les conifères ne restent plus verts ou roux sous la neige, et les chênes ne sont plus orange ; l'hiver, les cours, les stationnements et les stations-service ne sont plus de la glace (un peu plus glissants que la route), et les routes ont 25 % moins d'adhérence qu'avant : freine plus tôt. Les mods d'Overdrive Québec sont réservés aux membres du serveur : une licence est ajoutée dans chaque module (aucun effet sur le jeu). Les détails sont dans les notes complètes. Tes sauvegardes se chargent comme avant. Tous les modules changent de version : environ 647 Mo en tout si tu as la 3.0.66 (Camions se télécharge au complet, environ 534 Mo ; Hiver environ 112 Mo ; le reste moins de 1 Mo). Il faut le lanceur 0.9.22. Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.",
@@ -1136,12 +1152,12 @@
     },
     {
       "name": "Overdrive Québec — Base",
-      "version": "3.0.67",
+      "version": "3.0.68",
       "source": "direct",
       "fileName": "overdrive-base.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.67.scs",
-      "sha256": "8cfa11a230209f065581e23fa2ae47e0f6826ee15dd0cfe5808e5b3231fb81e0",
-      "sizeBytes": 4659690,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.68.scs",
+      "sha256": "80371da0ead19abbf8dadec31caaa0c228d304492dfb4052d8909b9a85de126d",
+      "sizeBytes": 4665278,
       "required": true,
       "loadOrder": 71
     },
@@ -1169,12 +1185,12 @@
     },
     {
       "name": "Overdrive Québec — Économie",
-      "version": "3.0.67",
+      "version": "3.0.68",
       "source": "direct",
       "fileName": "overdrive-economie.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.67.scs",
-      "sha256": "568d36e0871a4b2de7c1cc8d89d951c6671eccbe683f5b5376ce53156fc05f6b",
-      "sizeBytes": 26689276,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.68.scs",
+      "sha256": "a91ef861fe06edcb90e2de915a001781e94a4cf3150965dca8f05c2eda848f05",
+      "sizeBytes": 26689057,
       "required": true,
       "loadOrder": 74
     },
@@ -1191,12 +1207,12 @@
     },
     {
       "name": "Overdrive Québec — Camions",
-      "version": "3.0.67",
+      "version": "3.0.68",
       "source": "direct",
       "fileName": "overdrive-camions.scs",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.67.scs",
-      "sha256": "6a9c53a6e62fd3baa1b2efa9254e39ca51f5da66d8535e23629adbf849749836",
-      "sizeBytes": 533983676,
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.68.scs",
+      "sha256": "a4d3dc78e8f77bb55f1852c72843091f262ea4052d48b28a2c1b3018378796e3",
+      "sizeBytes": 535915124,
       "required": true,
       "loadOrder": 76
     },
@@ -1464,63 +1480,53 @@
     },
     {
       "fileName": "overdrive-base.scs",
+      "fromSha256": "8cfa11a230209f065581e23fa2ae47e0f6826ee15dd0cfe5808e5b3231fb81e0",
+      "fromSizeBytes": 4659690,
+      "toSha256": "80371da0ead19abbf8dadec31caaa0c228d304492dfb4052d8909b9a85de126d",
+      "format": "odpatch1",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.68.scs.8cfa11a230209f06.odpatch",
+      "sha256": "ac88d55797289b150d14ab9adccecd66d793c84dbd2b5e1030cb3c74967c3281",
+      "sizeBytes": 308286
+    },
+    {
+      "fileName": "overdrive-base.scs",
       "fromSha256": "7811d4a49e89506b29a87639bd8ef1aa494202d0eadfd46de1ba7ba846364d6e",
       "fromSizeBytes": 4657186,
-      "toSha256": "8cfa11a230209f065581e23fa2ae47e0f6826ee15dd0cfe5808e5b3231fb81e0",
+      "toSha256": "80371da0ead19abbf8dadec31caaa0c228d304492dfb4052d8909b9a85de126d",
       "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.67.scs.7811d4a49e89506b.odpatch",
-      "sha256": "b692d046eb063c409127479cbb79468638199a8d19bf8f1ef5a17095317789da",
-      "sizeBytes": 307820
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.68.scs.7811d4a49e89506b.odpatch",
+      "sha256": "528fb3f117aaad20eb5488b64933f771e52917d2579d180921c420b89c960a7c",
+      "sizeBytes": 314064
     },
     {
       "fileName": "overdrive-base.scs",
       "fromSha256": "b182626f91d59874f629f69ab749736df67ba8a51c18b8eb3e82be1731cea839",
       "fromSizeBytes": 4657162,
-      "toSha256": "8cfa11a230209f065581e23fa2ae47e0f6826ee15dd0cfe5808e5b3231fb81e0",
+      "toSha256": "80371da0ead19abbf8dadec31caaa0c228d304492dfb4052d8909b9a85de126d",
       "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.67.scs.b182626f91d59874.odpatch",
-      "sha256": "17b099e3a6d7f6cd7e50d3ccae84ee6f104ba6e2a2e5bba429d27f6cfee679c5",
-      "sizeBytes": 307820
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.68.scs.b182626f91d59874.odpatch",
+      "sha256": "9cf748a2393d6dce533eabb7f8d63fe3b040b60a18f09856ef49d4f836facbbf",
+      "sizeBytes": 314064
     },
     {
       "fileName": "overdrive-base.scs",
       "fromSha256": "4f15ce3b14ad7370f8a5ff547e67ffff14a6a8dee8a90f83342d985e3b27c03a",
       "fromSizeBytes": 4656037,
-      "toSha256": "8cfa11a230209f065581e23fa2ae47e0f6826ee15dd0cfe5808e5b3231fb81e0",
+      "toSha256": "80371da0ead19abbf8dadec31caaa0c228d304492dfb4052d8909b9a85de126d",
       "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.67.scs.4f15ce3b14ad7370.odpatch",
-      "sha256": "4a2c6b24d72bacb0f7ba5d23b186ec72431a2c8193a6e76c01f502d8fa3ceb64",
-      "sizeBytes": 307861
-    },
-    {
-      "fileName": "overdrive-base.scs",
-      "fromSha256": "ea830f54f8c0cb6fbadfd9f687d43a5298c84bc102395c1f428c264b96d05c51",
-      "fromSizeBytes": 4098134,
-      "toSha256": "8cfa11a230209f065581e23fa2ae47e0f6826ee15dd0cfe5808e5b3231fb81e0",
-      "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.67.scs.ea830f54f8c0cb6f.odpatch",
-      "sha256": "dfb6c24e925f96ba3d39e7f9be50a1497cd4d91ae6e6f2389036998fa4dee4e4",
-      "sizeBytes": 658484
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.68.scs.4f15ce3b14ad7370.odpatch",
+      "sha256": "742c3ab7f29335056a41f716f331f898a028f21d20014b3337597b727259ea03",
+      "sizeBytes": 314107
     },
     {
       "fileName": "overdrive-base.scs",
       "fromSha256": "f976939466976921f0d8e7251b3cfb6ec5fe4c2233cfdb37f36171280664bf7d",
       "fromSizeBytes": 4098134,
-      "toSha256": "8cfa11a230209f065581e23fa2ae47e0f6826ee15dd0cfe5808e5b3231fb81e0",
+      "toSha256": "80371da0ead19abbf8dadec31caaa0c228d304492dfb4052d8909b9a85de126d",
       "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.67.scs.f976939466976921.odpatch",
-      "sha256": "5bc0bd2a913b76df2cd8a9c05b76299e077c44c23a2f94b2c548e58e6aa870a5",
-      "sizeBytes": 702705
-    },
-    {
-      "fileName": "overdrive-base.scs",
-      "fromSha256": "6a14834819d65c462c2a7296861f22ebe6aecf103fdbca65ddb5e3b5dfc98dbf",
-      "fromSizeBytes": 4098134,
-      "toSha256": "8cfa11a230209f065581e23fa2ae47e0f6826ee15dd0cfe5808e5b3231fb81e0",
-      "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.67.scs.6a14834819d65c46.odpatch",
-      "sha256": "68c6dd5a2a1078693880a8a7dc8398b76981dfdd27aff8931be84310144ba4fb",
-      "sizeBytes": 702705
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-base-3.0.68.scs.f976939466976921.odpatch",
+      "sha256": "4d324c172779737f111e1a71e88805264e37877a2c5e4ad650679e55d86a4973",
+      "sizeBytes": 708815
     },
     {
       "fileName": "overdrive-remorques-modeles.scs",
@@ -1564,33 +1570,43 @@
     },
     {
       "fileName": "overdrive-economie.scs",
+      "fromSha256": "568d36e0871a4b2de7c1cc8d89d951c6671eccbe683f5b5376ce53156fc05f6b",
+      "fromSizeBytes": 26689276,
+      "toSha256": "a91ef861fe06edcb90e2de915a001781e94a4cf3150965dca8f05c2eda848f05",
+      "format": "odpatch1",
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.68.scs.568d36e0871a4b2d.odpatch",
+      "sha256": "4071d7467612adad581e6c81e3dbeaa2262d9e02432fd02a0e844653e00cc2be",
+      "sizeBytes": 350529
+    },
+    {
+      "fileName": "overdrive-economie.scs",
       "fromSha256": "b58f86475276b200089d45f80f1bf363765d4213edfa06f1455282514a03f3b1",
       "fromSizeBytes": 26678778,
-      "toSha256": "568d36e0871a4b2de7c1cc8d89d951c6671eccbe683f5b5376ce53156fc05f6b",
+      "toSha256": "a91ef861fe06edcb90e2de915a001781e94a4cf3150965dca8f05c2eda848f05",
       "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.67.scs.b58f86475276b200.odpatch",
-      "sha256": "02f93c8a1ea382aff78be38264353759f64a04d4a7ffc4053cda097dabecd943",
-      "sizeBytes": 362188
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.68.scs.b58f86475276b200.odpatch",
+      "sha256": "8f62f3fcbbfa752983332350c62771a0530a0babe1f67434f166cb3a9c6cffa3",
+      "sizeBytes": 362807
     },
     {
       "fileName": "overdrive-economie.scs",
       "fromSha256": "7b8056edc3e09e8d95ce8855e17f3ae4067e11e39e5f70ac0c61b7369e222a5e",
       "fromSizeBytes": 26506814,
-      "toSha256": "568d36e0871a4b2de7c1cc8d89d951c6671eccbe683f5b5376ce53156fc05f6b",
+      "toSha256": "a91ef861fe06edcb90e2de915a001781e94a4cf3150965dca8f05c2eda848f05",
       "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.67.scs.7b8056edc3e09e8d.odpatch",
-      "sha256": "239936f328f08bda3f943c79204e7f1a436747782933b074f5ab3460835e17f2",
-      "sizeBytes": 411996
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.68.scs.7b8056edc3e09e8d.odpatch",
+      "sha256": "67c46eb10374dfca973a264e14790a8038f870ec11ccd7275650330fb15ed288",
+      "sizeBytes": 412680
     },
     {
-      "fileName": "overdrive-economie.scs",
-      "fromSha256": "51df3bc144f098a7e8c53e75ebc0a12336d86d85bb0300fc61e42b64c300dcb9",
-      "fromSizeBytes": 26506534,
-      "toSha256": "568d36e0871a4b2de7c1cc8d89d951c6671eccbe683f5b5376ce53156fc05f6b",
+      "fileName": "overdrive-camions.scs",
+      "fromSha256": "6a9c53a6e62fd3baa1b2efa9254e39ca51f5da66d8535e23629adbf849749836",
+      "fromSizeBytes": 533983676,
+      "toSha256": "a4d3dc78e8f77bb55f1852c72843091f262ea4052d48b28a2c1b3018378796e3",
       "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-economie-3.0.67.scs.51df3bc144f098a7.odpatch",
-      "sha256": "37ceb4b3f160fe84e990d4c18ca6e002aaf853a50c073125482dfc0c2c96d810",
-      "sizeBytes": 428669
+      "url": "https://lameuteqc.com/overdrive/mods/overdrive-camions-3.0.68.scs.6a9c53a6e62fd3ba.odpatch",
+      "sha256": "3e19a250f0c66f8be332d6621575e8695144ab36b1e8f31f51b28c5445f19dd0",
+      "sizeBytes": 37526810
     },
     {
       "fileName": "overdrive-hiver.scs",
@@ -1614,16 +1630,6 @@
     },
     {
       "fileName": "overdrive-hiver.scs",
-      "fromSha256": "a93bb17a8057924b31dc919c18dd9bdb57e7cd4e501a24bedd8ad8352516432a",
-      "fromSizeBytes": 3418384854,
-      "toSha256": "af1e423cb58b4f18d57196cd4316be38ea48afad0466b3395edbedf46200e7e9",
-      "format": "odpatch1",
-      "url": "https://lameuteqc.com/overdrive/mods/overdrive-hiver-3.0.67.scs.a93bb17a8057924b.odpatch",
-      "sha256": "7d0c4df4fece88f4a9acb04e647dd9b531fac2a0eb7f58d778efc7777024f4e8",
-      "sizeBytes": 114862155
-    },
-    {
-      "fileName": "overdrive-hiver.scs",
       "fromSha256": "cd583d180dadc123de98a2b8be5d6d8965dd34c903369b38e2a0150b3cd25d5c",
       "fromSizeBytes": 3415585974,
       "toSha256": "af1e423cb58b4f18d57196cd4316be38ea48afad0466b3395edbedf46200e7e9",
@@ -1633,5 +1639,5 @@
       "sizeBytes": 1128827040
     }
   ],
-  "serial": 20261117011502
+  "serial": 20261117221940
 }

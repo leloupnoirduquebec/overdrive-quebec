@@ -1,0 +1,75 @@
+OVERDRIVE QUÉBEC 3.0.68 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent sont téléchargés : environ 38 Mo si tu as la 3.0.67 (Camions environ 37,5 Mo ; Base et Économie moins de 1 Mo chacun). Le module Hiver ne change pas. Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant.
+
+En bref : le néon sous les camions devient une bande serrée d'environ 14 cm autour du camion, au lieu d'une grande flaque de lumière sur les côtés. Le Peterbilt 389 reçoit une série de corrections (pare-buffle Quarterback, racks, cheminée gauche, plaques de châssis, ailes, supports de garde-boue) et de nouvelles pièces : visière Sharp peinte, tableau de bord peint, filtres et bas de couchette à feux ambre, et des panneaux à feux au fond peint.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Peterbilt 389, visière Sharp peinte : la visière « Sharp » du jeu, même forme et mêmes attaches, peinte de la couleur de ton camion. Deux versions : « OD Sharp peinte » (moulure du pare-brise peinte aussi) et « OD Sharp peinte chr. » (moulure du pare-brise chromée, comme la Sharp du jeu). 1 420 $ chacune, même prix que la Sharp chromée, pour les trois cabines.
+- Peterbilt 389, tableau de bord : nouvelle case « Tableau de bord » avec une garniture de couleur (orange pour l'instant), toute colorée (« Tableau peint OD ») ou avec un contour chromé autour des cadrans (« Tableau peint chromé ») ; d'autres couleurs s'en viennent. 410 $ chacun, les six intérieurs du 389. Le dessus du tableau reste foncé pour ne pas refléter dans le pare-brise. Nouvelle case au garage : « Tableau de bord ».
+- Peterbilt 389, filtres à air à feux ambre : « OD Filtre chromé DEL » et « OD Filtre peint DEL » (1 210 $) : nos filtres OD avec 4 feux ronds ambre de 2 po sur chaque panneau avant, allumés avec les feux de position.
+- Peterbilt 389, bas de couchette à feux ambre : « OD Bas couchette DEL » (670 $) : nos panneaux inox sous les portes continuent le long du bas de la couchette, sur la même ligne, avec des feux ronds ambre de 2 po (7 par côté sur la couchette standard, 9 sur la cabine Ultra). La cabine du jeu n'est pas touchée.
+- Peterbilt 389, panneaux à feux au fond peint : chaque panneau à feux existe maintenant aussi avec le fond de la couleur de ton camion, mêmes feux, même place, même prix que la version inox : « OD 16 DEL fond peint » (670 $), « OD 12 DEL fond peint » (260 $) et « OD Couch. peinte DEL » (670 $). Les versions inox ne changent pas.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Néon sous le camion : la lumière sortait beaucoup trop large sur les côtés (une grande flaque jusqu'à plus d'un mètre). C'est maintenant une bande serrée d'environ 14 cm autour du camion, sur les côtés et en arrière sur tous les camions qui ont notre néon, et en avant sauf sur le Cascadia et les pare-chocs aérodynamiques, qui n'ont pas de halo avant. Les 17 couleurs ne changent pas.
+- Lumière d'ambiance de cabine (W900 et 389) : elle n'éclairait rien. On y travaille encore.
+- Peterbilt 389, pare-buffle Quarterback : il se tenait trop loin en avant du capot. Il est reculé et penché de 2° vers la calandre : l'écart est maintenant d'environ 4 cm du bas jusqu'en haut, comme les pare-buffles du jeu. Le pare-chocs, ses feux et la plaque ne bougent pas.
+- Peterbilt 389, racks derrière la cabine : ils étaient trop loin de la cabine. Ils sont rapprochés : 6,7 cm de moins sur la couchette standard, 4,4 cm sur la cabine de jour et 2 cm sur la cabine Ultra. Tous les racks et la barre DEL OD suivent.
+- Peterbilt 389, cheminée gauche : le tuyau d'échappement du jeu dépassait d'environ 12 cm sous notre cheminée gauche. La cheminée gauche suit maintenant son propre tuyau (le tuyau gauche du jeu descend plus bas que le droit) : on ne le voit plus, dans toutes les tailles, tous les hauts et tous les finis, sur les trois cabines.
+- Peterbilt 389, plaques de châssis pleine longueur : elles étaient trop larges et trop épaisses. Elles font maintenant 1/8 po d'épais, la largeur du châssis, et vont de la cabine jusqu'à la sellette, puis de la sellette jusqu'au bout du châssis.
+- Peterbilt 389, ailes à dessus plat : les courbes sont deux fois plus fines, l'aile paraît plus ronde.
+- Peterbilt 389, supports de garde-boue (« OD Support bout DEL » et support des garde-boue) : ils étaient roses au lieu de chromés ; ils sont maintenant chromés.
+- W900, deux peintures du Tuning Pack sur la cabine de 72 po : pour que tout le monde voie la vraie peinture en convoi (avant, les autres joueurs voyaient la couleur de base ; pas encore vérifié en convoi). Seuls ceux qui ont le DLC peuvent l'acheter.
+- Lowboy du jeu qui porte les charges du Transport spécial : pour que tout le monde voie la charge en convoi (avant, un joueur sans ce DLC voyait la remorque vide ; pas encore vérifié en convoi).
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les prix existants, les moteurs et les boîtes de vitesses, les phares, le klaxon de train, les caméras, le siège, la suspension, les freins, l'adhérence, l'hiver, le GPS, les affiches, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.67.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only the modules that change are downloaded: about 38 MB if you have 3.0.67 (Camions about 37.5 MB; Base and Économie under 1 MB each). The Winter module does not change. This version goes with American Truck Simulator 1.62. Your saves load as before.
+
+In short: the neon under the trucks becomes a tight band of about 14 cm around the truck, instead of a big pool of light on the sides. The Peterbilt 389 gets a series of fixes (Quarterback bull bar, racks, left stack, frame plates, fenders, mud flap hangers) and new parts: painted Sharp visor, painted dash, air cleaners and lower sleeper panels with amber lamps, and lamp panels with a painted background.
+
+New
+- Peterbilt 389, painted Sharp visor: the game's « Sharp » visor, same shape and mounts, painted in your truck's colour. Two versions: « OD Sharp Painted » (windshield trim painted too) and « OD Sharp Painted Chr » (chrome windshield trim, like the game's Sharp). $1,420 each, the same price as the chrome Sharp, for the three cabs.
+- Peterbilt 389, dash: a new « Dash » garage slot with a coloured trim (orange for now), all coloured (« OD Painted Dash ») or with a chrome ring around the gauges (« OD Paint Chrome Dash »); more colours are coming. $410 each, the 389's six interiors. The top of the dash stays dark so it does not reflect in the windshield. New garage slot: « Dash ».
+- Peterbilt 389, air cleaners with amber lamps: « OD LED Chrome Filter » and « OD LED Paint Filter » ($1,210): our OD air cleaners with 4 round 2 in amber lamps on each front panel, lit with the parking lights.
+- Peterbilt 389, lower sleeper with amber lamps: « OD Sleeper Panel LED » ($670): our stainless panels under the doors continue along the bottom of the sleeper, on the same line, with round 2 in amber lamps (7 per side on the standard sleeper, 9 on the Ultra Cab). The game's cab is not touched.
+- Peterbilt 389, lamp panels with a painted background: every lamp panel now also comes with the background in your truck's colour, same lamps, same place, same price as the stainless one: « OD Paint Cab 16 LED » ($670), « OD Paint Cab 12 LED » ($260) and « OD Paint Sleeper LED » ($670). The stainless versions do not change.
+
+Fixes and adjustments
+- Neon under the truck: the light spread far too wide on the sides (a big pool reaching over a metre). It is now a tight band of about 14 cm around the truck, on the sides and rear of every truck that has our neon, and at the front except on the Cascadia and the aero bumpers, which have no front halo. The 17 colours do not change.
+- Cab ambient light (W900 and 389): it lit nothing. We are still working on it.
+- Peterbilt 389, Quarterback bull bar: it stood too far in front of the hood. It is moved back and tilted 2° toward the grille: the gap is now about 4 cm from bottom to top, like the game's bull bars. The bumper, its lamps and the plate do not move.
+- Peterbilt 389, racks behind the cab: they stood too far from the cab. They are moved closer: 6.7 cm on the standard sleeper, 4.4 cm on the day cab and 2 cm on the Ultra Cab. Every rack and the OD LED bar follow.
+- Peterbilt 389, left stack: the game's exhaust pipe showed about 12 cm below our left stack. The left stack now follows its own pipe (the game's left pipe goes lower than the right one): it no longer shows, in every size, top and finish, on the three cabs.
+- Peterbilt 389, full-length frame plates: they were too wide and too thick. They are now 1/8 in thick, the width of the frame, and run from the cab to the fifth wheel, then from the fifth wheel to the end of the frame.
+- Peterbilt 389, flat-top fenders: the curves are twice as fine, the fender looks rounder.
+- Peterbilt 389, mud flap hangers (« OD End Cap Hangers » and the mud flap hanger): they were pink instead of chrome; they are now chrome.
+- W900, two Tuning Pack paint jobs on the 72 in cab: so that everyone sees the real paint in convoy (before, other players saw the base colour; not yet checked in convoy). Only DLC owners can buy it.
+- The game's lowboy carrying Special Transport loads: so that everyone sees the load in convoy (before, a player without that DLC saw the trailer empty; not yet checked in convoy).
+
+What does not change
+- Pay, existing prices, engines and gearboxes, headlights, the train horn, cameras, the seat, suspension, brakes, grip, winter, GPS, posters, traffic lights, trains and road traffic: the same as in 3.0.67.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
