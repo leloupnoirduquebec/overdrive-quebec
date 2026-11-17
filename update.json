@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.21",
+  "version": "0.9.22",
   "mandatory": false,
-  "notes": "Nouveau : les mises à jour des mods sont maintenant partielles. Quand tu as déjà la version d'avant d'un module, le lanceur télécharge seulement ce qui a changé, puis refait le mod à côté de ta copie et vérifie qu'il est exactement celui du convoi. Exemples mesurés (d'une version à la suivante) : la mise à jour du module Camions passe de 126 Mo à 0,27 Mo, celle du module Économie de 26,5 Mo à 0,36 Mo. Si ça ne marche pas pour une raison ou une autre, le lanceur télécharge le mod au complet, comme avant.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.21.exe",
-  "sizeBytes": 86788161,
-  "sha256": "67fa9052a6b9a4312493af29ead52707f935845aee66bcf60673f3279b21918a",
-  "published": "2026-11-12"
+  "notes": "Conditions mises à jour (texte 3) : au premier démarrage du lanceur 0.9.22, tu acceptes les conditions une seule fois. Nouveau dans le texte : les mods d'Overdrive Québec ne servent pas sur un autre serveur, ni si tu n'es pas membre (en solo, c'est permis tant que tu es membre) ; Overdrive note qui reçoit quel fichier du mod, pendant 12 mois (effacé avec « Effacer mes données »).",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.22.exe",
+  "sizeBytes": 86795734,
+  "sha256": "91114eeb742141df1f4f55b9b5ee95b613efc0eabd7123a963d07a9ff4c986f6",
+  "published": "2026-11-17"
 }
