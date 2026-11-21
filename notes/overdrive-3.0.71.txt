@@ -1,0 +1,93 @@
+OVERDRIVE QUÉBEC 3.0.71 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent sont téléchargés : environ 2,7 Go si tu as la 3.0.70 (Hiver environ 2,6 Go en mise à jour partielle ; Communauté environ 72 Mo, téléchargé au complet ; Camions, Base et Économie moins de 1 Mo chacun). Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant : tes pièces déjà posées restent les mêmes.
+
+En bref : une mise à jour de correctifs d'hiver. Deux traces de roues par voie sur toutes les routes, des traces plus noir-brun, les chemins de terre enneigés, fini le vert d'été, les plantes dorées et l'eau dorée, moins de blizzards, fini la brume dans la cabine, de la neige blanche sur le pare-brise et des flocons qui ne sont plus noirs la nuit. Aussi : de la neige sur les roulottes et les conteneurs des dépôts et des traces aux postes de péage, la barre DEL du plafond qui éclaire vers le bas, un marchepied d'une seule pièce pour le 389, le transport spécial sans escorte offert plus souvent et la radio Overdrive retirée. Le lanceur passe à la version 0.9.23.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, postes de péage : une fine couche de traces de roues est posée au sol dans les voies des postes de péage du jeu de base (Kansas Turnpike, Afton, le péage sous le pont en Oklahoma, les grands péages de Californie et les barrières de péage). Aux trois péages qui n'existent qu'une fois sur la carte (Richmond et Golden Gate en Californie, un péage du Kansas), les traces continuent sur les approches avant et après l'auvent. Pas de hauteur, pas de bosse. Les péages des DLC de carte payants ne sont pas touchés.
+- Hiver, dépôts : de la neige sur le dessus des roulottes de chantier, des conteneurs à toit plat, des vieux conteneurs rouges, des caisses et des palettes dans une centaine de dépôts, garages et cours du jeu de base (pas de hauteur). Les dépôts des DLC payants gardent leur look.
+- Hiver × UGM (facultatif) : pour ceux qui ont l'Ultimate Graphics Mod du Steam Workshop, un petit paquet facultatif garde notre météo d'hiver (neige, brouillard, tempêtes) avec les images de ciel et de nuages d'UGM. Il ne contient aucun fichier d'UGM. Le lanceur 0.9.23 l'installe seulement quand UGM est téléchargé et actif ; dans le jeu, place « Hiver × UGM » tout en haut, au-dessus de l'Hiver. Sans UGM, rien ne change.
+- Lanceur 0.9.23 : la page Logbook en jeu devient une tablette de compagnie (trésorerie, prêts, chauffeurs, camions, livraisons, carnet 24 h, répartition), avec une bande de conduite en haut de l'écran pour les heures, le trajet, la vitesse, le permis et les amendes.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, traces de roues : on voyait jusqu'à 5 traces sur une route à 2 voies. Il y a maintenant 2 traces par voie, droites, là où passent les roues ; la neige reste blanche entre les traces, au centre et sur les bords. La voie du centre des routes à voie centrale n'a pas de traces. Les vieilles routes du jeu ont les mêmes traces.
+- Hiver, couleur des traces : les traces étaient grises comme du sable ; elles sont maintenant plus foncées et plus noir-brun (couleur mesurée sur une vraie photo de rue de Québec en hiver), partout : routes, vieilles routes, stationnements et péages.
+- Hiver, chemins de terre et routes de service : ils sortaient tout foncés, sans neige. Ils sont maintenant enneigés, avec de la boue seulement dans les ornières.
+- Hiver, taches hexagonales brunes : les fissures de bitume des cours et des dépôts restaient grises sur la neige ; elles prennent maintenant la couleur de la neige tassée.
+- Hiver, vert d'été revenu : environ 103 000 bords de route que le jeu génère tout seul (souvent vert menthe ou beige) sont maintenant blancs, et 42 toits de tôle verte ne teintent plus la neige en vert. Un nouveau contrôle refuse toute construction où il reste du vert d'été. Les objets vraiment verts (poubelles, statues, lampadaires…) gardent leur couleur.
+- Hiver, plantes dorées : les petites touffes d'herbe sèche et les plantes dorées deviennent des plantes gelées, tiges brun-gris ternes et givre blanc sur le dessus (couleur mesurée sur de vraies photos de foin givré). Même plante, même place, même taille.
+- Hiver, eau dorée : les étangs et rivières avaient la couleur brune de l'eau d'été ; 54 sortes d'eau prennent maintenant la couleur d'une vraie eau d'hiver (mesurée sur le fleuve à Québec entre les glaces), même clarté.
+- Hiver, toits troués : la neige sur les toits laissait un grand trou à côté des fenêtres de lucarne (jusqu'à environ 11 m² sur certaines maisons). Le trou est maintenant beaucoup plus petit (un petit coin collé à la fenêtre), sur les 200 bâtiments qui ont de la neige sur le toit.
+- Hiver, tempêtes moins fréquentes : avec le réglage de mauvais temps à 100 %, c'était environ 87 % du temps en grosse tempête ou en blizzard. Maintenant : grosse neige et blizzard environ 15 % du temps, neige moyenne 28 %, le reste en petite neige ; un blizzard environ toutes les 3 h de route, qui dure en moyenne 19 minutes comme avant. Au réglage par défaut : un blizzard environ toutes les 3 h et des tempêtes environ 16 % du temps.
+- Hiver, brume dans la cabine : en tempête, la brume entrait dans la cabine (voile pâle sur le tableau de bord). Elle commence maintenant à 3 m, juste derrière la cabine : l'intérieur reste propre, et dehors le mur de brume reste le même. La grosse neige est aussi plus opaque de près : environ 400 m de visibilité depuis la cabine.
+- Hiver, pare-brise : la neige collée au pare-brise sortait gris foncé le jour et noire la nuit ; elle est maintenant blanche (grise seulement quand elle fond en slush). En tempête, plus de neige colle (jusqu'à 36 000 flocons) et elle reste plus longtemps (40 s). La pluie ne change pas.
+- Hiver, flocons de nuit : en pleine nuit, les flocons qui tombent devenaient noirs. Ils gardent maintenant la clarté du début de la nuit. Le jeu n'éclaire pas les flocons avec les phares : la nuit, ce sont de petits points gris.
+- Le contour de stationnement et les icônes d'activation (essence, garage, service, contrats…) sont maintenant orange, plus visibles sur la neige ; une fois bien stationné, le contour devient vert foncé.
+- Barre DEL du plafond (W900, 389 et dépanneuse) : la lumière visait le plafond et passait à travers le toit (taches de couleur sur le pare-soleil, les feux et les klaxons du toit, vues de dehors). Elle part maintenant vers le bas, à 45°, et éclaire les sièges et le plancher ; plus rien ne sort par le toit. Le dessus du tableau reste sombre (pas de reflet dans le pare-brise). Moins de lumières par barre (4 sur le W900, 3 sur le 389), meilleur pour les images par seconde. Mêmes noms, mêmes prix.
+- Peterbilt 389, rallonges de marchepied : le marchepied faisait deux morceaux avec un joint au milieu. Les 8 rallonges recouvrent maintenant toute la boîte à marches du jeu jusqu'à l'aile, d'une seule pièce, avec une plaque au bout avant et une au bout arrière. Mêmes noms, même longueur jusqu'à l'aile, mêmes prix : tes camions les gardent. Si tu as aussi des couvercles de boîtes « OD Couv. », ils sont cachés sous le marchepied.
+- Transport spécial sans escorte (DLC Special Transport) : nos chargements sans escorte étaient offerts beaucoup moins souvent que les autres. Ils sont maintenant offerts aussi souvent que les autres chargements, en solo et en convoi.
+- Radio Overdrive retirée : les 3 affiches de la radio quittent les panneaux publicitaires. Le lanceur 0.9.23 enlève tout seul la ligne de la radio Overdrive de ta liste de radios du jeu (avec une copie avant) ; tes autres radios ne bougent pas.
+- Téléchargement du module Hiver : depuis le 20 novembre au matin, le téléchargement du module Hiver pouvait rester bloqué (« Le serveur de la communauté ne répond pas »). C'est corrigé sur le serveur depuis le 20 novembre en fin de journée.
+- Lanceur 0.9.23 : les petits bouts de musique joués à chaque clic sont retirés (la musique de fond reste) ; le raccourci du Logbook passe de Ctrl+Alt+J à Alt+J ; le lanceur avertit quand l'Ultimate Graphics Mod est placé au-dessus de Météo ou de l'Hiver.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie (sauf la fréquence des offres de transport spécial sans escorte), les prix, les moteurs, les boîtes de vitesses, les phares, le klaxon de train, les caméras, la suspension, les freins, l'adhérence des camions et des remorques (été comme hiver), le GPS, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.70.
+- Le module Hiver reste obligatoire sur le serveur. Au complet, il pèse environ 6,7 Go et demande environ 3 Go de mémoire vidéo de plus que les images du jeu qu'il remplace, comme en 3.0.70.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only the modules that change are downloaded: about 2.7 GB if you have 3.0.70 (Hiver about 2.6 GB as a partial update; Communauté about 72 MB, downloaded whole; Camions, Base and Économie under 1 MB each). This version goes with American Truck Simulator 1.62. Your saves load as before: the parts you already fitted stay the same.
+
+In short: a winter fix update. Two wheel tracks per lane on every road, darker black-brown tracks, snowy dirt roads, no more summer green, golden plants or golden water, fewer blizzards, no more fog inside the cab, white snow on the windshield and flakes that no longer turn black at night. Also: snow on the site trailers and containers of the depots and wheel tracks at the toll booths, the ceiling LED strip now lights downward, a one-piece step for the 389, no-escort special transport offered more often and the Overdrive radio retired. The launcher moves to version 0.9.23.
+
+New
+- Winter, toll booths: a thin layer of wheel tracks lies on the ground in the lanes of the base game's toll booths (Kansas Turnpike, Afton, the toll under the bridge in Oklahoma, the big California tolls and the toll gates). At the three tolls that exist only once on the map (Richmond and Golden Gate in California, one Kansas toll), the tracks carry on along the approaches before and after the canopy. No height, no bump. The paid map DLCs' tolls are not touched.
+- Winter, depots: snow on top of the site trailers, flat-roof containers, old red containers, crates and pallets in about a hundred depots, garages and yards of the base game (no height). The paid DLCs' depots keep their look.
+- Winter × UGM (optional): for players who have the Ultimate Graphics Mod from the Steam Workshop, a small optional package keeps our winter weather (snow, fog, storms) with UGM's sky and cloud images. It holds no UGM file. Launcher 0.9.23 installs it only when UGM is downloaded and active; in the game, put « Hiver × UGM » at the very top, above Hiver. Without UGM nothing changes.
+- Launcher 0.9.23: the in-game Logbook page becomes a company tablet (treasury, loans, drivers, trucks, deliveries, 24 h log, dispatch), with a driving bar at the top of the screen for hours, route, speed, licence and fines.
+
+Fixes and adjustments
+- Winter, wheel tracks: up to 5 tracks showed on a 2-lane road. There are now 2 straight tracks per lane, where the wheels run; the snow stays white between the tracks, in the middle and on the sides. The centre lane of roads with a centre lane has no tracks. The game's old roads have the same tracks.
+- Winter, track colour: the tracks were sand grey; they are now darker and more black-brown (colour measured on a real photo of a Québec City street in winter), everywhere: roads, old roads, parking lots and tolls.
+- Winter, dirt and service roads: they came out all dark, with no snow. They are now snowy, with mud only in the ruts.
+- Winter, brown hexagon stains: the asphalt cracks of yards and depots stayed grey on the snow; they now take the colour of packed snow.
+- Winter, summer green back: about 103,000 road sides the game generates by itself (often mint green or beige) are now white, and 42 green metal roofs no longer tint the snow green. A new check refuses any build where summer green is left. Objects that are really green (bins, statues, street lamps…) keep their colour.
+- Winter, golden plants: the small dry grass tufts and golden plants become frozen plants, dull grey-brown stems and white frost on top (colour measured on real photos of frosted hay). Same plant, same place, same size.
+- Winter, golden water: ponds and rivers had the brown colour of summer water; 54 kinds of water now take the colour of real winter water (measured on the St. Lawrence at Québec City between the ice floes), same brightness.
+- Winter, holes in roofs: the roof snow left a big hole next to dormer windows (up to about 11 m² on some houses). The hole is now much smaller (a small corner against the window), on the 200 buildings with roof snow.
+- Winter, fewer storms: with bad weather at 100 %, about 87 % of the time was a heavy storm or a blizzard. Now: heavy snow and blizzard about 15 % of the time, moderate snow 28 %, the rest light snow; a blizzard about every 3 h of driving, lasting 19 minutes on average as before. At the default setting: a blizzard about every 3 h and storms about 16 % of the time.
+- Winter, fog in the cab: in storms the fog came inside the cab (a pale veil on the dash). It now starts at 3 m, just behind the cab: the inside stays clear, and outside the wall of fog stays the same. Heavy snow is also thicker up close: about 400 m of visibility from the cab.
+- Winter, windshield: the snow stuck on the windshield came out dark grey by day and black at night; it is now white (grey only when it melts into slush). In storms more snow sticks (up to 36,000 flakes) and it stays longer (40 s). Rain does not change.
+- Winter, night flakes: deep in the night the falling flakes turned black. They now keep the brightness of early night. The game does not light falling flakes with the headlights: at night they are small grey dots.
+- The parking outline and activation icons (fuel, garage, service, jobs…) are now orange, easier to see on snow; once correctly parked, the outline turns dark green.
+- Ceiling LED strip (W900, 389 and the wrecker): the light aimed at the headliner and went through the roof (colour patches on the visor, roof lights and horns, seen from outside). It now goes down at 45° and lights the seats and the floor; nothing comes out through the roof any more. The dash top stays dark (no reflection in the windshield). Fewer lights per strip (4 on the W900, 3 on the 389), better for the frame rate. Same names, same prices.
+- Peterbilt 389, step extensions: the step showed as two pieces with a joint in the middle. The 8 extensions now cover the game's whole step box up to the fender in one piece, with one plate at the front end and one at the rear end. Same names, same length up to the fender, same prices: your trucks keep them. If you also have « OD Couv. » box covers, they are hidden under the step.
+- No-escort special transport (Special Transport DLC): our no-escort loads were offered much less often than other cargo. They are now offered as often as other cargo, solo and in convoy.
+- Overdrive radio retired: the radio's 3 posters leave the billboards. Launcher 0.9.23 removes the Overdrive radio line from your game's radio list by itself (with a backup first); your other radios stay.
+- Winter module download: from the morning of 20 November, downloading the winter module could hang (« Le serveur de la communauté ne répond pas »). It has been fixed on the server since the end of 20 November.
+- Launcher 0.9.23: the short music bits played at each click are removed (the background music stays); the Logbook shortcut moves from Ctrl+Alt+J to Alt+J; the launcher warns when the Ultimate Graphics Mod sits above Météo or Hiver.
+
+What does not change
+- Pay (except how often no-escort special transport is offered), prices, engines, gearboxes, headlights, the train horn, cameras, suspension, brakes, truck and trailer grip (summer and winter), GPS, traffic lights, trains and road traffic: the same as in 3.0.70.
+- The winter module stays required on the server. Whole, it is about 6.7 GB and needs about 3 GB more video memory than the game images it replaces, as in 3.0.70.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.

@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.22",
+  "version": "0.9.23",
+  "minimumSupportedVersion": "0.9.23",
   "mandatory": false,
-  "notes": "Conditions mises à jour (texte 3) : au premier démarrage du lanceur 0.9.22, tu acceptes les conditions une seule fois. Nouveau dans le texte : les mods d'Overdrive Québec ne servent pas sur un autre serveur, ni si tu n'es pas membre (en solo, c'est permis tant que tu es membre) ; Overdrive note qui reçoit quel fichier du mod, pendant 12 mois (effacé avec « Effacer mes données »).",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.22.exe",
-  "sizeBytes": 86795734,
-  "sha256": "91114eeb742141df1f4f55b9b5ee95b613efc0eabd7123a963d07a9ff4c986f6",
-  "published": "2026-11-17"
+  "notes": "Nouveau : le Logbook en jeu est maintenant une vraie tablette, faite pour gérer ta compagnie. Huit applications à gauche : Accueil, Carnet, Répartition, Chauffeurs, Camions, Livraisons, Trésorerie et Prêts. Tout vient de ce que le lanceur lit déjà dans ton jeu : aucun chiffre inventé. Une page que tu avais laissée ouverte dans l'ancien Logbook s'ouvre dans l'application qui a pris son contenu. Les récompenses restent dans le lanceur.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.23.exe",
+  "sizeBytes": 86563296,
+  "sha256": "dbd9c61e5c2f19cfff4f0a0f9fe3e5ecf9dbe7511592bdce3fe3a575513c145e",
+  "published": "2026-11-21"
 }
