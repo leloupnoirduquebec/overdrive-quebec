@@ -31,7 +31,7 @@ CORRECTIFS ET AJUSTEMENTS
 - Peterbilt 389, « quarterback » du pare-chocs (version chrome et version peinte) : ses feux orange s'allumaient blancs. Ils s'allument maintenant orange. Mêmes noms, mêmes prix.
 - Peterbilt 389, rallonges de marchepied : elles étaient trop longues. Elles couvrent maintenant seulement le vide sous le filtre à air (environ 10 cm plus courtes) ; dans les versions avec bonbonne, la bonbonne d'air (8 po) est sous le marchepied, visible à moitié comme sur un vrai 389. Mêmes noms, mêmes prix.
 - Racks à portes (derrière la cabine, 389 et W900) : 5 cm moins hauts, alignés sur la largeur de la cabine ou de la couchette quand c'est possible, 4 feux rouges en paires aux deux bouts (feux, freins et clignotants), plus de feux de recul. Mêmes noms, mêmes prix : tes camions les gardent. À savoir : les 2 attaches sur les côtés du rack ne sont pas encore vérifiées en jeu ; elles pourraient offrir les mêmes pièces que l'attache du dessus (par exemple la barre DEL).
-- Hiver × UGM (facultatif) : refait avec la nouvelle météo de nuit et les nouveaux flocons de l'Hiver.
+- Hiver × UGM (facultatif) : refait avec la nouvelle météo de nuit et les nouveaux flocons de l'Hiver. Il arrive maintenant chez tout le monde, sans condition. Si tu n'as pas UGM, décoche « Hiver × UGM » dans la liste des mods du jeu, sinon le ciel est rose.
 
 ━━━━━━━━━━━━━━━━━━━━
 REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
@@ -77,7 +77,7 @@ Fixes and adjustments
 - Peterbilt 389, bumper « quarterback » (chrome and painted): its amber lamps lit white. They now light amber. Same names, same prices.
 - Peterbilt 389, step extensions: they were too long. They now cover only the gap under the air cleaner (about 10 cm shorter); in the versions with a tank, the air tank (8 in) sits under the step, half visible as on a real 389. Same names, same prices.
 - Door racks (behind the cab, 389 and W900): 5 cm lower, in line with the width of the cab or sleeper where possible, 4 red lamps in pairs at both ends (lights, brakes and turn signals), no more reverse lamps. Same names, same prices: your trucks keep them. Good to know: the 2 side attachments of the rack are not checked in game yet; they may offer the same parts as the top attachment (for example the LED bar).
-- Winter × UGM (optional): rebuilt with the Winter module's new night weather and new flakes.
+- Winter × UGM (optional): rebuilt with the Winter module's new night weather and new flakes. It now goes to everyone, with no condition. If you do not have UGM, untick « Hiver × UGM » in the game's mod list, otherwise the sky is pink.
 
 What does not change
 - Pay, prices, engines, gearboxes, headlights, the train horn, cameras, suspension, brakes, truck grip (summer and winter) and trailer grip in summer, GPS, traffic lights, trains and road traffic: the same as in 3.0.71.
