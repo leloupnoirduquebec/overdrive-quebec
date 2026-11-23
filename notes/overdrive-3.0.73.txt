@@ -1,0 +1,99 @@
+OVERDRIVE QUÉBEC 3.0.73 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent sont téléchargés : environ 910 Mo si tu as la 3.0.72 (Hiver environ 860 Mo en mise à jour partielle ; Camions environ 53 Mo ; Base et Hiver × UGM moins de 1 Mo chacun). Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant : tes pièces déjà posées restent les mêmes, sauf une barre DEL ou un gyro posé sur une attache de côté d'un rack à portes (cette attache est retirée, voir plus bas).
+
+En bref : une mise à jour d'hiver et de pièces. Les montagnes au loin ne sont plus zébrées brun et blanc, les traces de roues couvrent les sections de route oubliées, et le blanc de la neige est le même partout sur l'asphalte. Un peu plus de tempêtes et des flocons plus petits derrière les pneus. L'hiver est aussi plus fini : un relief de neige plus doux, des bords de route sans bande droite, de l'herbe sèche qui dépasse de la neige, des cactus et des palmiers verts avec de la neige sur le dessus, et des piétons habillés pour l'hiver. Aussi : des feux de recul DEL sur les racks à portes, la lumière des gyrophares qui reste dehors, une barre DEL du plafond un peu plus forte, un intérieur du 389 plus foncé avec le plafond de la couleur du tableau, un vrai rouge et un orange plus pâle, et le marchepied du 389 sans trou.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Racks à portes (389 et W900, lisses et diamant) : une nouvelle pièce « OD Attaches recul » donne des points d'attache pour des feux de recul DEL. 5 modèles de feux ronds et ovales, en chrome ou peints de la couleur du camion. Sur les côtés du rack pour le 389 de jour, le 389 couchette basse et le W900 de jour ; sur des équerres noires aux coins arrière pour le 389 Ultra Cab et les couchettes du W900. Ils s'allument en reculant.
+- Peterbilt 389, intérieur : chaque tableau de bord de couleur colore aussi le tissu pâle du plafond (le grain du tissu reste celui du jeu). La boutique montre toujours 34 tableaux ; le jeu montre ceux qui vont avec ta cabine.
+- Hiver, piétons : les piétons des villes et des campagnes sont habillés pour l'hiver. Les bras et les jambes nus sont couverts (manches longues, collants foncés) et les vêtements d'été clairs prennent des couleurs d'hiver prises sur de vraies photos de rue. Les visages, les mains, les cheveux et les chapeaux ne changent pas, ni les uniformes (police, pompiers, travailleurs). Les gens de plage en maillot ne sortent plus en hiver.
+- Hiver, herbe sèche : des tiges d'herbe sèche du jeu dépassent maintenant de la neige, là où il y a de l'herbe l'été (environ 6 sols sur 10). Les champs coupés ont du chaume. L'herbe se voit aussi plus loin : 150 m au lieu de 105 m. Il y a moins d'herbe qu'en été.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, décor lointain : des montagnes et des collines au loin restaient zébrées ou en plaques brunes et blanches (par exemple la grande montagne qu'on voit en Utah, en Idaho, en Oregon et au Colorado). 84 images de collines et de montagnes sont maintenant complètement enneigées, avec le relief du jeu en ombres. La vraie roche (falaises, formations, rochers gris) garde sa couleur.
+- Hiver, traces de roues oubliées : des sections de route n'avaient pas de traces : les passages de 2 voies à 1 voie (et l'inverse), les sorties et les entrées d'échangeur, les passages à niveau, les entrées de cour en T. Dans certains carrefours, les traces existaient dans une seule version du carrefour. Les traces suivent maintenant le vrai trajet des véhicules à ces endroits. Il reste quelques morceaux sans voie peinte (cours, stations) et des morceaux des DLC de carte payants.
+- Hiver, terre-pleins : une tache sombre à bords droits se voyait sur les passages de terre-plein réservés aux véhicules autorisés. C'est maintenant de la neige tassée. La boue reste dans les cours.
+- Hiver, asphalte hors route : la neige des zones asphaltées (entre l'autoroute et la voie d'une balance, cours, pointes de bretelles, stationnements) était plus blanche et plus lisse que la route. Elle a maintenant le même blanc que la route.
+- Hiver, météo : un peu plus de tempêtes et de neige moyenne, moins de petite neige. Au réglage de mauvais temps à 100 % : tempêtes environ 17 % du temps (avant 12 %), neige moyenne environ 38 % (avant 29 %). Par beau temps : tempêtes environ 12 % (avant 7 %). Le blizzard reste rare : environ un toutes les 4 h de route, environ 17 minutes.
+- Hiver, gerbe des pneus : les flocons et la poudrerie soulevés par les pneus sont 2 fois plus petits. La neige qui tombe et le petit nuage de gadoue ne changent pas.
+- Hiver, relief de la neige au sol : des lignes droites se voyaient entre deux zones de neige, et les buttes avaient des vagues. Les deux neiges du sol ont maintenant le même relief, plus doux. Les lignes devraient presque disparaître et les buttes devraient être lisses. Le grain de la neige reste.
+- Hiver, bord des routes : une bande droite plus foncée se voyait entre l'accotement et le champ. L'accotement finit maintenant dans la même neige que le champ, avec un bord irrégulier. La bande de neige sale près des voies reste. Les voies et les traces de roues ne changent pas.
+- Hiver, bord des cours et des stationnements : le passage entre la neige de la cour et celle du champ est plus doux (environ 70 cm au lieu de 30 cm).
+- Hiver, teinte au loin : la neige au loin devenait gris neutre alors que la neige proche était bleutée. Le brouillard d'hiver prend maintenant la couleur froide de vraies photos d'hiver : la neige au loin devrait garder la même teinte que la neige proche. La nuit n'est pas plus sombre.
+- Hiver, flocons au coucher du soleil : les flocons paraissaient foncés au crépuscule, surtout pendant les éclaircies. Ils gardent maintenant leur clarté de nuit jusqu'au coucher du soleil : ils devraient être à peu près aussi clairs que le ciel. Le jour ne change pas.
+- Hiver, cactus, palmiers, yuccas et agaves : ils étaient presque blancs. Ils gardent maintenant le vert du jeu, avec de la neige seulement sur le dessus. Le tronc du saguaro n'a pas de chapeau de neige (la même image sert au dessus et aux côtés).
+- Hiver, maïs debout : les feuilles étaient toutes blanches. Ce sont maintenant des tiges sèches beiges avec un peu de neige.
+- Hiver, fleurs en pot : les pétales jaunes ne restent plus jaunes, et la jardinière en bois a moins de taches de neige.
+- Hiver, ménage : 39 images de végétation qu'on ne voit jamais en hiver sont retirées du module (110 Mo de moins).
+- Gyrophares (barre gyro Overdrive : racks à portes, barres de toit du 389, remorqueuse W900, camion à benne) : leur lumière entrait dans la cabine et la couchette. Le jeu n'a pas d'ombres : une lumière qui touche la cabine éclaire aussi l'intérieur. Les spots des bouts sont tournés plus vers les côtés, chaque tête a sa petite lumière près de la lentille, les barres de toit n'ont plus de spots vers l'arrière et la barre du camion à benne est 2,5 cm plus haute. Le flash et la lueur continue ne changent pas.
+- Racks à portes : les 2 attaches sur les côtés du rack offraient la barre DEL et le gyro. Le rack garde seulement son attache du dessus. Si tu avais mis une barre DEL sur une attache de côté, elle n'y est plus.
+- Barre DEL du plafond (W900 et 389) : 10 % plus forte. Rien d'autre ne change.
+- Peterbilt 389, intérieur : les plastiques gris foncé sont maintenant noirs, comme le dessus du tableau de bord, dans les 6 intérieurs. Le bas des portes reste pâle.
+- Couleurs rouge et orange (tableaux peints, néon, barre DEL, cadrans, éclairage d'ambiance) : le rouge, l'orange-rouge et l'orange se ressemblaient trop. Le rouge est maintenant un vrai rouge, l'orange un orange brûlé plus pâle, l'orange-rouge entre les deux. Les icônes de la boutique suivent les nouvelles couleurs.
+- Peterbilt 389, rallonges de marchepied : on voyait un trou entre le marchepied et la jupe de la cabine, avec la bonbonne chromée du jeu derrière. Une tôle monte maintenant derrière la marche du haut et ferme le trou. Le marchepied est droit, sans inclinaison. Mêmes noms, mêmes prix.
+- Hiver × UGM (facultatif) : refait avec la nouvelle météo de l'Hiver. Si tu n'as pas UGM, décoche « Hiver × UGM » dans la liste des mods du jeu, sinon le ciel est rose.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les prix, les moteurs, les boîtes de vitesses, les phares, le klaxon de train, les caméras, la suspension, les freins, l'adhérence (été comme hiver), le GPS, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.72.
+- Le module Hiver reste obligatoire sur le serveur. Au complet, il pèse environ 7,7 Go et demande environ 3,4 Go de mémoire vidéo de plus que les images du jeu qu'il remplace.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only the modules that change are downloaded: about 910 MB if you have 3.0.72 (Hiver about 860 MB as a partial update; Camions about 53 MB; Base and Hiver × UGM under 1 MB each). This version goes with American Truck Simulator 1.62. Your saves load as before: the parts you already fitted stay the same, except an LED bar or a beacon fitted on a door rack's side attachment (that attachment is removed, see below).
+
+In short: a winter and parts update. Far mountains are no longer striped brown and white, wheel tracks now cover the road sections that had none, and the snow on asphalt has the same white everywhere. A few more storms and smaller flakes behind the tyres. The winter is also more finished: softer snow relief, road edges without a straight band, dry grass through the snow, green cacti and palms with snow on top, and pedestrians dressed for winter. Also: LED reverse lamps on the door racks, the beacons' light stays outside, a slightly stronger ceiling LED strip, a darker 389 interior with the headliner in the dash colour, a true red and a paler orange, and the 389 step without its gap.
+
+New
+- Door racks (389 and W900, smooth and diamond): a new part « OD Attaches recul » gives attach points for LED reverse lamps. 5 round and oval lamp models, in chrome or painted in the truck's colour. On the rack's sides for the 389 day cab, the 389 low-roof sleeper and the W900 day cab; on black brackets at the rear corners for the 389 Ultra Cab and the W900 sleepers. They light when you reverse.
+- Peterbilt 389, interior: each coloured dash now also colours the light headliner fabric (the fabric's grain stays the game's). The shop still shows 34 dashes; the game shows those that fit your cab.
+- Winter, pedestrians: the people in towns and in the country are dressed for winter. Bare arms and legs are covered (long sleeves, dark tights) and light summer clothes take winter colours measured on real street photos. Faces, hands, hair and hats do not change, nor do uniforms (police, firefighters, workers). The beach people in swimsuits no longer come out in winter.
+- Winter, dry grass: the game's dry grass stems now stick out of the snow where there is grass in summer (about 6 grounds in 10). Cut fields have stubble. Grass is also drawn farther: 150 m instead of 105 m. There is less grass than in summer.
+
+Fixes and adjustments
+- Winter, far scenery: far mountains and hills stayed striped or in brown and white plates (for example the big mountain seen in Utah, Idaho, Oregon and Colorado). 84 hill and mountain images are now fully snowy, with the game's relief as shading. Real rock (cliffs, formations, grey boulders) keeps its colour.
+- Winter, missing wheel tracks: some road sections had no tracks: lanes going from 2 to 1 (and back), interchange exits and entries, level crossings, T-shaped yard entries. In some crossings the tracks existed in only one version of the crossing. Tracks now follow the vehicles' real paths there. A few pieces without painted lanes (yards, stations) and pieces of the paid map DLCs remain.
+- Winter, medians: a dark straight-edged stain showed on the median crossovers for authorized vehicles. It is now packed snow. Mud stays in yards.
+- Winter, off-road asphalt: the snow of asphalt zones (between a highway and a weigh station lane, yards, ramp gores, parking lots) was whiter and smoother than the road. It now has the road's white.
+- Winter, weather: a few more storms and moderate snow, less light snow. With bad weather at 100 %: storms about 17 % of the time (was 12 %), moderate snow about 38 % (was 29 %). In fair weather: storms about 12 % (was 7 %). Blizzards stay rare: about one every 4 h of driving, about 17 minutes.
+- Winter, tyre spray: the flakes and blowing snow thrown up by the tyres are half the size. Falling snow and the small slush cloud do not change.
+- Winter, snow relief on the ground: straight lines showed between two snow zones, and mounds had ripples. Both ground snows now have the same, softer relief. The lines should almost disappear and the mounds should look smooth. The snow keeps its grain.
+- Winter, road edges: a darker straight band showed between the shoulder and the field. The shoulder now ends in the same snow as the field, with a ragged edge. The dirty snow strip next to the lanes stays. Lanes and wheel tracks do not change.
+- Winter, yard and parking lot edges: the change from the lot's snow to the field's snow is softer (about 70 cm instead of 30 cm).
+- Winter, far tint: far snow turned neutral grey while near snow was bluish. The winter fog now takes the cold colour of real winter photos: far snow should keep the same tint as near snow. Nights are not darker.
+- Winter, flakes at sunset: flakes looked dark at dusk, mostly in clear spells. They now keep their night brightness until sunset: they should be about as bright as the sky. Daytime does not change.
+- Winter, cacti, palms, yuccas and agaves: they were almost white. They now keep the game's green, with snow only on top. The saguaro trunk has no snow cap (one image serves its top and its sides).
+- Winter, standing corn: the leaves were all white. They are now dry tan stalks with a little snow.
+- Winter, potted flowers: yellow petals no longer stay yellow, and the wooden planter has fewer snow spots.
+- Winter, clean-up: 39 vegetation images never seen in winter are removed from the module (110 MB less).
+- Beacons (Overdrive beacon bar: door racks, 389 roof bars, W900 wrecker, dump truck): their light came into the cab and the sleeper. The game has no shadows: a light that reaches the cab also lights the inside. The end spots now point more to the sides, each head has its own small light near the lens, the roof bars have no rearward spots any more and the dump truck's bar sits 2.5 cm higher. The flash and the steady glow do not change.
+- Door racks: the rack's 2 side attachments offered the LED bar and the beacon. The rack now keeps only its top attachment. If you had put an LED bar on a side attachment, it is gone from there.
+- Ceiling LED strip (W900 and 389): 10 % stronger. Nothing else changes.
+- Peterbilt 389, interior: the dark grey plastics are now black, like the top of the dash, in the 6 interiors. The lower door panels stay light.
+- Red and orange colours (painted dashes, neon, LED strip, gauges, ambient light): red, orange-red and orange looked too much alike. Red is now a true red, orange a paler burnt orange, orange-red in between. The shop icons follow the new colours.
+- Peterbilt 389, step extensions: a gap showed between the step and the cab's skirt, with the game's chrome air tank behind. A plate now rises behind the top tread and closes the gap. The step is straight, with no tilt. Same names, same prices.
+- Winter × UGM (optional): rebuilt with the Winter module's new weather. If you do not have UGM, untick « Hiver × UGM » in the game's mod list, otherwise the sky is pink.
+
+What does not change
+- Pay, prices, engines, gearboxes, headlights, the train horn, cameras, suspension, brakes, grip (summer and winter), GPS, traffic lights, trains and road traffic: the same as in 3.0.72.
+- The winter module stays required on the server. Whole, it is about 7.7 GB and needs about 3.4 GB more video memory than the game images it replaces.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
