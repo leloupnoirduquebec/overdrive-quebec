@@ -1,0 +1,73 @@
+OVERDRIVE QUÉBEC 3.0.74 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent sont téléchargés : environ 98 Mo si tu as la 3.0.73 (Camions environ 78 Mo ; Hiver environ 19 Mo en mise à jour partielle ; Base et Hiver × UGM moins de 1 Mo chacun), environ 960 Mo si tu as encore la 3.0.72. Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant : tes pièces déjà posées restent les mêmes.
+
+En bref : une mise à jour de correctifs. Rien n'est encore vu en jeu : tout ce qui suit devrait être corrigé. Les vaches, les veaux, les bisons et les piétons perdus en 3.0.73 devraient revenir, et les champs ne devraient plus avoir de grands carrés sans herbe. L'herbe sèche devrait aussi pousser en taches, au lieu de longues lignes droites le long des routes. Les trottoirs et les coins de rue ne devraient plus avoir de bandes foncées, les traces de roues ne devraient plus s'arrêter net à l'entrée de certains carrefours, et une entrée de cour, une balance et un dépôt devraient avoir leurs traces. Les flocons devraient être plus clairs à l'aube. Aussi : les feux de recul DEL des racks à portes devraient se poser, le plafond couleur du 389 ne devrait plus sortir par le toit, et l'intérieur du 389 ne devrait plus avoir de pièces grises, avec des coutures de la couleur du tableau sur les sièges. Enfin, le lanceur 0.9.24 ne devrait plus réinstaller une ancienne version s'il reste ouvert pendant une mise à jour.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Peterbilt 389, sièges : les coutures des sièges prennent la couleur du tableau de bord de couleur que tu choisis. Le cuir reste noir. Chaque couture a deux rangs de fil, comme une vraie surpiqûre : le contour du dossier, les épaules, l'arc sous la tête et le contour du coussin, sur les 2 sièges, dans les intérieurs Premium et Ultra Ride. Elles viennent avec le tableau couleur ; de l'extérieur, rien ne change.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Racks à portes, feux de recul DEL (389 et W900) : on ne pouvait pas les poser. Le point « OD Attaches recul » était exactement sous le point du rack, et le jeu ne montre qu'un seul point à la même place. Il est maintenant au milieu de l'arrière du rack, environ 1 m plus haut. Pour poser les feux : clique ce point, prends « OD Attaches recul », puis choisis un feu pour chacun des deux points qui apparaissent sur les côtés. Les feux restent à la même place qu'avant. Ils devraient maintenant se poser.
+- Peterbilt 389 couchette basse (et cabine de jour, Ultra Cab) : la copie couleur du plafond dépassait du toit (une plaque de la couleur du tableau au-dessus de la couchette). De l'extérieur, le jeu dessine maintenant seulement le tableau, sans plafond. De l'intérieur, rien ne change. Ça ne devrait plus se voir.
+- Peterbilt 389, intérieur : des pièces restaient grises. Le gris pâle prend maintenant la couleur du tableau : bas et cadre des 2 portes, bord avant des portes, arche entre la cabine et la couchette, murs de la couchette et matelas. Le gris foncé devient noir : le tapis du plancher (aussi la partie claire près des pédales) et le tissu foncé sous la couchette. Les sièges sont noirs dans les 2 intérieurs. Il ne devrait plus rester de pièces grises.
+- Hiver, animaux et piétons : en 3.0.73, le fichier qui cachait les gens de plage en maillot avait une valeur que le jeu refuse ; le jeu jetait tout le fichier. Des vaches, des veaux, des bisons et des piétons manquaient (62 groupes, environ 10 800 sur la carte). Ils devraient être de retour. Les gens de plage restent comme dans le jeu (en maillot) : le jeu ne permet pas de les cacher sans ce problème.
+- Hiver, herbe dans les champs : de grands carrés restaient sans herbe dans certains champs et prés. Le chiffre de densité du jeu marche à l'envers (plus grand = moins d'herbe), et la 3.0.73 mettait trop d'herbe pour la réserve du jeu. Chaque herbe prend maintenant au moins la densité de l'été, avec une marge partout. Il ne devrait donc plus y avoir de carrés vides, mais moins d'herbe sèche qu'en 3.0.73 : c'est voulu (environ 3 sols herbeux sur 10 en ont). Les champs coupés, les champs de maïs et les champs labourés perdent aussi leur chaume (les tiges qui restent après la récolte) en hiver : c'est le prix de cette correction. La vérification de la réserve d'herbe lit maintenant tous les bouts de terrain de la carte (elle en sautait) : quelques sortes d'herbe changent pour que la réserve tienne partout. L'herbe se voit toujours jusqu'à 150 m.
+- Hiver, lignes droites le long des routes : l'herbe sèche commençait à environ 5 m de la route, en une longue ligne droite comme tracée à la règle, avec de la neige lisse entre la route et l'herbe. L'herbe pousse maintenant en taches (le patron de taches d'un sol du jeu de base, aucun fichier copié), avec de la neige lisse entre les taches. Sur toute la carte, il y avait environ 23 800 km de ces lignes droites en 3.0.73 ; il devrait en rester environ 349 km (calcul sur les fichiers de la carte). Il y a environ 2 fois moins de brins d'herbe sèche.
+- Hiver, trottoirs et coins de rue : des bandes courbes foncées et claires se voyaient sur les trottoirs et aux coins de rue, comme des traces. La neige des trottoirs est maintenant uniforme, comme celle des bordures (environ 6 700 carrefours sur la carte) : les bandes ne devraient plus se voir.
+- Hiver, traces dans la voie du centre : sur les routes avec une voie de virage au centre (routes à 2 voies d'un côté et 3 de l'autre, ou 3 et 4), 2 traces de roues roulaient dans la voie du centre et s'arrêtaient net à l'entrée du carrefour. La voie du centre est maintenant blanche, comme dans le carrefour (environ 3 600 bouts de route) : les traces ne devraient plus s'arrêter net.
+- Hiver, traces oubliées : une entrée de cour de 24 m (138 endroits sur la carte), une balance en Arizona (6 endroits) et un dépôt de station-service en Californie n'avaient ni traces ni lignes de neige. Ils devraient maintenant avoir leurs traces.
+- Hiver, flocons à l'aube : quand le soleil vient juste de se lever (ou va se coucher), les flocons paraissaient encore foncés sur le ciel clair. Ils sont maintenant plus clairs entre environ 4° sous l'horizon et 6° au-dessus ; ils devraient être à peu près aussi clairs que le ciel. La nuit et le jour ne changent pas.
+- Hiver × UGM (facultatif) : refait avec cet Hiver et vérifié avec la mise à jour d'UGM du 23 novembre (toutes les images de ciel sont là). Si tu n'as pas UGM, décoche « Hiver × UGM » dans la liste des mods du jeu, sinon le ciel est rose.
+- Lanceur 0.9.24 : un lanceur resté ouvert pendant une mise à jour pouvait réinstaller l'ancienne version des mods. Avant chaque installation, il relit maintenant la liste des mods en ligne : il ne devrait plus revenir en arrière tout seul. Il te propose sa mise à jour à son prochain démarrage : accepte-la.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les prix, les moteurs, les boîtes de vitesses, les phares, le klaxon de train, les caméras, la suspension, les freins, l'adhérence (été comme hiver), le GPS, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.73.
+- Le module Hiver reste obligatoire sur le serveur. Au complet, il pèse environ 7,7 Go et demande environ 3,4 Go de mémoire vidéo de plus que les images du jeu qu'il remplace.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only the modules that change are downloaded: about 98 MB if you have 3.0.73 (Camions about 78 MB; Hiver about 19 MB as a partial update; Base and Hiver × UGM under 1 MB each), about 960 MB if you still have 3.0.72. This version goes with American Truck Simulator 1.62. Your saves load as before: the parts you already fitted stay the same.
+
+In short: a fixes update. Nothing is seen in game yet: everything below should be fixed. The cows, calves, bison and pedestrians lost in 3.0.73 should come back, and fields should no longer have big squares without grass. Dry grass should also grow in patches instead of long straight lines along the roads. Sidewalks and street corners should no longer have dark stripes, wheel tracks should no longer stop dead at the entrance of some crossings, and a yard entrance, a weigh station and a depot should have their tracks. Flakes should be lighter at dawn. Also: the door racks' LED reverse lamps should be fittable, the 389's coloured headliner should no longer show through the roof, and the 389 interior should have no grey pieces left, with stitching in the dash colour on the seats. Last, launcher 0.9.24 should no longer reinstall an old version when it stays open during an update.
+
+New
+- Peterbilt 389, seats: the seat stitching takes the colour of the coloured dash you pick. The leather stays black. Each seam has two rows of thread, like real topstitching: the backrest outline, the shoulders, the arc under the head and the cushion outline, on both seats, in the Premium and Ultra Ride interiors. It comes with the coloured dash; from outside nothing changes.
+
+Fixes and adjustments
+- Door racks, LED reverse lamps (389 and W900): they could not be fitted. The « OD Attaches recul » point sat exactly under the rack's point, and the game shows only one point at one place. It is now in the middle of the rack's back, about 1 m higher. To fit the lamps: click that point, take « OD Attaches recul », then pick a lamp for each of the two points that appear on the sides. The lamps stay where they were. They should now fit.
+- Peterbilt 389 low roof sleeper (and day cab, Ultra Cab): the coloured headliner copy stuck out of the roof (a plate in the dash colour above the sleeper). From outside, the game now draws only the dash, without the headliner. Inside nothing changes. It should no longer show.
+- Peterbilt 389, interior: some pieces stayed grey. The light grey now takes the dash colour: the lower panel and frame of both doors, the doors' front edge, the arch between the cab and the sleeper, the sleeper walls and the mattress. The dark grey turns black: the floor carpet (also the light part by the pedals) and the dark fabric under the bunk. The seats are black in both interiors. No grey piece should be left.
+- Winter, animals and pedestrians: in 3.0.73 the file that hid the beach people in swimsuits held a value the game refuses; the game threw away the whole file. Cows, calves, bison and pedestrians were missing (62 groups, about 10,800 on the map). They should be back. The beach people stay as in the game (in swimsuits): the game gives no way to hide them without that problem.
+- Winter, grass in fields: big squares stayed without grass in some fields and meadows. The game's density number works backwards (bigger = less grass), and 3.0.73 put more grass than the game's pool allows. Each grass now takes at least its summer density, with a margin everywhere. So there should be no empty squares any more, but there is less dry grass than in 3.0.73: on purpose (about 3 grassy grounds in 10 have some). Cut fields, corn fields and plowed fields also lose their stubble (the stalks left after harvest) in winter: that is the price of this fix. The grass pool check now reads every terrain piece of the map (it skipped some): a few kinds of grass change so the pool holds everywhere. Grass is still drawn up to 150 m.
+- Winter, straight lines along the roads: dry grass started about 5 m from the road, in a long ruler-straight line, with smooth snow between the road and the grass. Grass now grows in patches (the patch pattern of a base-game ground, no file copied), with smooth snow between the patches. Over the whole map there were about 23,800 km of those straight lines in 3.0.73; about 349 km should be left (computed from the map files). There are about half as many dry grass stems.
+- Winter, sidewalks and street corners: dark and light curved bands showed on sidewalks and at street corners, like tracks. Sidewalk snow is now even, like the kerbs' (about 6,700 crossings on the map): the bands should no longer show.
+- Winter, tracks in the centre lane: on roads with a centre turn lane (2 lanes one way and 3 the other, or 3 and 4), 2 wheel tracks ran in the centre lane and stopped dead at the crossing's entrance. The centre lane is now white, as in the crossing (about 3,600 road pieces): tracks should no longer stop dead.
+- Winter, missing tracks: a 24 m yard entrance (138 places on the map), a weigh station in Arizona (6 places) and a gas station depot in California had no tracks and no snow lines. They should now have their tracks.
+- Winter, flakes at dawn: just after sunrise (or before sunset), flakes still looked dark on the bright sky. They are now lighter from about 4° below the horizon to 6° above it; they should be about as bright as the sky. Night and day do not change.
+- Winter × UGM (optional): rebuilt with this Winter module and checked with UGM's update of 23 November (every sky image is there). If you do not have UGM, untick « Hiver × UGM » in the game's mod list, otherwise the sky is pink.
+- Launcher 0.9.24: a launcher left open during an update could reinstall the old version of the mods. Before every install it now reads the mod list online again: it should no longer go back to an older version by itself. It offers its update the next time it starts: accept it.
+
+What does not change
+- Pay, prices, engines, gearboxes, headlights, the train horn, cameras, suspension, brakes, grip (summer and winter), GPS, traffic lights, trains and road traffic: the same as in 3.0.73.
+- The winter module stays required on the server. Whole, it is about 7.7 GB and needs about 3.4 GB more video memory than the game images it replaces.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.

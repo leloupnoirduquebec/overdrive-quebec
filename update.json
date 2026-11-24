@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.23",
+  "version": "0.9.24",
   "minimumSupportedVersion": "0.9.23",
   "mandatory": false,
-  "notes": "Nouveau : le Logbook en jeu est maintenant une vraie tablette, faite pour gérer ta compagnie. Huit applications à gauche : Accueil, Carnet, Répartition, Chauffeurs, Camions, Livraisons, Trésorerie et Prêts. Tout vient de ce que le lanceur lit déjà dans ton jeu : aucun chiffre inventé. Une page que tu avais laissée ouverte dans l'ancien Logbook s'ouvre dans l'application qui a pris son contenu. Les récompenses restent dans le lanceur.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.23.exe",
-  "sizeBytes": 86563296,
-  "sha256": "dbd9c61e5c2f19cfff4f0a0f9fe3e5ecf9dbe7511592bdce3fe3a575513c145e",
-  "published": "2026-11-21"
+  "notes": "Correctif : un lanceur resté ouvert pendant une mise à jour d'Overdrive pouvait réinstaller l'ancienne version des mods, avec la liste des mods qu'il avait gardée en mémoire. Avant chaque installation, il relit maintenant la liste en ligne. Si une version plus récente est sortie, il la relit et te propose les bons fichiers. S'il ne peut pas vérifier la liste en ligne, il n'installe rien et te demande de réessayer dans un moment. Il ne devrait plus revenir en arrière tout seul.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.24.exe",
+  "sizeBytes": 86566153,
+  "sha256": "b456993e327c0c3d37a078ce2d872ac1c41e71241e6996bced63c24f787b5987",
+  "published": "2026-11-24"
 }
