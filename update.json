@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.24",
+  "version": "0.9.25",
   "minimumSupportedVersion": "0.9.23",
   "mandatory": false,
-  "notes": "Correctif : un lanceur resté ouvert pendant une mise à jour d'Overdrive pouvait réinstaller l'ancienne version des mods, avec la liste des mods qu'il avait gardée en mémoire. Avant chaque installation, il relit maintenant la liste en ligne. Si une version plus récente est sortie, il la relit et te propose les bons fichiers. S'il ne peut pas vérifier la liste en ligne, il n'installe rien et te demande de réessayer dans un moment. Il ne devrait plus revenir en arrière tout seul.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.24.exe",
-  "sizeBytes": 86566153,
-  "sha256": "b456993e327c0c3d37a078ce2d872ac1c41e71241e6996bced63c24f787b5987",
-  "published": "2026-11-24"
+  "notes": "Nouveau, en convoi : si tu joues trop avec tes feux de route, un avertissement rouge s'affiche dans la bande en jeu : « Croisement ! En convoi, garde tes feux de croisement ». Ça va dans ton carnet : 0 point, pas d'amende. Le staff peut le voir. Rien n'est bloqué dans le jeu.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.25.exe",
+  "sizeBytes": 86570708,
+  "sha256": "a10d7dd3f519db135007160703139e9ab154cd4a506bf6d1048e2d14dad809cf",
+  "published": "2026-11-26"
 }

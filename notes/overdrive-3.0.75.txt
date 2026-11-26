@@ -1,0 +1,85 @@
+OVERDRIVE QUÉBEC 3.0.75 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent sont téléchargés : environ 2 556 Mo si tu as la 3.0.74 (Camions environ 128 Mo en mise à jour partielle ; Hiver environ 2 427 Mo en mise à jour partielle ; Base et Hiver × UGM moins de 1 Mo chacun), environ 2 557 Mo si tu as encore la 3.0.73. Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant : tes pièces déjà posées restent les mêmes.
+
+En bref : l'hiver devrait être plus uniforme et plus réaliste. La neige des routes devrait avoir la même couleur que la neige des champs, et toutes les traces de roues la même couleur partout. Les traces dans les carrefours devraient suivre les vrais virages, sans coupure, et les stations-service ont maintenant leurs traces. La gerbe derrière les roues devrait être une fine poudre courte, et l'herbe sèche plus fournie. Aussi : nouvelles pièces pour le Peterbilt 389 (contour d'aile inox et levier de vitesses au plancher), intérieur du 389 corrigé, feux de recul des racks à portes enfin posables, remorqueuse avec rotateur plus réaliste, et feux de route revenus aux valeurs du jeu. Rien de tout ça n'est encore vu en jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Peterbilt 389, « OD Contour inox » (490 $) : une bande d'inox sur le rebord des 2 ailes avant, roulée dessous. Elle suit la vraie courbe de l'aile du jeu. Le pneu garde sa place.
+- Peterbilt 389, « OD Levier inox » (590 $) : un levier de vitesses au plancher, au centre de la cabine, entre les sièges, avec son soufflet. Seulement avec une boîte manuelle. 3 pommeaux : 10 vitesses, 13 vitesses (bouton rouge) et 18 vitesses (bouton gris). Dans les 6 intérieurs du 389.
+- Remorqueuse (rotateur) : au garage, tu peux choisir une grue et une sellette orange brûlé (le rouge reste par défaut, même prix). La coquille des treuils est ouverte : on voit les tambours. Chaque tour arrière a 4 feux ronds de plus (2 blancs de recul, 2 jaunes clignotants) dans des boîtiers boulonnés. Patins de vrai bois franc sous les pattes. Corde bleue sur les 2 petits treuils de la tourelle. Plein de détails : poignées, marches, manilles, goupilles, raccords chromés.
+- Feux de route en convoi (avec le lanceur 0.9.25) : en convoi, si tu joues trop avec tes feux de route, un avertissement rouge s'affiche dans la bande en jeu : « Croisement ! En convoi, garde tes feux de croisement ». Ça va dans ton carnet : 0 point, pas d'amende. Le staff peut le voir. Rien n'est bloqué dans le jeu.
+- Liste noire du staff : le staff peut maintenant fermer l'accès aux mises à jour d'Overdrive à un joueur qui ne respecte pas les règles du convoi. Le lanceur le dit clairement, en français et en anglais. Le staff peut aussi être averti quand un joueur de cette liste se présente sur le serveur. Si tu penses que c'est une erreur, écris au staff sur Discord.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, couleur des routes : la neige entre les traces était plus grise et un peu plus bleue que la neige des champs. Elle a maintenant la même couleur. Les accotements, les terre-pleins, les carrefours, les cours, les trottoirs et les bords sales suivent aussi la neige des champs. Il ne devrait plus y avoir de saut de couleur quand tu changes de route ou de région.
+- Hiver, couleur des traces : les traces de roues n'avaient pas toutes la même couleur (béton, brique et quelques vieilles routes étaient plus pâles). Toutes les traces ont maintenant la même couleur, partout.
+- Hiver, deux textures noires : un gravier du Nevada et un sable de l'État de Washington sortaient presque noirs. Ils sont réparés.
+- Hiver, traces dans les carrefours : les traces de virage étaient d'un gris plat. Elles ont maintenant la vraie texture de la route, avec ses stries. Au centre des grands carrefours, une zone usée plus foncée remplace les losanges blancs réguliers. Les traces ne devraient plus se couper ni partir de nulle part, et elles continuent à la sortie des aires de repos. Aux passages à niveau, il n'y a plus de traces de roues sur les rails.
+- Hiver, voie de virage au centre : là où la route d'approche garde ses traces, la trace continue dans le virage à gauche sans s'arrêter net. Là où la voie du centre reste blanche, la trace apparaît en douceur.
+- Hiver, stations-service : les voies sous les auvents ont maintenant des traces. La neige du toit reste.
+- Hiver, gerbe derrière les roues : la poudrerie faisait de gros morceaux de neige qui roulaient et restaient sur la route sur des dizaines de mètres. C'est maintenant une fine poudre qui suit le véhicule et disparaît à moins de 2 m de la roue, pour ton camion et pour le trafic. L'adhérence ne change pas.
+- Hiver, herbe sèche : les touffes étaient presque invisibles (une seule petite tige). Elles sont maintenant environ 3,5 fois plus fournies (touffes du jeu de base), au même nombre et aux mêmes endroits.
+- Peterbilt 389, intérieur : le contour gris pâle de la porte passager (et, moins visible, de la porte conducteur) prend la couleur du tableau. Au garage, notre pièce d'intérieur ne devrait plus se voir par-dessus la cabine (la petite ligne sur le toit). Les joncs des cadrans sont chromés et vraiment ronds, et le contour des 20 boutons et des 4 bouches d'air est chromé.
+- Peterbilt 389, cache de marchepied : il s'arrête maintenant au 4e feu, 16 cm plus court à l'avant.
+- Racks à portes, feux de recul DEL (389 et W900) : on ne pouvait toujours pas les poser. Il y a maintenant 2 points d'attache sur le rack lui-même, un à gauche et un à droite : tu choisis le feu directement sur chaque point. Les 5 feux restent les mêmes. Sur la W900 72 po, le feu est environ 25 cm plus bas que sur les autres couchettes (même châssis que la 72 po toit plat).
+- Feux de route : ils reviennent aux valeurs du jeu sur les 27 phares de camions (et la remorqueuse et la benne). Les halogènes éclairent 2 fois moins fort et jusqu'à 180 m (au lieu de 220 m) ; les DEL, environ 40 % moins fort. Les feux de croisement ne changent pas. Moins d'éblouissement pour le camion d'en avant.
+- Hiver × UGM (facultatif) : refait avec cet Hiver. Si tu n'as pas UGM, décoche « Hiver × UGM » dans la liste des mods du jeu, sinon le ciel est rose.
+- Lanceur 0.9.25 : il porte le nouvel avertissement des feux de route en convoi. Si ton accès aux mises à jour d'Overdrive est fermé, le message le dit maintenant en français et en anglais. Il te propose sa mise à jour à son prochain démarrage : accepte-la.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les prix, les moteurs, les boîtes de vitesses, le klaxon de train, les caméras, la suspension, les freins, l'adhérence (été comme hiver), le GPS, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.74.
+- Le module Hiver reste obligatoire sur le serveur. Au complet, il pèse environ 7,8 Go et demande environ 3,4 Go de mémoire vidéo de plus que les images du jeu qu'il remplace.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only the modules that change are downloaded: about 2 556 MB if you have 3.0.74 (Camions about 128 MB as a partial update; Winter about 2 427 MB as a partial update; Base and Hiver × UGM under 1 MB each), about 2 557 MB if you still have 3.0.73. This version goes with American Truck Simulator 1.62. Your saves load as before: the parts you already fitted stay the same.
+
+In short: winter should be more even and more realistic. Road snow should have the same colour as the snow in the fields, and every wheel track the same colour everywhere. Tracks in crossings should follow the real turns without gaps, and gas stations now have their tracks. The spray behind the wheels should be a short fine powder, and the dry grass fuller. Also: new parts for the Peterbilt 389 (stainless fender trim and a floor shift lever), the 389 interior fixed, the door racks' reverse lamps finally fittable, a more realistic rotator wrecker, and high beams back to the game's values. None of this is seen in game yet.
+
+New
+- Peterbilt 389, « OD Contour inox » ($490): a stainless band on the edge of both front fenders, rolled under. It follows the real curve of the game's fender. The tyre keeps its place.
+- Peterbilt 389, « OD Levier inox » ($590): a floor shift lever in the middle of the cab, between the seats, with its boot. Manual gearboxes only. 3 knobs: 10 speeds, 13 speeds (red button) and 18 speeds (grey button). In all 6 interiors of the 389.
+- Wrecker (rotator): in the garage you can pick a burnt-orange crane and fifth wheel (red stays the default, same price). The winch cover is open: the drums show. Each rear tower has 4 more round lamps (2 white reverse, 2 amber turn signals) in bolted housings. Real hardwood pads under the outriggers. Blue rope on the turret's 2 small winches. Many details: grab handles, steps, shackles, pins, chrome fittings.
+- High beams in convoy (with launcher 0.9.25): in convoy, if you play too much with your high beams, a red warning shows in the in-game strip: « In convoy, keep your low beams on ». It goes into your logbook: 0 points, no fine. The staff can see it. Nothing is blocked in the game.
+- Staff blacklist: the staff can now close access to Overdrive updates for a player who does not follow the convoy rules. The launcher says so clearly, in French and in English. The staff can also be warned when a player on that list shows up on the server. If you think it is a mistake, write to the staff on Discord.
+
+Fixes and adjustments
+- Winter, road colour: the snow between the tracks was greyer and slightly bluer than the snow in the fields. It now has the same colour. Shoulders, medians, crossings, yards, sidewalks and dirty edges follow the field snow too. There should be no colour jump any more when you change roads or regions.
+- Winter, track colour: wheel tracks did not all have the same colour (concrete, brick and a few old roads were paler). Every track now has the same colour, everywhere.
+- Winter, two black textures: a Nevada gravel and a Washington State sand came out almost black. Both are fixed.
+- Winter, tracks in crossings: turn tracks were flat grey. They now have the road's real texture, with its streaks. In the middle of big crossings a darker worn area replaces the regular white diamonds. Tracks should no longer cut each other or start from nowhere, and they continue at rest-area exits. At level crossings there are no more wheel tracks on the rails.
+- Winter, centre turn lane: where the approach road keeps its tracks, the track goes on into the left turn without stopping dead. Where the centre lane stays white, the track fades in.
+- Winter, gas stations: the lanes under the canopies now have tracks. The roof snow stays.
+- Winter, spray behind the wheels: the powder made big rolling snow chunks that stayed on the road for tens of metres. It is now a fine powder that follows the vehicle and dies out less than 2 m behind the wheel, for your truck and for traffic. Grip does not change.
+- Winter, dry grass: the tufts were almost invisible (a single small stem). They are now about 3.5 times fuller (base-game tufts), same number, same places.
+- Peterbilt 389, interior: the light-grey outline of the passenger door (and, less visible, the driver door) takes the dash colour. In the garage our interior part should no longer show above the cab (the small line on the roof). The gauge rings are chrome and truly round, and the outline of the 20 buttons and the 4 air vents is chrome.
+- Peterbilt 389, step cover: it now stops at the 4th lamp, 16 cm shorter at the front.
+- Door racks, LED reverse lamps (389 and W900): they still could not be fitted. There are now 2 mounting points on the rack itself, one left and one right: you pick the lamp directly on each point. The 5 lamps stay the same. On the W900 72 in sleeper the lamp sits about 25 cm lower than on the other sleepers (same chassis as the 72 in flat top).
+- High beams: back to the game's values on the 27 truck headlights (and the wrecker and the dump truck). Halogens are half as bright and reach 180 m (was 220 m); LEDs about 40 % less bright. Low beams do not change. Less glare for the truck ahead.
+- Winter × UGM (optional): rebuilt with this Winter module. If you do not have UGM, untick « Hiver × UGM » in the game's mod list, otherwise the sky is pink.
+- Launcher 0.9.25: it carries the new convoy high-beam warning. If your access to Overdrive updates is closed, the message now says so in French and in English. It offers its update the next time it starts: accept it.
+
+What does not change
+- Pay, prices, engines, gearboxes, the train horn, cameras, suspension, brakes, grip (summer and winter), GPS, traffic lights, trains and road traffic: the same as in 3.0.74.
+- The winter module stays required on the server. Whole, it is about 7.8 GB and needs about 3.4 GB more video memory than the game images it replaces.
+
+Drive safe!
+
+Mise à jour : ferme le jeu ET le lanceur, rouvre le lanceur (il installe la mise à jour), puis relance le jeu avant de te reconnecter au serveur.
+Update: close the game AND the launcher, reopen the launcher (it installs the update), then start the game again before you reconnect to the server.
