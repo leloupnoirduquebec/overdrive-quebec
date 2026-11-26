@@ -1,0 +1,72 @@
+OVERDRIVE QUÉBEC 3.0.76 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent sont téléchargés : environ 419 Mo si tu as la 3.0.75 (Camions environ 3 Mo en mise à jour partielle ; Hiver environ 415 Mo en mise à jour partielle ; Base et Hiver × UGM moins de 1 Mo chacun), environ 2 961 Mo si tu as encore la 3.0.74. Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant : tes pièces déjà posées restent les mêmes.
+
+En bref : en hiver, les toits des bâtiments devraient presque tous être enneigés, même de loin. Les traces de roues devraient continuer dans les entrées d'entreprises, dans les cours et sous les auvents des stations-service, plus pâles, sans s'arrêter net. Aux postes de péage, les îlots sont enneigés et les traces plus propres. Pour le Peterbilt 389 : des ailes arrière avec barre chrome, de nouvelles bavettes et 2 sets de feux arrière. Le tableau du 389 ne devrait plus se voir hors de la cabine au garage, et les feux de recul des racks se posent maintenant sur la Day Cab et la Low Roof. Rien de tout ça n'est encore vu en jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Peterbilt 389, ailes arrière « barre » : chaque style d'aile arrière a maintenant sa version avec barre chrome (12 nouvelles ailes, inox ou peintes). Un vrai tube inox poli de 2 po passe sous l'avant de l'aile, avec un bouchon noir et 5 boulons sur le dessus. Le tube se voit surtout par-dessous. Prix : celui de l'aile + 511 $.
+- Peterbilt 389, bavettes arrière « OD Anti-vent noir » et « OD Anti-vent blanc » (160 $) : les bavettes du jeu avec une plaque anti-vent en inox de 14 x 18 po, sans logo.
+- Peterbilt 389, bavettes avant : « OD Bavette poids U » (180 $, un poids en U inox sur chaque bavette), « Bavette large 18 po » (90 $, 18 x 12 po) et « OD Large poids U » (180 $, les deux ensemble).
+- Peterbilt 389, feux arrière sur supports de 30 po : « OD Supports DEL duo » (490 $, 3 feux doubles de chaque côté : rouge pour position, frein et clignotant, blanc pour le recul) et « OD Supports melon » (460 $, 3 feux ronds rouges de chaque côté dans un cerclage chromé). Chaque set existe en inox et en peint (« OD Duo DEL peint », « OD Melon peint »). Sous ces supports, les bavettes sont noires unies, sans le logo du jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, toits des bâtiments : beaucoup de toits du jeu de base restaient d'été (plus de 56 000 bâtiments sur la carte). La neige 3D des toits (sans collision) passe de 201 à 932 sortes de bâtiments. Les toits enneigés devraient passer d'environ 78 % à environ 97 % de la carte : maisons, maisons de ville, commerces et entreprises. Il reste surtout des bâtiments uniques et ceux des DLC payants, qui gardent seulement la neige peinte.
+- Hiver, toits de loin : sur 60 sortes de maisons (dont la plus fréquente de la carte), la neige du toit disparaissait à 100 ou 200 m. Elle devrait maintenant rester de loin.
+- Hiver, entrées d'entreprises : les traces de l'entrée arrivaient environ 45 cm à côté de celles de la route. Elles devraient maintenant tomber dessus.
+- Hiver, cours d'entreprises et de stations-service : les traces de la route s'arrêtaient net au bord de la cour. 108 cours ont maintenant des traces plus pâles (environ le tiers du noir d'une trace de route) qui partent de chaque entrée et s'estompent sur 16 m au plus.
+- Hiver, stations-service : sous les auvents, il y avait des bouts de traces noires et courts. Les traces sont maintenant pâles, plus longues (4 m de chaque côté) et s'estompent.
+- Hiver, entrée vers un terrain ouvert : la trace s'estompe sur 4 m au lieu de s'arrêter net sur le blanc.
+- Hiver, petits carrefours : 19 carrefours (chemins piétons, routes de champ asphaltées, demi-tours, embranchements courts) avaient des traces décalées, jusqu'à 1,6 m. Elles devraient maintenant suivre les traces de la route branchée.
+- Hiver, postes de péage : les îlots des guérites ont maintenant de la neige. Les traces de roues devraient être plus propres : la plupart des tirets blancs sont partis, mais de fines fentes peuvent rester (correctif prévu plus tard).
+- Peterbilt 389, tableau de bord peint : au garage, le tableau (et le haut de l'intérieur) pouvait se voir hors de la cabine, décalé et en hauteur. Il ne devrait plus se dessiner qu'à l'intérieur. Dedans, rien ne change : même tableau, même place, mêmes couleurs.
+- Racks à portes du 389, feux de recul DEL : sur la Day Cab et la Low Roof, les feux n'étaient jamais offerts. Les 2 points d'attache (gauche et droite) devraient maintenant offrir leurs feux. Ultra Cab et W900 ne changent pas.
+- Hiver × UGM (facultatif) : refait avec cet Hiver. Si tu n'as pas UGM, décoche « Hiver × UGM » dans la liste des mods du jeu, sinon le ciel est rose.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les prix, les moteurs, les boîtes de vitesses, le klaxon de train, les caméras, la suspension, les freins, l'adhérence (été comme hiver), le GPS, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.75. Le lanceur reste le 0.9.25.
+- Le module Hiver reste obligatoire sur le serveur. Au complet, il pèse environ 8,0 Go et demande environ 3,4 Go de mémoire vidéo de plus que les images du jeu qu'il remplace.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only the modules that change are downloaded: about 419 MB if you have 3.0.75 (Camions about 3 MB as a partial update; Winter about 415 MB as a partial update; Base and Hiver × UGM under 1 MB each), about 2 961 MB if you still have 3.0.74. This version goes with American Truck Simulator 1.62. Your saves load as before: the parts you already fitted stay the same.
+
+In short: in winter, almost every building roof should be snowy, even from far away. Wheel tracks should go on into company entrances, yards and under gas-station canopies, paler, without stopping dead. At toll plazas, the booth islands are snowy and the tracks cleaner. For the Peterbilt 389: rear fenders with a chrome bar, new mud flaps and 2 rear light sets. The 389 dash should no longer show outside the cab in the garage, and the racks' reverse lamps can now be fitted on the Day Cab and the Low Roof. None of this is seen in game yet.
+
+New
+- Peterbilt 389, rear fenders « bar »: every rear fender style now has a version with a chrome bar (12 new fenders, stainless or painted). A real 2 in polished stainless tube runs under the front of the fender, with a black end cap and 5 bolts on top. The tube shows mostly from below. Price: the fender's + $511.
+- Peterbilt 389, rear mud flaps « OD Anti-vent noir » and « OD Anti-vent blanc » ($160): the game's flaps with a 14 x 18 in stainless anti-sail plate, no logo.
+- Peterbilt 389, front mud flaps: « OD Bavette poids U » ($180, a stainless U weight on each flap), « Bavette large 18 po » ($90, 18 x 12 in) and « OD Large poids U » ($180, both together).
+- Peterbilt 389, rear lights on 30 in hangers: « OD Supports DEL duo » ($490, 3 dual lamps a side: red for park, brake and turn, white for reverse) and « OD Supports melon » ($460, 3 round red lamps a side in a chrome ring). Each set comes in stainless and painted (« OD Duo DEL peint », « OD Melon peint »). Under these hangers the flaps are plain black, without the game's logo.
+
+Fixes and adjustments
+- Winter, building roofs: many base-game roofs stayed summer (over 56,000 buildings on the map). The 3D roof snow (no collision) goes from 201 to 932 kinds of buildings. Snowy roofs should go from about 78 % to about 97 % of the map: houses, town houses, shops and companies. What is left is mostly one-of-a-kind buildings and paid-DLC ones, which keep the painted snow only.
+- Winter, roofs from far away: on 60 kinds of houses (including the most common one on the map) the roof snow vanished at 100 to 200 m. It should now stay from far away.
+- Winter, company entrances: the entrance tracks landed about 45 cm beside the road's. They should now land on them.
+- Winter, company and gas-station yards: the road's tracks stopped dead at the yard edge. 108 yards now have paler tracks (about a third of a road track's darkness) that start at each entrance and fade out over 16 m at most.
+- Winter, gas stations: under the canopies there were short black track stubs. The tracks are now pale, longer (4 m on each side) and fade out.
+- Winter, entrance into an open lot: the track fades over 4 m instead of stopping dead on the white.
+- Winter, small crossings: 19 crossings (footpaths, paved field roads, U-turns, short junctions) had tracks off by up to 1.6 m. They should now follow the joined road's tracks.
+- Winter, toll plazas: the booth islands now have snow. The wheel tracks should be cleaner: most white dashes are gone, but thin slits may remain (a fix is planned later).
+- Peterbilt 389, painted dash: in the garage the dash (and the top of the interior) could show outside the cab, off place and up high. It should now be drawn inside only. Inside nothing changes: same dash, same place, same colours.
+- 389 door racks, LED reverse lamps: on the Day Cab and the Low Roof the lamps were never offered. The 2 mounting points (left and right) should now offer their lamps. Ultra Cab and W900 do not change.
+- Winter × UGM (optional): rebuilt with this Winter module. If you do not have UGM, untick « Hiver × UGM » in the game's mod list, otherwise the sky is pink.
+
+What does not change
+- Pay, prices, engines, gearboxes, the train horn, cameras, suspension, brakes, grip (summer and winter), GPS, traffic lights, trains and road traffic: the same as in 3.0.75. The launcher stays 0.9.25.
+- The winter module stays required on the server. Whole, it is about 8.0 GB and needs about 3.4 GB more video memory than the game images it replaces.
