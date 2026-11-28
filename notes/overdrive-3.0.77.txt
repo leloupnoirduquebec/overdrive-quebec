@@ -1,0 +1,80 @@
+OVERDRIVE QUÉBEC 3.0.77 — NOTES DE MISE À JOUR
+
+Pour l'installer, jeu fermé : dans le lanceur, clique sur « Mise à jour disponible ». Seuls les modules qui changent sont téléchargés : environ 378 Mo si tu as la 3.0.76 (Camions environ 102 Mo en mise à jour partielle ; Hiver environ 257 Mo en mise à jour partielle ; Remorques (modèles 3D) environ 18 Mo en mise à jour partielle ; Base, Hiver × UGM, Physique et Remorques moins de 1 Mo chacun), environ 739 Mo si tu as encore la 3.0.75. Cette version va avec American Truck Simulator 1.62. Tes sauvegardes se chargent comme avant : tes pièces déjà posées restent les mêmes.
+
+En bref : l'hiver devrait être plus glissant (15 % d'adhérence en moins sur tous les pneus de camions et de remorques) et les tempêtes un peu plus fréquentes. Les véhicules stationnés du décor ont maintenant de la neige sur le toit. Encore plus de toits enneigés, et plus aucun mur blanc. Aux péages et aux postes de pesée, les traces devraient être propres, sans tirets blancs. En convoi, nos néons et nos lumières de cabine s'éteignent au loin : le jeu ne devrait plus manquer de lumières. Pour le Peterbilt 389 : un vrai contour chromé autour des boutons du tableau et un pommeau plus réaliste. Au garage, les points pour choisir nos pièces sont maintenant sur la pièce. Rien de tout ça n'est encore vu en jeu.
+
+━━━━━━━━━━━━━━━━━━━━
+NOUVEAUTÉS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, véhicules stationnés : 89 sortes de véhicules garés du décor (autos, pickups, camions et remorques stationnés dans les cours, les relais routiers et chez les concessionnaires) ont une neige 3D de 15 cm, sans collision, sur le toit, le capot, le coffre et le pare-brise (plus mince sur la vitre, où la neige glisse). Les pneus restent sans neige. Les véhicules du trafic qui roulent ne changent pas.
+- Fardier Overdrive et char d'assaut (testeurs seulement, avec la clé de la remorqueuse) : un fardier à jeep 3 essieux et col-de-cygne hydraulique de 30 pi, 4 essieux (le premier autovireur), plancher de bois, ailes peintes et 6 feux ronds. Il prend les charges des fardiers du jeu. Avec lui, une nouvelle charge : un char d'assaut de 76,5 tonnes en camouflage, qui part des ports d'Oakland, de Los Angeles et de La Nouvelle-Orléans et de garages de construction. Seul ce fardier peut le porter. Ouvre l'œil.
+- Clé facultative (avec le lanceur 0.9.26) : si le rôle Discord qui te donne la clé de la remorqueuse est retiré, le lanceur remplace ta clé par une clé vide du même nom. Sans la clé : plus d'achat chez le vendeur, plus d'offre de remorquage, et un fardier déjà acheté ne prend plus de charge. Ce que tu possèdes reste dans ta sauvegarde. Ça part seulement quand les nouvelles conditions d'accès (version 4) sont en vigueur.
+
+━━━━━━━━━━━━━━━━━━━━
+CORRECTIFS ET AJUSTEMENTS
+━━━━━━━━━━━━━━━━━━━━
+- Hiver, adhérence : tous les pneus de camions perdent 15 % de plus l'hiver, sur toutes les routes. Camions : de 75 % à environ 64 % de l'adhérence du jeu. Remorques (les tiennes, celles des missions et du trafic) : de 54 % à environ 46 %. Les pneus à chaînes restent un peu meilleurs : de 82 % à environ 70 %. Les routes ne sont pas baissées une deuxième fois. L'été ne change pas.
+- Hiver, tempêtes : un peu plus souvent, environ 5 points de plus du temps de route en tempête. Beau temps (celui du serveur en convoi) : de 12 % à 17,5 % du temps ; mauvais temps : de 17 % à 22 %. La part vient de la petite neige. Le blizzard ne change pas.
+- Hiver, péages : les dernières fines lignes blanches dans les traces de roues devraient être parties.
+- Hiver, postes de pesée : les traces avaient les mêmes tirets blancs que les péages. Elles prennent maintenant la trace propre du péage (les routes ne changent pas). À la balance d'Ogden (Utah, I-15) et sur 4 autres modèles de balance, le cadre de béton à côté de la cabane restait gris foncé : il prend maintenant la neige de la voie.
+- Hiver, carrefours : dans 116 carrefours, trop de neige restait prise entre les traces. Elle est maintenant sous 5 %. Les 9 endroits mis de côté en 3.0.76 (8 carrefours d'entrée et le chantier du Kansas) ont maintenant leurs traces.
+- Hiver, bâtiments : aucun mur ne devrait prendre la neige du toit (plus de bande blanche sur les murs). Des toits qui avaient perdu leur neige peinte ont maintenant une neige 3D sans collision : un magasin de Los Angeles, un motel, l'hôtel et la banque de San Francisco, la bâche d'un silo à grain, un garage de stationnement, des lots d'autos usagées. Les toits pentus de 45 à 52° prennent une neige 3D plus mince selon la pente ; plus pentu, la neige glisse. La neige 3D couvre maintenant 941 sortes de bâtiments.
+- Hiver, toits vus de loin : à partir d'environ 80 m, le jeu dessine les bâtiments avec une autre image, et ces toits restaient d'été (le toit rouge du motel, par exemple). 413 images ont maintenant le toit enneigé, et 739 bâtiments vus de loin ont une neige peinte sur le toit seulement. Les murs restent comme dans le jeu. De loin, les toits enneigés devraient passer à plus de 99 %.
+- Lumières en convoi : nos néons sous les camions restaient allumés même très loin (jusqu'à 102 lumières par camion). En convoi de 8, le jeu dépassait sa limite de 480 lumières. Ils sont maintenant pleins jusqu'à 10 m et éteints à 20 m de la caméra. Ton camion de près ne change pas.
+- Lumières de cabine (barre DEL du plafond, sièges, tableau, ambiance) : pleines jusqu'à 2 m de la caméra, éteintes à 3 m. Du siège, elles restent pleines. En vue extérieure, la lueur des cabines ne se voit plus de loin.
+- Barre DEL du plafond (W900 et 389) : 10 % plus forte, et 2 lumières de plus éclairent maintenant le tableau de bord (environ 16 lux au milieu). Le pare-brise ne reçoit pas de reflet direct. Mêmes noms, mêmes prix.
+- Peterbilt 389, tableau de bord : le chrome autour des 20 boutons paraissait gris foncé et couvrait le bas des boutons. C'est maintenant un anneau chromé mince et arrondi, seulement autour de la base noire, comme les joncs des cadrans. Les boutons et leurs marques (I / O, START / STOP) restent noirs.
+- Peterbilt 389, pommeaux (10, 13 et 18 vitesses) : le vrai levier de gamme noir est à l'avant, et le bouton du splitter passe sur le côté, sous ton pouce.
+- Peterbilt 389, bavettes OD : le logo PETERBILT rouge est enlevé des 4 bavettes OD qui l'avaient encore.
+- Garage : les points pour choisir nos pièces restaient au centre, sous le camion. Ils sont maintenant sur la pièce : marches, coffres, bavettes, contours d'aile et panneaux du 389 ; le néon sur le côté du camion (19 camions, Cascadia compris) ; le couvre-châssis de la W900 derrière la cabine. Le tableau, les cadrans, le pommeau et la lumière d'ambiance montrent leur point dans la vue intérieure. Aucune pièce ne bouge.
+- Journal du jeu (game.log) : 3 petits fichiers du jeu de base sont corrigés (fumée des pneus, caméra du garage d'introduction, remorque de tracteur du trafic) et la poudrerie d'hiver perd un réglage périmé. Des lignes d'avertissement disparaissent, rien ne change à l'écran.
+- Hiver × UGM (facultatif) : refait avec cet Hiver (il prend aussi les tempêtes un peu plus fréquentes). Si tu n'as pas UGM, décoche « Hiver × UGM » dans la liste des mods du jeu, sinon le ciel est rose.
+
+━━━━━━━━━━━━━━━━━━━━
+REJOINS LE DISCORD DU BUNKER QC : discord.gg/CAjuf5gvy9
+━━━━━━━━━━━━━━━━━━━━
+- Convois, entraide, annonces et la communauté gaming québécoise (16 ans et plus) : https://discord.gg/CAjuf5gvy9
+- Le site d'Overdrive Québec : https://overdrivequebec.ca
+- Tu les vois aussi en jeu, sur les écrans de nouvelles des panneaux publicitaires.
+
+━━━━━━━━━━━━━━━━━━━━
+CE QUI NE CHANGE PAS
+━━━━━━━━━━━━━━━━━━━━
+- La paie, les prix, les moteurs, les boîtes de vitesses, le klaxon de train, les caméras, la suspension, les freins, l'adhérence d'été, le GPS, les feux de circulation, les trains et le trafic sur la route : les mêmes qu'en 3.0.76. Le lanceur passe au 0.9.26 (la clé facultative).
+- Le module Hiver reste obligatoire sur le serveur. Au complet, il pèse environ 8,2 Go et demande environ 3,4 Go de mémoire vidéo de plus que les images du jeu qu'il remplace.
+
+Bonne route!
+
+ENGLISH
+
+Install, game closed: in the launcher, click « Mise à jour disponible » (update available). Only the modules that change are downloaded: about 378 MB if you have 3.0.76 (Camions about 102 MB as a partial update; Winter about 257 MB as a partial update; Remorques (3D models) about 18 MB as a partial update; Base, Hiver × UGM, Physique and Remorques under 1 MB each), about 739 MB if you still have 3.0.75. This version goes with American Truck Simulator 1.62. Your saves load as before: the parts you already fitted stay the same.
+
+In short: winter should be more slippery (15 % less grip on every truck and trailer tyre) and storms a little more frequent. The parked vehicles of the scenery now have snow on their roofs. Even more snowy roofs, and no more white walls. At toll plazas and weigh stations the tracks should be clean, without white dashes. In convoy, our neons and cab lights fade out in the distance: the game should no longer run out of lights. For the Peterbilt 389: a real chrome ring around the dash switches and a more realistic shift knob. In the garage, the points to choose our parts are now on the part. None of this is seen in game yet.
+
+New
+- Winter, parked vehicles: 89 kinds of parked scenery vehicles (cars, pickups, trucks and trailers parked in yards, truck stops and at dealers) get 15 cm of 3D snow, no collision, on the roof, hood, trunk and windscreen (thinner on the glass, where snow slides). Tyres stay clear. Moving traffic vehicles do not change.
+- Overdrive lowboy and battle tank (testers only, with the wrecker key): a lowboy with a 3-axle jeep and a 30 ft hydraulic gooseneck, 4 axles (the first one self-steering), wood deck, painted fenders and 6 round lamps. It takes the game's lowboy loads. With it, a new load: a 76.5-tonne battle tank in camouflage, leaving from the ports of Oakland, Los Angeles and New Orleans and from construction garages. Only this lowboy can carry it. Keep an eye out.
+- Optional key (with launcher 0.9.26): if the Discord role that gives you the wrecker key is taken away, the launcher replaces your key with an empty key of the same name. Without the key: no purchase at the dealer, no towing offer, and a lowboy you already bought takes no load any more. What you own stays in your save. This starts only when the new access terms (version 4) are in force.
+
+Fixes and adjustments
+- Winter, grip: every truck tyre loses 15 % more grip in winter, on every road. Trucks: from 75 % to about 64 % of the game's grip. Trailers (yours, job and traffic trailers): from 54 % to about 46 %. Chained tyres stay a little better: from 82 % to about 70 %. Roads are not lowered a second time. Summer does not change.
+- Winter, storms: a little more often, about 5 more points of road time in a storm. Fair weather (the server's in convoy): from 12 % to 17.5 % of the time; bad weather: from 17 % to 22 %. The share comes from light snow. The blizzard does not change.
+- Winter, toll plazas: the last thin white lines in the wheel tracks should be gone.
+- Winter, weigh stations: the tracks had the same white dashes as the tolls. They now take the toll's clean track (roads do not change). At the Ogden scale (Utah, I-15) and on 4 other scale models, the concrete frame beside the booth stayed dark grey: it now takes the lane's snow.
+- Winter, junctions: in 116 junctions too much snow stayed between the tracks. It is now under 5 %. The 9 places set aside in 3.0.76 (8 entrance junctions and the Kansas construction yard) now have their tracks.
+- Winter, buildings: no wall should take the roof's snow (no more white band on walls). Roofs that had lost their painted snow now have 3D snow without collision: a Los Angeles shop, a motel, the San Francisco hotel and bank, a grain silo tarp, a parking garage, used-car lots. Roofs pitched 45 to 52° get a thinner 3D snow by slope; steeper, the snow slides off. The 3D snow now covers 941 kinds of buildings.
+- Winter, roofs seen from far away: from about 80 m the game draws buildings with another image, and those roofs stayed summer (the motel's red roof, for example). 413 images now have a snowy roof, and 739 buildings seen from far away get painted snow on the roof only. Walls stay as in the game. From far away, snowy roofs should go over 99 %.
+- Lights in convoy: our underglow neons stayed lit even very far away (up to 102 lights per truck). In an 8-truck convoy the game went over its 480-light limit. They are now full up to 10 m and off at 20 m from the camera. Your own truck up close does not change.
+- Cab lights (ceiling LED strip, seats, dash, ambient): full up to 2 m from the camera, off at 3 m. From the seat they stay full. In outside view, cab glows no longer show from far away.
+- Ceiling LED strip (W900 and 389): 10 % stronger, and 2 more lights now light the dash (about 16 lux in the middle). The windscreen gets no direct reflection. Same names, same prices.
+- Peterbilt 389, dash: the chrome around the 20 switches looked dark grey and covered the bottom of the switches. It is now a thin rounded chrome ring, only around the black base, like the gauge rims. The switches and their marks (I / O, START / STOP) stay black.
+- Peterbilt 389, shift knobs (10, 13 and 18 speeds): the real black range lever is at the front, and the splitter button moves to the side, under your thumb.
+- Peterbilt 389, OD mud flaps: the red PETERBILT logo is removed from the 4 OD flaps that still had it.
+- Garage: the points to choose our parts stayed in the middle, under the truck. They are now on the part: the 389's steps, boxes, mud flaps, fender trims and cab panels; the neon on the truck's side (19 trucks, Cascadias included); the W900 frame cover behind the cab. The dash, gauges, knob and ambient light show their point in the interior view. No part moves.
+- Game log (game.log): 3 small base-game files are fixed (tyre smoke, intro garage camera, AI tractor trailer) and the winter powder snow loses an obsolete setting. Warning lines go away; nothing changes on screen.
+- Winter × UGM (optional): rebuilt with this Winter module (it takes the slightly more frequent storms too). If you do not have UGM, untick « Hiver × UGM » in the game's mod list, otherwise the sky is pink.
+
+What does not change
+- Pay, prices, engines, gearboxes, the train horn, cameras, suspension, brakes, summer grip, GPS, traffic lights, trains and road traffic: the same as in 3.0.76. The launcher goes to 0.9.26 (the optional key).
+- The winter module stays required on the server. Whole, it is about 8.2 GB and needs about 3.4 GB more video memory than the game images it replaces.

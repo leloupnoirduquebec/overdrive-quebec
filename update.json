@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "0.9.25",
+  "version": "0.9.26",
   "minimumSupportedVersion": "0.9.23",
   "mandatory": false,
-  "notes": "Nouveau, en convoi : si tu joues trop avec tes feux de route, un avertissement rouge s'affiche dans la bande en jeu : « Croisement ! En convoi, garde tes feux de croisement ». Ça va dans ton carnet : 0 point, pas d'amende. Le staff peut le voir. Rien n'est bloqué dans le jeu.",
-  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.25.exe",
-  "sizeBytes": 86570708,
-  "sha256": "a10d7dd3f519db135007160703139e9ab154cd4a506bf6d1048e2d14dad809cf",
-  "published": "2026-11-26"
+  "notes": "Clé facultative (la remorqueuse et le fardier Overdrive) : si le rôle Discord qui te donne la clé est retiré, le lanceur remplace ta clé par une clé vide du même nom. Sans la clé : plus d'achat chez le vendeur, plus d'offre de remorquage, et le fardier déjà acheté ne prend plus aucune charge. Ce que tu possèdes reste dans ta sauvegarde.",
+  "url": "https://lameuteqc.com/overdrive/Overdrive-0.9.26.exe",
+  "sizeBytes": 86574885,
+  "sha256": "44c1a6c68776be836b626b93ca007afa6e523869d9192833fb459b8920cd84d3",
+  "published": "2026-11-28"
 }
